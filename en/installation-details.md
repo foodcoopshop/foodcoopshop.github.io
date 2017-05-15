@@ -1,5 +1,5 @@
 ## Installation
-This is the installation for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.github.repository_url}}/blob/master/README.md).
+This is the installation for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/master/README.md).
 
 If you have questions please drop me an email: office@foodcoopshop.com (Mario)
 
@@ -56,25 +56,25 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 
 ## Database Setup
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
-* Copy [database.default.php]({{site.github.repository_url}}/blob/master/Config/database.default.php) to database.php and change the configuration to your database settings
+* Copy [database.default.php]({{site.repo_url}}/blob/master/Config/database.default.php) to database.php and change the configuration to your database settings
 * Use [Cake's database documentation](http://book.cakephp.org/2.0/en/development/configuration.html) for more information about the available options
-* At first, import the [initial database structure]({{site.github.repository_url}}/blob/master/Config/sql/_installation/clean-db-structure.sql), then import [initial database data]({{site.github.repository_url}}/blob/master/Config/sql/_installation/clean-db-data.sql) You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
+* At first, import the [initial database structure]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-structure.sql), then import [initial database data]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-data.sql) You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials
-* Copy [credentials.default.php]({{site.github.repository_url}}/blob/master/Config/credentials.default.php) to credentials.php and change the configuration
+* Copy [credentials.default.php]({{site.repo_url}}/blob/master/Config/credentials.default.php) to credentials.php and change the configuration
 * The valid Super Admin account will be created later
 * The eMail error logging can be enabled to ease server monitoring
 
 ## Email configuration
-* Copy [email.default.php]({{site.github.repository_url}}/blob/master/Config/email.default.php) to email.php and change the configuration to your email settings
+* Copy [email.default.php]({{site.repo_url}}/blob/master/Config/email.default.php) to email.php and change the configuration to your email settings
 * Use [Cake's email documentation](http://book.cakephp.org/2.0/en/core-utility-libraries/email.html) for more information
 * Once you created a Super Admin account (will be created later), You can test your email configuration by accessing http://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
 
 ## Configuring FoodCoopShop
-* Copy [custom.config.default.php]({{site.github.repository_url}}/blob/master/Config/custom.config.default.php) to custom.config.php and change the configuration
+* Copy [custom.config.default.php]({{site.repo_url}}/blob/master/Config/custom.config.default.php) to custom.config.php and change the configuration
 * Set `app.cakeServerName` to your servers data http://yourdomain.tld (e.g. http://www.yourfoodcoop.com)
 * Set the security keys as shown below
-* The default configuration is found in [app.config.php]({{site.github.repository_url}}/blob/master/Config/app.config.php).
+* The default configuration is found in [app.config.php]({{site.repo_url}}/blob/master/Config/app.config.php).
 * Some configuration is stored in the database and must be changed from the admin screen: http://yourdomain.tld/admin/configurations (Super Admin account required)
 * [Detailed configuration information in German](Software-Einstellungen)
 
