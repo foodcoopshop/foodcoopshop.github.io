@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'de-DE' }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>
+      {{ page.title | default: site.title }}
+      {% if page.title != site.title %}
+        | {{ site.title }}
+      {% endif %}
+    </title>
+    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#719f41">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    
+    <section class="page-header">
+      <div class="inner">
+        <img src="{{ site.baseurl }}/img/logo.png" class="logo" />
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        <a href="{{ site.baseurl }}/" class="btn">Home</a>
+        <a href="{{ site.baseurl }}/de/" class="btn">Deutsch</a>
+        <a href="{{ site.baseurl }}/en/" class="btn">English</a>
+      </div>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+      <footer class="site-footer">
+        <a href="https://www.foodcoopshop.com">FoodCoopShop.com</a> | This software documentation is hosted in a <a href="{{site.github.repository_url}}" target="_blank">GitHub project</a>. If you want to update or translate it, <a href="{{site.github.repository_url}}/blob/master/CONTRIBUTING.md" target="_blank">please provide a pull request</a>.
+      </footer>
+    </section>
+    
+  </body>
+</html>

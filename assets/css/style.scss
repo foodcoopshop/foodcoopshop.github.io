@@ -1,0 +1,70 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a:not(.btn), a:not(.btn):visited, a:not(.btn):active {
+  color: #009335;
+  text-decoration: none ! important;
+}
+a:not(.btn):hover {
+    color: #006400;
+    text-decoration: none;
+}
+
+.main-content {
+    color: #000;
+    font-size: 1.0rem;
+}
+.project-name {
+    margin-top: 0.5rem;
+}
+.project-tagline {
+    margin-bottom: 1.5rem;
+}
+.page-header {
+    padding: 5px;
+    background-image: none;
+    background-color: #719f41;
+    text-align: left;
+}
+.page-header img.logo {
+    float: right;
+    margin-top: 22px;
+}
+.page-header .inner {
+    width: 64rem;
+    margin: 0 auto;
+}
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4 {
+    color: #009335;
+}
+
+.site-footer {
+  font-size: .8rem;
+  padding-top: 1rem;
+  margin-top: 1rem;
+}
+
+@media screen and (max-width: 42em) {
+    .page-header .inner {
+        width: 100%;
+    }
+    .btn {
+        display: inline-block;
+        margin-right: 5px;
+        width: auto;
+    }
+    .page-header img.logo {
+        width: 70vw;
+        float: left;
+        margin-top: 0;
+    }
+    .project-tagline {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+}
