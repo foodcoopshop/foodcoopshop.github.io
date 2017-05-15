@@ -1,8 +1,8 @@
 ## So funktioniert das Guthaben-System
 
-![]({{ site.baseurl }}/img/guthaben-system-1.png)
+![]({{ site.baseurl }}/assets/img/guthaben-system-1.png)
 
-![]({{ site.baseurl }}/img/guthaben-system-2.png)
+![]({{ site.baseurl }}/assets/img/guthaben-system-2.png)
 
 Alle Bestellungen scheinen dann bei jedem Mitglied im Menüpunkt "Guthaben" auf, ebenso die eingezahlten Guthaben-Aufladungen und das Pfand. Ganz oben in der Liste steht der aktuelle Kontostand. Jeden Freitag wird automatisch eine Erinnerungs-Mail an jene Mitglieder versendet, deren Kontostand negativ ist. Mitglieder, die einen positiven Kontostand haben, werden nicht benachrichtigt.
 
