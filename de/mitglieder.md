@@ -22,4 +22,6 @@ Ihr als Foodcoop könnt in den Einstellungen selbst festlegen, ob neu registrier
 Falls ein Mitglied nicht mehr mitmachen möchte, kann man es momentan nur deaktivieren, aber nicht löschen. Das Mitglied kann sich dann nicht mehr einloggen.
 
 ## Automatische Bestell-Erinnerung
-Falls die automatische Bestell-Erinnerung systemweit aktiviert ist (fragt euren Software-Betreuer), wird an Mitglieder, die diese Funktion ebenfalls in ihrem Profil aktiviert haben, wöchtentlich eine Bestell-Erinnerungs-E-Mail verschickt. Um die Mailflut einzudämmen, wird diese Mail nicht verschickt, wenn in der aktuellen Woche bereits bestellt wurde.
+Falls die automatische Bestellerinnerung systemweit aktiviert ist (fragt euren Software-Betreuer), wird an Mitglieder, die diese Funktion ebenfalls in ihrem Profil aktiviert haben, wöchtentlich eine Bestellerinnerungs-E-Mail verschickt. Um die Mailflut einzudämmen, wird diese E-Mail nicht verschickt, wenn in der aktuellen Woche bereits bestellt wurde.
+
+Im Admin-Bereich unter "Mitglieder" sieht man in der Spalte "E-Mail", welche Mitglieder die Erinnerung abonniert haben. Unter "Aktivitäten" sieht man, an welche Mitglieder konkret diese Erinnerungen verschickt wurden (zur besseren Übersicht ggfs. Filter auf "Cronjob: E-Mail Bestellerinnerung" setzen und Datum beachten).
