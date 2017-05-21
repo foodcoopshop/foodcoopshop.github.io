@@ -17,3 +17,17 @@ Configure::write('app.sendOrderListsWeekday', 2);
 
 Bei den Einstellungen (Link siehe oben) ist die Größe und der Pfad der Bilder ersichtlich. Einfach austauschen und per FTP hochladen.
 
+> **Wie aktiviere ich die automatische Bestell-Erinnerung**
+
+In der Datei custom.config.php muss folgende Einstellung auf true gesetzt sein:
+
+```
+Configure::write('app.emailOrderReminderEnabled', true);
+```
+
+Weiters muss folgender Cronjob aktiviert werden - implementiert für einen oder zwei Tage vor Configure::read('app.sendOrderListsWeekday').
+
+```
+bash Console/cake EmailOrderReminder
+```
+
