@@ -19,6 +19,12 @@ a:not(.btn):hover {
 .project-name {
     margin-top: 0.5rem;
 }
+.project-name a {
+    color: #fff ! important;
+}
+.project-name a:hover {
+  color: #006400 ! important;
+}
 .project-tagline {
     margin-bottom: 1.5rem;
 }
