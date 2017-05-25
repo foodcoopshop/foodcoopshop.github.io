@@ -1,6 +1,6 @@
-## Chronological list of foodcoops that work with FoodCoopShop.
+## Chronological list of foodcoops that work with FoodCoopShop
 
-Feel free to add your foodcoop.
+Feel free to add your foodcoop
 
 * 05/2017: [http://www.querfeldeinpoendorf.at](http://www.querfeldeinpoendorf.at), Pöndorf / Austria
 * 05/2017: [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at), Gmunden / Austria
