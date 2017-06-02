@@ -2,6 +2,7 @@
 
 Feel free to add your foodcoop
 
+* 06/2017: [https://vb.foodcoopshop.com](https://vb.foodcoopshop.com), Vöcklabruck / Austria
 * 05/2017: [http://www.querfeldeinpoendorf.at](http://www.querfeldeinpoendorf.at), Pöndorf / Austria
 * 05/2017: [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at), Gmunden / Austria
 * 01/2017: [https://www.speisvorchdorf.at](https://www.speisvorchdorf.at), Vorchdorf / Austria
