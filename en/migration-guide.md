@@ -1,7 +1,9 @@
 ## Please remember to always make a **database and file backup** before updating your FoodCoopShop installation!
 
+### FCS v1.3.x to FCS v1.4
+* FCS v1.4 will be released around 23.09.2017
+
 ### FCS v1.2.x to FCS v1.3
-* FCS v1.3 will be released around 21.06.2017
 * replace source code => see bottom of page
 * database migrations are executed automatically since v1.3 - many thanks to [k-pd](https://github.com/k-pd)
 
