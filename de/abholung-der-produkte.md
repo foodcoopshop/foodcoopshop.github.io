@@ -2,11 +2,11 @@
 
 ## Admin-Bereich
 
-In den Admin-Bereich gelangt man, in dem man sich einloggt und dann oben rechts auf "Admin-Bereich" klickt.
+In den Admin-Bereich kommt man, in dem man sich einloggt und dann oben rechts auf "Admin-Bereich" klickt.
 
 ## Hilfe
 
-Auf jeder Seite im FoodCoopShop kannst du auf das Fragezeichen oben in der Menüleiste klicken und bekommst so Hilfe.
+Auf jeder Seite im Admin-Bereich kannst du auf das Fragezeichen oben in der Menüleiste klicken und bekommst so Hilfe.
 
 ## Wie viele Kisterl brauche ich?
 
@@ -30,29 +30,25 @@ Manchmal kommt es vor, dass der Preis des bereits bestellten Artikels geändert 
 
 Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück liefern kann, kann man die bestellte Anzahl ändern. Dies geschieht über das Bearbeiten-Symbol neben der Anzahl unter Bestellungen / Bestellte Artikel. Das Mitglied und der Hersteller werden per E-Mail darüber informiert.
 
-## Warenübergabe an Mitglied
+## Bestellte Produkte des Mitglieds anzeigen
 
-Um die bestellten Artikel des Mitglieds zu sehen, klicke unter Bestellungen auf den Button "Bestellte Artikel" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Artikel aller Bestellungen des Mitglieds der aktuellen Woche angezeigt (sollte mehrmals bestellt worden sein). Beim gegenseitigen Kontrollieren der Produkte musst du dir die Artikel nicht merken, sondern kannst auf die jeweilige Zeile klicken, dann wird sie grün eingefärbt. Achtung: Wenn die Seite neu geladen wird, ist die Einfärbung wieder weg!
+Um die bestellten Artikel des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Artikel" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Artikel aller Bestellungen des Mitglieds der aktuellen Woche angezeigt (sollte mehrmals bestellt worden sein). Beim gegenseitigen Kontrollieren der Produkte musst du dir die Artikel nicht merken, sondern kannst auf die jeweilige Zeile klicken, dann wird sie grün eingefärbt. Achtung: Wenn die Seite neu geladen wird, ist die Einfärbung wieder weg!
 
 ## Bestellstatus auf "abgeschlossen" ändern
 
 Unter "Bestellungen" findest du rechts den Button "Bestellstatus ändern", mit dem du die Bestellung auf "abgeschlossen" setzen kannst (die Zeile ist dann grün und bleibt auch grün, wenn die Seite neu geladen wird). Um zu sehen, wer seine Waren noch nicht abgeholt hat, kannst du den Status-Filter (oben) auf "offen" setzen.
 
-Achtung: Falls ein Mitglied mehrmals bestellt hat, muss jede einzelne Bestellung auf "bar bezahlt" oder "überwiesen" gesetzt werden. Bei Klick auf "Bestellte Artikel anzeigen" werden allerdings immer alle Artikel aus allen Bestellungen angezeigt (d.h. es erscheint immer die gleiche Liste, egal auf welche Bestellung man klickt). Das ganze ist technisch leider nicht anders möglich aber auch nicht weiter schlimm, wenn man um diese kleine Eigenheit Bescheid weiß.
+**Achtung:** Falls ein Mitglied mehrmals bestellt hat, muss jede einzelne Bestellung auf "bar bezahlt" oder "überwiesen" gesetzt werden. Bei Klick auf "Bestellte Artikel anzeigen" werden allerdings immer alle Artikel aus allen Bestellungen angezeigt (d.h. es erscheint immer die gleiche Liste, egal auf welche Bestellung man klickt). Das ganze ist technisch leider nicht anders möglich aber auch nicht weiter schlimm, wenn man um diese kleine Eigenheit Bescheid weiß.
 
 Auch auf der Seite "Bestellte Artikel" kann der Bestellstatus geändert werden. Der dazugehörige Button "Bestellstatus ändern" befindet sich unten und scheint nur auf, wenn kein Filter nach Hersteller oder Artikel gesetzt ist UND ein Filter nach Mitglied eingestellt ist. Nach Abschließen kommt man automatisch zurück zu den Bestellungen. Am Ende des Shopdienst dürfen keine offenen Bestellungen mehr vorhanden sein.
 
-## Pfand kassieren (Zahlung mit Bargeld)
+## Pfand-Rückgabe eintragen
 
-Die Summe des Pfandes siehst du in der Spalte neben dem Betrag. Dies ist getrennt, weil es meistens eine eigene Pfand-Kassa gibt. Pfand nicht zum Kassieren vergessen! Siehe auch Punkt "Pfand Rückgabe eintragen (bargeldlos)" weiter unten.
-
-## Pfand-Rückgabe eintragen (bargeldlose Zahlung)
-
-Bei bargeldloser Zahlung wird das Pfand automatisch vom Guthaben des Mitglieds abgezogen. Unter "Bestellungen" gibt es einen Button "Pfand-Rückgabe", mit dem der Betrag des Pfandes eingeben werden kann, den das jeweilige Mitglied zurückbringt. Der Betrag wird dann im Guthaben-System gutgeschrieben.
+Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezogen. Unter "Bestellungen" gibt es einen Button "Pfand-Rückgabe", mit dem der Betrag des Leergutes eingeben werden kann, das das jeweilige Mitglied zurückbringt. Der Betrag wird somit im Guthaben-System wieder gutgeschrieben.
 
 ## Sofort-Bestellung für Lagerware
 
-Unter "Bestellungen" (rechts oben) befindet sich der Button "Neue Sofort-Bestellung". Diese Funktion ist jeden Mittwoch, Donnerstag, Freitag und Samstag aktiviert. Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, die dann automatisch in die aktuelle Bestellwoche rückdatiert wird. Meistens ist dies der vergangene Dienstag.
+Unter "Bestellungen" (rechts oben) befindet sich der Button "Neue Sofort-Bestellung". Diese Funktion ist von Mittwoch bis Samstag aktiviert. Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, die dann automatisch in die aktuelle Bestellwoche rückdatiert wird. Meistens ist dies der vergangene Dienstag. Seit der Version 1.4 werden die Hersteller automatisch informiert, wenn eine Sofort-Bestellung getätigt wurde.
 
 ## Produkte bleiben am Ende des Abholtages über - was tun?
 
