@@ -1,7 +1,7 @@
 ## Installation
 This is the installation for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/master/README.md).
 
-If you have questions please drop me an email: office@foodcoopshop.com (Mario)
+If you have questions please drop Mario an email: office@foodcoopshop.com
 
 ### Requirements
 * Server connected to internet with root access / sudo and cronjobs
@@ -11,13 +11,12 @@ If you have questions please drop me an email: office@foodcoopshop.com (Mario)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
 
-That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop me an email: office@foodcoopshop.com (Mario).
+That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
 
-### Demo installation
-There is a [demo installation](https://demo.foodcoopshop.com/) already running for you (German only). Feel free to test before installation!
+There is a **[demo installation](https://demo.foodcoopshop.com/)** already running for you (German only). Feel free to test before installing.
 
 ### Download latest version to your server
-The latest stable version is available at https://www.foodcoopshop.com/download. **Do not clone from Git, you will get an unstable develop version!**
+The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!**
 
 Download and unpack the ZIP file. Upload the content of the versioned folder to your server (e.g. using FTP). The destination folder must be accessible to your Apache Server, but not the Document Root (e.g. /var/www/foodcoopshop).
 Set the file access rights so that the Apache user (e.g. www-data) owns all files and folders:
