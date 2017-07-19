@@ -1,9 +1,7 @@
 **Rechtliches**
 
-Foodcoops sind im Bereich der Direktvermartkung anzusiedeln. Die Software berücksichtigt die derzeitige Rechtslage in **Österreich** (Stand: 24.11.2016).
+Die mit der Software mitgelieferten Nutzungsbedingungen sind **Musterbedingungen**, die die Rechtslage in **Österreich** (Stand: 24.11.2016) berücksichtigen. Sie müssen vom Betrieber gegebenfalls selbst noch angepasst werden.
 
-Der FoodCoopShop berücksichtigt alle rechtlichen Vorgaben bezüglich Fernabsatzgesetz und E-Commerce-Gesetz. Da der Kaufvertrag zwischen Mitglied und Hersteller abgeschlossen wird, scheint auf jedem Hersteller-Profil auch das Impressum des Herstellers auf. Die rechtlich notwendige Information über das Rücktrittsrecht bzw. das Zur-Verfügung-Stellen des Rücktrittsformulars ist ebenfalls korrekt umgesetzt.
+Es ist auch notwendig, ein Impressum zu erstellen (Admin-Bereich / Seiten).
 
-Bitte vergesst nicht, die rechtlich notwendige Impressums-Seite anzulegen (Admin-Bereich / Seiten).
-
-**Die Verwendung für Foodcoops in Deutschland oder der Schweiz kann rechtlich anders aussehen. Die MIT-Lizenz schließt jegilche Haftung aus!**
+**Da sich die Rechtslage immer wieder ändert, erfolgt die Verwendung der Software auf eigene Gefahr! Die MIT-Lizenz schließt jegilche Haftung aus!**
