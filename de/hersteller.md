@@ -54,6 +54,6 @@ Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert wer
 
 **Ansprechperson**
 
-Seit der Version 1.4 kann jedem Hersteller eine Ansprechperson zugeordnet werden. Der Hersteller hatt dann Zugriff auf Name, E-Mail-Adresse und Telefonnummer dieses Mitglieds.
+Seit der Version 1.4 kann jedem Hersteller eine Ansprechperson zugeordnet werden. Der Hersteller hat dann Zugriff auf Name, E-Mail-Adresse und Telefonnummer dieses Mitglieds.
 
-Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert werden.
+Diese Einstellung kann vom Hersteller selbst geändert werden.
