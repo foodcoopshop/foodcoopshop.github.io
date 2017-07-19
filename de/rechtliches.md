@@ -1,7 +1,7 @@
 **Rechtliches**
 
-Die mit der Software mitgelieferten Nutzungsbedingungen sind **Musterbedingungen**, die die Rechtslage in **Österreich** (Stand: 24.11.2016) berücksichtigen. Sie müssen vom Betrieber gegebenfalls selbst noch angepasst werden.
+Die in der Software enthaltenen Nutzungsbedingungen bzw. AGB sind **Musterbedingungen**, die an die Rechtslage in **Österreich** (Stand: 24.11.2016) angepasst sind. Rechtliche Rahmenbedingungen ändern sich allerdings schnell, gegebenfalls müssen sie also **vom Betreiber selbst** noch angepasst werden.
 
 Es ist auch notwendig, ein Impressum zu erstellen (Admin-Bereich / Seiten).
 
-**Da sich die Rechtslage immer wieder ändert, erfolgt die Verwendung der Software auf eigene Gefahr! Die MIT-Lizenz schließt jegilche Haftung aus!**
+**Die Verwendung der Software erfolgt auf eigene Gefahr! Die MIT-Lizenz schließt jegilche Haftung aus!**
