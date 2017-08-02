@@ -2,6 +2,10 @@
 
 ### FCS v1.3.x to FCS v1.4
 * FCS v1.4 will be released around 23.09.2017
+* The following settings moved from file-based configuration (app.config.php, custom.config.php) to the database:
+* app.useManufacturerCompensationPercentage => FCS\_USE\_VARIABLE\_MEMBER\_FEE
+* app.defaultCompensationPercentage => FCS\_DEFAULT\_VARIABLE\_MEMBER\_FEE\_PERCENTAGE
+* Please update the configurations manually
 
 ### FCS v1.2.x to FCS v1.3
 * replace source code => see bottom of page
