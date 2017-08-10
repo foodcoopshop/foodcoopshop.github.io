@@ -2,4 +2,4 @@
 
 * The authentification is implemented with Base Authentication, so both parties need a SSL certificate (HTTPS) to be able to share / change data.
 * Clone the [Network plugin repository](https://github.com/foodcoopshop/fcs-network) into the folder **Plugin/Network** of your FoodCoopShop installation (assure the the versions of FoodCoopShop and Network plugin fit together) or download a preconfigured version from [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
-* Fitting versions (FoodCoopShop 1.4 / FCS Network Plugin 1.0)
+* Fitting versions (FoodCoopShop v1.4 / FCS Network Plugin v1.0)
