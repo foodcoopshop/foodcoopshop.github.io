@@ -2,6 +2,7 @@
 
 Feel free to add your foodcoop
 
+* 08/2017: [https://www.bauernladenein.at](https://www.bauernladenein.at), Alberndorf / Austria
 * 06/2017: [https://vb.foodcoopshop.com](https://vb.foodcoopshop.com), Vöcklabruck / Austria
 * 05/2017: [http://www.querfeldeinpoendorf.at](http://www.querfeldeinpoendorf.at), Pöndorf / Austria
 * 05/2017: [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at), Gmunden / Austria
