@@ -9,3 +9,4 @@
 * [Guthaben-System]({{ site.baseurl }}/de/guthaben-system)
 * [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
 * [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen)
+* [Network-Plugin - Produktdaten-Synchronisation]({{ site.baseurl }}/de/network-plugin)
