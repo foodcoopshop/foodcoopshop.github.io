@@ -2,6 +2,8 @@
 
 Feel free to add your foodcoop
 
+* 14 - 09/2017: [http://www.riadarei.at](https://www.riadarei.at), Ried im Innkreis / Austria
+* 13 - 09/2017: [http://www.stadtkern.at](https://www.stadtkern.at), Steyregg / Austria
 * 12 - 08/2017: [https://www.bauernladenein.at](https://www.bauernladenein.at), Alberndorf / Austria
 * 11 - 06/2017: [https://vb.foodcoopshop.com](https://vb.foodcoopshop.com), Vöcklabruck / Austria
 * 10 - 05/2017: [http://www.querfeldeinpoendorf.at](http://www.querfeldeinpoendorf.at), Pöndorf / Austria
