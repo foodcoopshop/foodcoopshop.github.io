@@ -9,7 +9,7 @@ Feel free to add your foodcoop
 * 10 - 05/2017: [http://www.querfeldeinpoendorf.at](http://www.querfeldeinpoendorf.at), Pöndorf / Austria
 * 09 - 05/2017: [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at), Gmunden / Austria
 * 08 - 01/2017: [https://www.speisvorchdorf.at](https://www.speisvorchdorf.at), Vorchdorf / Austria
-* 07 - 04/2016: [https://www.dienahfairsorger.at](https://www.dienahfairsorger.at), Kirchdorf / Austria
+* 07 - 04/2016: [https://www.dienahfairsorger.at](https://www.dienahfairsorger.at), Kronstorf / Austria
 * 06 - 01/2016: [https://www.gueterwege.at](https://www.gueterwege.at), Kirchdorf / Austria
 * 05 - 07/2016: [https://www.atterguat.at](https://www.atterguat.at), Straß im Attergau / Austria
 * 04 - 10/2015: [https://www.regionalspeis.at](https://www.regionalspeis.at), Neukirchen a. d. Vöckla / Austria
