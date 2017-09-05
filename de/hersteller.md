@@ -36,15 +36,15 @@ Seit der Version 1.4 wird auch bei Sofort-Bestellungen eine E-Mail an den Herste
 
 Diesen Punkt sieht man nur, falls das Modul aktiviert ist. Herstellern wird der eingetragene Prozentsatz von der Rechnung abgezogen, das heißt, die Preise müssen dementsprechend höher im System eigegeben sein.
 
-**Welcher Betrag muss überwiesen werden?** In der nach Hersteller gruppierten Liste der bestellten Artikel wird neben dem eigentlichen Rechnungsbetrag eine zusätzliche Spalte mit dem (eventuell) verminderten Betrag angezeigt. Zur besseren Übersicht ist dieser rot, falls der Betrag unterschiedlich ist (also ein Prozentsatz definiert ist).
+**Welcher Betrag muss überwiesen werden?** In der nach Hersteller gruppierten Liste der bestellten Produkte wird neben dem eigentlichen Rechnungsbetrag eine zusätzliche Spalte mit dem (eventuell) verminderten Betrag angezeigt. Zur besseren Übersicht ist dieser rot, falls der Betrag unterschiedlich ist (also ein Prozentsatz definiert ist).
 
 **Wichtig:** Der in der Liste angezeigte Betrag berechnet sich immer nach dem aktuell eingetragenen Prozentsatz. Wird dieser geändert und wird die Liste im Nachhinein aufgerufen, so ändern sich die Beträge! Nur in den Rechnungen (PDF) bleibt der tatsächliche Betrag gespeichert und im Nachhinein einsehbar.
 
 Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert werden.
 
-**Voreingestellter Steuersatz für neue Artikel**
+**Voreingestellter Steuersatz für neue Produkte**
 
-Falls z. B. ein Hersteller nicht umsatzsteuerpflichtig ist, kann sein voreingestellter Steuersatz auf 0% geändert werden. Alle neu angelegten Artikel haben dann automatisch 0% eingestellt. Das verringert das Fehlerpotenzial und Arbeit für den Hersteller. 
+Falls z. B. ein Hersteller nicht umsatzsteuerpflichtig ist, kann sein voreingestellter Steuersatz auf 0% geändert werden. Alle neu angelegten Produkte haben dann automatisch 0% eingestellt. Das verringert das Fehlerpotenzial und Arbeit für den Hersteller. 
 
 **Hersteller optimiert für Sammelbestellungen**
 

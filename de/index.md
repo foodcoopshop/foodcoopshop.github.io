@@ -2,7 +2,7 @@
 
 * [Rechtliches]({{ site.baseurl }}/de/rechtliches)
 * [Software-Einstellungen]({{ site.baseurl }}/de/software-einstellungen)
-* [Artikel-Verwaltung]({{ site.baseurl }}/de/artikel)
+* [Produkt-Verwaltung]({{ site.baseurl }}/de/produkte)
 * [Mitglieder-Verwaltung]({{ site.baseurl }}/de/mitglieder)
 * [Hersteller-Verwaltung]({{ site.baseurl }}/de/hersteller)
 * [Pfand-Verwaltung]({{ site.baseurl }}/de/pfand)
