@@ -1,3 +1,5 @@
+## Software-Einstellungen
+
 Der FoodCoopShop verfügt über zahlreiche Einstellungen, die in den Dateien [custom.config.php]({{site.repo_url}}/blob/master/Config/custom.config.default.php), [credentials.php]({{site.repo_url}}/blob/master/Config/credentials.default.php) bzw. teilweise in der Datenbank direkt verändert werden können.
 
 Alle aktiven Einstellungen sind unter der Url /admin/configurations ersichtlich (und teilweise auch dort änderbar). Das Mitglied muss Superadmin sein, um diese Seite aufzurufen.

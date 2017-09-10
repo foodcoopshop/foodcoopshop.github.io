@@ -1,4 +1,4 @@
-# Leitfaden für Sammelbestellungen
+## Leitfaden für Sammelbestellungen
 
 Die hier beschriebenen **Sammelbestellungen** sind Bestellungen, die **über mehrere Wochen gesammelt** werden. Somit erreicht man mehr Mitglieder und die Bestellmenge wird größer. Das ist sinnvoll für Produkte, die man gut lagern kann, deren Versand teuer ist und die man deswegen nur ein paar Mal im Jahr bestellt.
 

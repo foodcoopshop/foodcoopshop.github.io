@@ -1,6 +1,6 @@
-# Tipps & Tricks
+## Tipps & Tricks
 
-## Mitgliedsbeiträge als Produkt anlegen
+### Mitgliedsbeiträge als Produkt anlegen
 
 Eine einfache Möglichkeit zum Einheben der Mitgliedsbeiträge bietet folgendes Vorgehen (thx to Speis Vorchdorf!):
 
