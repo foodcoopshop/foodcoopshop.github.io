@@ -2,11 +2,11 @@
 
 * Hier geht's zur [Installations-Doku (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
 
-** Geplante Veröffentlichung von v1.0: Dezember 2017**
+Geplante Veröffentlichung der Version 1.0: **Dezember 2017**
 
-### Verwendete Ausdrücke in dieser Dokumentation
-**Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden.
-**Remote-Foodcoop**: Foodcoop, auf der die Daten der Local-Foodcoop übertragen werden. Es können auch mehrere sein.
+### Wichtige Ausdrücke
+* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden.
+* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Local-Foodcoop übertragen werden. Es können auch mehrere sein.
 
 **Anmerkung**: Es ist ratsam, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen.
 
