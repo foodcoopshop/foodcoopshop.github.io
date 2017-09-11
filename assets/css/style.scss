@@ -17,6 +17,10 @@ a:not(.btn):hover {
     font-size: 1.0rem;
     padding: 1rem;
 }
+.main-content ul,
+.main-content ol {
+    padding-left: 20px;
+}
 .project-name {
     margin-top: 0.5rem;
 }
