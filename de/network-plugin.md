@@ -9,10 +9,11 @@
 * Möglichkeit zur (einmaligen) Zuordnung von bereits bestehenden Produkten (und Varianten) von Remote-Foodcoop(s) zur Master-Foodcoop
 * Globale Einstellung (der Foodcoop): Mit welchen Foodcoops steht die Master-Foodcoop in Verbindung?
 * Hersteller-Einstellung: Auf welche Foodcoops möchte ich die Produktdaten übertragen?
-* Ein Ziel der Umsetzung war es, **ohne** Server auszukommen, auf dem alle Produktdaten zentral gespeichert werden. Stattdessen sollen  die Daten synchron gehalten werden, denn so ist 1) niemand für den (nicht vorhandenen) Server zuständig (Stichwort Ausfallsicherheit, Pflege usw.).
+* Ein Ziel der Umsetzung war es, **ohne** Server auszukommen, auf dem **alle Produktdaten zentral gespeichert** werden. Stattdessen sollen  die Daten synchron gehalten werden, denn so ist niemand für den (nicht vorhandenen) Server zuständig (Stichwort Ausfallsicherheit, Pflege usw.).
 * Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben deutlich weniger Aufwand bei der Pflege der Produktdaten.
+* Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die komplexen Netzwerk-Features überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
 
-## Technische Ausdrücke und Erklärungen
+## Technische Ausdrücke
 * **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen.
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
