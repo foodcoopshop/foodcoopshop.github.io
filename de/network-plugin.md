@@ -1,4 +1,5 @@
-# Network-Plugin (Produkte mit anderen Foodcoops synchronisieren)
+# Network-Plugin
+### Produkte mit anderen Foodcoops synchronisieren
 
 * Hier geht's zur [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
 * Geplante Veröffentlichung: **Dezember 2017**
@@ -23,11 +24,13 @@ Der Hersteller kann in den Hersteller-Einstelllungen die für ihn relevanten Foo
 * Trage dafür in den Login-Formularen oben die Zugangsdaten der anderen Foodcoops ein und klicke auf **Produkte laden**. (Solltest du dich bereits einmal erfolgreich angemeldet haben, wirst du automatisch eingeloggt.)
 * Die Produkte der anderen Foodcoops werden jetzt in den orange umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der grün umrahmten Tabelle ziehen, um die Produkte zuzuordnen.
 * Wenn die Produkte einer Remote-Foodcoop nicht anzeigen möchtest, lass E-Mail und Passwort einfach leer.
+![]({{ site.baseurl }}/assets/img/network-plugin-produkte-zuordnen.png)
 
 ## [Produktdaten synchronisieren](#produktdaten-synchronisieren)
 * Wenn die Produktdaten nicht mit einer Remote-Foodcoop synchronisieren möchtest, lass E-Mail und Passwort einfach leer.
 * Die Zahl in Klammer links neben dem Namen sagt aus, wie viele Produkte von Remote-Foodcoops diesem Produkt zugeordnet sind.
 * Durch Auswählen der Hakerl kannst du festlegen, welche Produktdaten und welche Produkte synchronisiert werden sollen.
+![]({{ site.baseurl }}/assets/img/network-plugin-produktdaten-synchronisieren.png)
 
 ## Ideen für spätere Versionen:
 * Anlegen von Produkten, die auf ders Remote-Foodcoop noch nicht existieren.
