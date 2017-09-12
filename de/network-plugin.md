@@ -1,7 +1,7 @@
 # Network-Plugin
 
 * [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
-* Network-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network]/(https://github.com/foodcoopshop/fcs-network)
+* Network-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network](https://github.com/foodcoopshop/fcs-network)
 * Geplante Veröffentlichung: **Dezember 2017**
 
 ## Funktionsumfang und Gedanken
