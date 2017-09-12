@@ -4,10 +4,6 @@
 
 In den Admin-Bereich kommt man, in dem man sich einloggt und dann oben rechts auf "Admin-Bereich" klickt.
 
-## Hilfe
-
-Auf jeder Seite im Admin-Bereich kannst du auf das Fragezeichen oben in der Menüleiste klicken und bekommst so Hilfe.
-
 ## Wie viele Kisterl brauche ich?
 
 Falls eure Foodcoop die Kisterl vorpackt: Bestellungen / Nach Mitglied gruppieren und dann nach Name sortieren (Klick auf “Mitglied” in Überschrift) Filtern => man sieht, welche Mitglieder bestellt haben und kann am Preis ungefähr abschätzen, welche Kistengröße benötigt wird.
