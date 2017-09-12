@@ -1,18 +1,20 @@
 # Network-Plugin
-### Produkte mit anderen Foodcoops synchronisieren
 
-* Hier geht's zur [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
+* [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
+* Network-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network]/(https://github.com/foodcoopshop/fcs-network)
 * Geplante Veröffentlichung: **Dezember 2017**
 
-### Funktionsumfang
-* Für Hersteller einfach zu bedienende Synchronisation der Produktdaten **Name, Preis, verfügbare Menge** und **Status** von einer Foodcoop auf beliebig viele andere.
+## Funktionsumfang und Gedanken
+* Einfach zu bedienende Synchronisation der Produktdaten **Name, Preis, verfügbare Menge** und **Status** von einer Foodcoop auf beliebig viele andere.
 * Möglichkeit zur (einmaligen) Zuordnung von bereits bestehenden Produkten (und Varianten) von Remote-Foodcoop(s) zur Master-Foodcoop
 * Globale Einstellung (der Foodcoop): Mit welchen Foodcoops steht die Master-Foodcoop in Verbindung?
 * Hersteller-Einstellung: Auf welche Foodcoops möchte ich die Produktdaten übertragen?
+* Ein Ziel der Umsetzung war es, **ohne** Server auszukommen, auf dem alle Produktdaten zentral gespeichert werden. Stattdessen sollen  die Daten synchron gehalten werden, denn so ist 1) niemand für den (nicht vorhandenen) Server zuständig (Stichwort Ausfallsicherheit, Pflege usw.).
+* Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben deutlich weniger Aufwand bei der Pflege der Produktdaten.
 
-### Technische Ausdrücke und Erklärungen
-* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Es ist ratsam, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen.
-* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Es können auch mehrere sein.
+## Technische Ausdrücke und Erklärungen
+* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen.
+* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
 ## [Remote-Foodcoops auswählen](#remote-foodocops-auswaehlen)
 Der Hersteller kann in den Hersteller-Einstelllungen die für ihn relevanten Foodcoops auswählen. Neue Foodcoops kann nur ein Superadmin eintragen.
@@ -32,7 +34,7 @@ Der Hersteller kann in den Hersteller-Einstelllungen die für ihn relevanten Foo
 
 ![]({{ site.baseurl }}/assets/img/network-plugin-produkte-zuordnen.png)
 
-## Ideen für spätere Versionen:
+## Ideen für spätere Versionen
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren.
 * Synchronisation der Produktdaten **Bild, "als neu anzeigen", Kategorien, Steuersatz** und **Pfand"**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse usw.)
