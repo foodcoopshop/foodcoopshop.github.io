@@ -9,5 +9,5 @@
 * [Guthaben-System]({{ site.baseurl }}/de/guthaben-system)
 * [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
 * [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen)
-* [Network-Plugin (Produkte mit anderen Foodcoops synchronisieren)]({{ site.baseurl }}/de/network-plugin)
+* [Netzwerk-Plugin (Produkte mit anderen Foodcoops synchronisieren)]({{ site.baseurl }}/de/network-plugin)
 * [Tipps und Tricks]({{ site.baseurl }}/de/tipps-und-tricks)
