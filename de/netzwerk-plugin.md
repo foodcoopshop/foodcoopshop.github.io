@@ -14,7 +14,7 @@
 * Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die komplexen Netzwerk-Features überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
 
 ## Technische Ausdrücke
-* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen.
+* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. Achtung: Wenn ein Hersteller einen variablen Mitgliedsbeitrag verwendet (z. B. 10% Abzug bei Rechnung), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Andersrum funktionierts.
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
 ## [Remote-Foodcoops auswählen](#remote-foodocops-auswaehlen)
@@ -40,4 +40,5 @@ Der Hersteller kann in den Hersteller-Einstelllungen die für ihn relevanten Foo
 * Synchronisation der Produktdaten **Bild, "als neu anzeigen", Kategorien, Steuersatz** und **Pfand"**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse usw.)
 * Verwendung des Plugins als Admin bzw. Superadmin (und nicht nur als Hersteller)
+* Hersteller mit variablem Mitgliedsbeitrag sollen diese Foodcoop auch als Master-Foodcoop verwenden können.
 * Mehr unter [https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
