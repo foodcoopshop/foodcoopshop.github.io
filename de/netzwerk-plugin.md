@@ -26,14 +26,14 @@ Der Hersteller kann in den Hersteller-Einstelllungen die für ihn relevanten Foo
 * Durch Auswählen der Hakerl kannst du festlegen, welche Produktdaten und welche Produkte synchronisiert werden sollen.
 * Wenn die Produktdaten nicht mit einer Remote-Foodcoop synchronisieren möchtest, lass E-Mail und Passwort einfach leer.
 
-![]({{ site.baseurl }}/assets/img/network-plugin-produktdaten-synchronisieren.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin-produktdaten-synchronisieren.png)
 
 ## [Produkte zuordnen](#produkte-zuordnen)
 * Trage dafür in den Login-Formularen oben die Zugangsdaten der anderen Foodcoops ein und klicke auf **Produkte laden**. (Solltest du dich bereits einmal erfolgreich angemeldet haben, wirst du automatisch eingeloggt.)
 * Die Produkte der anderen Foodcoops werden jetzt in den orange umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der grün umrahmten Tabelle ziehen, um die Produkte zuzuordnen.
 * Wenn die Produkte einer Remote-Foodcoop nicht anzeigen möchtest, lass E-Mail und Passwort einfach leer.
 
-![]({{ site.baseurl }}/assets/img/network-plugin-produkte-zuordnen.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin-produkte-zuordnen.png)
 
 ## Ideen für spätere Versionen
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren.
