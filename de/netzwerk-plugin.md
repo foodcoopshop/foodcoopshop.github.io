@@ -1,7 +1,7 @@
 # Netzwerk-Plugin
 
 * [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
-* Netzwerk-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network](https://github.com/foodcoopshop/fcs-network)
+* Netzwerk-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network-plugin](https://github.com/foodcoopshop/fcs-network-plugin)
 * Geplante Veröffentlichung: **Dezember 2017**
 
 ## Funktionsumfang und Gedanken
@@ -40,4 +40,4 @@ Der Hersteller kann in den Hersteller-Einstelllungen die für ihn relevanten Foo
 * Synchronisation der Produktdaten **Bild, "als neu anzeigen", Kategorien, Steuersatz** und **Pfand"**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse usw.)
 * Verwendung des Plugins als Admin bzw. Superadmin (und nicht nur als Hersteller)
-* Mehr unter [https://github.com/foodcoopshop/fcs-network/issues](https://github.com/foodcoopshop/fcs-network/issues)
+* Mehr unter [https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
