@@ -20,26 +20,26 @@
 ## 1) [Remote-Foodcoops auswählen](#remote-foodocops-auswaehlen)
 Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die für ihn relevanten Foodcoops auswählen. Neue Foodcoops kann nur ein Superadmin eintragen.
 
-![]({{ site.baseurl }}/assets/img/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
 
 ## 2) [Produktdaten synchronisieren](#produktdaten-synchronisieren)
 * Wenn deine Foodcoop das Plugin korrekt installiert hat, der Hersteller in den Einstellungen mindestens eine Remote-Foodcoop ausgewählt hat und die Foodcoop keine Aufschläge einbehält, befindet sich im Hersteller-Login unter "Meine Produkte" oben rechts ein neuer Button **Produkte synchronisieren**.
 
-![]({{ site.baseurl }}/assets/img/netzwerk-plugin-produkte-zuordnen.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-zuordnen.png)
 
 * Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf die Remote-Foodcoops übertragen kannst. Dafür müssen die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet sein (siehe Punkt **Produkte zuordnen**).
 * Die Zahl in Klammer links neben dem Namen sagt aus, wie viele Produkte von Remote-Foodcoops diesem Produkt zugeordnet sind.
 * Durch Auswählen der Hakerl kannst du festlegen, welche Produktdaten und welche Produkte synchronisiert werden sollen.
 * Trage dafür in den Login-Formularen oben die Zugangsdaten der Remote-Foodcoops ein und klicke auf **Produkte synchronisieren**. Solltest du dich bereits einmal erfolgreich angemeldet haben, wirst du automatisch eingeloggt.
 
-![]({{ site.baseurl }}/assets/img/netzwerk-plugin-produktdaten-synchronisieren.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produktdaten-synchronisieren.png)
 
 ## 3) [Produkte zuordnen](#produkte-zuordnen)
 * Trage in den Login-Forumlaren oben deine Zugangsdaten ein und klicke auf **Produkte laden**.
 * Die Produkte der Remote-Foodcoops werden jetzt in den orange umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der grün umrahmten Tabelle ziehen, um die Produkte zuzuordnen.
 * Varianten müssen extra zugeordnet werden.
 
-![]({{ site.baseurl }}/assets/img/netzwerk-plugin-produkte-zuordnen.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-zuordnen.png)
 
 ## Gedanken
 * Ein Ziel der Umsetzung war es, **ohne** Server auszukommen, auf dem **alle Produktdaten zentral gespeichert** werden. Stattdessen sollen  die Daten synchron gehalten werden, denn so ist niemand für den (nicht vorhandenen) Server zuständig (Stichwort Ausfallsicherheit, Pflege usw.).
