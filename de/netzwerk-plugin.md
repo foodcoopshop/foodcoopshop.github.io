@@ -2,8 +2,10 @@
 
 * [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
 * Netzwerk-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network-plugin](https://github.com/foodcoopshop/fcs-network-plugin)
-* Beta-Testing: **ab Ende September 2017**
 * Geplante Veröffentlichung: **Dezember 2017**
+
+## Infos für Betatester
+* Bugs und Anmerkungen bitte hier eintragen. Danke. [https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
 
 ## Funktionsumfang
 * Einfach zu bedienende Synchronisation der Produktdaten **Name, Preis, verfügbare Menge** und **Status** von einer Master-Foodcoop auf beliebig viele Remote-Foodcoops.
