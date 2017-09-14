@@ -25,7 +25,7 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die f�
 ## 2) [Produktdaten synchronisieren](#produktdaten-synchronisieren)
 * Wenn deine Foodcoop das Plugin korrekt installiert hat, der Hersteller in den Einstellungen mindestens eine Remote-Foodcoop ausgewählt hat und die Foodcoop keine Aufschläge einbehält, befindet sich im Hersteller-Login unter "Meine Produkte" oben rechts ein neuer Button **Produkte synchronisieren**.
 
-![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produke-synchronisieren-button.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-synchronisieren-button.png)
 
 * Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf die Remote-Foodcoops übertragen kannst. Dafür müssen die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet sein (siehe Punkt **Produkte zuordnen**).
 * Die Zahl in Klammer links neben dem Namen sagt aus, wie viele Produkte von Remote-Foodcoops diesem Produkt zugeordnet sind.
