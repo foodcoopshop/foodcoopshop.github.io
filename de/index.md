@@ -1,4 +1,4 @@
-## Deutsch
+## FoodCoopShop
 
 * [Rechtliches]({{ site.baseurl }}/de/rechtliches)
 * [Software-Einstellungen]({{ site.baseurl }}/de/software-einstellungen)
@@ -9,5 +9,8 @@
 * [Guthaben-System]({{ site.baseurl }}/de/guthaben-system)
 * [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
 * [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen)
-* [Netzwerk-Plugin (Produkte mit anderen Foodcoops synchronisieren)]({{ site.baseurl }}/de/netzwerk-plugin)
 * [Tipps und Tricks]({{ site.baseurl }}/de/tipps-und-tricks)
+
+## Netzwerk-Plugin
+* [Netzwerk-Plugin]({{ site.baseurl }}/de/netzwerk-plugin) (Produkte mit anderen Foodcoops synchronisieren)
+

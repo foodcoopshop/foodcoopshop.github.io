@@ -18,7 +18,9 @@
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
 ## [Remote-Foodcoops auswählen](#remote-foodocops-auswaehlen)
-Der Hersteller kann in den Hersteller-Einstelllungen die für ihn relevanten Foodcoops auswählen. Neue Foodcoops kann nur ein Superadmin eintragen.
+Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die für ihn relevanten Foodcoops auswählen. Neue Foodcoops kann nur ein Superadmin eintragen.
+
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
 
 ## [Produktdaten synchronisieren](#produktdaten-synchronisieren)
 * Wenn deine Foodcoop das Plugin korrekt installiert hat, befindet sich im Hersteller-Login unter "Meine Produkte" oben rechts ein neuer Button "Produkte synchronisieren". Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf andere Foodcoops übertragen kannst. Dafür müssen die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet sein (siehe Punkt **Produkte zuordnen**).
