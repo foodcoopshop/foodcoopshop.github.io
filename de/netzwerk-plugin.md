@@ -5,9 +5,10 @@
 * Geplante Veröffentlichung: **Dezember 2017**
 
 ## Infos für Betatester
-* Bugs und Anmerkungen bitte hier eintragen. Danke. [https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
+* Bugs und Anmerkungen bitte hier eintragen.
+[https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
 
-## Funktionsumfang
+## Funktionen
 * Einfach zu bedienende Synchronisation der Produktdaten **Name, Preis, verfügbare Menge** und **Status** von einer Master-Foodcoop auf beliebig viele Remote-Foodcoops.
 * Möglichkeit zur (einmaligen) Zuordnung von bereits bestehenden Produkten und Varianten von Remote-Foodcoop(s) zur Master-Foodcoop
 * Hersteller-Einstellung: Auf welche Foodcoops möchte ich die Produktdaten übertragen?
@@ -18,7 +19,7 @@
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
 ## 1) [Remote-Foodcoops auswählen](#remote-foodocops-auswaehlen)
-Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die für ihn relevanten Foodcoops auswählen. Neue Foodcoops kann nur ein Superadmin eintragen.
+Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die für ihn relevanten Foodcoops auswählen. (Während des Beta-Testings ist diese Funktion für Hersteller deaktiviert). Neue Foodcoops kann nur ein Superadmin eintragen.
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
 
@@ -46,7 +47,8 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die f�
 * Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben deutlich weniger Aufwand bei der Pflege der Produktdaten.
 * Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die komplexen Netzwerk-Features überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
 
-## Ideen für spätere Versionen
+## Ideen für zukünftige Versionen
+* Übersicht der zu synchronisierenden Produktdaten **bevor** die Änderungen auf die Remote-Foodcoops übertragen werden
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren.
 * Synchronisation der Produktdaten **Bild, "als neu anzeigen", Kategorien, Steuersatz** und **Pfand"**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse, Einstellungen usw.)
