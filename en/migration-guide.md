@@ -1,6 +1,7 @@
 ## Please remember to always make a **database and file backup** before updating your FoodCoopShop installation!
 
 ### FCS v1.3.x to FCS v1.4
+* replace source code => see bottom of page
 * The following settings moved from file-based configuration (app.config.php, custom.config.php) to the database:
 * app.useManufacturerCompensationPercentage => FCS\_USE\_VARIABLE\_MEMBER\_FEE
 * app.defaultCompensationPercentage => FCS\_DEFAULT\_VARIABLE\_MEMBER\_FEE\_PERCENTAGE
