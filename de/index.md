@@ -10,6 +10,7 @@
 * [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
 * [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen)
 * [Tipps und Tricks]({{ site.baseurl }}/de/tipps-und-tricks)
+* [WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor)
 
 ## Netzwerk-Plugin
 * [Netzwerk-Plugin]({{ site.baseurl }}/de/netzwerk-plugin) (Produkte mit anderen Foodcoops synchronisieren)
