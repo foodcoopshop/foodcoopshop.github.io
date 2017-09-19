@@ -5,21 +5,20 @@
 * Geplante Veröffentlichung: **Dezember 2017**
 
 ## Infos für Betatester
-* Bugs und Anmerkungen bitte hier eintragen.
-[https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
+* Bugs und Anmerkungen [bitte hier eintragen](https://github.com/foodcoopshop/fcs-network-plugin/issues).
 
 ## Funktionen
 * Einfach zu bedienende Synchronisation der Produktdaten **Name, Preis, verfügbare Menge** und **Status** von einer Master-Foodcoop auf beliebig viele Remote-Foodcoops.
 * Möglichkeit zur (einmaligen) Zuordnung von bereits bestehenden Produkten und Varianten von Remote-Foodcoop(s) zur Master-Foodcoop
 * Hersteller-Einstellung: Auf welche Foodcoops möchte ich die Produktdaten übertragen?
-* Globale Einstellung (der Foodcoop): Mit welchen Foodcoops steht die Master-Foodcoop in Verbindung? (ist noch nicht umgesetzt)
+* Globale Einstellung (der Foodcoop): Welche Foodcoops sollen die Hersteller auswählen können? (ist noch nicht umgesetzt)
 
 ## Technische Ausdrücke
-* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Die Preise, die auf diese Foodcoop synchronisiert werden, werden allerdings korrekt um x % erhöht, d. h. andersrum funktionierts.
-* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
+* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Die Preise, die auf diese Foodcoop synchronisiert werden, werden allerdings korrekt um x % erhöht, d. h. als Remote-Foodcoop können sie schon verwendet werden.
+* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Es können auch mehrere sein.
 
 ## 1) [Remote-Foodcoops auswählen](#remote-foodocops-auswaehlen)
-Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die für ihn relevanten Foodcoops auswählen. (Während des Beta-Testings ist diese Funktion für Hersteller deaktiviert). Neue Foodcoops kann nur ein Superadmin eintragen.
+Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die für ihn relevanten Foodcoops auswählen. (Während des Beta-Testings ist diese Funktion für Hersteller deaktiviert - die Zuordnungen für's Erste nur ein Superadmin machen.)
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
 
