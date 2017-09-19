@@ -25,3 +25,6 @@ Der WYSIWYG-Editor wird in verschiedenen Bereichen verwendet:
 ### Wie kann ich aus Links schöne Buttons machen?
 1. Im Editor den verlinkten Text markieren und auf "Link einfügen / editieren" klicken.
 2. Auf den Reiter "Erweitert" klicken und unter "Formatvorlagenklasse" **btn btn-success** (grüner Button) oder **btn btn-default** (weißer Button mit grauem Rand) eingeben.
+
+### Welcher Software wird vom FoodCoopShop benutzt?
+* [CKEditor](https://ckeditor.com/) mit [KCFinder](https://kcfinder.sunhater.com/) als Dateiupload-Plugin (nicht: **CK**Finder!)
