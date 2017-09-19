@@ -17,12 +17,12 @@
 * **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Die Preise, die auf diese Foodcoop synchronisiert werden, werden allerdings korrekt um x % erhöht, d.h. als Remote-Foodcoop können sie schon verwendet werden.
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Es können auch mehrere sein.
 
-## 1) [Remote-Foodcoops auswählen](#remote-foodocops-auswaehlen)
+## 1) Remote-Foodcoops auswählen
 Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die für ihn relevanten Foodcoops auswählen. (Während des Beta-Testings ist diese Funktion für Hersteller deaktiviert - die Zuordnungen für's Erste nur ein Superadmin machen.)
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
 
-## 2) [Produktdaten synchronisieren](#produktdaten-synchronisieren)
+## 2) Produktdaten synchronisieren
 * Wenn deine Foodcoop das Plugin korrekt installiert hat, der Hersteller in den Einstellungen mindestens eine Remote-Foodcoop ausgewählt hat und die Foodcoop keine Aufschläge einbehält, befindet sich im Hersteller-Login unter "Meine Produkte" oben rechts ein neuer Button **Produkte synchronisieren**.
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-synchronisieren-button.png)
@@ -34,7 +34,7 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die f�
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produktdaten-synchronisieren.png)
 
-## 3) [Produkte zuordnen](#produkte-zuordnen)
+## 3) Produkte zuordnen
 * Trage in den Login-Forumlaren oben deine Zugangsdaten ein und klicke auf **Produkte laden**.
 * Die Produkte der Remote-Foodcoops werden jetzt in den orange umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der grün umrahmten Tabelle ziehen, um die Produkte zuzuordnen.
 * Varianten müssen extra zugeordnet werden.
