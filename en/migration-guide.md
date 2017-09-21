@@ -1,4 +1,6 @@
-## Please remember to always make a **database and file backup** before updating your FoodCoopShop installation!
+## Migration guide
+
+**Please remember to always make a **database and file backup** before updating your FoodCoopShop installation!**
 
 ### FCS v1.3.x to FCS v1.4
 * replace source code => see bottom of page
