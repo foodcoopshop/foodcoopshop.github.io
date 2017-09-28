@@ -16,3 +16,5 @@ Feel free to add your foodcoop
 * 03 - 10/2015: [https://www.kirchschlagerspeis.net](https://www.kirchschlagerspeis.net), Kirchschlag / Austria
 * 02 - 09/2014: [https://www.gutesvondahoam.at](https://www.gutesvondahoam.at), Rüstorf / Austria
 * 01 - 05/2014: [https://www.fairteiler-scharnstein.at](https://www.fairteiler-scharnstein.at), Scharnstein / Austria
+
+[Map of all these foodcoops](https://www.google.com/maps/d/viewer?mid=18Ds-ijgE6vZIG9BC_q52Spvj-ZQ)
