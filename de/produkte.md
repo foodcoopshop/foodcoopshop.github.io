@@ -4,6 +4,12 @@ Menüpunkt "Hersteller" im FoodCoopShop, dann auf "x Produkte"-Button klicken un
 
 Danach kann das neu angelegte Produkt bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien usw...)
 
+## Produkt umbenennen
+
+Beim Bearbeiten vom Produktnamen erscheint ein Hinweis: **Wichtig: Bitte keine Produkte in andere Produkte umbenennen, sondern dafür ein neues Produkt erstellen!**
+
+Den Hinweis kann man ingorieren, sofern das Produkt noch nie bestellt wurde. Wenn es bereits bestellt wurde, würde ein Umbenennen das System verwirren und ist deshalb zu vermeiden. Es führt dann z. B. dazu, dass beim Filtern nach Produkt unter "Bestellte Produkte" das alte Produkt nicht mehr aufscheint und unter dem neuen Namen auch Bestellungen des alten Produkts erscheinen (die ID des Produktes bleibt gleich).
+
 ## Varianten
 
 Wenn ein Produkt mehrere Ausprägungen hat (zb. Käse zu 100g und zu 200g, Apfelsaft in der 1L-Flasche und im 3L-Bag), kommen die Varianten zum Einsatz.
