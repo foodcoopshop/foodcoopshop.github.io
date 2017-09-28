@@ -8,7 +8,9 @@ Danach kann das neu angelegte Produkt bearbeitet werden (Steuersatz, Preis, Meng
 
 Beim Bearbeiten vom Produktnamen erscheint ein Hinweis: **Wichtig: Bitte keine Produkte in andere Produkte umbenennen, sondern dafür ein neues Produkt erstellen!**
 
-Den Hinweis kann man ingorieren, sofern das Produkt noch nie bestellt wurde. Wenn es bereits bestellt wurde, würde ein Umbenennen das System verwirren und ist deshalb zu vermeiden. Es führt dann z. B. dazu, dass beim Filtern nach Produkt unter "Bestellte Produkte" das alte Produkt nicht mehr aufscheint und unter dem neuen Namen auch Bestellungen des alten Produkts erscheinen (die ID des Produktes bleibt gleich).
+Den Hinweis kann man ingorieren, sofern das Produkt noch nie bestellt wurde oder nur kleine Änderungen (z. B. Rechtschreibfehler) gemacht werden.
+
+Wenn das Produkt bereits bestellt wurde, würde ein Umbenennen in ein anderes Produkt (z. B. Äpfel in Birnen) das System verwirren und ist deshalb zu vermeiden. Es führt dann z. B. dazu, dass beim Filtern nach Produkt unter "Bestellte Produkte" das alte Produkt nicht mehr aufscheint und unter dem neuen Namen auch Bestellungen des alten Produkts erscheinen (die ID des Produktes bleibt gleich).
 
 ## Varianten
 
