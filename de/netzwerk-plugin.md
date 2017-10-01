@@ -35,9 +35,10 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die f�
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produktdaten-synchronisieren.png)
 
 ## 3) Produkte zuordnen
-* Trage in den Login-Formularen oben deine Zugangsdaten ein und klicke auf **Produkte laden**.
+* Trage in den Login-Formularen oben deine Zugangsdaten für die entsprechenden Foodcoops ein und klicke auf **Produkte laden**.
 * Die Produkte der Remote-Foodcoops werden jetzt in den orange umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der grün umrahmten Tabelle ziehen, um die Produkte zuzuordnen.
-* Varianten müssen extra zugeordnet werden.
+* Das Plugin legt keine Produkte neu an, es können nur bereits bestehende Produkte verknüpft werden. Gegebenfalls musst du dich bei den anderen Foodcoops einloggen und fehlende Produkte neu anlegen und dann erneut auf "Produkte laden" klicken und dann zuordnen.
+* Varianten müssen immer extra zugeordnet werden.
 * Es ist nicht möglich, Varianten und Produkte miteinander zu verknüpfen. Z.B. wenn bei der Master-Foodcoop nur eine Variante "1 Liter" verwendet wird und und bei einer Remote-Foodcoop wird dazu das Feld "Einheit" (ohne Variante) verwendet. Die Daten-Struktur muss dafür angeglichen werden (z.B. Variante löschen).
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-zuordnen.png)
