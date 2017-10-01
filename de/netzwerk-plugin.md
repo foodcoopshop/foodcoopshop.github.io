@@ -50,7 +50,7 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die f�
 
 ## Ideen für zukünftige Versionen
 * Übersicht der zu synchronisierenden Produktdaten **bevor** die Änderungen auf die Remote-Foodcoops übertragen werden
-* Import von Produkten, die auf der Master-Foodcoop noch nicht existieren.
+* Import von Produkten, die auf der Master-Foodcoop noch nicht existieren (automatisches Anlegen von Produkten)
 * Möglichkeit, die Lagerstände von allen Foodcoops auf einmal einzusehen.
 * Synchronisation der Produktdaten **Bild, "als neu anzeigen", Kategorien, Steuersatz** und **Pfand"**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse, Einstellungen usw.)
