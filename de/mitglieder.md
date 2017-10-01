@@ -19,6 +19,9 @@ Ihr als Foodcoop könnt in den Einstellungen selbst festlegen, ob neu registrier
 * **Superadmin**: haben zusätzlich zu den Admin-Funktionen Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen), die Software-Einstellungen und können Pfand-Ausgleichszahlungen für Hersteller eintragen. Sie haben auf das Guthaben-System anderer Mitglieder Zugriff und können dort zusätzlich zu den "normalen" Funktionen auch Rückzahlungen eintragen.
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
+## Eigenes "Mitglied" für Abholdienste - Vorsicht!
+Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!** Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat. **Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
+
 ## Mitglied löschen
 Falls ein Mitglied nicht mehr mitmachen möchte, kann man es momentan nur deaktivieren, aber nicht löschen. Das Mitglied kann sich dann nicht mehr einloggen.
 
