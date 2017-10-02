@@ -1,8 +1,10 @@
 # Netzwerk-Plugin
+* Beta-Testing: **seit September 2017**
+* Geplante Veröffentlichung: **Ende Dezember 2017**
 
+## Technische Infos (für Programmierer)
 * [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
 * Netzwerk-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network-plugin](https://github.com/foodcoopshop/fcs-network-plugin)
-* Geplante Veröffentlichung: **Dezember 2017**
 
 ## Infos für Betatester
 * Bugs und Anmerkungen [bitte hier eintragen](https://github.com/foodcoopshop/fcs-network-plugin/issues).
