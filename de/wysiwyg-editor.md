@@ -18,6 +18,9 @@ Der WYSIWYG-Editor wird in verschiedenen Bereichen verwendet:
 2. Unten auf "Server durchsuchen" klicken.
 3. Rechte Maustaste auf die Daten und dann "Löschen" auswählen.
 
+### Wie kann ich Bilder hochladen?
+1. Der Ablauf ist der gleiche wie bei **Dateien hochladen**, jedoch in der Symbolleiste statt "Link einfügen" auf "Bild" klicken. Die Bilder werden automatisch auf maximal 717px verkleinert.
+
 ### Wie öffne ich einen Link in einem neuen Fenster?
 1. Im Editor den verlinkten Text markieren und auf "Link einfügen / editieren" klicken.
 2. Auf den Reiter "Zielseite" klicken und **Neues Fenster (_blank)** auswählen.
