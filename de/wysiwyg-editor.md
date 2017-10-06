@@ -28,5 +28,8 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 1. Im Editor den verlinkten Text markieren und auf "Link einfügen / editieren" klicken.
 2. Auf den Reiter "Erweitert" klicken und unter "Formatvorlagenklasse" **btn btn-success** (grüner Button) oder **btn btn-default** (weißer Button mit grauem Rand) eingeben.
 
+### Layout zerschossen? Formatierung entfernen
+Wenn ihr z. B. aus einem Word-Dokument oder einer anderen Webseite Text kopiert und in den Editor einfügt, stimmt die Formatierung oft nicht. Die Schrift ist z. B. eine andere oder der Text ist zerschossen. Einfach den gesamten Text markieren und auf die zweite Schaltfläche von links "Formatierung entfernen" klicken.
+
 ### Welcher Software wird vom FoodCoopShop benutzt?
 * [CKEditor](https://ckeditor.com/) mit [KCFinder](https://kcfinder.sunhater.com/) als Dateiupload-Plugin (nicht: **CK**Finder!)
