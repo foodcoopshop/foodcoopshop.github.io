@@ -3,8 +3,7 @@
 Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er wird beim FoodCoopShop in verschiedenen Bereichen verwendet:
 
 * Hersteller-Profil bearbeiten
-* Seiten bearbeiten
-* Blog-Artikel bearbeiten
+* Seiten, Blog-Artikel, Kategorien bearbeiten
 
 ### Wie kann ich ein Dateien (z. B. PDF) hochladen und verlinken?
 1. Den Text, der mit dem Download verlinkt werden soll, markieren.
