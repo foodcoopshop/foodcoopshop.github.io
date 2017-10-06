@@ -22,3 +22,16 @@ Folgende Hinweise helfen, Sammelbestellungen durchzuführen und damit sowohl die
 * Am Einfachsten funktionieren Sammelbestellungen, wenn ihr den FoodCoopShop mit dem Guthaben-System verwendet, es funktioniert aber auch mit der Option "Barzahlung". Bei Verwendung des Guthaben-Systems wird durch Änderung des Preises automatisch das Guthaben angepasst, ansonsten muss eben mit Bargeld gearbeitet werden.
 
 **Gutes Gelingen :-)**
+
+
+## Beispiel aus der Praxis
+
+* Wenn mit Anfang November zB eine Wein-Sammelbestellung begonnen wird, sind dann also die Weine, die in diesem Fall schon im Shop angelegt sind, in dieser Zeit aktiviert - also sicht- und bestellbar. Bei jedem einzelnen steht in der Produktbeschreibung, dass es sich um eine Sammelbestellung handelt und nicht beim nächsten Liefertermin geliefert wird. Nach Möglichkeit vorraussichtlichen tatsächlichen Abholtag dazuschreiben.
+* Vorraussetzung ist, dass der Hersteller (in den Herstellereinstellungen) für Sammelbestellungen optimiert ist, denn dadurch bekommt er nicht zwischendurch Bestelllisten und andere Benachrichtigungen, aber eben schon eine Rechnung, die unser System in seinem Namen an uns stellt. (man muss also keine weiteren Hakerl verändern)
+* Die Bestellungen werden bis 20. gesammelt. Dann werden die Produkte deaktiviert. Nun generiert man übers System die Bestellliste (filtern nach gewünschtem Zeitraum beim Hersteller) und sie wird vom Zuständigen als PDF per Mail ans Weingut gesendet. 
+Der Weinproduzent schickt mit der Lieferung dann auch evtl. Preisänderungen, die wir bis spätestens 10. Dezember in unserer Bestellliste (nicht im Shop) ausbessern müssen, damit das System dann eine korrekte Rechnung erstellen kann. Die Lieferkosten werden ebenso über eine Preisänderung eingegeben, sodass sich das automatisch bei den Guthaben der Kunden anpasst.
+* Am Saubersten wäre es, für die Lieferkosten ein eigenes Produkt zu erstellen und dieses für jedes Mitglied nachzubuchen und den Preis entsprechend ändern. Man kann aber auch einfach den Preis eines Produkts ändern.
+* Diese Einzelbeträge werden zuvor schon von den jeweiligen Guthaben abgebucht, der Gesamtbetrag wird dann vom Kassier ganz normal wie bei anderen Rechnungen auch an den Produzenten überwiesen. 
+(außer das Häkchen bei Rechnungsversand wird auch weggegeben, dann müsste das Weingut selber eine Rechnung "an die Mitglieder der Foodcoop laut Bestellliste" schicken - aber dann könnte man das ganze ja nicht mit dem Guthabensystem abwickeln)
+
+Vielen Dank für dieses anschauliche Beispiel an Veronika von der Foodcoop Vöcklabruck
