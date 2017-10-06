@@ -6,7 +6,7 @@ Der WYSIWYG-Editor wird in verschiedenen Bereichen verwendet:
 * Seiten bearbeiten
 * Blog-Artikel bearbeiten
 
-### Wie kann ich ein PDF hochladen und verlinken?
+### Wie kann ich ein Dateien (z. B. PDF) hochladen und verlinken?
 1. Den Text, der mit dem Download verlinkt werden soll, markieren.
 2. In der Symbolleiste unter "Link einfügen / editieren" dann auf den Reiter "Hochladen" klicken.
 3. Auf "Datei auswählen" klicken, die Datei auf dem eigenen Computer auswählen und auf "Zum Server senden" klicken.
