@@ -44,9 +44,9 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-zuordnen.png)
 
 ## Gedanken
-* Ein Ziel der Umsetzung war es, **ohne** Server auszukommen, auf dem **alle Produktdaten zentral gespeichert** werden. Stattdessen sollen  die Daten synchron gehalten werden, denn so ist niemand für den (nicht vorhandenen) Server zuständig (Stichwort Ausfallsicherheit, Pflege usw.).
-* Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben deutlich weniger Aufwand bei der Pflege der Produktdaten.
-* Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die komplexen Netzwerk-Features überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
+* Ein Ziel der Umsetzung war es, die Produktdaten **dezentral** zu verwalten, also ohne die Daten auf einem Server zentral zu speichern. Sie sollen zwischen den verschiedenen Foodcooops **synchron** gehalten werden, denn so spart man sich den Aufwand, diesen zentralen Server zu warten. Die großartige **Blockchain** funktioniert übrigens auch dezentral.
+* Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben mit dem Netzwerk-Plugin deutlich weniger Aufwand bei der Pflege der Produktdaten. Der zusätzliche Aufwand, der beim Beliefern neuer Foodcoops besteht, hält sich also immer mehr in Grenzen.
+* Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die Netzwerk-Features (und damit die Öffnung des Systems nach außen) überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
 
 ## Ideen für zukünftige Versionen
 * Übersicht der zu synchronisierenden Produktdaten **bevor** die Änderungen auf die Remote-Foodcoops übertragen werden
