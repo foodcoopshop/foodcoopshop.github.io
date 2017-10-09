@@ -57,6 +57,12 @@ a:not(.btn):hover {
     color: #009335;
 }
 
+.main-content img {
+    padding: 1px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
 .site-footer {
   font-size: .8rem;
   padding-top: 1rem;
