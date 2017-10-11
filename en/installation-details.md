@@ -57,7 +57,9 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
 * Copy [database.default.php]({{site.repo_url}}/blob/master/Config/database.default.php) to database.php and change the configuration to your database settings
 * Use [Cake's database documentation](http://book.cakephp.org/2.0/en/development/configuration.html) for more information about the available options
-* At first, import the [initial database structure]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-structure.sql), then import [initial database data]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-data.sql) You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
+* At first, **import the [initial database structure]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-structure.sql)**
+* Then **import [initial database data]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-data.sql)**
+* You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials
 * Copy [credentials.default.php]({{site.repo_url}}/blob/master/Config/credentials.default.php) to credentials.php and change the configuration
