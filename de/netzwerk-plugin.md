@@ -18,7 +18,7 @@ In den Einstellungen können Superadmins Remote-Foodcoops erstellen und bearbeit
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-superadmin-remote-foodcoops-erstellen.png)
 
 ## 2) Remote-Foodcoops für Hersteller auswählen
-Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Foodcoops auswählen, mit denen er seine Produktdaten synchronisieren möchte. (Während des Beta-Testings ist diese Funktion für Hersteller deaktiviert - die Zuordnungen kann vorerst nur ein Superadmin machen.)
+Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Foodcoops auswählen, mit denen er seine Produktdaten synchronisieren möchte.
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
 
