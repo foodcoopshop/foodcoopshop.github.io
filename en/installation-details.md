@@ -77,7 +77,7 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 * Set the security keys as shown below
 * The default configuration is found in [app.config.php]({{site.repo_url}}/blob/master/Config/app.config.php).
 * Some configuration is stored in the database and must be changed from the admin screen: http://yourdomain.tld/admin/configurations (Super Admin account required)
-* [Detailed configuration information in German](Software-Einstellungen)
+* [Detailed configuration information in German]({{ site.baseurl }}/de/software-einstellungen)
 
 ## Setup security keys
 Open your domain (e.g. www.yourfoodcoop.com) in a browser and follow the steps shown to create secure values for the security keys app.cookieKey, Security.salt and Security.cipherSeed. Set them in custom.config.php
