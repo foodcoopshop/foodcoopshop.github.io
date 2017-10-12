@@ -6,8 +6,8 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 ### Requirements
 * Server connected to internet with root access / sudo and cronjobs
 * Apache with `mod_rewrite`
-* PHP 5.5 or higher (PHP 7 recommended)
-* MySQL 5.4 or higher
+* PHP 7.1
+* MySQL 5.6 (support for MySQL 5.7 planned for v1.5)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
 
