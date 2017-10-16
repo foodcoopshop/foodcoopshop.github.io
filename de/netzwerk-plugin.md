@@ -52,8 +52,9 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 * Übersicht der zu synchronisierenden Produktdaten **bevor** die Änderungen auf die Remote-Foodcoops übertragen werden
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren (automatisches Anlegen von Produkten)
 * Möglichkeit, die Lagerstände von allen Foodcoops auf einmal einzusehen.
-* Synchronisation der Produktdaten **Bild, "als neu anzeigen", Kategorien, Steuersatz** und **Pfand"**
+* Synchronisation der Produktdaten **Bild, Kategorien und Steuersatz**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse, Einstellungen usw.)
+* Synchronisation von Änderungen bei bestellten Produkten (Stornierungen, Preis ändern, bestellte Anzahl ändern)
 * Verwendung des gesamten Plugins als Admin bzw. Superadmin (und nicht nur als Hersteller)
 * Hersteller mit variablem Mitgliedsbeitrag sollen diese Foodcoop auch als Master-Foodcoop verwenden können.
 * Mehr unter [https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
