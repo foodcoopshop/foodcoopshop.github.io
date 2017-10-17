@@ -5,8 +5,8 @@
 * Bugs und Anmerkungen [bitte hier eintragen](https://github.com/foodcoopshop/fcs-network-plugin/issues).
 
 ## Funktionen
-* Das Netzwerk-Plugin bietet eine Erleichterung für Hersteller, die ** ihre Produktdaten regelmäßig ändern**.
-* So ist es möglich, die Produktdaten **Name, Preis, verfügbare Menge** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
+* Das Netzwerk-Plugin bietet eine Erleichterung für Hersteller, die **ihre Produktdaten regelmäßig ändern**.
+* So ist es möglich, die Produktdaten **Name, verfügbare Menge, Preis, Pfand ** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
 * Dafür notwendig: (einmalige) Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
 
 ## Technische Ausdrücke
@@ -50,10 +50,8 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 * Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die Netzwerk-Features (und damit die Öffnung des Systems nach außen) überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
 
 ## Ideen für zukünftige Versionen
-* Übersicht der zu synchronisierenden Produktdaten **bevor** die Änderungen auf die Remote-Foodcoops übertragen werden
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren (automatisches Anlegen von Produkten)
-* Möglichkeit, die Lagerstände von allen Foodcoops auf einmal einzusehen.
-* Synchronisation der Produktdaten **Bild, Kategorien und Steuersatz**
+* Synchronisation der Produktdaten **Bild, Kategorien, "als neu anzeigen" und Steuersatz**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse, Einstellungen usw.)
 * Synchronisation von Änderungen bei bestellten Produkten (Stornierungen, Preis ändern, bestellte Anzahl ändern)
 * Verwendung des gesamten Plugins als Admin bzw. Superadmin (und nicht nur als Hersteller)
