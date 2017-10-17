@@ -44,7 +44,7 @@ Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen"
 
 Unter "Bestellungen" findest du rechts den Button "Bestellstatus ändern", mit dem du die Bestellung auf "abgeschlossen" setzen kannst (die Zeile ist dann grün und bleibt auch grün, wenn die Seite neu geladen wird). Um zu sehen, wer seine Waren noch nicht abgeholt hat, kannst du den Status-Filter (oben) auf "offen" setzen.
 
-**Achtung:** Falls ein Mitglied mehrmals bestellt hat, muss jede einzelne Bestellung auf "bar bezahlt" oder "überwiesen" gesetzt werden. Bei Klick auf "Bestellte Produkte" werden allerdings immer alle Produkte aus allen Bestellungen angezeigt (d.h. es erscheint immer die gleiche Liste, egal auf welche Bestellung man klickt). Das ganze ist technisch leider nicht anders möglich aber auch nicht weiter schlimm, wenn man um diese kleine Eigenheit Bescheid weiß.
+**Achtung:** Falls ein Mitglied mehrmals bestellt hat, muss jede einzelne Bestellung auf "abgeschlossen" gesetzt werden. Bei Klick auf "Bestellte Produkte" werden allerdings immer alle Produkte aus allen Bestellungen angezeigt (d.h. es erscheint immer die gleiche Liste, egal auf welche Bestellung man klickt). Das ganze ist technisch leider nicht anders möglich aber auch nicht weiter schlimm, wenn man um diese kleine Eigenheit Bescheid weiß.
 
 Auch auf der Seite "Bestellte Produkte" kann der Bestellstatus geändert werden. Der dazugehörige Button "Bestellstatus ändern" befindet sich unten und scheint nur auf, wenn kein Filter nach Hersteller oder Produkt gesetzt ist UND ein Filter nach Mitglied eingestellt ist. Nach Abschließen kommt man automatisch zurück zu den Bestellungen. Am Ende des Shopdienst dürfen keine offenen Bestellungen mehr vorhanden sein.
 
