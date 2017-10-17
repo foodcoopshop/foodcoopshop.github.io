@@ -51,7 +51,7 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 
 ## Ideen für zukünftige Versionen
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren (automatisches Anlegen von Produkten)
-* Synchronisation der Produktdaten **Bild, Kategorien, "als neu anzeigen" und Steuersatz**
+* Synchronisation der Produktdaten **Bild, Kategorien, "als neu anzeigen"** und **Steuersatz**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse, Einstellungen usw.)
 * Synchronisation von Änderungen bei bestellten Produkten (Stornierungen, Preis ändern, bestellte Anzahl ändern)
 * Verwendung des gesamten Plugins als Admin bzw. Superadmin (und nicht nur als Hersteller)
