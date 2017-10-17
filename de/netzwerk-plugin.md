@@ -6,7 +6,7 @@
 
 ## Funktionen
 * Das Netzwerk-Plugin bietet eine Erleichterung für Hersteller, die **ihre Produktdaten regelmäßig ändern**.
-* So ist es möglich, die Produktdaten **Name, verfügbare Menge, Preis, Pfand ** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
+* So ist es möglich, die Produktdaten **Name, verfügbare Menge, Preis, Pfand** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
 * Dafür notwendig: (einmalige) Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
 
 ## Technische Ausdrücke
