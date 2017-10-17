@@ -33,7 +33,7 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 * Durch Auswählen der Hakerl kannst du festlegen, welche Produktdaten (horizontale Hakerl) und welche Produkte (vertikale Hakerl) synchronisiert werden sollen. Produkte, die keine Unterschiede aufweisen, können nicht ausgewählt werden.
 * Klicke jetzt auf **Produkte synchronisieren**, um die Daten der Master-Foodcoop zu übertragen. Nach dem Synchronisieren wir die Vorschau automatisch aktualisiert.
 
-![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produktdaten-synchronisieren-button.png)
+![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produktdaten-synchronisieren-vorschau.png)
 
 ## 4) Produkte zuordnen
 * Trage in den Login-Formularen oben deine Zugangsdaten für die entsprechenden Foodcoops ein und klicke auf **Produkte laden**.
