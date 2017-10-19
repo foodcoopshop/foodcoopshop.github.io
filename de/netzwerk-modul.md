@@ -5,6 +5,7 @@
 * Das Netzwerk-Modul bietet eine Erleichterung für Hersteller, die **mehrere Foodcoops** beliefern u nd und ihre Produktdaten **umkompliziert abgleichen** wollen.
 * Es ist also möglich, die Produktdaten **Name, verfügbare Menge, Preis, Pfand** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
 * Dafür notwendig: (einmalige) Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
+* Hersteller, die ihre Produkte bereits bei einer Foodcoop eingepflegt haben und **eine neue Foodcoop beliefern**, können ihre Produkte mit dem Netzwerk-Modul viel schneller anlegen. Detail unter Punkt 5)
 
 ## Technische Ausdrücke
 * **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Die Preise, die auf diese Foodcoop synchronisiert werden, werden allerdings korrekt um x % erhöht, d.h. als Remote-Foodcoop können sie schon verwendet werden.
@@ -40,6 +41,14 @@ Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen
 * Es ist nicht möglich, Varianten und Produkte miteinander zu verknüpfen. Z.B. wenn bei der Master-Foodcoop nur eine Variante "1 Liter" verwendet wird und und bei einer Remote-Foodcoop wird dazu das Feld "Einheit" (ohne Variante) verwendet. Die Daten-Struktur muss dafür angeglichen werden (z.B. Variante löschen).
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-modul/produkte-zuordnen.png)
+
+## 5) Produkte für neue Foodcoop übertragen
+Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene Produkte zu übertragen, mit folgender Vorgehensweise kann man aber seine Produkte viel schneller anlegen:
+
+* Auf der Remote-Foodcoop so viele leere Produkte anlegen, wie man benötigt
+* Gegebenfalls auch die Varianten dazu anlegen (Achtung: Die Variante selbst muss die richtige sein, sie wird nicht synchronisiert)
+* Dann auf die Master-Foodcoop wechseln und die leeren Produkte zuordnen.
+* Produktdaten synchronisieren - der Hersteller muss danach auf Remote-Foodcoop nur noch Bild, Kategorien, "als neu anzeigen" und Steuersatz anpassen.
 
 ## Gedanken
 * Ein Ziel der Umsetzung war es, die Produktdaten **verteilt auf verschiedene Foodcoops** zu verwalten, also ohne die Daten auf einem einzigen Server zentral zu speichern. Sie sollen zwischen den verschiedenen Foodcooops **synchron** gehalten werden, denn so spart man sich den Aufwand, diesen zentralen Server zu warten. Die **Blockchain** funktioniert übrigens auch dezentral.
