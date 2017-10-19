@@ -1,17 +1,14 @@
 # Netzwerk-Plugin
-* Beta-Testing: **seit September 2017** /  Geplante Veröffentlichung: **Ende Dezember 2017**
+* Beta-Testing: **seit September 2017** /  Geplante Veröffentlichung: **Ende 2017**
 
-## Infos für Betatester
-* Bugs und Anmerkungen [bitte hier eintragen](https://github.com/foodcoopshop/fcs-network-plugin/issues).
-
-## Funktionen
-* Das Netzwerk-Plugin bietet eine Erleichterung für Hersteller, die **ihre Produktdaten regelmäßig ändern**.
-* So ist es möglich, die Produktdaten **Name, verfügbare Menge, Preis, Pfand** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
+## Für wen ist das Netzwerk-Plugin gedacht?
+* Das Netzwerk-Plugin bietet eine Erleichterung für Hersteller, die **mehrere Foodcoops** beliefern u nd und ihre Produktdaten **umkompliziert abgleichen** wollen.
+* Es ist also möglich, die Produktdaten **Name, verfügbare Menge, Preis, Pfand** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
 * Dafür notwendig: (einmalige) Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
 
 ## Technische Ausdrücke
 * **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Die Preise, die auf diese Foodcoop synchronisiert werden, werden allerdings korrekt um x % erhöht, d.h. als Remote-Foodcoop können sie schon verwendet werden.
-* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Es können auch mehrere sein.
+* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können natürlich auch mehrere sein.
 
 ## 1) Remote-Foodcoops erstellen
 In den Einstellungen können Superadmins Remote-Foodcoops erstellen und bearbeiten.
@@ -19,7 +16,7 @@ In den Einstellungen können Superadmins Remote-Foodcoops erstellen und bearbeit
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-superadmin-remote-foodcoops-erstellen.png)
 
 ## 2) Remote-Foodcoops für Hersteller auswählen
-Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Foodcoops auswählen, mit denen er seine Produktdaten synchronisieren möchte.
+Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen dann diese in Punkt 1) erstellten Remote-Foodcoops auswählen. Mit ihnen kann er dann seine Produktdaten synchronisieren.
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-hersteller-remote-foodcoops-auswaehlen.png)
 
@@ -28,16 +25,16 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-synchronisieren-button.png)
 
-* Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf die Remote-Foodcoops übertragen kannst. Dafür müssen allerdings die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet sein (siehe Punkt **Produkte zuordnen**).
-* Ein Klick auf Vorschau (nicht notwendig, falls du die Zugangsdaten bereits einmal eingegeben hast) zeigt dir, welche Unterschiede bei den Produktdaten deiner Foodcoops bestehen. Rot hinterlegte Felder weisen auf einen Unterschied hin. Durch Klick auf **nur veränderte Produkte anzeigen** kannst du auch jene Produkte anzeigen, die bereits auf allen Foodcoops abgeglichen sind. 
-* Durch Auswählen der Hakerl kannst du festlegen, welche Produktdaten (horizontale Hakerl) und welche Produkte (vertikale Hakerl) synchronisiert werden sollen. Produkte, die keine Unterschiede aufweisen, können nicht ausgewählt werden.
+* Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf die Remote-Foodcoops übertragen kannst. Dafür müssen allerdings zuvor die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet werden - siehe Punkt 4.
+* Ein Klick auf **Vorschau laden** (erfolgt automatisch, falls du die Zugangsdaten bereits einmal eingegeben hast) zeigt dir, welche Unterschiede bei den Produktdaten deiner Foodcoops bestehen. Rot hinterlegte Felder weisen auf einen Unterschied hin. Durch Klick auf **nur veränderte Produkte anzeigen** kannst du auch jene Produkte anzeigen, die bereits auf allen Foodcoops abgeglichen sind. 
+* Durch Auswählen der Häkchen kannst du festlegen, welche Produktdaten (horizontale Häkchen) und welche Produkte (vertikale Häkchen) synchronisiert werden sollen. Produkte, die keine Unterschiede aufweisen, können nicht ausgewählt werden. Das ist Absicht, weil es keinen Sinn macht.
 * Klicke jetzt auf **Produkte synchronisieren**, um die Daten der Master-Foodcoop zu übertragen. Nach dem Synchronisieren wir die Vorschau automatisch aktualisiert.
 
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produktdaten-synchronisieren-vorschau.png)
 
 ## 4) Produkte zuordnen
 * Trage in den Login-Formularen oben deine Zugangsdaten für die entsprechenden Foodcoops ein und klicke auf **Produkte laden**.
-* Die Produkte der Remote-Foodcoops werden jetzt in den orange umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der grün umrahmten Tabelle ziehen, um die Produkte zuzuordnen.
+* Die Produkte der Remote-Foodcoops werden jetzt in den **orange** umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der **grün** umrahmten Tabelle ganz links ziehen, um die Produkte zuzuordnen.
 * Das Plugin legt keine Produkte neu an, es können nur bereits bestehende Produkte verknüpft werden. Gegebenfalls musst du dich bei den anderen Foodcoops einloggen und fehlende Produkte neu anlegen, dann erneut auf "Produkte laden" klicken und dann zuordnen.
 * Varianten müssen immer einzeln zugeordnet werden.
 * Es ist nicht möglich, Varianten und Produkte miteinander zu verknüpfen. Z.B. wenn bei der Master-Foodcoop nur eine Variante "1 Liter" verwendet wird und und bei einer Remote-Foodcoop wird dazu das Feld "Einheit" (ohne Variante) verwendet. Die Daten-Struktur muss dafür angeglichen werden (z.B. Variante löschen).
@@ -45,8 +42,8 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 ![]({{ site.baseurl }}/assets/img/netzwerk-plugin/netzwerk-plugin-produkte-zuordnen.png)
 
 ## Gedanken
-* Ein Ziel der Umsetzung war es, die Produktdaten **dezentral** zu verwalten, also ohne die Daten auf einem Server zentral zu speichern. Sie sollen zwischen den verschiedenen Foodcooops **synchron** gehalten werden, denn so spart man sich den Aufwand, diesen zentralen Server zu warten. Die großartige **Blockchain** funktioniert übrigens auch dezentral.
-* Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben mit dem Netzwerk-Plugin deutlich weniger Aufwand bei der Pflege der Produktdaten. Der zusätzliche Aufwand, der beim Beliefern neuer Foodcoops besteht, hält sich also immer mehr in Grenzen.
+* Ein Ziel der Umsetzung war es, die Produktdaten **verteilt auf verschiedene Foodcoops** zu verwalten, also ohne die Daten auf einem einzigen Server zentral zu speichern. Sie sollen zwischen den verschiedenen Foodcooops **synchron** gehalten werden, denn so spart man sich den Aufwand, diesen zentralen Server zu warten. Die **Blockchain** funktioniert übrigens auch dezentral.
+* Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben mit dem Netzwerk-Plugin deutlich weniger Aufwand bei der Pflege der Produktdaten. Der zusätzliche Aufwand, der beim Beliefern neuer Foodcoops besteht, hält sich also in Grenzen.
 * Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die Netzwerk-Features (und damit die Öffnung des Systems nach außen) überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
 
 ## Ideen für zukünftige Versionen
@@ -61,3 +58,4 @@ Der Hersteller (oder ein Superadmin) kann in den Hersteller-Einstellungen die Fo
 ## Technische Infos (für Programmierer)
 * [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
 * Netzwerk-Plugin auf Github: [https://github.com/foodcoopshop/fcs-network-plugin](https://github.com/foodcoopshop/fcs-network-plugin)
+* Bugs und Anmerkungen [bitte hier eintragen](https://github.com/foodcoopshop/fcs-network-plugin/issues).
