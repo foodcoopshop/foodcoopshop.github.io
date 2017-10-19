@@ -12,6 +12,6 @@
 * [Tipps und Tricks]({{ site.baseurl }}/de/tipps-und-tricks)
 * [WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor)
 
-## Netzwerk-Plugin
-* [Netzwerk-Plugin]({{ site.baseurl }}/de/netzwerk-plugin) (Produkte mit anderen Foodcoops synchronisieren)
+## Netzwerk-Modul
+* [Netzwerk-Modul]({{ site.baseurl }}/de/netzwerk-modul) (Produkte mit anderen Foodcoops synchronisieren)
 
