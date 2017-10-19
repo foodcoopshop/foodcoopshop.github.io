@@ -35,7 +35,7 @@ Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen
 ## 4) Produkte zuordnen
 * Trage in den Login-Formularen oben deine Zugangsdaten für die entsprechenden Foodcoops ein und klicke auf **Produkte laden**.
 * Die Produkte der Remote-Foodcoops werden jetzt in den **orange** umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der **grün** umrahmten Tabelle ganz links ziehen, um die Produkte zuzuordnen.
-* Das Plugin legt keine Produkte neu an, es können nur bereits bestehende Produkte verknüpft werden. Gegebenfalls musst du dich bei den anderen Foodcoops einloggen und fehlende Produkte neu anlegen, dann erneut auf "Produkte laden" klicken und dann zuordnen.
+* Das Netzwerk-Modul legt keine Produkte neu an, es können nur bereits bestehende Produkte verknüpft werden - siehe auch 5). Gegebenfalls musst du dich bei den anderen Foodcoops einloggen und fehlende Produkte neu anlegen, dann erneut auf "Produkte laden" klicken und dann zuordnen.
 * Varianten müssen immer einzeln zugeordnet werden.
 * Es ist nicht möglich, Varianten und Produkte miteinander zu verknüpfen. Z.B. wenn bei der Master-Foodcoop nur eine Variante "1 Liter" verwendet wird und und bei einer Remote-Foodcoop wird dazu das Feld "Einheit" (ohne Variante) verwendet. Die Daten-Struktur muss dafür angeglichen werden (z.B. Variante löschen).
 
@@ -52,14 +52,14 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 ## Gedanken
 * Ein Ziel der Umsetzung war es, die Produktdaten **verteilt auf verschiedene Foodcoops** zu verwalten, also ohne die Daten auf einem einzigen Server zentral zu speichern. Sie sollen zwischen den verschiedenen Foodcooops **synchron** gehalten werden, denn so spart man sich den Aufwand, diesen zentralen Server zu warten. Die **Blockchain** funktioniert übrigens auch dezentral.
 * Hersteller, die **mehrere Foodcoops in ihrer Umgebung beliefern**, haben mit dem Netzwerk-Modul deutlich weniger Aufwand bei der Pflege der Produktdaten. Der zusätzliche Aufwand, der beim Beliefern neuer Foodcoops besteht, hält sich also in Grenzen.
-* Die **Programmierung als Plugin** überlässt es dem Betreiber, ob die Netzwerk-Features (und damit die Öffnung des Systems nach außen) überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
+* Die **Programmierung als Modul** überlässt es dem Betreiber, ob die Netzwerk-Features (und damit die Öffnung des Systems nach außen) überhaupt installiert werden sollen. Der FoodCoopShop selbst (als Stand-Alone-Software) wird dadurch nicht mit Funktionen aufgebläht, die vielleicht gar nie verwendet werden.
 
 ## Ideen für zukünftige Versionen
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren (automatisches Anlegen von Produkten)
 * Synchronisation der Produktdaten **Bild, Kategorien, "als neu anzeigen"** und **Steuersatz**
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse, Einstellungen usw.)
 * Synchronisation von Änderungen bei bestellten Produkten (Stornierungen, Preis ändern, bestellte Anzahl ändern)
-* Verwendung des gesamten Plugins als Admin bzw. Superadmin (und nicht nur als Hersteller)
+* Verwendung des gesamten Netzwerk-Moduls als Admin bzw. Superadmin (und nicht nur als Hersteller)
 * Hersteller mit variablem Mitgliedsbeitrag sollen diese Foodcoop auch als Master-Foodcoop verwenden können.
 * Mehr unter [https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
 
