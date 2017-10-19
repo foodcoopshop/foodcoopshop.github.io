@@ -1,5 +1,4 @@
 # Netzwerk-Modul
-* Beta-Testing: **seit September 2017** /  Geplante Veröffentlichung: **Ende 2017**
 
 ## Für wen ist das Netzwerk-Modul gedacht?
 * Das Netzwerk-Modul bietet eine Erleichterung für Hersteller, die **mehrere Foodcoops** beliefern u nd und ihre Produktdaten **umkompliziert abgleichen** wollen.
