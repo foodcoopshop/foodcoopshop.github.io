@@ -1,7 +1,7 @@
 # Netzwerk-Modul
 
 ## Für wen ist das Netzwerk-Modul gedacht?
-* Das Netzwerk-Modul bietet eine Erleichterung für Hersteller, die **mehrere Foodcoops** beliefern u nd und ihre Produktdaten **umkompliziert abgleichen** wollen.
+* Das Netzwerk-Modul bietet eine Erleichterung für Hersteller, die **mehrere Foodcoops** beliefern und und ihre Produktdaten **umkompliziert abgleichen** wollen.
 * Es ist also möglich, die Produktdaten **Name, verfügbare Menge, Preis, Pfand** und **Status** von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops zu synchronisieren.
 * Dafür notwendig: (einmalige) Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
 * Hersteller, die ihre Produkte bereits bei einer Foodcoop eingepflegt haben und **eine neue Foodcoop beliefern**, können ihre Produkte mit dem Netzwerk-Modul viel schneller anlegen. Detail unter Punkt 5)
