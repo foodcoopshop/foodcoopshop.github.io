@@ -13,5 +13,5 @@
 * [WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor)
 
 ## Netzwerk-Modul
-* [Netzwerk-Modul]({{ site.baseurl }}/de/netzwerk-modul) (Produkte mit anderen Foodcoops synchronisieren)
+* [Netzwerk-Modul]({{ site.baseurl }}/de/netzwerk-modul) (Für Hersteller, die mehrere Foodcoops beliefern)
 
