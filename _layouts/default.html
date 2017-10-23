@@ -20,8 +20,7 @@
       <div class="inner">
         <a href="/">
 			{% case page.url %}
-			  {% when '/de/netzwerk-modul.html' %}
-              {% when '/en/installation-network-plugin.html' %}
+			  {% when '/de/netzwerk-modul.html' OR '/en/installation-network-plugin.html' %}
                 {% assign logo = 'network-plugin-logo.png' %}
                 {% assign logoClass = 'square' %}
 			  {% else %}
