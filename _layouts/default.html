@@ -20,7 +20,9 @@
       <div class="inner">
         <a href="/">
             {% assign logo = 'foodcoopshop-logo.png' %}
-            {{ page.url }}
+            {% if page.url == '/de/netzwerk-modul.html' || page.url == '/en/installation-network-plugin.html' %}
+                {% assign logo = 'network-plugin-logo.png' %}
+            {% endif %}
             <img src="{{site.baseurl}}/assets/img/{{logo}}" class="logo" />
         </a>
         <h1 class="project-name"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
