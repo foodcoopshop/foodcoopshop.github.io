@@ -79,9 +79,14 @@ a:not(.btn):hover {
         width: auto;
     }
     .page-header img.logo {
-        width: 70vw;
         float: left;
         margin-top: 0;
+    }
+    .page-header img.logo.rectangle {
+        width: 70vw;
+    }
+    .page-header img.logo.square {
+        width: 40vw;
     }
     .project-tagline {
         margin-bottom: 0;
