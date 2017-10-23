@@ -20,7 +20,7 @@
       <div class="inner">
         <a href="/">
             {% assign logo = 'foodcoopshop-logo.png' %}
-            {{dump(page)}}
+            {{ debug page}}
             {% comment %}
             {% if page.title in ['network-plugin', 'netzwerk-plugin'] %}
                 {% assign logo = 'network-plugin-logo.png' %}
