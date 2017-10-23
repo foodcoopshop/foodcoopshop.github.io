@@ -19,9 +19,9 @@
     <section class="page-header">
       <div class="inner">
         <a href="/">
-            {{% set logo = 'foodcoopshop-logo.png' %}}
+            {% set logo = 'foodcoopshop-logo.png' %}
             {% if page.title in ['network-plugin', 'netzwerk-plugin'] %}
-                {{% set logo = 'network-plugin-logo.png' %}}
+                {% set logo = 'network-plugin-logo.png' %}
             {% endif %}
             <img src="{{site.baseurl}}/assets/img/{{logo}}" class="logo" />
         </a>
