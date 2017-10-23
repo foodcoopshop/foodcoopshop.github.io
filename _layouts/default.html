@@ -21,7 +21,7 @@
         <a href="/">
             {% assign logo = 'foodcoopshop-logo.png' %}
             {% assign logoClass = 'rectangle' %}
-            {% if page.url == '/de/netzwerk-modul.html' || page.url == '/en/installation-network-plugin.html' %}
+            {% if page.url == '/de/netzwerk-modul.html' OR page.url == '/en/installation-network-plugin.html' %}
                 {% assign logo = 'network-plugin-logo.png' %}
                 {% assign logoClass = 'square' %}
             {% endif %}
