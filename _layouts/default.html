@@ -18,7 +18,13 @@
     
     <section class="page-header">
       <div class="inner">
-        <a href="/"><img src="{{ site.baseurl }}/assets/img/logo.png" class="logo" /></a>
+        <a href="/">
+            {{% set logo = 'foodcoopshop-logo.png' %}}
+            {% if page.title in ['network-plugin', 'netzwerk-plugin'] %}
+                {{% set logo = 'network-plugin-logo.png' %}}
+            {% endif %}
+            <img src="{{site.baseurl}}/assets/img/{{logo}}" class="logo" />
+        </a>
         <h1 class="project-name"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
         <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         <a href="/" class="btn">Home</a>
