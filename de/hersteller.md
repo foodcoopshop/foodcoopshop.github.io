@@ -15,9 +15,11 @@ In der Hersteller-Übersicht befindet sich weit rechts ein Symbol mit einem Zahn
 
 Nur Admins und Superadmins können den Hersteller aktivieren bzw. deaktivieren. Der Hersteller selbst kann dies nicht.
 
-**Urlaubsmodus**
+**Lieferpause**
 
-Seit der Version 1.4 kann beim Urlaubsmodus ein Datum angegeben werden. Die Produkte werden automatisch deaktiviert und wieder aktiviert, außerdem wird beim Hersteller angezeigt, wann er in Urlaub ist.
+Seit der Version 1.5 kann die Lieferpause (vor v1.5 "Urlaubsmodus") als Zeitraum angebeben werden. Die Produkte werden automatisch deaktiviert und wieder aktiviert, außerdem wird beim Hersteller der Zeitraum der Lieferpause angezeigt.
+
+**Wichtig**: Hersteller müssen angeben, in welchem Zeitraum nicht **bestellt** werden darf. Beispiel: Wenn am Freitag, 18.11.2017 nicht geliefert werden kann, muss als Zeitraum 08.11.2017 (Mittwoch) bis 14.11.2017 (Dienstag) angeben werden. Dies ist der Zeitraum, in dem Bestellungen für Freitag 18.11.2017 gesammelt werden.
 
 **Nur für Mitglieder?**
 
