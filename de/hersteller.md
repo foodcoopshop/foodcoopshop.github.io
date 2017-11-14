@@ -21,6 +21,9 @@ Seit der Version 1.5 kann die Lieferpause (vor v1.5 "Urlaubsmodus") als Zeitraum
 
 **Wichtig**: Hersteller müssen angeben, in welchem Zeitraum nicht **bestellt** werden darf. Beispiel: Wenn am Freitag, 18.11.2017 nicht geliefert werden kann, muss als Zeitraum 08.11.2017 (Mittwoch) bis 14.11.2017 (Dienstag) angeben werden. Dies ist der Zeitraum, in dem Bestellungen für Freitag 18.11.2017 gesammelt werden.
 
+Beide Felder leer bedeutet: Lieferpause ist **nicht aktiv**.
+
+
 **Nur für Mitglieder?**
 
 Wenn aktiviert, können nur eingeloggte Mitglieder diesen Hersteller sehen.
