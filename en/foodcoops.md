@@ -5,7 +5,7 @@ Feel free to add your foodcoop
 | Nr | Date    | Url | City |
 | -- | ------- | --- | ---- |
 | **2017** |
-| 16 | 11/2017 | [http://www.sinnkistl.at](http://www.sinnkistl.at) | Reichersberg, Austria|
+| 16 | 11/2017 | [https://www.sinnkistl.at](https://www.sinnkistl.at) | Reichersberg, Austria|
 | 15 | 10/2017 | [http://foodcoop.markhof.wien](http://foodcoop.markhof.wien) | Foodcoop Colearning Markhof, Wien, Austria |
 | 14 | 09/2017 | [http://www.riadarei.at](http://www.riadarei.at) | Ried im Innkreis, Austria |
 | 13 | 09/2017 | [http://www.stadtkern.at](http://www.stadtkern.at) | Steyregg, Austria |
