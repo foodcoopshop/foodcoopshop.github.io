@@ -54,7 +54,7 @@ Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezog
 
 ## Sofort-Bestellung für Lagerware
 
-Unter "Bestellungen" (rechts oben) befindet sich der Button "Neue Sofort-Bestellung". Diese Funktion ist von Mittwoch bis Samstag aktiviert. Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, die dann automatisch in die aktuelle Bestellwoche rückdatiert wird. Meistens ist dies der vergangene Dienstag. Seit der Version 1.4 werden die Hersteller automatisch informiert, wenn eine Sofort-Bestellung getätigt wurde.
+Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung". Diese Funktion ist von Mittwoch bis Samstag aktiviert. Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, die dann automatisch in die aktuelle Bestellwoche rückdatiert wird. Meistens ist dies der vergangene Dienstag. Seit der Version 1.4 werden die Hersteller automatisch informiert, wenn eine Sofort-Bestellung getätigt wurde.
 
 ## Produkte bleiben am Ende des Abholtages über - was tun?
 
