@@ -5,3 +5,5 @@ Die in der Software enthaltenen Nutzungsbedingungen bzw. AGB sind **Musterbeding
 Es ist auch notwendig, ein Impressum zu erstellen (Admin-Bereich / Seiten).
 
 **Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
+
+Infos zur Lebensmittelkennzeichnung [findet ihr hier]({{ site.baseurl }}/de/lebensmittelkennzeichnung)
