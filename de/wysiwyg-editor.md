@@ -17,6 +17,12 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 2. Unten auf "Server durchsuchen" klicken.
 3. Rechte Maustaste auf die Daten und dann "Löschen" auswählen.
 
+### Wie kann ich einen Datei erneut verlinken?
+1. Auf "Link einfügen / editieren" klicken.
+2. Unten auf "Server durchsuchen" klicken.
+3. Auf die gewünschte - bereits hochgeladene - Datei klicken. 
+4. Im nächsten Fenster auf OK klicken.
+
 ### Wie kann ich Bilder hochladen?
 1. Der Ablauf ist der gleiche wie bei **Dateien hochladen**, jedoch in der Symbolleiste statt "Link einfügen" auf "Bild" klicken. Die Bilder werden automatisch auf maximal 717px verkleinert.
 
