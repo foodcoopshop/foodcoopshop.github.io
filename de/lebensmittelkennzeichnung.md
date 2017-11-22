@@ -8,7 +8,6 @@ Seit der Version 1.5 (Dezember 2017) kann zusätzlich zu einer textlichen Erfass
 
 Wichtig ist, dass die Angabe vom **Preis pro Einheit** (Grundpreis, z. B. Cocktailtomaten 250 g um 2 Euro (8 Euro/kg) nicht vergessen wird.
 
-Wie der Bild-Upload genau funktioniert, steht hier in [dieser Doku zum WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor) beschrieben.
+Wie der Bild-Upload genau funktioniert, steht in [dieser Doku zum WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor) beschrieben.
 
-Das Bild / die Bilder wird automatisch mit einer Lightbox verlinkt, so dass es auch in groß angezeigt werden kann.
-
+Das Bild wird automatisch mit einer Lightbox verlinkt, so dass es auch größer angezeigt werden kann.
