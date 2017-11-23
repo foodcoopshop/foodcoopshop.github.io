@@ -4,6 +4,7 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 
 * Hersteller-Profil bearbeiten
 * Seiten, Blog-Artikel, Kategorien bearbeiten
+* Produktbeschreibung bearbeiten
 
 ### Wie kann ich ein Dateien (z. B. PDF) hochladen und verlinken?
 1. Den Text, der mit dem Download verlinkt werden soll, markieren.
