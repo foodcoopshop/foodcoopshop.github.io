@@ -2,6 +2,13 @@
 
 **Please remember to always make a database and file backup before updating your FoodCoopShop installation!**
 
+* There is no automatic update tool, everything needs to be done manually. 
+* If you - for example - want to update from v1.3 to v1.5 directly (skipping v1.4), you can do that. Just follow the instructions for updating to v1.4 and v1.5.
+
+### FCS v1.4.x to FCS v1.5
+* replace source code => see bottom of page
+* nothing else
+
 ### FCS v1.3.x to FCS v1.4
 * replace source code => see bottom of page
 * The following settings moved from file-based configuration (app.config.php, custom.config.php) to the database:
@@ -23,13 +30,14 @@
 * execute the database migration script [v1.1.0.sql](../blob/master/Config/sql/migrations/v1.1.0.sql)
 
 ### replacing source code
-* upload source code of new version into new folder (e.g. foodcoopshop-new)
-* copy the following files and folders from your old installation directory
+* rename old installation folder (e.g. foodcoopshop-old)
+* upload source code of new version into new folder with the name of the old version before renaming
+* copy the following files and folders from your old installation directory into the new directory
     * Config/custom.config.php
     * Config/credentials.config.php
     * Config/database.php
     * Config/email.php
     * webroot/files
     * files_private
-    * and any other adapted files (favicon, logo and so on)
-* make a page impression in order to run migrations
+    * and any other adapted files (favicon, logo, images,...)
+* database adaptions (migrations) are executed when making the first page impression
