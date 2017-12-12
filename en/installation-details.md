@@ -25,7 +25,7 @@ me@home:/var/www$ sudo chown -R www-data:www-data foodcoopshop
 ```
 
 ### Document Root / Virtual Host
-If you develop on your local machine, your virtual host should end with ".dev" (e.g. localhost.dev). Then development environment and correct debug mode are set automatically. Simply add the prefered hostname to your local hosts file (e.g. /etc/hosts). Check in your browser by loading http://localhost.dev/ It's also possible to have 2 hosts pointing to the same Document Root (e.g. localhost and localhost.dev).
+If you develop on your local machine, your virtual host should end with ".test" (e.g. foodcoopshop.test). Then development environment and correct debug mode are set automatically. Simply add the prefered hostname to your local hosts file (e.g. /etc/hosts). Check in your browser by loading http://foodcoopshop.test/.
 
 Create a new virtual host in your Apache configuration. Most common is copying /etc/apache2/sites-available/000-default.conf to 020-foodcoopshop.conf and symlinking it to /etc/apache2/sites-enabled:
 
