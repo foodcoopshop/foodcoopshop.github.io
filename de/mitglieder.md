@@ -4,7 +4,7 @@ Jedes Mitglied kann sich selbst registrieren. Dazu auf den Punkt "Anmelden" klic
 
 Je nach Einstellung (kann von Superadmins geändert werden) muss das Mitglied erst von einem Admin aktiviert werden (Standard-Einstellung) oder ist sofort freigeschalten.
 
-Um ein Mitglied manuell freizuschalten, gehe im Admin-Bereich auf "Mitglieder", ändere das Dropdown oben links auf "deaktiviert" und klicke auf "Filtern". Dann beim gewünschten Mitglied auf das Symbol in der Spalte "Status" klicken. Das Mitglied wird aktiviert und bekommt automatisch sein Passwort zugeschickt.
+Um ein Mitglied manuell freizuschalten, gehe im Admin-Bereich auf "Mitglieder", ändere das Dropdown oben links auf "deaktiviert". Dann beim gewünschten Mitglied auf das Symbol in der Spalte "Status" klicken. Das Mitglied wird aktiviert und bekommt automatisch sein Passwort zugeschickt.
 
 ## Daten ändern
 Mitglieder können unter "Meine Daten" ihre Daten selbst ändern, in dem sie - sofern sie eingeloggt sind - oben rechts auf ihren Namen klicken.
