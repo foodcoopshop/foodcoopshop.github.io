@@ -11,3 +11,9 @@ Eine einfache Möglichkeit zum Einheben der Mitgliedsbeiträge bietet folgendes 
 * Die Foodcoop überweist sich jeden Monat selbst das Geld von einem Konto aufs andere (vom Konto, auf dem die Guthaben-Einzahlungen landen auf das Vereinskonto).
 
 Dieser Ablauf hat den großen Vorteil, dass das bereits vorhandene Guthaben-System verwendet werden kann. Beim Fairteiler machen wir das seit Anfang 2017 so und es funktioniert wunderbar.
+
+### Jahresübersicht über bestellte Produkte erstellen
+
+Unter *Bestellte Produkte* gibt es die Möglichkeit, *Produkt zu gruppieren*. So erhält man eine schöne, sortierbare, Übersicht darüber, welche Produkte in einem bestimmten Zeitraum bestellt wurden.
+
+* Die Funktion ist für Mitglieder, Hersteller und die Foodcoop gleichermaßen interessant und seit v2.0 verfügbar.
