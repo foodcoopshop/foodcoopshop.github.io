@@ -14,7 +14,9 @@ Sowohl der Menüpunkt **Pfandkonto** im Hersteller-Login als auch der Link zum P
 
 ## Jahresabschluss
 
-Da selten das gesamte Pfand in Form von Leergebinde zurückgegen wird, muss am Ende des Jahres das Pfandkonto mit einer Ausgleichszahlung ausgeglichen werden. Das kann von **Superadmins** in den jeweiligen Pfandkonten der Hersteller erledigt werden.
+Da selten das gesamte Pfand in Form von Leergebinde zurückgegen wird, sollte am Ende des Jahres das Pfandkonto mit einer Ausgleichszahlung ausgeglichen werden. Das kann von **Superadmins** in den jeweiligen Pfandkonten der Hersteller erledigt werden. Da immer etwas Pfand im Umlauf ist, ist es nicht nötig, das Pfandkonto zum Jahresende exakt auszugleichen.
+
+Eine etwaige Differenz der Summen (Hersteller - Spalte Pfand und Mitglieder - Zweite Zahl Spalte Guthaben) kann daher resultieren, dass Pfand bereits zurückgebraucht und ins System eingetragen wurde, aber vom Hersteller noch nicht zurückgenommen wurde. Es müsste dann aber in Form von Leergut im Abhollager liegen.
 
 ## Finanzbericht "Pfand"
 
