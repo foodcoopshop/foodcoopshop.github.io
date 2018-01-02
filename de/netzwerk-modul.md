@@ -56,7 +56,7 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 
 ## Ideen für zukünftige Versionen
 * Import von Produkten, die auf der Master-Foodcoop noch nicht existieren (automatisches Anlegen von Produkten)
-* Synchronisation der Produktdaten **Bild, Kategorien, "als neu anzeigen"** und **Steuersatz**
+* Synchronisation der Produktdaten **Bild, Kategorien, "als neu anzeigen"** und **Steuersatz** => Umsetzung im dritten Quartal 2018 [Issue #190]({{site.repo_url}}/issues/190)
 * Synchronisation der Herstellerdaten (Beschreibung, Adresse, Einstellungen usw.)
 * Synchronisation von Änderungen bei bestellten Produkten (Stornierungen, Preis ändern, bestellte Anzahl ändern)
 * Verwendung des gesamten Netzwerk-Moduls als Admin bzw. Superadmin (und nicht nur als Hersteller)
