@@ -5,6 +5,10 @@
 * There is no automatic update tool, everything needs to be done manually. 
 * If you - for example - want to update from v1.3 to v1.5 directly (skipping v1.4), you can do that. Just follow the instructions for updating to v1.4 and v1.5.
 
+### FCS v1.5.x to FCS v2.0
+* replace source code => see bottom of page
+* Migration 018 causes an error, because the table where the action logs are stored was renamed. Please just ignore the error messages on the first and second page load.
+
 ### FCS v1.4.x to FCS v1.5
 * replace source code => see bottom of page
 * nothing else
