@@ -1,4 +1,4 @@
-## Lebensmittelkennzeichnung
+## Lebensmittelkennzeichnung / Produktdeklaration
 
 Alle Lebensmittel, die über Internet verkauft werden, müssen über eine vollständige Lebensmittelkennzeichnung verfügen. Das gibt der Gesetzgeber so vor.
 
