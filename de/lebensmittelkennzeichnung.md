@@ -11,3 +11,5 @@ Wichtig ist, dass die Angabe vom **Preis pro Einheit** (Grundpreis, z. B. Cockta
 Wie der Bild-Upload genau funktioniert, steht in [dieser Doku zum WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor) beschrieben.
 
 Das Bild wird automatisch mit einer Lightbox verlinkt, so dass es auch größer angezeigt werden kann.
+
+Wenn das Produkt ausreichend deklariert ist, setze bitte das Häkchen bei **Produktdeklaration OK?**.
