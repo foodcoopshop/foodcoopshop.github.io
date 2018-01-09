@@ -14,7 +14,7 @@ Wenn ein Hersteller die Bestellliste, die er per E-Mail bekommen hat, vergessen 
 
 ## Stornieren von Produkten
 
-Falls ein Produkt nicht geliefert wird, musst du ihn stornieren, damit das Mitglied ihn nicht bezahlen muss und das Produkt nicht auf der Rechnung für den Hersteller auftaucht. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren, du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind, einfach "Bestellungen / Stornierte Produkte" klicken.
+Falls ein Produkt nicht geliefert wird, musst du es stornieren, damit das Mitglied es nicht bezahlen muss und das Produkt nicht auf der Rechnung für den Hersteller auftaucht. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren, du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind, einfach "Bestellungen / Stornierte Produkte" anklicken.
 
 Falls mal mehrere Produkte gleichzeitig storniert werden müssen, kann man links die Häkchen setzen und unten auf "Ausgewählte Produkte stornieren" klicken.
 
