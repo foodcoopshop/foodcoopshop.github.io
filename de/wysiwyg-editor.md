@@ -38,5 +38,8 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 ### Layout zerschossen? Formatierung entfernen
 Wenn ihr z. B. aus einem Word-Dokument oder einer anderen Webseite Text kopiert und in den Editor einfügt, stimmt die Formatierung oft nicht. Die Schrift ist z. B. eine andere oder der Text ist zerschossen. Einfach den gesamten Text markieren und auf die zweite Schaltfläche von links "Formatierung entfernen" klicken.
 
+### Videos einbinden
+Den Embed-Code (Einbettungscode) von z. B. Youtube bitte im Quellcode (Button ganz rechts) einfügen.
+
 ### Welcher Software wird vom FoodCoopShop benutzt?
 * [CKEditor](https://ckeditor.com/) mit [KCFinder](https://kcfinder.sunhater.com/) als Dateiupload-Plugin (nicht: **CK**Finder!)
