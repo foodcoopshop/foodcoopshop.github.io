@@ -12,4 +12,4 @@ Wie der Bild-Upload genau funktioniert, steht in [dieser Doku zum WYSIWYG-Editor
 
 Beim Bestellen wird das Bild dann wenn man draufklickt automatisch größer angezeigt.
 
-Wenn das Produkt ausreichend deklariert ist, setze bitte das Häkchen bei **Produktdeklaration OK?**.
+Wenn das Produkt ausreichend deklariert ist, setze bitte das Häkchen bei **Produktdeklaration OK?**. Über dieses Häkchen kann die Foodcoop (und auch der Hersteller) dann nachvollziehen, welche Produkte schon ausreichend deklariert sind und welche nicht.
