@@ -6,7 +6,7 @@ Feel free to add your foodcoop
 | -- | ------- | --- | ---- |
 | **2018** |
 | 20 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
-| 19 | 01/2018 | [http://niwume.han-solo.net/](http://niwume.han-solo.net/) | Gemeinwohl-Foodcoop Berlin-Charlottenburg, Germany|
+| 19 | 01/2018 | not yet ready | Gemeinwohl-Foodcoop Berlin-Charlottenburg, Germany|
 | 18 | 01/2018 | [https://foodcoopshop.terraviva-of.de/](https://foodcoopshop.terraviva-of.de/) | Offenbach, Germany|
 | **2017** |
 | 17 | 11/2017 | [http://shop.foodcoop-frankfurt.de](http://shop.foodcoop-frankfurt.de) | Frankfurt am Main, Germany |
