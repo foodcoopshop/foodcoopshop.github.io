@@ -53,48 +53,44 @@ Then restart the webserver:
 me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 ```
 
+## Configuring FoodCoopShop
+* Copy [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php) to custom_config.php and change your configuration if you want to
+* Set `cakeServerName` to your servers data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
+* The default configuration is found in [app_config.php]({{site.repo_url}}/blob/master/config/app_config.php).
+* Some configuration is stored in the database and can easily be changed from the admin screen: https://yourdomain.tld/admin/configurations (Super Admin account required)
+* [Detailed configuration information in German]({{ site.baseurl }}/de/software-einstellungen)
+
 ## Database Setup
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
-* Copy [database.default.php]({{site.repo_url}}/blob/master/Config/database.default.php) to database.php and change the configuration to your database settings
-* Use [Cake's database documentation](http://book.cakephp.org/2.0/en/development/configuration.html) for more information about the available options
+* Define your database configuration in custom_config.php
 * At first, **import the [initial database structure]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-structure.sql)**
 * Then **import [initial database data]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-data.sql)**
 * You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials
-* Copy [credentials.default.php]({{site.repo_url}}/blob/master/Config/credentials.default.php) to credentials.php and change the configuration
+* Copy [credentials.default.php]({{site.repo_url}}/blob/master/config/credentials.default.php) to credentials.php and change the configuration
 * The valid Super Admin account will be created later
 * The eMail error logging can be enabled to ease server monitoring
 
-## Email configuration
-* Copy [email.default.php]({{site.repo_url}}/blob/master/Config/email.default.php) to email.php and change the configuration to your email settings
-* Use [Cake's email documentation](http://book.cakephp.org/2.0/en/core-utility-libraries/email.html) for more information
-* Once you created a Super Admin account (will be created later), You can test your email configuration by accessing http://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
-
-## Configuring FoodCoopShop
-* Copy [custom.config.default.php]({{site.repo_url}}/blob/master/Config/custom.config.default.php) to custom.config.php and change the configuration
-* Set `app.cakeServerName` to your servers data http://yourdomain.tld (e.g. http://www.yourfoodcoop.com)
-* Set the security keys as shown below
-* The default configuration is found in [app.config.php]({{site.repo_url}}/blob/master/Config/app.config.php).
-* Some configuration is stored in the database and must be changed from the admin screen: http://yourdomain.tld/admin/configurations (Super Admin account required)
-* [Detailed configuration information in German]({{ site.baseurl }}/de/software-einstellungen)
+## Testing your email configuration
+* Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
 
 ## Setup security keys
-Open your domain (e.g. www.yourfoodcoop.com) in a browser and follow the steps shown to create secure values for the security keys app.cookieKey, Security.salt and Security.cipherSeed. Set them in custom.config.php
+Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security keys app.cookieKey, Security.salt and Security.cipherSeed. Set them in custom.config.php
 
 ## Create the valid Super Admin account
-* Open http://yourdomain.tld/anmelden in your browser and register with your personal email address (down below at "Mitgliedskonto erstellen")
+* Open https://yourdomain.tld/anmelden in your browser and register with your personal email address (down below at "Mitgliedskonto erstellen")
 * After the successful registration go to your database (e.g. using Adminer or phpMyAdmin) and open the table "fcs_customers". There is one record (with your email address). Change the field "id_default_group" from 3 to 5 and  the field "active" from 0 to 1.
-* Open http://yourdomain.tld/neues-passwort-anfordern, type in your email address and press "Senden".
+* Open https://yourdomain.tld/neues-passwort-anfordern, type in your email address and press "Senden".
 * With the password that was sent to you by email you are able to login as a Super Admin.
 * **Don't forget** to add the Super Admin data to credentials.php.
 
 ## Cronjobs
-Your server / provider must support command-line cronjobs. All possible cronjobs are located in [Console/Command](../blob/master/Console/Command) (e.g. /var/www/foodcoopshop/Console/Command). The jobs are run by the CakePHP engine located in the parent directory (e.g. /var/www/foodcoopshop/Console/cake). A sample crontab running database backup:
+Your server / provider must support command-line cronjobs. All possible cronjobs are located in [src/Shell](../blob/master/src/Shell) (e.g. /var/www/foodcoopshop/src/Shell). The jobs are run by the CakePHP engine located in the parent directory (e.g. /var/www/foodcoopshop/bin/cake). A sample crontab running database backup:
 ```
 # For more information see the manual pages of crontab(5) and cron(8)
 SHELL=/bin/bash
-PATH=/var/www/foodcoopshop/Console:/bin:/usr/bin:/usr/local/bin:/sbin:/usr/sbin:/usr/local/sbin
+PATH=/var/www/foodcoopshop/bin:/bin:/usr/bin:/usr/local/bin:/sbin:/usr/sbin:/usr/local/sbin
 MAILTO=root
 
 # m h  dom mon dow   command
@@ -109,7 +105,7 @@ MAILTO=root
 
 Edit the crontab for your Apache user (e.g. www-data) and add all the cronjobs you need to it:
 ```bash
-me@home:/var/www/foodcoopshop/Console$ sudo crontab -u www-data -e
+me@home:/var/www/foodcoopshop$ sudo crontab -u www-data -e
 ```
 
-**Beware**: cake is not a typical shell command! The -q option MUST BE LAST.
+**Beware**: cake is not a typical shell command! The -q option MUST BE LAST. (not sure if this is still necessary with FCS v2.x)
