@@ -16,6 +16,7 @@
 RewriteRule ^admin/order_details(.*)? /admin/order-details$1 [L,R=301]
 RewriteRule ^admin/action_logs(.*)? /admin/action-logs$1 [L,R=301]
 RewriteRule ^admin/blog_posts(.*)? /admin/blog-posts$1 [L,R=301]
+RewriteRule ^network/sync_domains(.*)? /network/sync-domains$1 [L,R=301]
 RewriteRule ^admin/(.*)/index/(.+)\:(.+)/(.+)\:(.+)/(.+)\:(.+)/(.+)\:(.+)/(.+)\:(.+) /admin/$1/index/?$2=$3&$4=$5&$6=$7&$8=$9&$10=$11 [L,R=301]
 RewriteRule ^admin/(.*)/index/(.+)\:(.+)/(.+)\:(.+)/(.+)\:(.+)/(.+)\:(.+) /admin/$1/index/?$2=$3&$4=$5&$6=$7&$8=$9 [L,R=301]
 RewriteRule ^admin/(.*)/index/(.+)\:(.+)/(.+)\:(.+)/(.+)\:(.+) /admin/$1/index/?$2=$3&$4=$5&$6=$7 [L,R=301]
