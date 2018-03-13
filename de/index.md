@@ -12,6 +12,7 @@
 * [Tipps und Tricks]({{ site.baseurl }}/de/tipps-und-tricks)
 * [WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor)
 
-## Netzwerk-Modul
+## Module
 * [Netzwerk-Modul]({{ site.baseurl }}/de/netzwerk-modul) (Für Hersteller, die mehrere Foodcoops beliefern)
+* [Zeitwährungs-Modul]({{ site.baseurl }}/de/zeitwährungs-modul) (Mitglieder können Produkte mit ihrer Arbeitszeit bezahlen)
 
