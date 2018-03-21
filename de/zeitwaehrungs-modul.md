@@ -14,3 +14,5 @@ Das Zeitwährungs-Modul gibt Herstellern die Möglichkeit, ihre Produkte zu eine
 
 ## Einstellung für Mitglieder
 * Im persönlichen Profil des Mitglieds kann das Zeitwährungs-Modul aktiviert und bei ausgeglichenem Saldo auch wieder deaktiviert werden.
+
+Das Zeitwährungs-Modul wird voraussichtlich mit der Version 2.1 (21.06.2018) veröffentlicht.
