@@ -1,3 +1,16 @@
 # Zeitwährungs-Modul
 
-Mitglieder können Produkte (auch teilweise) in einer Zeitwährung bezahlen. Diese Zeit wird dann beim Hersteller mitgearbeitet und die Zeitkonten von Mitglied und Hersteller über die Software abgeglichen.
+Das Zeitwährungs-Modul gibt Herstellern die Möglichkeit, ihre Produkte zu einem frei wählbaren Prozentsatz **zusätzlich zum Geldbetrag in einer Zeitwährung anzubieten**. Das Mitglied, das in Zeitwährung bezahlt, stellt dem Hersteller dann diese Zeit z. B. in Form von **Mithilfe am Hof** zur Verfügung. Die Zeitkonten von Mitglied und Hersteller werden über die FoodCoopShop-Software verwaltet.
+
+## Globale Einstellungen der Foodcoop
+* Name der Zeitwährung (Standardwert: Stunden)
+* Abkürzung der Zeitwährung (Standardwert: h)
+* Überziehungsrahmen für Hersteller und Mitglieder (Standardwerte: 0)
+
+## Einstellungen für Hersteller
+* Zeitwährungsmodul aktiv?
+* Maximaler Anteil der Zeitwährung in Prozent (Standardwert: 30 %)
+* Maximaler Kontostand in Stunden (Standardwert: 100)
+
+## Einstellung für Mitglieder
+* Im persönlichen Profil des Mitglieds kann das Zeitwährungs-Modul aktiviert und bei ausgeglichenem Saldo auch wieder deaktiviert werden.
