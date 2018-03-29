@@ -10,6 +10,7 @@
 * **therefore you can only update to v2.0 from v1.5!**, so if you are working on v1.x and you want to update to v2.0, first update to 1.5!
 * replace source code => see bottom of page
 * use the new structure of config files (rename custom.config.php to custom_config.php), follow the steps in the updated [Installation details]({{ site.baseurl }}/en/installation-details)
+* be aware that the content of the config file changed in syntax! renaming the file to custom_config.php **is not enough!**
 * add the following code to the top of your /webroot/.htaccess in order to redirect some urls from v1.x
 
 ```
@@ -25,6 +26,8 @@ RewriteRule ^admin/(.*)/index/(.+)\:(.+) /admin/$1/index/?$2=$3 [L,R=301]
 ```
 
 * run ``$ bin/cake migrations migrate`` to execute database migrations. If you do not have shell access, you need to update the migrations manually. The files with the sql statements are located in the folder /config/Migrations).
+
+** if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
 
 ---
 
