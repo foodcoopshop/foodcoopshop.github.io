@@ -43,4 +43,7 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Mitglied und Hersteller sehen ihren Saldo.
 * Superadmins haben Zugriff zu allen Funktionen von Hersteller und Mitglied und können korrigierend eingreifen.
 
-Das Konzept zur Umsetzung des Zeitwährungs-Modules wurde von Tobias Plettenbacher von der [Riadarei](http://www.riadarei.at) bzw. von [WIR gemeinsam](http://www.wirgemeinsam.net) erstellt, sie haben auch die Programmierung finanziert. Das Zeitwährungs-Modul wird voraussichtlich mit der Version 2.1 (21.06.2018) veröffentlicht und steht ab dann allen Foodcoops kostenlos zur Verfügung.
+## Konzept, Finanzierung, Umsetzung, Veröffentlichung
+* Das Konzept zur Umsetzung des Zeitwährungs-Modules wurde von Tobias Plettenbacher von der [Riadarei](http://www.riadarei.at) bzw. von [WIR gemeinsam](http://www.wirgemeinsam.net) erstellt, er hat sich auch um die Finanzierung gekümmert.
+* Die Programmierung hat [Mario Rothauer](https://www.rothauer-it.com) erledigt.
+* Das Zeitwährungs-Modul wird voraussichtlich mit der Version 2.1 (21.06.2018) auf [foodcoopshop.com](https://www.foodcoopshop.com/download) veröffentlicht und dann allen Foodcoops kostenlos zur Verfügung.
