@@ -22,10 +22,22 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Zeiitwährungs-Modul aktiv? Im Profil des Mitglieds kann das Zeitwährungs-Modul aktiviert und bei ausgeglichenem Saldo auch wieder deaktiviert werden.
 
 ## Integration in den Bestell-Vorgang
-* Haben sowohl Hersteller als auch Mitglied das Zeitwährungs-Modul aktiviert, befindet sich unterhalb des Produktpreises der Text "davon zu x% in Stunden" - bewegt das Mitglied die Maus darüber, sieht er die Anteile in Stunden und Euro
+* Haben sowohl Hersteller als auch Mitglied das Zeitwährungs-Modul aktiviert, befindet sich unterhalb des Produktpreises der Text "davon zu x% in Stunden" - bewegt das Mitglied die Maus darüber, sieht er die Anteile in Stunden und Euro.
+* Die Summe des Zeit-Anteiles ist im Warenkorb ersichtlich.
 * Vor dem zahlungspflichtigen Bestellen kann das Mitglied den Anteil in Zeit für die aktuelle Bestellung auswählen. Der Maximalwert ist vorgegeben.
 * In der Bestell-Bestätigung erscheint eine neue Spalte mit dem Zeit-Anzeil.
 * Das Guthaben des Mitglieds wird nur mit dem tatsächlich in Euro bezahlten Betrag belastet.
 * Sobald ein Mitglied eine Bestellung mit Zeitwährungs-Produkten genutzt hat, findet sich im Admin-Bereich unter *Bestellungen* und *Bestellte Produkte* neben dem Euro-Betrag ein Sternchen. Bewegt man die Maus darüber, so sieht man, wie viele Stunden zusätzlich zum Betrag in Euro bezahlt wurden. 
+
+## Weitere Integration in die Software
+* Rechnungen weisen den Zeit-Anteil wieder in Euro aus (siehe Punkt "Rechnungslegung" weiter oben)
+* Ändern von bestellten Produkten (Preis, Anzahl, Stornierung) berechnen auch den Zeit-Anteil neu.
+
+## Zeitkonten von Hersteller und Mitglied
+* Der Hersteller erhält eine schöne Übersicht über offene und geleistete Zeit (Screenshots folgen)
+* Der Hersteller kann Zeit-Eintragungen bestätigen und in Absprache mit dem Mitglied korrigieren.
+* Das Mitglied kann geleistete Zeit-Eintragungen erstellen (ähnlich Eintragen von Guthaben).
+* Mitglied und Hersteller sehen ihren Saldo.
+* Superadmins haben Zugriff zu allen Funktionen von Hersteller und Mitglied und können korrigierend eingreifen.
 
 *Das Zeitwährungs-Modul wird voraussichtlich mit der Version 2.1 (21.06.2018) veröffentlicht.*
