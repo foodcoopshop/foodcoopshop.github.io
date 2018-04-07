@@ -29,4 +29,4 @@ Feel free to add your foodcoop
 | 02 | 09/2014 | [https://www.gutesvondahoam.at](https://www.gutesvondahoam.at) | Rüstorf, Austria |
 | 01 | 05/2014 | [https://www.fairteiler-scharnstein.at](https://www.fairteiler-scharnstein.at) | Scharnstein, Austria |
 
-[Map of all these foodcoops](https://www.google.com/maps/d/viewer?mid=18Ds-ijgE6vZIG9BC_q52Spvj-ZQ)
+[Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
