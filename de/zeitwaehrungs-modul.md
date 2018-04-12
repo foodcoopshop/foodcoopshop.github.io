@@ -43,18 +43,22 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Rechnungen weisen den Zeit-Anteil wieder in Euro aus (siehe Punkt "Rechnungslegung" weiter oben)
 * Ändern von bestellten Produkten (Preis, Anzahl, Stornierung) berechnen auch den Zeit-Anteil neu.
 
-## Stundenkonten von Hersteller und Mitglied
-* Der Hersteller erhält eine schöne Übersicht über offene und geleistete Zeit
-* Der Hersteller kann Zeit-Eintragungen bestätigen und in Absprache mit dem Mitglied korrigieren.
-* Das Mitglied kann geleistete Zeit-Eintragungen erstellen (ähnlich Eintragen von Guthaben).
-* Mitglied und Hersteller sehen ihren Saldo.
-* Superadmins haben Zugriff zu allen Funktionen von Hersteller und Mitglied und können korrigierend eingreifen.
+## Stundenkonto vom Mitglied
+* Das Mitglied kann geleistete Zeit-Eintragungen erstellen (ähnlich Eintragen von Guthaben) und auch wieder löschen.
+* Mitglied sieht sein aktuelles Zeit-Guthaben.
 
 ### Stundenkonto Mitglied
 ![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/stundenkonto-mitglied.png)
 
+## Stundenkonto vom Hersteller
+* Der Hersteller erhält eine Übersicht über offene und bereits geleistete Stunden.
+* Der Hersteller kann Zeit-Eintragungen bestätigen und auch korrigieren. Beim Ändern der geleisteten Zeit und beim Ändern vom Status auf "da stimmt was nicht..." wird automatisch eine E-Mail an das Mitglied versendet.
+
 ### Stundenkonto Hersteller
 ![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/stundenkonto-hersteller-uebersicht.png)
+
+## Superadmins
+* Superadmins haben Zugriff zu allen Funktionen von Hersteller und Mitglied und können korrigierend eingreifen.
 
 ## Konzept, Finanzierung, Umsetzung, Veröffentlichung
 * Das Konzept zur Umsetzung des Zeitwährungs-Modules wurde in Kooperation mit Tobias Plettenbacher von der [Riadarei](http://www.riadarei.at) und [WIR gemeinsam](http://www.wirgemeinsam.net) erstellt.
