@@ -22,7 +22,7 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Maximaler Kontostand in Stunden (Standardwert: 100)
 
 ### Einstellung für Mitglieder
-* Zeiitwährungs-Modul aktiv? Im Profil des Mitglieds kann das Zeitwährungs-Modul aktiviert und bei ausgeglichenem Saldo auch wieder deaktiviert werden.
+* Zeitwährungs-Modul aktiv? Im Profil des Mitglieds kann das Zeitwährungs-Modul aktiviert und bei ausgeglichenem Saldo auch wieder deaktiviert werden.
 
 ## Integration in den Bestell-Vorgang
 * Haben sowohl Hersteller als auch Mitglied das Zeitwährungs-Modul aktiviert, befindet sich unterhalb des Produktpreises der Text "davon zu x% in Stunden". Klickt das Mitglied diesen Text an, sieht es die genauen Anteile in Stunden und Euro.
