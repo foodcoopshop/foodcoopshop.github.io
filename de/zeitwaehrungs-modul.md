@@ -31,6 +31,7 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * In der Bestell-Bestätigung erscheint eine neue Spalte mit dem Zeit-Anzeil.
 * Das Guthaben des Mitglieds wird nur mit dem tatsächlich in Euro bezahlten Betrag belastet.
 * Sobald ein Mitglied eine Bestellung mit Zeitwährungs-Produkten genutzt hat, findet sich im Admin-Bereich unter *Bestellungen* und *Bestellte Produkte* neben dem Euro-Betrag ein Sternchen. Bewegt man die Maus darüber, so sieht man, wie viele Stunden zusätzlich zum Betrag in Euro bezahlt wurden.
+* Bei Sofort-Bestellungen ist bezahlen in Zeit nicht möglich.
 
 ### Integration in die Produkt-Ansicht
 ![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/produkt-ansicht.png)
