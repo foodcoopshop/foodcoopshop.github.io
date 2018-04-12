@@ -43,14 +43,14 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Rechnungen weisen den Zeit-Anteil wieder in Euro aus (siehe Punkt "Rechnungslegung" weiter oben)
 * Ändern von bestellten Produkten (Preis, Anzahl, Stornierung) berechnen auch den Zeit-Anteil neu.
 
-## Stundenkonto vom Mitglied
+## Stundenkonto Mitglied
 * Das Mitglied kann geleistete Zeit-Eintragungen erstellen (ähnlich Eintragen von Guthaben) und auch wieder löschen.
 * Mitglied sieht sein aktuelles Zeit-Guthaben.
 
 ### Stundenkonto Mitglied
 ![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/stundenkonto-mitglied.png)
 
-## Stundenkonto vom Hersteller
+## Stundenkonto Hersteller
 * Der Hersteller erhält eine Übersicht über offene und bereits geleistete Stunden.
 * Der Hersteller kann Zeit-Eintragungen bestätigen und auch korrigieren. Beim Ändern der geleisteten Zeit und beim Ändern vom Status auf "da stimmt was nicht..." wird automatisch eine E-Mail an das Mitglied versendet.
 
@@ -63,5 +63,5 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 ## Konzept, Finanzierung, Umsetzung, Veröffentlichung
 * Das Konzept zur Umsetzung des Zeitwährungs-Modules wurde in Kooperation mit Tobias Plettenbacher von der [Riadarei](http://www.riadarei.at) und [WIR gemeinsam](http://www.wirgemeinsam.net) erstellt.
 * [![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/wirgemeinsam-logo.png)](http://www.wirgemeinsam.net)
-* Die Programmierung hat [Mario Rothauer](https://www.rothauer-it.com) erledigt.
+* Technische Umsetzung: [Mario Rothauer](https://www.rothauer-it.com).
 * Das Zeitwährungs-Modul wird voraussichtlich mit der Version 2.1 (21.06.2018) auf [foodcoopshop.com](https://www.foodcoopshop.com/download) veröffentlicht und allen Foodcoops kostenlos zur Verfügung.
