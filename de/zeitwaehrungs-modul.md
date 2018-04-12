@@ -30,18 +30,24 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Vor dem zahlungspflichtigen Bestellen kann das Mitglied den Anteil in Zeit für die aktuelle Bestellung auswählen. Der Maximalwert ist vorgegeben.
 * In der Bestell-Bestätigung erscheint eine neue Spalte mit dem Zeit-Anzeil.
 * Das Guthaben des Mitglieds wird nur mit dem tatsächlich in Euro bezahlten Betrag belastet.
-* Sobald ein Mitglied eine Bestellung mit Zeitwährungs-Produkten genutzt hat, findet sich im Admin-Bereich unter *Bestellungen* und *Bestellte Produkte* neben dem Euro-Betrag ein Sternchen. Bewegt man die Maus darüber, so sieht man, wie viele Stunden zusätzlich zum Betrag in Euro bezahlt wurden. 
+* Sobald ein Mitglied eine Bestellung mit Zeitwährungs-Produkten genutzt hat, findet sich im Admin-Bereich unter *Bestellungen* und *Bestellte Produkte* neben dem Euro-Betrag ein Sternchen. Bewegt man die Maus darüber, so sieht man, wie viele Stunden zusätzlich zum Betrag in Euro bezahlt wurden.
+
+![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/produkt-ansicht.png)
+![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/warenkorb-detail.png)
 
 ## Weitere Integration in die Software
 * Rechnungen weisen den Zeit-Anteil wieder in Euro aus (siehe Punkt "Rechnungslegung" weiter oben)
 * Ändern von bestellten Produkten (Preis, Anzahl, Stornierung) berechnen auch den Zeit-Anteil neu.
 
-## Zeitkonten von Hersteller und Mitglied
-* Der Hersteller erhält eine schöne Übersicht über offene und geleistete Zeit (Screenshots folgen)
+## Stundenkonten von Hersteller und Mitglied
+* Der Hersteller erhält eine schöne Übersicht über offene und geleistete Zeit
 * Der Hersteller kann Zeit-Eintragungen bestätigen und in Absprache mit dem Mitglied korrigieren.
 * Das Mitglied kann geleistete Zeit-Eintragungen erstellen (ähnlich Eintragen von Guthaben).
 * Mitglied und Hersteller sehen ihren Saldo.
 * Superadmins haben Zugriff zu allen Funktionen von Hersteller und Mitglied und können korrigierend eingreifen.
+
+![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/stundenkonto-mitglied.png)
+![]({{ site.baseurl }}/assets/img/zeitwaehrungs-modul/stundenkonto-hersteller-uebersicht.png)
 
 ## Konzept, Finanzierung, Umsetzung, Veröffentlichung
 * Das Konzept zur Umsetzung des Zeitwährungs-Modules wurde in Kooperation mit Tobias Plettenbacher von der [Riadarei](http://www.riadarei.at) und [WIR gemeinsam](http://www.wirgemeinsam.net) erstellt.
