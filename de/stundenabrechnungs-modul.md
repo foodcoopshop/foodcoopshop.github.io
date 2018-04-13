@@ -7,7 +7,7 @@
 * Das Stundenabrechnungs-Modul trägt so dazu bei, dass Mitglieder bei *ihren* Herstellern am Hof / Feld mitarbeiten und so eine größere Verbundenheit und größeres gegenseitiges Verständnis ent- und besteht.
 
 ## Rechnungslegung und Rechtliches
-Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der in Zeit bezahlt wird, automatisch wieder in Euro umgerechnet und angeführt. Zusätzlich wird aber ausgewiesen, wie viel Geld des Gesamtbetrages in Zeit bezahlt wurden, denn das ist der Betrag, den der Hersteller überwiesen bekommt. Das Zurückrechnen in Euro ist rechtlich notwendig, da auch gegen Arbeitszeit "getauschte" Produkte versteuert werden müssen.
+Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der in Stunden bezahlt wird, automatisch wieder in Euro umgerechnet und angeführt. Zusätzlich wird aber ausgewiesen, wie viel Geld des Gesamtbetrages in Stunden bezahlt wurden, denn das ist der Betrag, den der Hersteller überwiesen bekommt. Das Zurückrechnen in Euro ist rechtlich notwendig, da auch gegen Arbeitszeit "getauschte" Produkte versteuert werden müssen.
 
 ## Einstellungen
 
