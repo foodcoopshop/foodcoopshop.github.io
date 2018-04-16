@@ -18,7 +18,7 @@ Ihr als Foodcoop könnt in den Einstellungen selbst festlegen, ob neu registrier
 ## Gruppen
 * **Mitglied**: nur eigene Bestellungen und Daten können eingesehen / geändert werden
 * **Admin**: sie dürfen im FoodCoopShop auch fremde Bestellungen ändern, Hersteller, Seiten, Blog-Artikel, Slideshow-Bilder, Kategorien und Varianten anlegen und bearbeiten
-* **Superadmin**: haben zusätzlich zu den Admin-Funktionen Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen), die Software-Einstellungen und können Pfand-Ausgleichszahlungen für Hersteller eintragen. Sie haben auf das Guthaben-System anderer Mitglieder Zugriff und können dort zusätzlich zu den "normalen" Funktionen auch Rückzahlungen eintragen. Beim Zeitwährungs-Modul können Superadmins auch auf die Zeitkonten von Hersteller und Mitglied zugreifen und ggfs. Eintragungen ändern.
+* **Superadmin**: haben zusätzlich zu den Admin-Funktionen Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen), die Software-Einstellungen und können Pfand-Ausgleichszahlungen für Hersteller eintragen. Sie haben auf das Guthaben-System anderer Mitglieder Zugriff und können dort zusätzlich zu den "normalen" Funktionen auch Rückzahlungen eintragen. Beim Stundenabrechnungs-Modul können Superadmins auch auf die Zeitkonten von Hersteller und Mitglied zugreifen und ggfs. Eintragungen ändern.
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
 ## Eigenes "Mitglied" für Abholdienste - Vorsicht!

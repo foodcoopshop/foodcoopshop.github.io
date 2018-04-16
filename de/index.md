@@ -14,5 +14,5 @@
 
 ## Module
 * [Netzwerk-Modul]({{ site.baseurl }}/de/netzwerk-modul) (Für Hersteller, die mehrere Foodcoops beliefern)
-* [Zeitwährungs-Modul]({{ site.baseurl }}/de/zeitwaehrungs-modul) (Mitglieder können Produkte mit ihrer Arbeitszeit bezahlen)
+* [Stundenabrechnung-Modul]({{ site.baseurl }}/de/stundenabrechnungs-modul) (Mitglieder können Produkte mit ihrer Arbeitszeit bezahlen)
 
