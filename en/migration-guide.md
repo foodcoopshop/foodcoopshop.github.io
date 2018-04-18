@@ -8,6 +8,7 @@
 ### FCS v1.5.x to FCS v2.0
 * FCS v2.0 uses CakePHP3 which is **mostly incompatible** to CakePHP2
 * **therefore you can only update to v2.0 from v1.5!**, so if you are working on v1.x and you want to update to v2.0, first update to 1.5!
+* you can download v1.5 [here](https://www.foodcoopshop.com/wp-content/uploads/releases/FoodCoopShop-v1.5.0.zip)
 * replace source code => see bottom of page
 * use the new structure of config files (rename custom.config.php to custom_config.php), follow the steps in the updated [Installation details]({{ site.baseurl }}/en/installation-details)
 * be aware that the content of the config file changed in syntax! renaming the file to custom_config.php **is not enough!**
