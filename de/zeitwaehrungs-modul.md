@@ -1,1 +1,0 @@
-[Zum Stundenabrechnungs-Modul]({{ site.baseurl }}/de/stundenabrechnungs-modul)
