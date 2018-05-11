@@ -1,6 +1,6 @@
-## Produkt erstellen
+## Produkt anlegen
 
-Menüpunkt "Hersteller" im FoodCoopShop, dann auf "x Produkte"-Button klicken und auf der Produkt-Seite oben rechts auf "Neues Produkt anlegen" klicken.
+Menüpunkt "Hersteller" im FoodCoopShop, dann auf "x Produkte"-Button klicken und auf der Produkt-Seite oben rechts auf "Neues Produkt" klicken.
 
 Danach kann das neu angelegte Produkt bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien usw...)
 
@@ -38,21 +38,22 @@ Die verfügbare Anzahl ist dann hilfreich, wenn das Produkt nur in einer begrenz
 
 ## Preis
 
-Brutto-Verkaufspreis. Eingegeben kann entweder der **Preis pro Bestelleinheit** oder seit v2.1 auch der **Preis nach Gewicht**.
+Falls sich der Preis im Nachhein nicht ändert (z.B. 1 Flasche Apfelsaft, 1 Glas Honig...), bitte den Brutto-Verkaufspreis bei **Preis pro Bestelleinheit** eintragen. 
 
 ## Preis nach Gewicht
 
-Beim Preis nach Gewicht kann z.B. folgende Preise angeben werden: "2 € / 100 g", "15,50 € / kg".
+Seit v2.1 ist auch der **Preis nach Gewicht** sauber ins Sytem eingebunden. Hierbei können z. B. folgende Preise angeben werden: "2,00 € / 100 g", "15,50 € / kg". Das ist sinnvoll, wenn beim Bestellen der Preis noch nicht feststeht, weil sich das Gewicht voraussichtlich noch ändern wird, wie z. B. oft bei Fleisch, Fisch und Käse.
 
 **Vorteile**
 
 * Beim Ändern des tatsächlich gelieferten Gewichts von z.B. 1 kg auf 1,05 kg wird der Preis automatisch aufgrund des eingetragenen Basis-Preises berichtigt. Wie immer wird das Mitglied automatisch über die Preis-Änderung informiert. 
 * Das Mitglied sieht bereits beim Bestellen den ungefähren Preis. Es ist ersichtlich, dass sich der Preis aufgrund einer eventuellen Gewichtsänderung noch ändern kann.
 * Auf den Rechnungen für die Hersteller wird die tatsächlich gelieferte Menge angeführt.
+* Die Funktion berücksicht auch, wenn man mehrere Einheiten eines Produktes bestellt.
 
-**Wissenswertes**
+**Bei Varianten bitte aufpassen!**
 
-Wenn man die Funktion verwendet, wird beim Bestellen das ungefähre Liefergewicht - mit einem "ca." davor anzezeigt. Das macht bei Varianten wie "Stück" oder "2 Paar" auch Sinn, dann wird eben "Stück, ca. 1 kg) angezeigt. Falls die Variante aber selbst schon eine Gewichtseinheit ist (z.B. "1 kg), dann würde dieses Gewicht doppelt angeführt werden (also "1 kg, ca. 1 kg"). Um das zu vermeiden, kann man im Admin-Bereich Varianten als "Diese Variante entspricht einer Gewichtseinheit" markiert werden. Dann wird der Variantenname nicht angezeigt.
+Wenn man die Funktion **Preis nach Gewicht** verwendet, wird beim Bestellen das ungefähre Liefergewicht - mit einem "ca." davor zusätzlich zur Variante bzw. Einheit anzezeigt. Das macht bei Varianten wie "Stück" oder "2 Paar" auch Sinn, dann wird eben "Stück, ca. 1 kg" angezeigt. Falls die Variante aber selbst schon eine Gewichtseinheit ist (z.B. "1 kg"), dann würde dieses Gewicht doppelt angeführt werden (also "1 kg, ca. 1 kg"). Um das zu vermeiden, kann man im Admin-Bereich Varianten mit "Diese Variante entspricht einer Gewichtseinheit" markiert werden. Dann wird der Variantenname nicht angezeigt.
 
 ## Steuersatz
 
