@@ -41,6 +41,17 @@ Die verfügbare Anzahl ist dann hilfreich, wenn das Produkt nur in einer begrenz
 Brutto-Verkaufspreis. Eingegeben kann entweder der **Preis pro Bestelleinheit** oder seit v2.1 auch der **Preis nach Gewicht**.
 
 ## Preis nach Gewicht
+
+Beim Preis nach Gewicht kann z.B. folgende Preise angeben werden: "2 € / 100 g", "15,50 € / kg".
+
+**Vorteile**
+
+* Beim Ändern des tatsächlich gelieferten Gewichts von z.B. 1 kg auf 1,05 kg wird der Preis automatisch aufgrund des eingetragenen Basis-Preises berichtigt. Wie immer wird das Mitglied automatisch über die Preis-Änderung informiert. 
+* Das Mitglied sieht bereits beim Bestellen den ungefähren Preis. Es ist ersichtlich, dass sich der Preis aufgrund einer eventuellen Gewichtsänderung noch ändern kann.
+* Auf den Rechnungen für die Hersteller wird die tatsächlich gelieferte Menge angeführt.
+
+**Wissenswertes**
+
 Wenn man die Funktion verwendet, wird beim Bestellen das ungefähre Liefergewicht - mit einem "ca." davor anzezeigt. Das macht bei Varianten wie "Stück" oder "2 Paar" auch Sinn, dann wird eben "Stück, ca. 1 kg) angezeigt. Falls die Variante aber selbst schon eine Gewichtseinheit ist (z.B. "1 kg), dann würde dieses Gewicht doppelt angeführt werden (also "1 kg, ca. 1 kg"). Um das zu vermeiden, kann man im Admin-Bereich Varianten als "Diese Variante entspricht einer Gewichtseinheit" markiert werden. Dann wird der Variantenname nicht angezeigt.
 
 ## Steuersatz
