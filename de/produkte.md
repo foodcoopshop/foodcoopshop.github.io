@@ -50,12 +50,12 @@ Seit v2.1 ist auch der **Preis nach Gewicht** sauber ins Sytem eingebunden. Hier
 
 * Beim Ändern des tatsächlich gelieferten Gewichts von z.B. 1 kg auf 1,05 kg wird der Preis automatisch aufgrund des eingetragenen Basis-Preises berichtigt. Wie immer wird das Mitglied automatisch über die Preis-Änderung informiert. 
 * Das Mitglied sieht bereits beim Bestellen den ungefähren Preis. Es ist ersichtlich, dass sich der Preis aufgrund einer eventuellen Gewichtsänderung noch ändern kann.
-* Auf den Rechnungen für die Hersteller wird die tatsächlich gelieferte Menge angeführt.
+* Auf den Rechnungen für die Hersteller wird die tatsächlich gelieferte Menge angeführt, auf der Übersichtsseite auch aufsummiert.
 * Die Funktion berücksicht auch, wenn man mehrere Einheiten eines Produktes bestellt.
 
 **Bei Varianten bitte aufpassen!**
 
-Wenn man die Funktion **Preis nach Gewicht** verwendet, wird beim Bestellen das ungefähre Liefergewicht - mit einem "ca." davor zusätzlich zur Variante bzw. Einheit anzezeigt. Das macht bei Varianten wie "Stück" oder "2 Paar" auch Sinn, dann wird eben "Stück, ca. 1 kg" angezeigt. Falls die Variante aber selbst schon eine Gewichtseinheit ist (z.B. "1 kg"), dann würde dieses Gewicht doppelt angeführt werden (also "1 kg, ca. 1 kg"). Um das zu vermeiden, kann man im Admin-Bereich Varianten mit "Diese Variante entspricht einer Gewichtseinheit" markiert werden. Dann wird der Variantenname nicht angezeigt.
+Wenn man die Funktion **Preis nach Gewicht** verwendet, wird beim Bestellen und auch in den Bestelllisten für die Hersteller das ungefähre Liefergewicht - mit einem "ca." davor zusätzlich zur Variante bzw. Einheit anzezeigt. Das macht bei Varianten wie "Stück" oder "2 Paar" auch Sinn, dann wird eben "Stück, ca. 1 kg" angezeigt. Falls die Variante aber selbst schon eine Gewichtseinheit ist (z.B. "1 kg"), dann würde dieses Gewicht doppelt angeführt werden (also "1 kg, ca. 1 kg"). Um das zu vermeiden, kann man im Admin-Bereich Varianten mit "Diese Variante entspricht einer Gewichtseinheit" markiert werden. Dann wird der Variantenname nicht angezeigt.
 
 ![]({{ site.baseurl }}/assets/img/preis-nach-gewicht/preis-nach-gewicht-varianten.png)
 
