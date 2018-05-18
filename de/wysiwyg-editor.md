@@ -6,7 +6,7 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 * Seiten, Blog-Artikel, Kategorien bearbeiten
 * Produktbeschreibung bearbeiten
 
-### Wie kann ich ein Dateien (z. B. PDF) hochladen und verlinken?
+### Wie kann ich Dateien (z. B. PDF) hochladen und verlinken?
 1. Den Text, der mit dem Download verlinkt werden soll, markieren.
 2. In der Symbolleiste unter "Link einfügen / editieren" dann auf den Reiter "Hochladen" klicken.
 3. Auf "Datei auswählen" klicken, die Datei auf dem eigenen Computer auswählen und auf "Zum Server senden" klicken.
@@ -16,9 +16,9 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 ### Wie kann ich den Upload wieder vom Server löschen?
 1. Auf "Link einfügen / editieren" klicken.
 2. Unten auf "Server durchsuchen" klicken.
-3. Rechte Maustaste auf die Daten und dann "Löschen" auswählen.
+3. Rechte Maustaste auf die Datei und dann "Löschen" auswählen.
 
-### Wie kann ich einen Datei erneut verlinken?
+### Wie kann ich eine Datei erneut verlinken?
 1. Auf "Link einfügen / editieren" klicken.
 2. Unten auf "Server durchsuchen" klicken.
 3. Auf die gewünschte - bereits hochgeladene - Datei klicken. 
