@@ -51,7 +51,7 @@ Seit v2.1 ist auch der **Preis nach Gewicht** sauber ins Sytem eingebunden. Hier
 * Beim Ändern des tatsächlich gelieferten Gewichts von z.B. 1 kg auf 1,05 kg wird der Preis automatisch aufgrund des eingetragenen Basis-Preises angepasst, das Mitglied wird automatisch über die Gewichts- und Preis-Anpassung informiert. 
 * Das Mitglied sieht bereits beim Bestellen den ungefähren Preis. Es ist ersichtlich, dass sich der Preis aufgrund einer eventuellen Gewichtsänderung noch ändern kann.
 * Auf den Rechnungen für die Hersteller wird die tatsächlich gelieferte Menge angeführt, auf der Übersichtsseite auch aufsummiert.
-* Die Funktion berücksicht auch, wenn man mehrere Einheiten eines Produktes bestellt.
+* Die Funktion berücksichtigt auch, wenn man mehrere Einheiten eines Produktes bestellt.
 
 **Bei Varianten bitte aufpassen!**
 
