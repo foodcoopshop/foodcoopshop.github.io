@@ -63,8 +63,8 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 ## Database Setup
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
 * Define your database configuration in custom_config.php
-* At first, **import the [initial database structure]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-structure.sql)**
-* Then **import [initial database data]({{site.repo_url}}/blob/master/Config/sql/_installation/clean-db-data.sql)**
+* At first, **import the [initial database structure]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-structure.sql)**
+* Then **import [initial database data]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data.sql)**
 * You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials
