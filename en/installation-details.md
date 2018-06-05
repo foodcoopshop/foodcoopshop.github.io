@@ -13,7 +13,7 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 
 That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
 
-There is a **[demo installation](https://demo.foodcoopshop.com/)** already running for you (German only). Feel free to test before installing.
+There is a demo installation in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)** running for you. Feel free to test before installing.
 
 ### Download latest version to your server
 The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!**
@@ -58,13 +58,13 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 * Set `cakeServerName` to your servers data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
 * The default configuration is found in [app_config.php]({{site.repo_url}}/blob/master/config/app_config.php).
 * Some configuration is stored in the database and can easily be changed from the admin screen: https://yourdomain.tld/admin/configurations (Super Admin account required)
-* [Detailed configuration information in German]({{ site.baseurl }}/de/software-einstellungen)
+* Detailed configuration information in [German]({{ site.baseurl }}/de/software-einstellungen) and [English]({{ site.baseurl }}/en/settings)
 
 ## Database Setup
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
 * Define your database configuration in custom_config.php
 * At first, **import the [initial database structure]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-structure.sql)**
-* Then **import [initial database data]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data.sql)**
+* Then **import initial database data in [German]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-en_US.sql)**. You cannot easily change the language after the installations, so please stick to your decision.
 * You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials

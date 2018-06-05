@@ -1,7 +1,18 @@
-## English
+## Overview
 
+* [Picking-up the products]({{ site.baseurl }}/en/picking-up-the-products)
+* [Credit-System]({{ site.baseurl }}/en/credit-system)
+* [Manufacturers]({{ site.baseurl }}/en/manufacturers)
+* [Members]({{ site.baseurl }}/en/members)
+* [Network-Module]({{ site.baseurl }}/en/network-module) (For manufacturers who deliver their products to several food-coops)
+* [Deposit]({{ site.baseurl }}/en/deposit)
+* [Paying-with-time-Module]({{ site.baseurl }}/en/paying-with-time-module) (Members can pay their products with working time)
+* [Products]({{ site.baseurl }}/en/products)
 * [Legal information]({{ site.baseurl }}/en/legal-information)
-* [Installation details]({{ site.baseurl }}/en/installation-details)
+* [Settings]({{ site.baseurl }}/en/settings)
+* [Tips and tricks]({{ site.baseurl }}/en/tips-and-tricks)
+* [WYSIWYG-Editor]({{ site.baseurl }}/en/wysiwyg-editor)
+
+## For Developers
+* [Installation]({{ site.baseurl }}/en/installation-details)
 * [Migration guide]({{ site.baseurl }}/en/migration-guide)
-* [Installation of the network plugin]({{ site.baseurl }}/en/installation-network-plugin)
-* [List of foodcoops that already work with FoodCoopShop]({{ site.baseurl }}/en/foodcoops)
