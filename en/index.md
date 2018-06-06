@@ -2,6 +2,7 @@
 
 * [Picking-up the products]({{ site.baseurl }}/en/picking-up-the-products)
 * [Credit-System]({{ site.baseurl }}/en/credit-system)
+* [Financial reports]({{ site.baseurl }}/en/financial-reports)
 * [Manufacturers]({{ site.baseurl }}/en/manufacturers)
 * [Members]({{ site.baseurl }}/en/members)
 * [Network-Module]({{ site.baseurl }}/en/network-module) (For manufacturers who deliver their products to several food-coops)

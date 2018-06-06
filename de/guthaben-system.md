@@ -21,3 +21,15 @@ Es kann ein Maximalwert für die einzelnen Guthaben-Aufladungen angegeben werden
 
 ## Update FCS v1.2
 Superadmins können unter "Finanzberichte" die Guthaben-Aufladungen bestätigen oder zurückweisen, der Status scheint dann im Guthaben-System der Mitglieder auf. So können fehlerhafte Aufladungen frühzeitig erkannt werden.
+
+
+## Hilfe-Text: Übernahme aus Menüpunkt "Guthaben-System"
+Um Guthaben aufzuladen, überweise bitte mittels E-Banking oder per Erlagschein den gewünschten Betrag auf folgendes Konto:
+Kontobezeichnung
+Bitte gib als Buchungstext "Guthaben-Aufladung" und deinen Namen an.
+Klicke dann auf  "Eingezahltes Guthaben eintragen" und gib den Betrag, den du gerade überwiesen hast, in unser System ein. Fertig.
+In der ersten und letzten Zeile siehst du deinen aktuellen Kontostand. Du bekommst eine automatische Erinnerungsmail zugeschickt, falls du dein Konto mal überziehst. Bestellen kannst du trotzdem.
+Stornierungen von Produkten werden dir automatisch gutgeschrieben.
+Wenn du auf eine Bestellung klickst, siehst du alle Produkte, die bestellt wurden. Du kannst somit überprüfen, wie die Summe zustandekommt.
+Auch das Pfand wird seit dem 01.01.2016 automatisch vom Guthaben abgezogen.
+Wenn du Pfandgebinde zurückbringst, kannst du den Betrag unter Bestellungen - Pfand-Rückgabe eintragen, er wird dir dann auf dieser Seite gutgeschrieben. Suche dir gegebenfalls eine deiner alten Bestellungen, damit der Link "Pfand eintragen" aufscheint.

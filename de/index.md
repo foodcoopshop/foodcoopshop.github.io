@@ -1,6 +1,8 @@
 ## Übersicht
 
 * [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
+* [Einstellungen]({{ site.baseurl }}/de/einstellungen)
+* [Finanzberichte]({{ site.baseurl }}/de/finanzberichte)
 * [Guthaben-System]({{ site.baseurl }}/de/guthaben-system)
 * [Hersteller-Verwaltung]({{ site.baseurl }}/de/hersteller)
 * [Mitglieder-Verwaltung]({{ site.baseurl }}/de/mitglieder)
@@ -9,7 +11,6 @@
 * [Produkt-Verwaltung]({{ site.baseurl }}/de/produkte)
 * [Rechtliches]({{ site.baseurl }}/de/rechtliches)
 * [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen)
-* [Software-Einstellungen]({{ site.baseurl }}/de/software-einstellungen)
 * [Stundenabrechnung-Modul]({{ site.baseurl }}/de/stundenabrechnungs-modul) (Mitglieder können Produkte mit ihrer Arbeitszeit bezahlen)
 * [Tipps und Tricks]({{ site.baseurl }}/de/tipps-und-tricks)
 * [WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor)

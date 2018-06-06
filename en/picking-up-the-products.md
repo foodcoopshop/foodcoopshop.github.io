@@ -1,1 +1,0 @@
-## Picking up the products

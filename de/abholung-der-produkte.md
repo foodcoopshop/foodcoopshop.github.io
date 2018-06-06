@@ -68,3 +68,19 @@ In diesem Fall versuche, das Mitglied ausfindig machen, das das Produkt wahrsche
 * Produkt über Sofort-Bestellung auf eine Vereinskonto nachbestellen. Natürlich muss dazu das Vereinskonto (ein ganz normales Mitgliedskonto) existieren.
 
 So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein zu tragen hatte.
+
+## Hilfe-Text: Übernahme aus Menüpunkt "Bestellungen"
+* Ein Klick auf "Bestellte Produkte anzeigen" neben dem Namen bringt dich direkt in die Liste der bestellten Produkte des Mitglieds. Es werden dort alle Bestellungen dieser Bestellperiode zusammengefasst angezeigt.
+* Bestellung rückdatieren: Falls du während eines Abholdienstes eine Bestellung rückdatieren musst (damit das Mitglied das Produkt sofort mitnehmen kann und die Bestellung nicht in der nächsten Bestellperiode aufscheint), klicke bitte auf  "rückdatieren" ganz rechts wähle einen Tag der letzten Bestellperiode aus. Ein Beispiel wäre: Freitag abholdienst => neuer Wert: 3 Tage früher (Dienstag).
+* Gruppieren nach Mitglied bedeutet, dass alle Bestellungen der gleichen Mitgliedern zusammengefasst werden. Somit sieht man, wieviel jedes Mitglied tatsächlich zu bezahlen hat. Diese Liste ist ideal für eine Gesamtübersicht des Abholdienstes (nach allen Stornierungen).
+* Unten rechts ist ein Button, mit dem man alle E-Mail-Adressen der Mitglieder in der Liste erhält. So kann man Informationen an alle Leute aussenden, die bestellt haben.
+* Mit Klick "Bestellstatus ändern" kannst du den Bestellstatus der Bestellung ändern.
+* Mitglieder mit einem Blatt-Symbol haben erst 3x oder weniger bestellt.
+* Das ein rotes Rufzeichen am Anfang der Zeile zeigt an, ob das Mitglied einen Kommentar zur Bestellung verfasst hat. Dieser kann auch geändert werden. Wenn das Symbol ausgegraut ist, kann ein neuer Kommentar erstellt werden.
+
+## Hilfe-Text: Übernahme aus Menüpunkt "Bestellte Produkte"
+* Produkt stornieren: Mit einem Klick auf das Storno-Icon ganz rechts kannst du das Produkt stornieren. Von Mittwoch bis Freitag werden beim Stornieren das Mitglied und der Hersteller per E-Mail verständigt, dass das Produkt nicht geliefert wird. Du kannst auch angeben, warum das Produkt storniert wird.
+* Preis ändern: Du kannst Preise von bereits bestellten Produkten ändern und dafür auch einen Grund angeben. Das Mitglied und der Hersteller werden dabei automatisch per E-Mail benachrichtigt.
+* Wenn du auf den Button rechts unten klickst, erhältst du die E-Mail-Adressen von allen Mitgliedern.
+* Wenn du auf das Häkchen ganz links klickst, ist die Zeile bis zum nächsten Laden der Seite grün markiert.
+* Du kannst die Liste nach verschiedensten Kriterien filtern.
