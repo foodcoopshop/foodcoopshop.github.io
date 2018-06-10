@@ -1,1 +1,1 @@
-## Paying-with-time Module
+## Paying-with-time module

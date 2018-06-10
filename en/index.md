@@ -1,6 +1,6 @@
 ## Overview
 
-* [Picking-up the products]({{ site.baseurl }}/en/picking-up-the-products)
+* [Pick up products]({{ site.baseurl }}/en/pick-up-products)
 * [Credit-System]({{ site.baseurl }}/en/credit-system)
 * [Financial reports]({{ site.baseurl }}/en/financial-reports)
 * [Manufacturers]({{ site.baseurl }}/en/manufacturers)
