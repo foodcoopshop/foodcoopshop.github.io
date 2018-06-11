@@ -30,7 +30,11 @@ Welche E-Mails werden verschickt? Siehe weiter unten.
 
 Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück liefern kann, kann man die bestellte Anzahl ändern. Dies geschieht über das Bearbeiten-Symbol neben der Anzahl unter Bestellungen / Bestellte Produkte. Das Mitglied und der Hersteller werden per E-Mail darüber informiert.
 
-## Wer bekommt wann welche E-Mails (Stornieren, Korrigieren von Preis und Anzahl)?
+## Korrigieren des bestellten Gewichts (ab v2.1)
+
+Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. 
+
+## Wer bekommt wann welche E-Mails (Stornieren, Korrigieren von Preis, Anzahl und Gewicht)?
 * Falls der Hersteller storniert, bekommt das Mitglied eine E-Mail
 * Falls ein Mitglied storniert (z. B. Shopdienst), bekommen Hersteller und das, Mitglied das bestellt hat, eine E-Mail
 * Vor Versenden der Bestelllisten (z. B. am Dienstag) bekommt der Hersteller keine E-Mail, das Mitglied schon.
