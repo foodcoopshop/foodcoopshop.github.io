@@ -61,9 +61,6 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 * Synchronisation von Änderungen bei bestellten Produkten (Stornierungen, Preis ändern, bestellte Anzahl ändern)
 * Verwendung des gesamten Netzwerk-Moduls als Admin bzw. Superadmin (und nicht nur als Hersteller)
 * Hersteller mit variablem Mitgliedsbeitrag sollen diese Foodcoop auch als Master-Foodcoop verwenden können.
-* Mehr unter [https://github.com/foodcoopshop/fcs-network-plugin/issues](https://github.com/foodcoopshop/fcs-network-plugin/issues)
 
 ## Technische Infos (für Programmierer)
 * [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
-* Netzwerk-Modul auf Github: [https://github.com/foodcoopshop/fcs-network-plugin](https://github.com/foodcoopshop/fcs-network-plugin)
-* Bugs und Anmerkungen [bitte hier eintragen](https://github.com/foodcoopshop/fcs-network-plugin/issues).
