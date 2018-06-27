@@ -14,7 +14,7 @@
 
 * If you want to host FoodCoopShop by yourself, please read the [installation details]({{ site.baseurl }}/en/installation-details).
 * If you want to update your installation, please read the [migration guide]({{ site.baseurl }}/en/migration-guie).
-* What's new in the latest version? [View the changlog]({{{site.repo_url}}/blob/master/CHANGELOG.md).
+* What's new in the latest version? [View the changelog]({{{site.repo_url}}/blob/master/CHANGELOG.md).
 
 ## Who uses FoodCoopShop?
 
