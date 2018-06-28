@@ -18,8 +18,8 @@
 
 ## Who uses FoodCoopShop?
 
-* [{{ site.baseurl }}/en/foodcoops]({{ site.baseurl }}/en/foodcoops)
+* [https://foodcoopshop.github.io/en/foodcoops]({{ site.baseurl }}/en/foodcoops)
 
 ## Stability
 
-* Currently (June 2018) there are more than 221 automated unit tests with more than 1011 assertions, that keep the software stable.
+* Currently (June 2018) there are [more than 221 automated unit tests with more than 1011 assertions](https://travis-ci.org/foodcoopshop/foodcoopshop/builds) that keep the software stable.
