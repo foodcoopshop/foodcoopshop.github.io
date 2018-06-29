@@ -85,7 +85,7 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 * Du kannst deine Produkte online bzw. offline setzen (Icons  bzw.  ganz rechts).
 * Varianten: Mit dem -Icon kannst du eine neue Variante (z.B. 1kg, 2kg und 5kg) zu deinen Produkten anlegen. Das -Icon sagt dir, welche Variante beim Bestellen standardmäßig ausgewählt ist, diese Standardvariante kannst du ändern. Varianten können auf "nicht bestellbar" gesetzt werden, in dem du die Anzahl auf 0 setzt.
 * Falls eine gewünschte Variante noch nicht zur Verfügung steht, sag uns bitte Bescheid. Wir legen sie dann für dich an.
-* Wenn du von einem Produkt nur eine beschränkte Anzahl liefern kannst, ändere die Anzahl bitte dementsprechend. Unser System vermindert bei jeder * Bestellung den Lagerbestand und stoppt die Bestellmöglichkeit, wenn keine Produkte mehr verfügbar sind, automatisch. Somit bekommt jeder, der bestellt, seine Ware und es muss nichts storniert werden.
+* Wenn du von einem Produkt nur eine beschränkte Anzahl liefern kannst, ändere die Anzahl bitte dementsprechend. Unser System vermindert bei jeder * Bestellung den Lagerbestand und stoppt die Bestellmöglichkeit, wenn keine Produkte mehr verfügbar sind, automatisch. Somit bekommt jeder, der bestellt, seine Produkte und es muss nichts storniert werden.
 * Bilder hochladen: Durch Anklicken des -Icons kannst ein Bild zu deinem Produkt hochladen. Wenn zu einem Produkt noch kein Bild hochgeladen wurde, ist das Icon rot hinterlegt. Bilder zu Varianten sind nicht möglich.
 * Du siehst, für welche Produkte wir Pfand einheben. Möchtest du den Pfand ändern, sag uns bitte Bescheid.
 * Neue Produkte können im Shop als "neu" gekennzeichnet werden und scheinen dann 7 Tage lang unter "Neue Produkte" auf.
