@@ -54,7 +54,7 @@ You can also change the order status on the Ordered Products page. The correspon
 
 ## Enter deposit return
 
-The deposit will be automatically deducted from the credit of the member when ordering. Under "Orders" there is a button "Pledge return", with which the amount of the empties can be entered, which brings the respective member back. The amount is thus credited back to the credit system.
+The deposit will be automatically deducted from the credit of the member when ordering. Under "Orders" there is a button "Deposit return", with which the amount of the empties can be entered, which brings the respective member back. The amount is thus credited back to the credit system.
 
 ## Immediate order for storage products
 

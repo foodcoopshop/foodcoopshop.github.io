@@ -20,7 +20,7 @@ As a foodcoop, you can specify in the settings whether newly registered members 
 ## Groups
 * **Member**: only own orders and data can be viewed or changed
 * **Admin**: may change in the FoodCoopShop also foreign orders, manufacturers, pages, blog articles, create slideshows, categories and variants and edit
-* **Superadmin**: In addition to the admin functions, you can access the financial reports (overview of the credit-worthy charges), the software settings and can enter pledge compensations for manufacturers. They have access to the credit system of other members and can enter there in addition to the "normal" functions and repayments. With the hourly billing module, superadmins can also access the time accounts of the manufacturer and member and, if necessary, change entries. You can also change the profile of other members and delete member accounts.
+* **Superadmin**: In addition to the admin functions, you can access the financial reports (overview of the credit-worthy charges), the software settings and can enter deposit compensation payments for manufacturers. They have access to the credit system of other members and can enter there in addition to the "normal" functions and repayments. With the hourly billing module, superadmins can also access the time accounts of the manufacturer and member and, if necessary, change entries. You can also change the profile of other members and delete member accounts.
 * **Manufacturers** are not members and therefore are not members of any of the groups mentioned above.
 
 ## Own "member" for pick-up services - Attention!

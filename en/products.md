@@ -73,9 +73,9 @@ Tip: In the manufacturer options each manufacturer can be assigned a standard ta
 
 Products are automatically "marked as new" after creation, d. H. they appear in the "category" "New Products". However, products can also be marked as "new" manually (eg after a seasonal change of assortment). After the expiration of x days (configurable under "Settings"), the product can then be found again without the asterisk in the product lists.
 
-## pledge
+## Deposit
 
-In the FoodCoopShop under Manufacturers - Products click on the icon next to the pledged amount. If manufacturer changes the pledge of his product, the Foodcoop will be notified by email, so that any lists that are stored in the depot storage can be updated. To clear deposit please set the value to 0.
+In the FoodCoopShop under Manufacturers - Products click on the icon next to the deposit amount. If manufacturer changes the deposit of his product, the Foodcoop will be notified by email, so that any lists that are stored in the depot storage can be updated. To clear deposit please set the value to 0.
 
 ## Status (active / inactive)
 
