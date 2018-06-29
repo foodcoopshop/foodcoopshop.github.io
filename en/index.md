@@ -12,6 +12,7 @@
 * [Products]({{ site.baseurl }}/en/products)
 * [Settings]({{ site.baseurl }}/en/settings)
 * [Tips and tricks]({{ site.baseurl }}/en/tips-and-tricks)
+* [Translating]({{ site.baseurl }}/en/translating)
 * [WYSIWYG-Editor]({{ site.baseurl }}/en/wysiwyg-editor)
 
 ## For Developers

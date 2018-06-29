@@ -8,7 +8,7 @@
 ## Language support
 
 * The software and its documentation are available in [German]({{ site.baseurl }}/de/) and [English]({{ site.baseurl }}/en/) (since v2.1). 
-* If you want to translate it into another language, please contact Mario (office@foodcoopshop.com). That would be great!
+* If you want to translate it into another language, please read the [info page for translating](({{ site.baseurl }}/en/translating)).
 
 ## Installation and updates
 
