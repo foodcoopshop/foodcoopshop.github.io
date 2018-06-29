@@ -5,10 +5,8 @@ Please contact Mario (office@foodcoopshop.com) if you want to make FoodCoopShop 
 The following steps are necessary: 
 
 ### Translate po files with software [POEdit](https://poedit.net)
-* [Core]({{site.repo_url}}/tree/develop/src/Locale/en_US/default.po)
-* [Admin]({{site.repo_url}}/tree/develop/plugins/Admin/src/Locale/en_US/admin.po)
-* [Network-Module]({{site.repo_url}}/tree/develop/plugins/Network/src/Locale/en_US/network.po)
-* msgids starting with "docs_route_" or "route" need to contain a string that is valid in urls (please avoid special characters)
+* 3 po files need to be translated: [Core]({{site.repo_url}}/tree/develop/src/Locale/en_US/default.po), [Admin]({{site.repo_url}}/tree/develop/plugins/Admin/src/Locale/en_US/admin.po) and [Network]({{site.repo_url}}/tree/develop/plugins/Network/src/Locale/en_US/network.po)
+* msgids starting with "docs_route_" or "route_" need to contain a string that is valid in urls (please avoid special characters)
 * msgids ending with "_html" can contain some html (eg. b-tag)
 
 ### Translate date and time formats as seen in configuration
