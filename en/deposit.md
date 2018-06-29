@@ -2,25 +2,25 @@
 
 Deposit is automatically deducted from the member's credit in the default configuration (cashless payment). In the credit balance, it is shown in an extra column.
 
-If a ** member returns empty containers, ** the amount of the empty container can be entered under "Orders" under the item "Deposit return". This amount then appears in the credit balance and increases the credit of the member.
+If a **member returns empty containers,** the amount of the empty container can be entered under "Orders" under the item "Deposit return". This amount then appears in the credit balance and increases the credit of the member.
 
 ## Deposit processing with manufacturer
 
-If a ** manufacturer withdraws empty containers **, he can enter the value of the empty container himself under the menu item ** Deposit account **. It will then be counted against the delivered pledge and nicely displayed.
+If a **manufacturer withdraws empty containers **, he can enter the value of the empty container himself under the menu item ** Deposit account**. It will then be counted against the delivered pledge and nicely displayed.
 
-Admins can also enter these empty container returns for the manufacturer. The link to the deposit account of the respective manufacturer is on the manufacturer's list in the column ** Deposit **.
+Admins can also enter these empty container returns for the manufacturer. The link to the deposit account of the respective manufacturer is on the manufacturer's list in the column **Deposit**.
 
-Both the menu item ** deposit account ** in the manufacturer login and the link to the deposit account of the manufacturer in the manufacturer list ** only appear if at least one product with a deposit was ordered from the manufacturer **. Many manufacturers do not use a deposit and are thus not unnecessarily confused by the unnecessary menu item.
+Both the menu item **deposit account ** in the manufacturer login and the link to the deposit account of the manufacturer in the manufacturer list ** only appear if at least one product with a deposit was ordered from the manufacturer**. Many manufacturers do not use a deposit and are thus not unnecessarily confused by the unnecessary menu item.
 
 ## Annual Accounts
 
-Since the entire pledge is rarely returned in the form of empty containers, at the end of the year the pledge account should be compensated with a compensation payment. This can be done by ** Superadmins ** in the respective deposit accounts of the manufacturers. Since there is always some deposit in circulation, it is not necessary to exactly balance the deposit account at the end of the year.
+Since the entire pledge is rarely returned in the form of empty containers, at the end of the year the pledge account should be compensated with a compensation payment. This can be done by **Superadmins** in the respective deposit accounts of the manufacturers. Since there is always some deposit in circulation, it is not necessary to exactly balance the deposit account at the end of the year.
 
 A possible difference of the sums (manufacturer - column pledge and members - second number column credits) can therefore result that pledge has already been used back and entered into the system, but has not yet been withdrawn by the manufacturer. It would then have to be in the form of empties in Abhollager.
 
 ## Financial Report "Pledge"
 
-In the ** financial report pawn **, only these clearing payments appear, not the empty-container returns.
+In the **financial report pawn**, only these clearing payments appear, not the empty-container returns.
 
 ## Deposit balance in members overview
 

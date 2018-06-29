@@ -1,6 +1,6 @@
 ## Leitfaden für Sammelbestellungen
 
-Die hier beschriebenen **Sammelbestellungen** sind Bestellungen, die **über mehrere Wochen gesammelt** werden. Somit erreicht man mehr Mitglieder und die Bestellmenge wird größer. Das ist sinnvoll für Produkte, die man gut lagern kann, deren Versand teuer ist und die man deswegen nur ein paar Mal im Jahr bestellt.
+Die hier beschriebenen **Sammelbestellungen**sind Bestellungen, die**über mehrere Wochen gesammelt** werden. Somit erreicht man mehr Mitglieder und die Bestellmenge wird größer. Das ist sinnvoll für Produkte, die man gut lagern kann, deren Versand teuer ist und die man deswegen nur ein paar Mal im Jahr bestellt.
 
 **Sammelbestellungen bedeuten einen größeren Verwaltungsaufwand als die automatisierten "normalen" - d. h. wöchentlichen Bestellungen. Es ist daher sinnvoll, wenn ein Mitglied eine Sammelbestellung von Anfang bis zum Ende übernimmt.**
 

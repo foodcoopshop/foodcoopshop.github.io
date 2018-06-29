@@ -2,7 +2,7 @@
 
 ## Create a manufacturer
 
-Admins and super admins have the possibility to create new ones in the admin area: ** Manufacturer ** - Create new manufacturer
+Admins and super admins have the possibility to create new ones in the admin area: **Manufacturer** - Create new manufacturer
 
 So that the manufacturer can log in, log out of the admin, then under "Login" and "Forgot password" for the manufacturer request a new password, in the box enter the e-mail address of the manufacturer and click "Send". The manufacturer then gets the password sent to his address.
 
@@ -23,7 +23,7 @@ Since version 1.5, the delivery break (before v1.5 "vacation mode") can be speci
 
 **Important**: Manufacturers must specify in which period **may not be** ordered. Example: If delivery is not possible on Friday, 18.11.2017, the period must be 08.11.2017 (Wednesday) to 14.11.2017 (Tuesday). This is the period in which orders for Friday 18.11.2017 will be collected.
 
-Both fields empty means: delivery break is ** not active **.
+Both fields empty means: delivery break is **not active**.
 
 
 **Just for members?**
@@ -48,11 +48,11 @@ This point can only be seen if the module is activated. Manufacturers will be de
 
 This setting can not be viewed or changed by the manufacturer.
 
-** Preset tax rate for new products **
+**Preset tax rate for new products**
 
 If z. For example, if a manufacturer is not subject to VAT, his or her default tax rate can be changed to 0%. All newly created products have then automatically set 0%. This reduces the potential for error and work for the manufacturer.
 
-** Manufacturer optimized for bulk orders **
+**Manufacturer optimized for bulk orders**
 
 Details can be found here: [Collective Order Guide] ({{site.baseurl}} / DE / Collective Orders)
 

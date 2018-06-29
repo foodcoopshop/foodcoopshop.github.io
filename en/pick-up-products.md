@@ -48,7 +48,7 @@ To view the ordered products of the member, click on the "Ordered Products" butt
 
 Under "Orders" you will find on the right the button "Change order status", with which you can set the order to "completed" (the line is green and stays green when the page is reloaded). To see who has not yet picked up their products, you can set the status filter (above) to "open".
 
-** Attention: ** If a member has ordered several times, each order must be set to "completed". By clicking on "Ordered Products", however, all products from all orders will always be displayed (ie the same list will always appear, no matter which order you click). The whole thing is technically not possible otherwise but not too bad, if you know about this little peculiarity.
+**Attention:** If a member has ordered several times, each order must be set to "completed". By clicking on "Ordered Products", however, all products from all orders will always be displayed (ie the same list will always appear, no matter which order you click). The whole thing is technically not possible otherwise but not too bad, if you know about this little peculiarity.
 
 You can also change the order status on the Ordered Products page. The corresponding button "Change order status" is below and only appears if no filter is set by manufacturer or product AND a filter is set by member. After completing you will automatically return to the orders. At the end of the shop service no more open orders may be available.
 

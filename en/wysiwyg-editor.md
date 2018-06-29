@@ -25,15 +25,15 @@ The WYSIWYG editor is used to create and format text and images, it is used in t
 4. Click OK in the next window.
 
 ### How can I upload pictures?
-1. The process is the same as for ** Upload Files **, but in the toolbar instead of "Insert Link" click on "Image". The images are automatically reduced to a maximum of 717px.
+1. The process is the same as for **Upload Files**, but in the toolbar instead of "Insert Link" click on "Image". The images are automatically reduced to a maximum of 717px.
 
 ### How do I open a link in a new window?
 1. Highlight the linked text in the editor and click on "Insert / edit link".
-2. Click on the tab "Landing page" and select ** New window (_blank) **.
+2. Click on the tab "Landing page" and select **New window (_blank)**.
 
 ### How can I make nice buttons from links?
 1. Highlight the linked text in the editor and click on "Insert / edit link".
-2. Click on the "Advanced" tab and enter under "Style Template" ** btn btn-success ** (green button) or ** btn btn-default ** (white button with gray border).
+2. Click on the "Advanced" tab and enter under "Style Template" **btn btn-success ** (green button) or ** btn btn-default** (white button with gray border).
 
 ### layout shot up? Remove formatting
 If you For example, if you copy text from a Word document or another Web page and paste it into the editor, the formatting is often incorrect. The font is z. B. another or the text is shot. Simply mark the entire text and click on the second button from the left "Remove formatting".
@@ -42,4 +42,4 @@ If you For example, if you copy text from a Word document or another Web page an
 The embed code of z. B. Youtube please insert in the source code (button on the far right).
 
 ### Which software is used by the FoodCoopShop?
-* [CKEditor] (https://ckeditor.com/) with [KCFinder] (https://kcfinder.sunhater.com/) as a file upload plugin (not: ** CK ** Finder!)
+* [CKEditor] (https://ckeditor.com/) with [KCFinder] (https://kcfinder.sunhater.com/) as a file upload plugin (not: **CK** Finder!)

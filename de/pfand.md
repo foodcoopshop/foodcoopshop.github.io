@@ -10,7 +10,7 @@ Wenn ein **Hersteller Leergebinde zurücknimmt**, kann er selbst unter dem Menü
 
 Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
-Sowohl der Menüpunkt **Pfandkonto** im Hersteller-Login als auch der Link zum Pfandkonto des Herstellers in der Hersteller-Liste **scheinen nur auf, wenn zumindest ein Produkt mit Pfand beim Hersteller bestellt wurde**. Viele Hersteller verwenden keinen Pfand und werden so durch den nicht benötigten Menüpunkt nicht unnötig verwirrt.
+Sowohl der Menüpunkt **Pfandkonto**im Hersteller-Login als auch der Link zum Pfandkonto des Herstellers in der Hersteller-Liste**scheinen nur auf, wenn zumindest ein Produkt mit Pfand beim Hersteller bestellt wurde**. Viele Hersteller verwenden keinen Pfand und werden so durch den nicht benötigten Menüpunkt nicht unnötig verwirrt.
 
 ## Jahresabschluss
 

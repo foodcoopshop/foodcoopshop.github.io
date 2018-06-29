@@ -3,8 +3,8 @@
 The paying-with-time-module is not yet translated into English.
 
 ## Application examples
-* The hourly billing module gives manufacturers the option of offering their products at a selectable percentage ** in addition to the amount of money in hours **.
-* Members who want to pay the products in hours, then provide the manufacturer with this time z. In the form of ** assistance at the farm **.
+* The hourly billing module gives manufacturers the option of offering their products at a selectable percentage **in addition to the amount of money in hours**.
+* Members who want to pay the products in hours, then provide the manufacturer with this time z. In the form of **assistance at the farm**.
 * The time accounts of member and manufacturer are managed by the FoodCoopShop software (similar to the credit system).
 * The hourly billing module helps members to work with * their * farm / field manufacturers, resulting in greater connectivity and mutual understanding.
 

@@ -13,7 +13,7 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 
 That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
 
-There is a demo installation in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)** running for you. Feel free to test before installing.
+There is a demo installation in **[German](https://demo-de.foodcoopshop.com/)**and**[English](https://demo-en.foodcoopshop.com/)** running for you. Feel free to test before installing.
 
 ### Download latest version to your server
 The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!**

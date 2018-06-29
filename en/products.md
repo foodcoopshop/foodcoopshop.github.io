@@ -8,7 +8,7 @@ Then the newly created product can be edited (tax rate, price, quantity, name, d
 
 Rename product
 
-When editing the product name, a note appears: ** Important: Please do not rename products to other products, but create a new product! **
+When editing the product name, a note appears: **Important: Please do not rename products to other products, but create a new product!**
 
 The hint can be inferred if the product has never been ordered or only small changes (eg spelling mistakes) are made.
 
@@ -40,11 +40,11 @@ The available number is helpful if the product is only available in a limited qu
 
 ## Price
 
-If the price does not change in the aftermath (for example, 1 bottle of apple juice, 1 glass of honey ...), please enter the gross selling price ** Price per order unit **.
+If the price does not change in the aftermath (for example, 1 bottle of apple juice, 1 glass of honey ...), please enter the gross selling price **Price per order unit**.
 
 ## Price by weight
 
-Since v2.1 the ** price by weight ** is also integrated into the system. This z. For example, the following prices are given: "2.00 € / 100 g", "15.50 € / kg". This makes sense if the price is not yet determined when ordering, because the weight is expected to change, such. As often with meat, fish and cheese.
+Since v2.1 the **price by weight** is also integrated into the system. This z. For example, the following prices are given: "2.00 € / 100 g", "15.50 € / kg". This makes sense if the price is not yet determined when ordering, because the weight is expected to change, such. As often with meat, fish and cheese.
 
 ![]({{ site.baseurl }}/assets/img/de/preis-nach-gewicht/preis-nach-gewicht-dialog.png)
 
@@ -57,9 +57,9 @@ Since v2.1 the ** price by weight ** is also integrated into the system. This z.
 * On the invoices for the manufacturers, the actually delivered quantity is listed, also summed up on the overview page.
 * The function also takes into account when ordering several units of a product.
 
-** Please pay attention to variants! **
+**Please pay attention to variants!**
 
-If you use the ** price by weight ** function, the approximate delivery weight for the order and also in the order lists for the manufacturers - with an "approx." before that in addition to the variant or unit. This makes sense in variants such as "piece" or "2 pairs", then just "piece, about 1 kg" is displayed. However, if the variant itself is already one unit of weight (e.g., "1kg"), then that weight would be cited twice ("1kg, about 1kg"). In order to avoid this, you can mark variants in the admin area with "This variant corresponds to one weight unit". Then the variant name is not displayed.
+If you use the **price by weight** function, the approximate delivery weight for the order and also in the order lists for the manufacturers - with an "approx." before that in addition to the variant or unit. This makes sense in variants such as "piece" or "2 pairs", then just "piece, about 1 kg" is displayed. However, if the variant itself is already one unit of weight (e.g., "1kg"), then that weight would be cited twice ("1kg, about 1kg"). In order to avoid this, you can mark variants in the admin area with "This variant corresponds to one weight unit". Then the variant name is not displayed.
 
 ![]({{ site.baseurl }}/assets/img/de/preis-nach-gewicht/preis-nach-gewicht-varianten.png)
 

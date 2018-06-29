@@ -24,7 +24,7 @@ Ihr als Foodcoop könnt in den Einstellungen selbst festlegen, ob neu registrier
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
 ## Eigenes "Mitglied" für Abholdienste - Vorsicht!
-Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!** Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat. **Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
+Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!**Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat.**Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
 
 ## Mitgliedskonto löschen
 Seit der Version 2.1 können Mitgliedskonten auch wieder gelöscht werden (Recht auf Vergessenwerden). Jedes Mitglied kann das für das eigene Mitgliedskonto machen, Superadmins können auch andere Mitgliedskonten löschen. In der Mitglieder-Liste im Admin-Bereich kann der kumulierte Produkt- bzw. Pfandwert von den Guthaben-Konten gelöschter Mitglieder eingesehen werden, indem man den Filter oben links auf "gelöscht stellt".
