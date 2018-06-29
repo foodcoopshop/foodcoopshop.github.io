@@ -1,8 +1,8 @@
 ## So funktioniert das Guthaben-System
 
-![]({{ site.baseurl }}/assets/img/guthaben-system/guthaben-system-1.png)
+![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)
 
-![]({{ site.baseurl }}/assets/img/guthaben-system/guthaben-system-2.png)
+![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-2.png)
 
 ## Mitglied: Guthaben eintragen 
 * Um Guthaben aufzuladen, überweise bitte mittels E-Banking oder Erlagschein den gewünschten Betrag auf das angezeigte Konto.

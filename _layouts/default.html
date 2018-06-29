@@ -19,14 +19,8 @@
     <section class="page-header">
       <div class="inner">
         <a href="/">
-			{% case page.url %}
-			  {% when '/de/netzwerk-modul.html' OR '/en/installation-network-plugin.html' %}
-                {% assign logo = 'network-plugin-logo.png' %}
-                {% assign logoClass = 'square' %}
-			  {% else %}
-                {% assign logo = 'foodcoopshop-logo.png' %}
-                {% assign logoClass = 'rectangle' %}
-			{% endcase %}
+            {% assign logo = 'foodcoopshop-logo.png' %}
+            {% assign logoClass = 'rectangle' %}
             <img src="{{site.baseurl}}/assets/img/{{logo}}" class="logo {{logoClass}}" />
         </a>
         <h1 class="project-name"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
