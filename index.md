@@ -8,12 +8,12 @@
 ## Language support
 
 * The software and its documentation are available in [German]({{ site.baseurl }}/de/) and [English]({{ site.baseurl }}/en/) (since v2.1). 
-* If you want to translate it into another language, please read the [info page for translating](({{ site.baseurl }}/en/translating)).
+* If you want to translate it into another language, please read the [info page for translating]({{ site.baseurl }}/en/translating).
 
 ## Installation and updates
 
 * If you want to host FoodCoopShop by yourself, please read the [installation details]({{ site.baseurl }}/en/installation-details).
-* If you want to update your installation, please read the [migration guide]({{ site.baseurl }}/en/migration-guie).
+* If you want to update your installation, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 * What's new in the latest version? [View the changelog]({{{site.repo_url}}/blob/master/CHANGELOG.md).
 
 ## Who uses FoodCoopShop?
