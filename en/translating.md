@@ -19,4 +19,4 @@ The following steps are necessary:
 * [Configuration sql file]({{site.repo_url}}/tree/develop/config/sql/_installation/clean-db-data-en_US.sql)
 
 ### Translate the online documentation
-* [English files]({{site.repo_base_url}}{{site.baseurl}}/tree/master/en)
+* [English files](https://github.com/foodcoopshop/foodcoopshop.github.io/tree/master/en)
