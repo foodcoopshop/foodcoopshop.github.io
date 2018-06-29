@@ -5,11 +5,9 @@ Feel free to add your foodcoop
 | Nr | Date    | Url | City |
 | -- | ------- | --- | ---- |
 | **2018** |
-| 19 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
-| 18 | 01/2018 | not yet ready | Gemeinwohl-Foodcoop Berlin-Charlottenburg, Germany|
-| 17 | 01/2018 | [https://foodcoopshop.terraviva-of.de/](https://foodcoopshop.terraviva-of.de/) | Offenbach, Germany|
+| 17 | 06/2018 | [http://www.buntgesund.at](http://www.buntgesund.at) | Rauchenwarth, Austria|
+| 16 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
 | **2017** |
-| 16 | 11/2017 | [http://shop.foodcoop-frankfurt.de](http://shop.foodcoop-frankfurt.de) | Frankfurt am Main, Germany |
 | 15 | 11/2017 | [https://www.sinnkistl.at](https://www.sinnkistl.at) | Reichersberg, Austria|
 | 14 | 09/2017 | [http://www.riadarei.at](http://www.riadarei.at) | Ried im Innkreis, Austria |
 | 13 | 09/2017 | [http://www.stadtkern.at](http://www.stadtkern.at) | Steyregg, Austria |
