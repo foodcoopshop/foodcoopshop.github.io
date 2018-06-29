@@ -1,35 +1,8 @@
 ## Software-Einstellungen
 
-Der FoodCoopShop verfügt über zahlreiche Einstellungen, die in den Dateien [custom.config.php]({{site.repo_url}}/blob/master/Config/custom.config.default.php), [credentials.php]({{site.repo_url}}/blob/master/Config/credentials.default.php) bzw. teilweise in der Datenbank direkt verändert werden können.
+Die meisten Einstellungen können als Superadmin im Admin-Bereich getätigt werden.
 
-Alle aktiven Einstellungen sind unter der Url /admin/configurations ersichtlich (und teilweise auch dort änderbar). Das Mitglied muss Superadmin sein, um diese Seite aufzurufen.
+Um Einstellungen in den Dateien config/app_config.php, config/custom_config.php oder config/credentials.php zu überschreiben, bitte die Datei config/custom_config.php oder config/credentials.php anpassen.
 
-Die dateibasierten Einstellungen sind im Quellcode dokumentiert, die datenbankbasierten auf der Einstellungsseite selbst.
-
-> **Wie überschreibe ich Einstellungen in der app.config.php?**
-
-Damit bei Software-Updates die eigenen Einstellungen erhalten bleiben, bitte die Datei app.config.php nicht verändern. Stattdessen in der Daten custom.config.php die gewünschte Einstellung überschreiben. Wenn eure Foodcoop z.B. die Bestelllisten am Dienstag versenden möchte (und nicht mittwochs, wie die Standardeinstellung es vorgibt), folgende Zeile in die custom.config.php ergänzen:
-
-```
-Configure::write('app.sendOrderListsWeekday', 2);
-```
-
-
-> **Wie ändere ich das Logo für die Homepage bzw. die Default-Bilder für Hersteller, Produkte und Blog-Artikel?**
-
-Bei den Einstellungen (Link siehe oben) ist die Größe und der Pfad der Bilder ersichtlich. Einfach austauschen und per FTP hochladen.
-
-> **Wie aktiviere ich die automatische Bestell-Erinnerung**
-
-In der Datei custom.config.php muss folgende Einstellung auf true gesetzt sein:
-
-```
-Configure::write('app.emailOrderReminderEnabled', true);
-```
-
-Weiters muss folgender Cronjob aktiviert werden - implementiert für einen oder zwei Tage vor Configure::read('app.sendOrderListsWeekday').
-
-```
-bash Console/cake EmailOrderReminder
-```
+Die Datei config/app_config.php darf nicht geändert werden, da sie beim nächsten Update überschrieben würde.
 
