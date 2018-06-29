@@ -9,7 +9,7 @@ The following steps are necessary:
 * [Admin]({{site.repo_url}}/tree/develop/plugins/Admin/src/Locale/en_US/admin.po)
 * [Network-Module]({{site.repo_url}}/tree/develop/plugins/Network/src/Locale/en_US/network.po)
 * msgids starting with "docs_route_" or "route" need to contain a string that is valid in urls (please avoid special characters)
-* msgids ending with "_html" can contain some html (eg. <b> tag)
+* msgids ending with "_html" can contain some html (eg. b-tag)
 
 ### Translate date and time formats as seen in configuration
 * ['DateFormat' in app_config.php]({{site.repo_url}}/tree/develop/config/app_config.php) (bottom of file)
