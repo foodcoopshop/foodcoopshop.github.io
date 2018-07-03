@@ -8,14 +8,14 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 
 ### Wie kann ich Dateien (z. B. PDF) hochladen und verlinken?
 1. Den Text, der mit dem Download verlinkt werden soll, markieren.
-2. In der Symbolleiste unter "Link einfügen / editieren" dann auf den Reiter "Hochladen" klicken.
-3. Auf "Datei auswählen" klicken, die Datei auf dem eigenen Computer auswählen und auf "Zum Server senden" klicken.
+2. In der Symbolleiste unter "Link einfügen / editieren" auf "Server durchsuchen" klicken.
+3. Im neuen Fenster links oben auf das Disketten-Symbol klicken und auf "Dateien zum Upload auswählen" klicken.
 4. Warten, der Upload dauert evtl. ein bisschen (es wird kein Loader angezeigt).
-5. Im nächsten Fenster auf OK klicken.
+5. Doppelklick auf das Bild machen und im nächsten Fenster dann auf OK klicken.
 
 ### Wie kann ich den Upload wieder vom Server löschen?
 1. Auf "Link einfügen / editieren" klicken.
-2. Unten auf "Server durchsuchen" klicken.
+2. Auf "Server durchsuchen" klicken.
 3. Rechte Maustaste auf die Datei und dann "Löschen" auswählen.
 
 ### Wie kann ich eine Datei erneut verlinken?
@@ -41,5 +41,5 @@ Wenn ihr z. B. aus einem Word-Dokument oder einer anderen Webseite Text kopiert 
 ### Videos einbinden
 Den Embed-Code (Einbettungscode) von z. B. Youtube bitte im Quellcode (Button ganz rechts) einfügen.
 
-### Welcher Software wird vom FoodCoopShop benutzt?
-* [CKEditor](https://ckeditor.com/) mit [KCFinder](https://kcfinder.sunhater.com/) als Dateiupload-Plugin (nicht: **CK**Finder!)
+### Welche Software wird vom FoodCoopShop benutzt?
+* [CKEditor](https://ckeditor.com/) mit [elFinder](https://studio-42.github.io/elFinder/) als Dateiupload-Plugin
