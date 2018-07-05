@@ -13,7 +13,7 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 
 That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
 
-There is a demo installation in **[German](https://demo-de.foodcoopshop.com/)**and**[English](https://demo-en.foodcoopshop.com/)** running for you. Feel free to test before installing.
+There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
 ### Download latest version to your server
 The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!**
@@ -79,9 +79,9 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security keys app.cookieKey, Security.salt and Security.cipherSeed. Set them in custom.config.php
 
 ## Create the valid Super Admin account
-* Open https://yourdomain.tld/anmelden in your browser and register with your personal email address (down below at "Mitgliedskonto erstellen")
+* Open https://yourdomain.tld/sign-in in your browser and register with your personal email address (down below at "Create account")
 * After the successful registration go to your database (e.g. using Adminer or phpMyAdmin) and open the table "fcs_customers". There is one record (with your email address). Change the field "id_default_group" from 3 to 5 and  the field "active" from 0 to 1.
-* Open https://yourdomain.tld/neues-passwort-anfordern, type in your email address and press "Senden".
+* Open https://yourdomain.tld/request-new-password, type in your email address and press "Send".
 * With the password that was sent to you by email you are able to login as a Super Admin.
 * **Don't forget** to add the Super Admin data to credentials.php.
 
