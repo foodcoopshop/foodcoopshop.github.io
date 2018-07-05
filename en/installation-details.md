@@ -58,7 +58,7 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 * Set `cakeServerName` to your servers data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
 * The default configuration is found in [app_config.php]({{site.repo_url}}/blob/master/config/app_config.php).
 * Some configuration is stored in the database and can easily be changed from the admin screen: https://yourdomain.tld/admin/configurations (Super Admin account required)
-* Detailed configuration information in [German]({{ site.baseurl }}/de/software-einstellungen) and [English]({{ site.baseurl }}/en/settings)
+* More configuration information in [German]({{ site.baseurl }}/de/einstellungen) and [English]({{ site.baseurl }}/en/settings)
 
 ## Database Setup
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
