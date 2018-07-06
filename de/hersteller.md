@@ -32,8 +32,6 @@ Wenn aktiviert, können nur eingeloggte Mitglieder diesen Hersteller sehen.
 ### Benachrichtigungen
 Viele automatisierte Benachrichtigungen per E-Mail können für jeden Hersteller einzeln aktiviert bzw. deaktiviert werden, sodass die E-Mail-Flut so gut es geht eingedämmt wird.
 
-Seit der Version 1.4 wird auch bei Sofort-Bestellungen eine E-Mail an den Hersteller versendet. Dies kann auch deaktiviert werden.
-
 
 ### Sonstige Einstellungen
 
@@ -59,6 +57,6 @@ Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert wer
 
 **Ansprechperson**
 
-Seit der Version 1.4 kann jedem Hersteller eine Ansprechperson zugeordnet werden. Der Hersteller hat dann Zugriff auf Name, E-Mail-Adresse und Telefonnummer dieses Mitglieds.
+Ist einem Hersteller eine Ansprechperson zugeordnet, hat dieser Zugriff auf Name, E-Mail-Adresse und Telefonnummer des entsprechenden Mitglieds.
 
-Diese Einstellung kann vom Hersteller selbst geändert werden.
+Diese Einstellung kann vom Hersteller selbst nicht geändert werden.
