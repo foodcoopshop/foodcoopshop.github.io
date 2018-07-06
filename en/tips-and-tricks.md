@@ -14,6 +14,6 @@ This process has the great advantage that the existing credit system can be used
 
 ### Create annual overview of ordered products
 
-Under * ordered products * there is the possibility to * group product *. This gives you a nice, sortable, overview of which products were ordered in a certain period of time.
+Under *ordered products* there is the possibility to *group product*. This gives you a nice, sortable, overview of which products were ordered in a certain period of time.
 
-* The feature is equally interesting for members, manufacturers and the Foodcoop and has been available since v2.0.
+* The feature is equally interesting for members, manufacturers and the Foodcoop itself.

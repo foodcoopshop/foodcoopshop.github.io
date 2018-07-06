@@ -30,9 +30,9 @@ Which emails are sent? See below.
 
 If you z. For example, if you order 2 pieces of kohlrabi, but the manufacturer can only deliver 1 piece, you can change the ordered quantity. This is done via the edit icon next to the number under Orders / Ordered Products. The member and the manufacturer will be informed by e-mail.
 
-## Correcting the ordered weight (from v2.1)
+## Correcting the ordered weight
 
-If the product is billed with "Price by weight", the weight can be retroactively adjusted under "Ordered Products". The price will be adjusted automatically.
+If the product is billed with "Price per unit", the weight can be retroactively adjusted under "Ordered products". The price will be adjusted automatically.
 
 ## Who gets which e-mails (cancellation, correction of price, number and weight)?
 * If the manufacturer cancels, the member will receive an e-mail

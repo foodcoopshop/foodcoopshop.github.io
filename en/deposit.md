@@ -6,11 +6,11 @@ If a **member returns empty containers,** the amount of the empty container can 
 
 ## Deposit processing with manufacturer
 
-If a **manufacturer withdraws empty containers **, he can enter the value of the empty container himself under the menu item **Deposit account**. It will then be counted against the delivered empty glasses and nicely displayed.
+If a **manufacturer withdraws empty containers**, he can enter the value of the empty container himself under the menu item **Deposit account**. It will then be counted against the delivered empty glasses and nicely displayed.
 
 Admins can also enter these empty container returns for the manufacturer. The link to the deposit account of the respective manufacturer is on the manufacturer's list in the column **Deposit**.
 
-Both the menu item **deposit account ** in the manufacturer login and the link to the deposit account of the manufacturer in the manufacturer list **only appear if at least one product with a deposit was ordered from the manufacturer**. Many manufacturers do not use a deposit and are thus not unnecessarily confused by the unnecessary menu item.
+Both the menu item **deposit account** in the manufacturer login and the link to the deposit account of the manufacturer in the manufacturer list **only appear if at least one product with a deposit was ordered from the manufacturer**. Many manufacturers do not use a deposit and are thus not unnecessarily confused by the unnecessary menu item.
 
 ## Annual Accounts
 
@@ -20,7 +20,7 @@ A possible difference of the sums (manufacturer - column deposit and members - s
 
 ## Financial Report "Deposit"
 
-In the **financial report pawn**, only these clearing payments appear, not the empty-container returns.
+In the **financial report**, only these clearing payments appear, not the empty-container returns.
 
 ## Deposit balance in members overview
 

@@ -19,7 +19,7 @@ Only admins and super admins can activate or deactivate the manufacturer. The ma
 
 **Delivery break**
 
-Since version 1.5, the delivery break (before v1.5 "vacation mode") can be specified as a period. The products are automatically deactivated and reactivated, and the manufacturer also displays the period of the delivery break.
+The delivery break can be specified as a period. The products are automatically deactivated and reactivated, and the manufacturer also displays the period of the delivery break.
 
 **Important**: Manufacturers must specify in which period **may not be** ordered. Example: If delivery is not possible on Friday, 18.11.2017, the period must be 08.11.2017 (Wednesday) to 14.11.2017 (Tuesday). This is the period in which orders for Friday 18.11.2017 will be collected.
 
@@ -52,14 +52,8 @@ This setting can not be viewed or changed by the manufacturer.
 
 If z. For example, if a manufacturer is not subject to VAT, his or her default tax rate can be changed to 0%. All newly created products have then automatically set 0%. This reduces the potential for error and work for the manufacturer.
 
-**Manufacturer optimized for bulk orders**
-
-Details can be found here: [Collective Order Guide] ({{site.baseurl}} / DE / Collective Orders)
-
-This setting can not be viewed or changed by the manufacturer.
-
 **Contact person**
 
 Every manufacturer can be assigned a contact person. The manufacturer then has access to the name, e-mail address and telephone number of this member.
 
-This setting can be changed by the manufacturer.
+This setting can not be changed by the manufacturer.
