@@ -10,8 +10,8 @@ The following steps are necessary:
 * msgids ending with "_html" can contain some html (eg. b-tag for bold text)
 * if there are variables like {0} or {1} in the translation source, the can also be used in the translation
 
-### 2) Translate date and time formats as seen in configuration
-* ['DateFormat' in app_config.php]({{site.repo_url}}/tree/develop/config/app_config.php) (bottom of file)
+### 2) Translate date and time formats
+* ['DateFormat' in date.php]({{site.repo_url}}/tree/develop/config/Locale/en_US/date.php)
 
 ### 3) Translate legal texts in template files
 * [English files]({{site.repo_url}}/tree/develop/src/Template/Element/legal/en_US)
