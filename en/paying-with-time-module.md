@@ -33,7 +33,7 @@ On monthly bills for manufacturers, the amount paid in hours is automatically co
 * In the order confirmation a new column appears with the time display.
 * The credit of the member will only be debited with the amount actually paid in Euro.
 * As soon as a member has used an order with hourly settlement products, an asterisk will be found in the admin area under * Orders * and * Ordered Products * next to the euro amount. If you move the mouse over it, you can see how many hours have been paid in addition to the amount in euros.
-* For immediate orders, payment is not possible in time.
+* For instant orders, payment is not possible in time.
 
 ### Integration into the product view
 ![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/produkt-ansicht.png)

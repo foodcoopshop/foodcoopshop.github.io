@@ -56,9 +56,9 @@ You can also change the order status on the Ordered Products page. The correspon
 
 The deposit will be automatically deducted from the credit of the member when ordering. Under "Orders" there is a button "Deposit return", with which the amount of the empties can be entered, which brings the respective member back. The amount is thus credited back to the credit system.
 
-## Immediate order for storage products
+## Instant order for storage products
 
-Under "Orders" (top right) there is the button "Immediate order". This feature is enabled from Wednesday to Saturday. It can make an order in the name of another member, which is then backdated automatically in the current order week. Mostly this is the past Tuesday. Since version 1.4, manufacturers are automatically informed when an instant order has been placed.
+Under "Orders" (top right) there is the button "Instant order". This feature is enabled from Wednesday to Saturday. It can make an order in the name of another member, which is then backdated automatically in the current order week. Mostly this is the past Tuesday. Since version 1.4, manufacturers are automatically informed when an instant order has been placed.
 
 ## Products stay over at the end of the pickup day - what to do?
 
