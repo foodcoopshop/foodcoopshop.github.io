@@ -11,10 +11,10 @@
 * Then click on "Enter deposited funds" and enter the amount you have just transferred into the system.
 * Price or weight changes of ordered products and cancellations will automatically be credited or deducted. You will be informed about this separately by e-mail.
 
-## Superadmin: Controlling, repayments and settings
+## Superadmin: Controlling, paybacks and settings
 Superadmins also find a way under "Financial Reports" to compare bookings in the bank account with the paid-in amounts. This way you can correct any incorrect bookings. The respective member has to make the corrections himself, as admins or superadminers have (still) no access to the credit system of the members.
 
-Superadmin can also clear funds and repayments (for example, if the member leaves the club and still has credit) for other members, as well as delete deposits already made from third-party credit accounts. To do this, click on the respective account balance of the member in the member list.
+Superadmin can also clear funds and paybacks (for example, if the member leaves the club and still has credit) for other members, as well as delete deposits already made from third-party credit accounts. To do this, click on the respective account balance of the member in the member list.
 
 Super admins can confirm or reject the credit recharge under "Financial Reports", the status will then appear in the members' credit system. This way, faulty charges can be detected early.
 
