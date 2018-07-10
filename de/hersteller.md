@@ -17,7 +17,7 @@ Nur Admins und Superadmins können den Hersteller aktivieren bzw. deaktivieren. 
 
 **Lieferpause**
 
-Seit der Version 1.5 kann die Lieferpause (vor v1.5 "Urlaubsmodus") als Zeitraum angebeben werden. Die Produkte werden automatisch deaktiviert und wieder aktiviert, außerdem wird beim Hersteller der Zeitraum der Lieferpause angezeigt.
+Über die Einstellung "Lieferpause" kann der Zeitraum angebeben werden, in dem die Produkte automatisch deaktiviert und wieder aktiviert sind. Beim Hersteller-Profil und im Menü wird der Zeitraum der Lieferpause angezeigt.
 
 **Wichtig**: Hersteller müssen angeben, in welchem Zeitraum nicht **bestellt** werden darf. Beispiel: Wenn am Freitag, 18.11.2017 nicht geliefert werden kann, muss als Zeitraum 08.11.2017 (Mittwoch) bis 14.11.2017 (Dienstag) angeben werden. Dies ist der Zeitraum, in dem Bestellungen für Freitag 18.11.2017 gesammelt werden.
 
