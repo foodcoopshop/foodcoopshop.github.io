@@ -10,6 +10,7 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 * MySQL 5.6 (5.7 since v1.5)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
+* Test123213123
 
 That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
 
