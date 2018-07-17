@@ -57,3 +57,16 @@ If z. For example, if a manufacturer is not subject to VAT, his or her default t
 Every manufacturer can be assigned a contact person. The manufacturer then has access to the name, e-mail address and telephone number of this member.
 
 This setting can not be changed by the manufacturer.
+
+
+### Invoices
+
+The FoodCoopShop software automatically sends invoices generated on behalf of the manufacturer every 11th of the month (unless the manufacturer has deactivated this in his settings). It is noted on the invoices that the respective foodcoop is only an intermediary and not a trader / seller ("conveyed for").
+
+These invoices contain an overview **of all orders of the previous month** and a **detailed list of individual orders**. Thus, it is completely documented which member ordered which product and when. For the operating foodcoop this is a documentation of its conveying activities, the manufacturers can put the invoice into their bookkeeping, all necessary formalities are taken into account (VAT, consecutive invoice number, date of invoice, etc.).
+
+If the Foodcoop charges a variable membership fee, it will be shown separately on the invoice and will be deducted automatically.
+
+[Demo invoice without variable membership fee] ({{site.baseurl}}/assets/pdf/en/01.06.2018-30.06.2018-Demo-Vegetable-Manufacturer_5_Invoice_xxx_Demo-food-coop.pdf)
+
+**Important:** If a pickup day occurs at the beginning of the month (i.e., falls on a 1st, 2nd or 3rd of the month), it may be that some of the orders for that pickup day were ordered the previous month. And when the invoices the order and not the pick-up or delivery date is taken into account, then from time to time does not coincide with the records of the manufacturer (which logically most of the time take into account the delivery date). In the sum of the year then it is true again.
