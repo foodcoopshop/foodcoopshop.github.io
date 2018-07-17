@@ -67,6 +67,6 @@ These invoices contain an overview **of all orders of the previous month** and a
 
 If the Foodcoop charges a variable membership fee, it will be shown separately on the invoice and will be deducted automatically.
 
-[Demo invoice without variable membership fee] ({{ site.baseurl }}/assets/pdf/en/01.06.2018-30.06.2018-Demo-Vegetable-Manufacturer_5_Invoice_xxx_Demo-food-coop.pdf)
+[Demo invoice without variable member fee]({{ site.baseurl }}/assets/pdf/en/01.06.2018-30.06.2018-Demo-Vegetable-Manufacturer_5_Invoice_xxx_Demo-food-coop.pdf)
 
 **Important:** If a pickup day occurs at the beginning of the month (i.e., falls on a 1st, 2nd or 3rd of the month), it may be that some of the orders for that pickup day were ordered the previous month. And when the invoices the order and not the pick-up or delivery date is taken into account, then from time to time does not coincide with the records of the manufacturer (which logically most of the time take into account the delivery date). In the sum of the year then it is true again.
