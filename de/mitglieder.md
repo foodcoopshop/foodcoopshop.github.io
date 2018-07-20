@@ -2,11 +2,13 @@
 
 ## Registrierung (Mitgliedskonto erstellen) 
 
-Jedes Mitglied kann sich selbst registrieren. Dazu auf den Punkt "Anmelden" klicken und unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
+Jedes Mitglied kann und soll sich selbst registrieren. Dazu auf den Punkt "Anmelden" klicken, unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
 
-Je nach Einstellung (kann von Superadmins geändert werden) muss das Mitglied erst von einem Admin aktiviert werden (Standard-Einstellung) oder ist sofort freigeschalten.
+Je nach Einstellung (kann von Superadmins geändert werden) muss das Mitglied erst von einem Admin aktiviert werden (Standard-Einstellung) oder ist sofort freigeschaltet.
 
-Um ein Mitglied manuell freizuschalten, gehe im Admin-Bereich auf "Mitglieder", ändere das Dropdown oben links auf "deaktiviert". Dann beim gewünschten Mitglied auf das Symbol in der Spalte "Status" klicken. Das Mitglied wird aktiviert und bekommt automatisch sein Passwort zugeschickt.
+Um ein Mitglied manuell freizuschalten, gehe im Admin-Bereich auf "Mitglieder", ändere das Dropdown oben links auf "deaktiviert". Dann beim gewünschten Mitglied auf das Symbol in der Spalte "Status" klicken. Das Mitglied wird aktiviert und bekommt automatisch ein neues Passwort zugeschickt.
+
+In den Einstellungen kann eine bzw. können mehrere E-Mail-Adressen angegeben werden, die bei einer Registrierung per E-Mail darüber informiert werden, um die Leute zeitnah freizuschalten.
 
 ## Daten ändern
 Mitglieder können unter "Meine Daten" ihre Daten selbst ändern, in dem sie - sofern sie eingeloggt sind - oben rechts auf ihren Namen klicken.
