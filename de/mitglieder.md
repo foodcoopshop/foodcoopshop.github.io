@@ -1,6 +1,6 @@
 ## Mitglieder
 
-## Registrierung (Mitgliedskonto erstellen) 
+## Registrierung / Aktivierung von Mitgliedern 
 
 Jedes Mitglied kann und soll sich selbst registrieren. Dazu auf den Punkt "Anmelden" klicken, unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
 

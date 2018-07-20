@@ -1,6 +1,6 @@
 ## Members
 
-## Registration (create a member account)
+## Registration / Activation of members
 
 Each member can register himself. To do this, click on the "Login" item and enter the e-mail address under "Create a member account" and follow the instructions.
 
