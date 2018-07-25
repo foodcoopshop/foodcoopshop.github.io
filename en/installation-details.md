@@ -16,7 +16,7 @@ That's too much in depths for you? Look at [this offer](https://www.foodcoopshop
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
 ### Download latest version to your server
-The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!**
+The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!** If you are a developer, please do clone the repository and don't forget to change app.debug to true in your custom_config.php.
 
 Download and unpack the ZIP file. Upload the content of the versioned folder to your server (e.g. using FTP). The destination folder must be accessible to your Apache Server, but not the Document Root (e.g. /var/www/foodcoopshop).
 Set the file access rights so that the Apache user (e.g. www-data) owns all files and folders:
