@@ -76,7 +76,7 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 * Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
 
 ## Setup security keys
-Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security keys app.cookieKey, Security.salt and Security.cipherSeed. Set them in custom.config.php
+Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security keys ```app.cookieKey``` and ```Security.salt```. Set them in custom_config.php
 
 ## Create the valid Super Admin account
 * Open https://yourdomain.tld/sign-in in your browser and register with your personal email address (down below at "Create account")
