@@ -16,7 +16,7 @@ That's too much in depths for you? Look at [this offer](https://www.foodcoopshop
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
 ### Download latest version to your server
-The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!**
+The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!** If you are a developer, please do clone the repository and don't forget to change app.debug to true in your custom_config.php.
 
 Download and unpack the ZIP file. Upload the content of the versioned folder to your server (e.g. using FTP). The destination folder must be accessible to your Apache Server, but not the Document Root (e.g. /var/www/foodcoopshop).
 Set the file access rights so that the Apache user (e.g. www-data) owns all files and folders:
@@ -76,7 +76,7 @@ me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 * Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
 
 ## Setup security keys
-Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security keys app.cookieKey, Security.salt and Security.cipherSeed. Set them in custom.config.php
+Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security keys ```app.cookieKey``` and ```Security.salt```. Set them in custom_config.php
 
 ## Create the valid Super Admin account
 * Open https://yourdomain.tld/sign-in in your browser and register with your personal email address (down below at "Create account")
