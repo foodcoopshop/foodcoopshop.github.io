@@ -1,6 +1,7 @@
 ## Übersicht
 
 * [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
+* [Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)
 * [Einstellungen]({{ site.baseurl }}/de/einstellungen)
 * [Finanzberichte]({{ site.baseurl }}/de/finanzberichte)
 * [Guthaben-System]({{ site.baseurl }}/de/guthaben-system)

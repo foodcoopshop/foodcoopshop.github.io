@@ -7,6 +7,7 @@
 * [Manufacturers]({{ site.baseurl }}/en/manufacturers)
 * [Members]({{ site.baseurl }}/en/members)
 * [Network-Module]({{ site.baseurl }}/en/network-module) (For manufacturers who deliver their products to several food-coops)
+* [Order handling]({{ site.baseurl }}/en/order-handling)
 * [Paying-with-time-Module]({{ site.baseurl }}/en/paying-with-time-module) (Members can pay their products with working time)
 * [Pick up products]({{ site.baseurl }}/en/pick-up-products)
 * [Products]({{ site.baseurl }}/en/products)
