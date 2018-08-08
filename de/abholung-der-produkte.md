@@ -18,13 +18,9 @@ Falls ein Produkt nicht geliefert wird, musst du es stornieren, damit das Mitgli
 
 Falls mal mehrere Produkte gleichzeitig storniert werden müssen, kann man links die Häkchen setzen und unten auf "Ausgewählte Produkte stornieren" klicken.
 
-Welche E-Mails werden verschickt? Siehe weiter unten.
-
 ## Korrigieren des Preises eines bestellten Produktes (Nullpreis-Produkt)
 
 Manchmal kommt es vor, dass der Preis des bereits bestellten Produktes geändert werden muss (Nullpreis-Produkt). Dafür auf das Bearbeiten-Symbol neben dem Preis klicken.
-
-Welche E-Mails werden verschickt? Siehe weiter unten.
 
 ## Korrigieren der bestellten Anzahl
 
@@ -34,23 +30,9 @@ Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück lie
 
 Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. 
 
-## Wer bekommt wann welche E-Mails (Stornieren, Korrigieren von Preis, Anzahl und Gewicht)?
-* Falls der Hersteller storniert, bekommt das Mitglied eine E-Mail
-* Falls ein Mitglied storniert (z. B. Shopdienst), bekommen Hersteller und das, Mitglied das bestellt hat, eine E-Mail
-* Vor Versenden der Bestelllisten (z. B. am Dienstag) bekommt der Hersteller keine E-Mail, das Mitglied schon.
-* Der Hersteller kann diese E-Mails in seinen Hersteller-Einstellungen deaktivieren (das Mitglied nicht).
-
 ## Bestellte Produkte des Mitglieds anzeigen
 
-Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds der aktuellen Woche angezeigt (sollte mehrmals bestellt worden sein). Beim gegenseitigen Kontrollieren der Produkte musst du dir die Produkte nicht merken, sondern kannst auf die jeweilige Zeile klicken, dann wird sie grün eingefärbt. Achtung: Wenn die Seite neu geladen wird, ist die Einfärbung wieder weg!
-
-## Bestellstatus auf "abgeschlossen" ändern
-
-Unter "Bestellungen" findest du rechts den Button "Bestellstatus ändern", mit dem du die Bestellung auf "abgeschlossen" setzen kannst (die Zeile ist dann grün und bleibt auch grün, wenn die Seite neu geladen wird). Um zu sehen, wer seine Produkte noch nicht abgeholt hat, kannst du den Status-Filter (oben) auf "offen" setzen.
-
-**Achtung:** Falls ein Mitglied mehrmals bestellt hat, muss jede einzelne Bestellung auf "abgeschlossen" gesetzt werden. Bei Klick auf "Bestellte Produkte" werden allerdings immer alle Produkte aus allen Bestellungen angezeigt (d.h. es erscheint immer die gleiche Liste, egal auf welche Bestellung man klickt). Das ganze ist technisch leider nicht anders möglich aber auch nicht weiter schlimm, wenn man um diese kleine Eigenheit Bescheid weiß.
-
-Auch auf der Seite "Bestellte Produkte" kann der Bestellstatus geändert werden. Der dazugehörige Button "Bestellstatus ändern" befindet sich unten und scheint nur auf, wenn kein Filter nach Hersteller oder Produkt gesetzt ist UND ein Filter nach Mitglied eingestellt ist. Nach Abschließen kommt man automatisch zurück zu den Bestellungen. Am Ende des Shopdienst dürfen keine offenen Bestellungen mehr vorhanden sein.
+Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Beim gegenseitigen Kontrollieren der Produkte musst du dir die Produkte nicht merken, sondern kannst auf die jeweilige Zeile klicken, dann wird sie grün eingefärbt. Achtung: Wenn die Seite neu geladen wird, ist die Einfärbung wieder weg!
 
 ## Pfand-Rückgabe eintragen
 
@@ -58,7 +40,7 @@ Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezog
 
 ## Sofort-Bestellung für Lagerprodukte
 
-Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung". Diese Funktion ist von Mittwoch bis Samstag aktiviert. Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, die dann automatisch in die aktuelle Bestellwoche rückdatiert wird. Meistens ist dies der vergangene Dienstag. Seit der Version 1.4 werden die Hersteller automatisch informiert, wenn eine Sofort-Bestellung getätigt wurde.
+Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, der Abholtag wird automatisch auf "heute" gesetzt.die dann automatisch in die aktuelle Bestellwoche rückdatiert wird. Die Hersteller werden automatisch informiert, wenn eine Sofort-Bestellung getätigt wurde.
 
 ## Produkte bleiben am Ende des Abholtages über - was tun?
 
@@ -74,8 +56,6 @@ In diesem Fall versuche, das Mitglied ausfindig machen, das das Produkt wahrsche
 So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein zu tragen hatte.
 
 ## Erklärungen zu "Bestellungen"
-* Mitglieder mit einem Blatt-Symbol haben erst 3x oder weniger bestellt.
-* Das ein rotes Rufzeichen am Anfang der Zeile zeigt an, ob das Mitglied einen Kommentar zur Bestellung verfasst hat. Dieser kann auch geändert werden. Wenn das Symbol ausgegraut ist, kann ein neuer Kommentar erstellt werden.
+* Mitglieder mit einem Blatt-Symbol haben erst 25x oder weniger Produkte bestellt.
+* Das ein rotes Rufzeichen am Anfang der Zeile zeigt an, ob das Mitglied einen Kommentar zur einem Abholtag verfasst hat. Dieser kann auch geändert werden. Wenn das Symbol ausgegraut ist, kann ein neuer Kommentar erstellt werden.
 
-## Erklärungen zu "Bestellte Produkte"
-* Wenn du auf das Häkchen ganz links klickst, ist die Zeile bis zum nächsten Laden der Seite grün markiert.
