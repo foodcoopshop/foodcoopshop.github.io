@@ -66,10 +66,10 @@ Diese Einstellung kann vom Hersteller selbst nicht geändert werden.
 
 Die Software FoodCoopShop verschickt automatisch jeden 11. des Monats die im Namen der Hersteller generierten Rechnungen (außer, der Hersteller hat dies in seinen Einstellungen deaktiviert). Auf den Rechnungen ist vermerkt, dass die jeweilige Foodcoop nur Vermittler ist und nicht Verkäufer ("vermittelt für").
 
-Diese Rechnungen beinhalten eine Übersicht **aller Bestellungen des Vormonats** und eine **Detailauflistung der Einzelbestellungen**. So wird lückenlos dokumentiert, welches Mitglied wann welches Produkt bestellt hat. Für die betreibende Foodcoop ist das eine Dokumentation ihrer Vermittlungstätigkeit, die Hersteller können die Rechnung in ihre Buchhaltung geben, alle notwendigen Formvorschriften sind berücksichtigt (USt., fortlaufende Rechnungsnummer, Rechnungsdatum usw.).
+Diese Rechnungen beinhalten eine Übersicht **aller gelieferten Produkte des Vormonats** und eine **Detailauflistung der Einzelbestellungen**. So wird lückenlos dokumentiert, welches Mitglied wann welches Produkt bestellt hat. Für die betreibende Foodcoop ist das eine Dokumentation ihrer Vermittlungstätigkeit, die Hersteller können die Rechnung in ihre Buchhaltung geben, alle notwendigen Formvorschriften sind berücksichtigt (USt., fortlaufende Rechnungsnummer, Rechnungsdatum usw.).
 
 Sollte die Foodcoop einen variablen Mitgliedsbeitrag verrechnen, so ist dieser auf der Rechnung extra ausgewiesen und wird automatisch abgezogen.
 
 Demo-Rechnungen: [Rechnung ohne variablem Mitgliedsbeitrag]({{ site.baseurl }}/assets/pdf/de/01.06.2018-30.06.2018-Demo-Gemuese-Hersteller_5_Rechnung_xxx_FoodCoopShop-Demo.pdf) / [Rechnung mit variablem Mitgliedsbeitrag]({{ site.baseurl }}/assets/pdf/de/01.06.2018-30.06.2018-Demo-Fleisch-Hersteller_4_Rechnung_xxx_FoodCoopShop-Demo.pdf) ansehen.
 
-**Wichtig:** Falls ein Abholtag am Anfang des Monats stattfindet (d.h. auf einen 1., 2. oder 3. des Monats fällt), kann es sein, dass einige der Bestellungen für diesen Abholtag im Vormonat bestellt wurden. Und bei den Rechnungen das Bestell- und nicht das Abhol- bzw. Lieferdatum berücksichtigt wird, stimmt das dann ab und zu nicht mit den Aufzeichnungen der Hersteller zusammen (die ja logischerweise meistens das Lieferdatum berücksichtigen). In der Jahressumme stimmts dann aber wieder.
+**Wichtig:** Seit v2.2 dient der Abhol- bzw. Liefertag als Grundlage für die Verrechnung, nicht mehr das Bestelldatum.
