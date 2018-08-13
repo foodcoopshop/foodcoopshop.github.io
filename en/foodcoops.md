@@ -9,11 +9,11 @@ Feel free to add your foodcoop
 | 16 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
 | **2017** |
 | 15 | 11/2017 | [https://www.sinnkistl.at](https://www.sinnkistl.at) | Reichersberg, Austria|
-| 14 | 09/2017 | [http://www.riadarei.at](http://www.riadarei.at) | Ried im Innkreis, Austria |
+| 14 | 09/2017 | [https://www.riadarei.at](https://www.riadarei.at) | Ried im Innkreis, Austria |
 | 13 | 09/2017 | [http://www.stadtkern.at](http://www.stadtkern.at) | Steyregg, Austria |
 | 12 | 08/2017 | [https://www.bauernladenein.at](https://www.bauernladenein.at) | Alberndorf, Austria |
 | 11 | 06/2017 | [https://vb.foodcoopshop.com](https://vb.foodcoopshop.com) | Vöcklabruck, Austria |
-| 10 | 05/2017 | [http://www.querfeldeinpoendorf.at](http://www.querfeldeinpoendorf.at) | Pöndorf, Austria |
+| 10 | 05/2017 | [https://www.querfeldeinpoendorf.at](https://www.querfeldeinpoendorf.at) | Pöndorf, Austria |
 | 09 | 05/2017 | [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at) | Gmunden, Austria |
 | 08 | 01/2017 | [https://www.speisvorchdorf.at](https://www.speisvorchdorf.at) | Vorchdorf, Austria |
 | **2016** |
