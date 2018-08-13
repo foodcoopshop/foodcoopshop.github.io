@@ -6,12 +6,17 @@
 * **Be aware**: updating from v1.x to v2.x can only be done from v1.5.
 * If you want to update from v1.3 to v1.5 directly (skipping v1.4), you can do that. Just follow the instructions for updating to v1.4 and v1.5. 
 
+### FCS v2.1.x to FCS v2.2.x
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+* At some configurations the migrations fail the first time when they are called. Just call them a second time, then it should work.
+* if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
+
 
 ### FCS v2.0.x to FCS v2.1.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
-
 
 ### FCS v1.5.x to FCS v2.0.x
 * FCS v2.0 uses CakePHP3 which is **mostly incompatible** to CakePHP2
