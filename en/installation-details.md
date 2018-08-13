@@ -53,6 +53,16 @@ Then restart the webserver:
 me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 ```
 
+## Setting permissions
+```
+$ cd /var/www/foodcoopshop/
+$ chmod a+w -R ./files_private
+$ chmod a+w -R ./tmp
+$ chmod a+w -R ./webroot/cache
+$ chmod a+w -R ./webroot/files
+$ chmod a+w -R ./webroot/tmp
+```
+
 ## Configuring FoodCoopShop
 * Copy [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php) to custom_config.php and change your configuration if you want to
 * Set `cakeServerName` to your servers data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
