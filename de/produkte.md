@@ -83,6 +83,4 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 
 * Hersteller mit Lagerprodukten können in ihren Einstellungen die **erweiterte Lagerstandsverwaltung** aktivieren.
 
-* Sobald die Einstellung aktiviert und gespeichert ist, erscheinen zwei neue Checkboxen. Es kann nun eingestellt werden, ob der Hersteller und die Ansprechperson informiert werden sollen, sobald ein Lagerprodukt den eingestellten Lagerstand, ab dem benachrichtigt wird, erreicht.
-
-* Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt?**. Jedes Produkt, das ein Lagerprodukt ist, muss zusätzlich noch manuell als Lagerprodukt aktiviert werden. Dann erscheinen unter **Anzahl** zusätzliche Einstellungsmöglichkeiten.
+* Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt**. Jedes Produkt muss  manuell als Lagerprodukt aktiviert werden, dann erscheinen unter **Anzahl** zusätzliche Einstellungsmöglichkeiten. Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand man eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
