@@ -87,6 +87,6 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 
 * 3) Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand der Hersteller und die Ansprechperson eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
 
-![]({{ site.baseurl }}/assets/img/de/produkte/erweiterte-lagerstandverwaltung.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/erweiterte-lagerstandverwaltung.jpg)
 
 
