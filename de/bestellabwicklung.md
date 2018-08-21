@@ -9,7 +9,7 @@ Zu jeder Bestellung wird berechnete Abholtag des jeweiligen Produktes automatisc
 
 Bei **Sofort-Bestellungen** wird ab sofort der Abholtag immer auf den aktuellen Tag gesetzt und sind jetzt auch **an jedem Tag möglich**.
 
-* **Bestellstatus** nach Bestellung: **Bestellung getätigt** <i class="fa fa-cart-arrow-down"></i>
+* Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fa fa-cart-arrow-down ok"></i>
 
 ## Lagerprodukte bestellen
 Kommt bald
@@ -23,14 +23,14 @@ Es gibt keinen komplizierten Bestellzeitraum mehr (von-bis-Datum), die Liste der
 ## Bestelllistenversand
 
 * Basis der Bestellungen, die in den Listen erscheinen, ist der Abholtag.
-* **Bestellstatus** nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet**
+* Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="fa fa-envelope-o ok"></i>
 
 
 ## Rechnungsversand
 
 * Die Verrechnung passiert immer am 11. des Monats.
 * **Neu**: Basis der Bestellungen, die verrechnet werden, ist der **Abholtag** (und nicht mehr der Bestelltag). Das Kontrollieren für die Hersteller ist somit einfacher.
-* **Bestellstatus** nach Versenden der Rechnungen: **verrechnet**
+* Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fa fa-lock not-ok"></i>
 
 
 ## Bestellstatus
