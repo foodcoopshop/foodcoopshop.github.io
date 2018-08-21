@@ -9,7 +9,7 @@ Zu jeder Bestellung wird berechnete Abholtag des jeweiligen Produktes automatisc
 
 Bei **Sofort-Bestellungen** wird ab sofort der Abholtag immer auf den aktuellen Tag gesetzt und sind jetzt auch **an jedem Tag möglich**.
 
-* **Bestellstatus** nach Bestellung: **offen**
+* **Bestellstatus** nach Bestellung: **Bestellung getätigt** <i class="fa fa-cart-arrow-down"></i>
 
 ## Lagerprodukte bestellen
 Kommt bald

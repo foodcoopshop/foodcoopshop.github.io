@@ -1,12 +1,10 @@
 ## Abholung der Produkte
 
+* [Zur Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)
+
 ## Admin-Bereich
 
-In den Admin-Bereich kommt man, in dem man sich einloggt und dann oben rechts auf "Admin-Bereich" klickt.
-
-## Wie viele Kisterl brauche ich?
-
-Falls eure Foodcoop die Kisterl vorpackt: Bestellungen / Nach Mitglied gruppieren und dann nach Name sortieren (Klick auf “Mitglied” in Überschrift) Filtern => man sieht, welche Mitglieder bestellt haben und kann am Preis ungefähr abschätzen, welche Kistengröße benötigt wird.
+In den Admin-Bereich gelangt man, in dem man sich einloggt und anschließend oben rechts auf "Admin-Bereich" klickt.
 
 ## Annahme der Produkte
 
@@ -14,19 +12,19 @@ Wenn ein Hersteller die Bestellliste, die er per E-Mail bekommen hat, vergessen 
 
 ## Stornieren von Produkten
 
-Falls ein Produkt nicht geliefert wird, musst du es stornieren, damit das Mitglied es nicht bezahlen muss und das Produkt nicht auf der Rechnung für den Hersteller auftaucht. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren, du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind, einfach "Bestellungen / Stornierte Produkte" anklicken.
+Falls ein Produkt nicht geliefert wird, muss es storniert werden, damit das Mitglied es nicht bezahlen muss und das Produkt verrechnet wird. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren, du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind, einfach "Bestellungen / Bestelländerungen" anklicken.
 
-Falls mal mehrere Produkte gleichzeitig storniert werden müssen, kann man links die Häkchen setzen und unten auf "Ausgewählte Produkte stornieren" klicken.
+Falls mehrere Produkte gleichzeitig storniert werden müssen, kann man links die Häkchen setzen und ganz unten auf "Ausgewählte Produkte stornieren" klicken.
 
-## Korrigieren des Preises eines bestellten Produktes (Nullpreis-Produkt)
+## Anpassen des Preises eines bestellten Produktes (Nullpreis-Produkt)
 
 Manchmal kommt es vor, dass der Preis des bereits bestellten Produktes geändert werden muss (Nullpreis-Produkt). Dafür auf das Bearbeiten-Symbol neben dem Preis klicken.
 
-## Korrigieren der bestellten Anzahl
+## Anpassen der bestellten Anzahl
 
-Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück liefern kann, kann man die bestellte Anzahl ändern. Dies geschieht über das Bearbeiten-Symbol neben der Anzahl unter Bestellungen / Bestellte Produkte. Das Mitglied und der Hersteller werden per E-Mail darüber informiert.
+Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück liefern kann, kann man die bestellte Anzahl ändern. Dies geschieht über das Bearbeiten-Symbol neben der Anzahl unter Bestellungen / Bestellte Produkte.
 
-## Korrigieren des bestellten Gewichts (ab v2.1)
+## Anpassen des bestellten Gewichts (ab v2.1)
 
 Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. 
 
@@ -40,11 +38,11 @@ Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezog
 
 ## Sofort-Bestellung für Lagerprodukte
 
-Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, der Abholtag wird automatisch auf "heute" gesetzt.die dann automatisch in die aktuelle Bestellwoche rückdatiert wird. Die Hersteller werden automatisch informiert, wenn eine Sofort-Bestellung getätigt wurde.
+Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, der Abholtag wird automatisch auf "heute" gesetzt. Die Hersteller werden über Sofort-Bestellungen automatisch informiert.
 
 ## Produkte bleiben am Ende des Abholtages über - was tun?
 
-Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst unter dem Dropdown Bestellte Produkte / alle Produkte nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat. Du kannst unter "Bestellte Produkte" auch auf das Produkt klicken, dann wird automatisch danach gefiltert. Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer ihn vergessen haben könnte. Unter Mitglieder findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
+Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat (Dropdown oben). Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer es vergessen haben könnte. Unter "Mitglieder" findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
 
 ## Produkt ist zwar geliefert, aber von falschem Mitglied mitgenommen worden
 
