@@ -36,10 +36,10 @@ On monthly bills for manufacturers, the amount paid in hours is automatically co
 * For instant orders, payment is not possible in time.
 
 ### Integration into the product view
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/produkt-ansicht.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/produkt-ansicht.png)
 
 ### Integration with the order completion
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/warenkorb-detail.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/warenkorb-detail.png)
 
 ## Further integration into the software
 * Invoices again show the time share in euros (see "Accounting" above)
@@ -50,20 +50,20 @@ On monthly bills for manufacturers, the amount paid in hours is automatically co
 * Member sees his current time credit.
 
 ### Hour Account Member
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/stundenkonto-mitglied.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/stundenkonto-mitglied.png)
 
 ## Hour Account Manufacturer
 * The manufacturer receives an overview of open and already worked hours.
 * The manufacturer can confirm and correct time entries. When changing the time and changing the status to "something is wrong ..." an email is automatically sent to the member.
 
 ### Hour Account Manufacturer
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/stundenkonto-hersteller-uebersicht.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/stundenkonto-hersteller-uebersicht.png)
 
 ## Superadmins
 * Super admins have access to all functions of manufacturer and member and can take corrective action.
 
 ## Concept, financing, implementation, publication
 * Concept: Tobias Plettenbacher from [Riadarei] (http://www.riadarei.at) and [WE together] (http://www.wirgemeinsam.net)
-* [![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/wirgemeinsam-logo.png)](http://www.wirgemeinsam.net)
+* [![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/wirgemeinsam-logo.png)](http://www.wirgemeinsam.net)
 * Technical implementation: [Mario Rothauer] (https://www.rothauer-it.com)
 * The hourly billing module is expected to be released in version 2.1 (21.06.2018) on [foodcoopshop.com] (https://www.foodcoopshop.com/download) and will then be available to all foodcoops free of charge.

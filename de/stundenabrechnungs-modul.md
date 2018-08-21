@@ -34,10 +34,10 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Bei Sofort-Bestellungen ist bezahlen in Zeit nicht möglich.
 
 ### Integration in die Produkt-Ansicht
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/produkt-ansicht.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/produkt-ansicht.png)
 
 ### Integration beim Bestell-Abschluss
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/warenkorb-detail.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/warenkorb-detail.png)
 
 ## Weitere Integration in die Software
 * Rechnungen weisen den Zeit-Anteil wieder in Euro aus (siehe Punkt "Rechnungslegung" weiter oben)
@@ -48,20 +48,20 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Mitglied sieht sein aktuelles Zeit-Guthaben.
 
 ### Stundenkonto Mitglied
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/stundenkonto-mitglied.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/stundenkonto-mitglied.png)
 
 ## Stundenkonto Hersteller
 * Der Hersteller erhält eine Übersicht über offene und bereits geleistete Stunden.
 * Der Hersteller kann Zeit-Eintragungen bestätigen und auch korrigieren. Beim Ändern der geleisteten Zeit und beim Ändern vom Status auf "da stimmt was nicht..." wird automatisch eine E-Mail an das Mitglied versendet.
 
 ### Stundenkonto Hersteller
-![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/stundenkonto-hersteller-uebersicht.png)
+![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/stundenkonto-hersteller-uebersicht.png)
 
 ## Superadmins
 * Superadmins haben Zugriff zu allen Funktionen von Hersteller und Mitglied und können korrigierend eingreifen.
 
 ## Konzept, Finanzierung, Umsetzung, Veröffentlichung
 * Konzept: Tobias Plettenbacher von der [Riadarei](http://www.riadarei.at) und [WIR gemeinsam](http://www.wirgemeinsam.net)
-* [![]({{ site.baseurl }}/assets/img/de/zeitwaehrungs-modul/wirgemeinsam-logo.png)](http://www.wirgemeinsam.net)
+* [![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/wirgemeinsam-logo.png)](http://www.wirgemeinsam.net)
 * Technische Umsetzung: [Mario Rothauer](https://www.rothauer-it.com)
 * Das Stundenabrechnungs-Modul wird voraussichtlich mit der Version 2.1 (21.06.2018) auf [foodcoopshop.com](https://www.foodcoopshop.com/download) veröffentlicht und steht dann allen Foodcoops kostenlos zur Verfügung.

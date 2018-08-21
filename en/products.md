@@ -46,7 +46,7 @@ If the price does not change in the aftermath (for example, 1 bottle of apple ju
 
 Since v2.1 the **price by weight** is also integrated into the system. This z. For example, the following prices are given: "2.00 € / 100 g", "15.50 € / kg". This makes sense if the price is not yet determined when ordering, because the weight is expected to change, such. As often with meat, fish and cheese.
 
-![]({{ site.baseurl }}/assets/img/de/preis-nach-gewicht/preis-nach-gewicht-dialog.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/preis-nach-gewicht-dialog.png)
 
 **Advantages**
 
@@ -61,7 +61,7 @@ Since v2.1 the **price by weight** is also integrated into the system. This z. F
 
 If you use the **price by weight** function, the approximate delivery weight for the order and also in the order lists for the manufacturers - with an "approx." before that in addition to the variant or unit. This makes sense in variants such as "piece" or "2 pairs", then just "piece, about 1 kg" is displayed. However, if the variant itself is already one unit of weight (e.g., "1kg"), then that weight would be cited twice ("1kg, about 1kg"). In order to avoid this, you can mark variants in the admin area with "This variant corresponds to one weight unit". Then the variant name is not displayed.
 
-![]({{ site.baseurl }}/assets/img/de/preis-nach-gewicht/preis-nach-gewicht-varianten.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/preis-nach-gewicht-varianten.png)
 
 ## Tax rate
 

@@ -44,7 +44,7 @@ Falls sich der Preis im Nachhein nicht ändert (z.B. 1 Flasche Apfelsaft, 1 Glas
 
 Seit v2.1 ist auch der **Preis nach Gewicht** sauber ins Sytem eingebunden. Hierbei können z. B. folgende Preise angeben werden: "2,00 € / 100 g", "15,50 € / kg". Das ist sinnvoll, wenn beim Bestellen der Preis noch nicht feststeht, weil sich das Gewicht voraussichtlich noch ändern wird, wie z. B. oft bei Fleisch, Fisch und Käse.
 
-![]({{ site.baseurl }}/assets/img/de/preis-nach-gewicht/preis-nach-gewicht-dialog.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/preis-nach-gewicht-dialog.png)
 
 **Vorteile**
 
@@ -59,7 +59,7 @@ Seit v2.1 ist auch der **Preis nach Gewicht** sauber ins Sytem eingebunden. Hier
 
 Wenn man die Funktion **Preis nach Gewicht** verwendet, wird beim Bestellen und auch in den Bestelllisten für die Hersteller das ungefähre Liefergewicht - mit einem "ca." davor zusätzlich zur Variante bzw. Einheit anzezeigt. Das macht bei Varianten wie "Stück" oder "2 Paar" auch Sinn, dann wird eben "Stück, ca. 1 kg" angezeigt. Falls die Variante aber selbst schon eine Gewichtseinheit ist (z.B. "1 kg"), dann würde dieses Gewicht doppelt angeführt werden (also "1 kg, ca. 1 kg"). Um das zu vermeiden, kann man im Admin-Bereich Varianten mit "Diese Variante entspricht einer Gewichtseinheit" markiert werden. Dann wird der Variantenname nicht angezeigt.
 
-![]({{ site.baseurl }}/assets/img/de/preis-nach-gewicht/preis-nach-gewicht-varianten.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/preis-nach-gewicht-varianten.png)
 
 ## Steuersatz
 
@@ -81,8 +81,12 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 
 ## Erweiterte Lagerstandsverwaltung (neu in v2.2)
 
-* Hersteller mit Lagerprodukten können in ihren Einstellungen die **erweiterte Lagerstandsverwaltung** aktivieren.
+* 1) Hersteller mit Lagerprodukten können in ihren Einstellungen die **erweiterte Lagerstandsverwaltung** aktivieren.
 
-* Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt**. Jedes Produkt muss manuell als Lagerprodukt aktiviert werden, dann erscheinen unter **Anzahl** zusätzliche Einstellungsmöglichkeiten.
+* 2) Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt**. Jedes Produkt muss manuell als Lagerprodukt aktiviert werden, dann erscheinen unter **Anzahl** zusätzliche Einstellungsmöglichkeiten.
 
-* Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand der Hersteller und die Ansprechperson eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
+* 3) Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand der Hersteller und die Ansprechperson eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
+
+![]({{ site.baseurl }}/assets/img/de/produkte/erweiterte-lagerstandverwaltung.png)
+
+
