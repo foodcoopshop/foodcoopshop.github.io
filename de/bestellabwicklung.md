@@ -1,11 +1,11 @@
 ## Bestellabwicklung
 
-Um neben dem bis zu v2.1 geltenden einwöchigen Bestellzyklus auch zweiwöchige und monatliche Bestellzyklen aber auch einfach zu bedienende Sammelbestellungen zu ermöglichen, mussten einige grundlegende Änderungen vorgenommen werden. Die folgende Beschreibung gilt ab v2.2.
+Um neben dem bis zu v2.1 geltenden einwöchigen Lieferrhythmus auch mehrwöchige und monatliche Lieferrhythmen aber auch einfach zu bedienende Sammelbestellungen zu ermöglichen, mussten einige grundlegende Änderungen vorgenommen werden. Die folgende Beschreibung gilt ab v2.2.
 
 
 ## Bestellungen tätigen
 
-Zu jeder Bestellung wird berechnete Abholtag des jeweiligen Produktes automatisch gespeichert. Für "normale" Bestellungen, also Bestellungen mit einwöchigem Bestellzyklus, berechnet sich der Abholtag wie bisher: Mittwoch bis Dienstag für den jeweils darauffolgenden Freitag.
+Zu jeder Bestellung wird berechnete Abholtag des jeweiligen Produktes automatisch gespeichert. Für "normale" Bestellungen, also Bestellungen mit einwöchigem Lieferrhythmus, berechnet sich der Abholtag wie bisher: Mittwoch bis Dienstag für den jeweils darauffolgenden Freitag.
 
 Bei **Sofort-Bestellungen** wird ab sofort der Abholtag immer auf den aktuellen Tag gesetzt und sind jetzt auch **an jedem Tag möglich**.
 
