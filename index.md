@@ -22,4 +22,4 @@
 
 ## Stability
 
-* Currently (June 2018) there are [more than 221 automated unit tests with more than 1011 assertions](https://travis-ci.org/foodcoopshop/foodcoopshop/builds) that keep the software stable.
+* Currently (September 2018) there are [239 automated unit tests and 1290 assertions](https://travis-ci.org/foodcoopshop/foodcoopshop/builds) that keep the software stable.
