@@ -13,7 +13,7 @@ Feel free to add your foodcoop
 | 13 | 09/2017 | [http://www.stadtkern.at](http://www.stadtkern.at) | Steyregg, Austria |
 | 12 | 08/2017 | [https://www.bauernladenein.at](https://www.bauernladenein.at) | Alberndorf, Austria |
 | 11 | 06/2017 | [https://vb.foodcoopshop.com](https://vb.foodcoopshop.com) | Vöcklabruck, Austria |
-| 10 | 05/2017 | [https://www.querfeldeinpoendorf.at](https://www.querfeldeinpoendorf.at) | Pöndorf, Austria |
+| 10 | 05/2017 | [https://foodcoopquerfeldein.at](https://foodcoopquerfeldein.at) | Frankenmarkt, Austria |
 | 09 | 05/2017 | [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at) | Gmunden, Austria |
 | 08 | 01/2017 | [https://www.speisvorchdorf.at](https://www.speisvorchdorf.at) | Vorchdorf, Austria |
 | **2016** |
