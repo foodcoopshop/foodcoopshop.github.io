@@ -9,11 +9,13 @@ Bei jedem Produkt kann aus folgenden Lieferrythmen ausgewählt werden:
 
 * wöchentlich
 * jede 2. Woche
-* jede 3. Woche
 * jeden 1. Freitag im Monat
-* jeden 2. Freitag im Monat
 * jeden letzten Freitag im Monat
 * individuelles Datum
+
+Bei wöchentlichen und monatlichen Lieferrhythmen kann mit dem Feld "Erster Liefertag" eingestellt werden, ab wann das Produkt erstmalig bestellbar ist. Das Produkt wird im Shop vorher nicht angezeigt.
+
+Bei der Auswahl eines individuellen Lieferdatums wird das Produkt automatisch ausgeblendet, sobald die Bestellperiode des eingestellten Liefertages vorbei ist (üblicherweise endet die Bestellperiode am Mittwoch vor dem Freitag).
 
 ## TODO erklären
 * Erinnerungs-Cronjob
