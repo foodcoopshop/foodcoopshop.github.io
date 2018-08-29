@@ -1,11 +1,11 @@
 ## Bestellabwicklung
 
-Um neben dem bis zu v2.1 geltenden einwöchigen Lieferrhythmus auch mehrwöchige und monatliche Lieferrhythmen aber auch einfach zu bedienende Sammelbestellungen zu ermöglichen, mussten einige grundlegende Änderungen vorgenommen werden. Die folgende Bestellabwicklung gilt ab v2.2.
+Um neben dem bis zur Version 2.1 geltenden einwöchigen Lieferrhythmus auch mehrwöchige und monatliche Lieferrhythmen, aber auch einfach zu bedienende Sammelbestellungen zu ermöglichen, mussten einige grundlegende Änderungen vorgenommen werden. Die folgende Bestellabwicklung gilt ab der Version 2.2.
 
 
 ## Lieferrhythmen
 
-Bei jedem Produkt kann aus folgenden Lieferrythmen ausgewählt werden:
+Im Produkt-Admin kann bei jedem Produkt aus folgenden Lieferrythmen ausgewählt werden (für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus):
 
 * wöchentlich
 * jede 2. Woche
@@ -19,20 +19,18 @@ Bei der Auswahl eines individuellen Lieferdatums wird das Produkt automatisch au
 
 ## TODO erklären
 * Erinnerungs-Cronjob
-* Warenkorb: Produkte nach Abholtag gruppiert, Hinweise und Links auf Bestellungen für spätere Abholtage als der wöchentlich nächste (damit nichts zum Abholen vergessen wird)
+* Lieferpause neu implementiert
+* Warenkorb: Hinweise und Links auf Bestellungen für spätere Abholtage als der wöchentlich nächste (damit nichts zum Abholen vergessen wird)
 
 
 ## Bestellungen tätigen
 
-Zu jeder Bestellung wird der berechnete Abholtag des jeweiligen Produktes automatisch gespeichert. Für "normale" Bestellungen, also Bestellungen mit einwöchigem Lieferrhythmus, berechnet sich der Abholtag wie bisher: Mittwoch bis Dienstag für den jeweils darauffolgenden Freitag.
-
-Bei **Sofort-Bestellungen** wird ab sofort der Abholtag immer auf den aktuellen Tag gesetzt und sind jetzt auch **an jedem Tag möglich**.
+Beim Bestellen steht ab sofort bei jedem Produkt der berechnete Abholtag in der Produktbeschreibung, im Warenkorb werden die Produkte übersichtlich nach Abholtagen gruppiert dargestellt. Auch die Bestellbestätigigung ist unterteilt in die jeweiligen Abholtage.
 
 * Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fa fa-cart-arrow-down ok"></i>
 
 ## Lagerprodukte bestellen
-Kommt bald
-
+Werden Lagerprodukte mit der wöchentlichen Bestellung mitbestellt, erscheinen sie wie gewohnt am Abholtag (Freitag) in der Liste mit den Bestellungen. Sollte man im Lager direkt ein Produkt mitnehmen (nicht nur am Abholtag), so soll dafür eine **Sofort-Bestellung** getätigt werden. Dabei wird der Abholtag immer auf den aktuellen Tag gesetzt. Sofort-Bestellungen sind jetzt auch **an jedem Tag möglich**.
 
 ## Admin-Bereich: Bestellungen
 
