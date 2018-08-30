@@ -13,15 +13,16 @@ Im Produkt-Admin kann bei jedem Produkt aus folgenden Lieferrythmen ausgewählt 
 * jeden letzten Freitag im Monat
 * individuelles Datum
 
-Bei wöchentlichen und monatlichen Lieferrhythmen kann mit dem Feld "Erster Liefertag" eingestellt werden, ab wann das Produkt erstmalig bestellbar ist. Das Produkt wird im Shop vorher nicht angezeigt.
+Die Bestellungen können so über längere Zeiträume gesammelt werden, die Hersteller bekommen die Bestelllisten wie gewohnt am Mittwoch vor dem Liefertag per E-Mail. Im Hersteller-Bereich kann man aber auch vorher nachschauen, wie viele Bestellungen schon getätigt wurden, dazu muss man lediglich den Abholtag entsprechend auswählen.
+
+Bei wöchentlichen und monatlichen Lieferrhythmen kann mit dem Feld "Erster Liefertag" eingestellt werden, ab wann das Produkt erstmalig bestellbar ist. Das Produkt ist aber sofort bestellbar und wird im Shop bereits angezeigt.
 
 Bei der Auswahl eines individuellen Lieferdatums wird das Produkt automatisch ausgeblendet, sobald die Bestellperiode des eingestellten Liefertages vorbei ist (üblicherweise endet die Bestellperiode am Mittwoch vor dem Freitag).
 
-## TODO erklären
-* Erinnerungs-Cronjob
-* Lieferpause neu implementiert
-* Warenkorb: Hinweise und Links auf Bestellungen für spätere Abholtage als der wöchentlich nächste (damit nichts zum Abholen vergessen wird)
+Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie nun im Warenkorb rechts unterhalb des "Warenkorb anzeigen"-Buttons einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte bestellt haben.
 
+## TODO erklären
+* Lieferpause neu implementiert
 
 ## Bestellungen tätigen
 
