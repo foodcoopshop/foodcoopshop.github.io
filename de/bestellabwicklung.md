@@ -30,8 +30,10 @@ Beim Bestellen steht ab sofort bei jedem Produkt der berechnete Abholtag in der 
 
 * Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fa fa-cart-arrow-down ok"></i>
 
-## Lagerprodukte bestellen
-Werden Lagerprodukte mit der wöchentlichen Bestellung mitbestellt, erscheinen sie wie gewohnt am Abholtag (Freitag) in der Liste mit den Bestellungen. Sollte man im Lager direkt ein Produkt mitnehmen (nicht nur am Abholtag), so soll dafür eine **Sofort-Bestellung** getätigt werden. Dabei wird der Abholtag immer auf den aktuellen Tag gesetzt. Sofort-Bestellungen sind jetzt auch **an jedem Tag möglich**.
+## Lagerprodukte bestellen / Sofort-Bestellung
+Werden Lagerprodukte mit der wöchentlichen Bestellung mitbestellt, erscheinen sie wie gewohnt am Abholtag (Freitag) in der Liste mit den Bestellungen. Sollte man außerhalb des wöchentlichen Abholtages im Lager ein Produkt mitnehmen, so muss dafür eine **Sofort-Bestellung** getätigt werden. Dabei wird der Abholtag immer auf den aktuellen Tag gesetzt und das Lagerprodukt scheint so nicht auf der Liste der wöchentlich bestellten Produkt auf.
+
+Sofort-Bestellungen sind jetzt auch **an jedem Tag möglich**. Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachrichtigt, da ab sofort auch automatisch E-Mails an die Hersteller verschickt werden, sobald das Lager leer wird bzw. ist.
 
 ## Admin-Bereich: Bestellungen
 
