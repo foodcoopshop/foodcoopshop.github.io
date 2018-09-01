@@ -75,6 +75,9 @@ Produkte sind nach dem Erstellen automatisch "als neu markiert", d. h. sie schei
 
 Im FoodCoopShop unter Hersteller - Produkte auf das Icon neben dem Pfand-Betrag klicken. Wenn Hersteller den Pfand seines Produktes ändert, wird die Foodcoop per E-Mail benachrichtigt, damit eventuelle Listen, die im Abhollager aufliegen, aktualisiert werden können. Um Pfand zu löschen bitte den Wert auf 0 setzen.
 
+## Lieferrhythmus
+Mehr unter "[Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)"
+
 ## Status (aktiv / inaktiv)
 
 Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
