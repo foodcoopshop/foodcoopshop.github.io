@@ -1,7 +1,7 @@
 ## Leitfaden für Sammelbestellungen
 
 ## v2.2 (September 2018)
-Seit v2.2 sind Sammelbestellungen sehr einfach durchführbar: Mehr unter "[Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)", Punkt "Individuelles Datum":
+Seit v2.2 sind Sammelbestellungen sehr einfach durchführbar: Mehr unter "[Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)", Punkt "Individuelles Datum".
 
 
 ## Anleitung für Versionen vor v2.2 (September 2018)
