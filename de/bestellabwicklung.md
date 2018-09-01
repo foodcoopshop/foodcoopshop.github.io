@@ -1,7 +1,8 @@
 ## Bestellabwicklung
 
-Um neben dem bis zur Version 2.1 geltenden einwöchigen Lieferrhythmus auch mehrwöchige und monatliche Lieferrhythmen, aber auch einfach zu bedienende Sammelbestellungen zu ermöglichen, mussten einige grundlegende Änderungen vorgenommen werden. Die folgende Bestellabwicklung gilt ab der Version 2.2.
+**Neu in v2.2** (ab Ende September 2018)
 
+Endlich gibt es neben dem wöchentlichen auch 2-wöchige und monatliche Lieferrhythmen! Außerdem sind Sammelbestellungen, Sofort-Bestellungen und die Lieferpause wesentlich einfacher zu bedienen.
 
 ## Lieferrhythmen
 
