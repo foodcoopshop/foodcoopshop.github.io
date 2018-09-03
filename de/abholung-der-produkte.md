@@ -40,6 +40,12 @@ Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezog
 
 Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung machen, der Abholtag wird automatisch auf "heute" gesetzt. Die Hersteller werden über Sofort-Bestellungen automatisch informiert.
 
+## Produkte für anderen Abholtag anzeigen
+Seit v2.2 gibt es keinen komplizierten Bestellzeitraum mehr (von-bis-Datum), die Liste der Bestellungen wird auf Basis des Abholtages (den kann man im Filter oben ändern) angezeigt. Sollte man für Auswertungen oder Ähnlichem mal einen Zeitraum mit mehreren Abholtagen angeben müssen, gibt es unten einen Button "Mehrere Abholtage".
+
+## Produkte abgeholt?
+Der Abholdienst kann angeben, ob das Mitglied die Produkte abgeholt hat (unter "Bestellungen", Button ganz rechts). Die Zeile wird dann grün angezeigt, ansonsten hat es aber keine Auswirkungen. Alle weiteren Bestellstati werden automatisch geändert (siehe Bestelllistenversand und Rechnungsversand).
+
 ## Produkte bleiben am Ende des Abholtages über - was tun?
 
 Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat (Dropdown oben). Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer es vergessen haben könnte. Unter "Mitglieder" findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
