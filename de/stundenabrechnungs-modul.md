@@ -64,4 +64,4 @@ Auf den monatlich erstellten Rechnungen für die Hersteller wird der Betrag, der
 * Konzept: Tobias Plettenbacher von der [Riadarei](http://www.riadarei.at) und [WIR gemeinsam](http://www.wirgemeinsam.net)
 * [![]({{ site.baseurl }}/assets/img/de/stundenabrechnungs-modul/wirgemeinsam-logo.png)](http://www.wirgemeinsam.net)
 * Technische Umsetzung: [Mario Rothauer](https://www.rothauer-it.com)
-* Das Stundenabrechnungs-Modul ist seit der Version 2.1 auf [foodcoopshop.com](https://www.foodcoopshop.com/download) veröffentlicht und steht allen Foodcoops kostenlos zur Verfügung.
+* Das Stundenabrechnungs-Modul ist seit der Version 2.1 Bestandteil der Software und auf [foodcoopshop.com](https://www.foodcoopshop.com/download) veröffentlicht und steht allen Foodcoops kostenlos zur Verfügung.
