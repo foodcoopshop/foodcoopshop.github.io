@@ -50,7 +50,7 @@ Die Bestellungen können so über längere Zeiträume gesammelt werden und die H
 
 Bei wöchentlichen und monatlichen Lieferrhythmen kann mit dem Feld "Erster Liefertag" eingestellt werden, ab wann das Produkt erstmalig bestellbar ist, falls man eine Vorlaufzeit benötigt, bevor der Lieferrhythmus beginnt. Das Produkt ist auch in dieser Vorlaufzeit für den jeweiligen Abholtag bestellbar.
 
-Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produkt automatisch im Shop nicht mehr angezeigt, sobald die Bestellperiode des eingestellten Liefertages vorbei ist (üblicherweise endet die Bestellperiode am Mittwoch vor dem Freitag).
+Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produkt bis zum eingestellten Datum "Bestellbar bis" im Shop angezeigt und danach automatisch ausgeblendet.
 
 Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte bestellt haben.
 
