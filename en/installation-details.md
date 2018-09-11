@@ -112,6 +112,7 @@ MAILTO=root
 * `CheckCreditBalance` sends customers a payment reminder. Runs as often as prefered (once a week or some days after pay day)
 * `SendInvoices` sends manufacturers invoices to customers. Runs once a month (prefered on day 11)
 * `BackupDatabase` sends database dump to eMail address configured. Runs as often as prefered.
+* `PickupReminder` sends customers a reminder if there are open orders to pick up where the order day and the pickup day have more than 6 days in between. Runs once a week (prefered on Monday morning)
 
 Edit the crontab for your Apache user (e.g. www-data) and add all the cronjobs you need to it:
 ```bash
