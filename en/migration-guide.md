@@ -8,7 +8,7 @@
 
 ### FCS v2.1.x to FCS v2.2.x
 * replace source code => see bottom of page
-* execute migrations => see bottom of page
+* execute migrations => see bottom of page (can take some time, depending on size of table fcs_order_detail so be sure that there is no execution timeout!) 
 * At some configurations the migrations fail the first time when they are called. Just call them a second time, then it should work.
 * activate new cronjob "PickupReminder"
 * if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
