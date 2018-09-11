@@ -10,6 +10,7 @@
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * At some configurations the migrations fail the first time when they are called. Just call them a second time, then it should work.
+* activate new cronjob "PickupReminder"
 * if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
 
 
