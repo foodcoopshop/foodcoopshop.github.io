@@ -8,7 +8,10 @@
 
 ### FCS v2.1.x to FCS v2.2.x
 * replace source code => see bottom of page
-* execute migrations => see bottom of page (can take some time, depending on size of table fcs_order_detail so be sure that there is no execution timeout!) If the migrations fail, try calling them again (once). After the migrations have been executed, please check manually if all migrations really were executed. If not, remove record in phinxlog table and run them again.
+* execute migrations => see bottom of page
+* If the migrations fail, remove all migrations that have not run yet from table phinxlog and run them again.
+* **20180720130810_RemoveOrdersTable** can take some time, depending on size of table fcs_order_detail so be sure that there is no execution timeout!
+* Sometimes the pickup_day in table fcs_order_detail is not set correctly. If this is the case with your installation, please remove 20180720130810_RemoveOrdersTable from table phinxlog, then edit the migration and comment [these lines](https://github.com/foodcoopshop/foodcoopshop/blob/351d23b295297c91aba0a0e44107ea58609f7d95/config/Migrations/20180720130810_RemoveOrdersTable.php#L77-L84), run the migration, then remove the migration from table phinxlog, comment [these lines](https://github.com/foodcoopshop/foodcoopshop/blob/351d23b295297c91aba0a0e44107ea58609f7d95/config/Migrations/20180720130810_RemoveOrdersTable.php#L13-L75) and run the migration again.
 * At some configurations the migrations fail the first time when they are called. Just call them a second time, then it should work.
 * activate new cronjob "PickupReminder"
 * if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
