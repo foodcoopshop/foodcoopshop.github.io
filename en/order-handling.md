@@ -22,11 +22,11 @@ If warehouse products are ordered with the weekly order, they will appear in the
 
 For instant orders for storage products, the manufacturer is not notified, since from now on automatically e-mails are sent to the manufacturer as soon as the warehouse is empty or is.
 
-* Order status after order: **Order placed** <i class = "fa fa-cart-arrow-down ok"> </ i>
+* Order status after order: **Order placed** <i class="fa fa-cart-arrow-down ok"></i>
 
 ## 2) Order list shipping
 * Base of orders that appear in the lists is the pickup day.
-* Order status after sending the order lists: **Order list sent to manufacturer** <i class = "fa fa-envelope-o ok"> </ i>
+* Order status after sending the order lists: **Order list sent to manufacturer** <i class="fa fa-envelope-o ok"></i>
 
 ## 3) Pick up the products
 [Click here for detailed instructions]({{site.baseurl}}/en/pick-up-products)
@@ -34,7 +34,7 @@ For instant orders for storage products, the manufacturer is not notified, since
 ## 4) Billing
 * The settlement always happens on the 11th of the month.
 * **New**: Base of the orders, which are charged, is the **pick-up day** (and not the order day). Controlling for the manufacturers is thus simpler.
-* Order status after sending the invoices: **charged** <i class = "fa fa-lock not-ok"> </ i>
+* Order status after sending the invoices: **charged** <i class="fa fa-lock not-ok"></i>
 
 
 ## Delivery rhythms and bulk orders
