@@ -14,6 +14,6 @@ Dieser Ablauf hat den großen Vorteil, dass das bereits vorhandene Guthaben-Syst
 
 ### Jahresübersicht über bestellte Produkte erstellen
 
-Unter *Bestellte Produkte* gibt es die Möglichkeit, *Produkt zu gruppieren*. So erhält man eine schöne, sortierbare, Übersicht darüber, welche Produkte in einem bestimmten Zeitraum bestellt wurden.
+Unter *Bestellungen* gibt es die Möglichkeit, *Produkte zu gruppieren*. So erhält man eine schöne, sortierbare, Übersicht darüber, welche Produkte in einem bestimmten Zeitraum bestellt wurden.
 
 * Die Funktion ist für Mitglieder, Hersteller und die Foodcoop gleichermaßen interessant und seit v2.0 verfügbar.
