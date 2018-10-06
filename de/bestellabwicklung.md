@@ -42,6 +42,7 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 
 * wöchentlich
 * jede 2. Woche
+* jede 4. Woche
 * jeden 1. Freitag im Monat
 * jeden letzten Freitag im Monat
 * individuelles Datum (Sammelbestellung)
