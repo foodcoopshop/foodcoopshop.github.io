@@ -7,7 +7,7 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 * Server connected to internet with root access / sudo and cronjobs
 * Apache with `mod_rewrite`
 * PHP 7.1
-* MySQL 5.6 (5.7 since v1.5)
+* MySQL 5.7 (5.6 works too, but support can be stopped any time)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
 
@@ -65,7 +65,7 @@ $ chmod a+w -R ./webroot/tmp
 
 ## Configuring FoodCoopShop
 * Copy [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php) to custom_config.php and change your configuration if you want to
-* Set `cakeServerName` to your servers data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
+* Set `cakeServerName` to your server's data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
 * The default configuration is found in [app_config.php]({{site.repo_url}}/blob/master/config/app_config.php).
 * Some configuration is stored in the database and can easily be changed from the admin screen: https://yourdomain.tld/admin/configurations (Super Admin account required)
 * More configuration information in [German]({{ site.baseurl }}/de/einstellungen) and [English]({{ site.baseurl }}/en/settings)
