@@ -58,5 +58,3 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 * Verwendung des gesamten Netzwerk-Moduls als Admin bzw. Superadmin (und nicht nur als Hersteller)
 * Hersteller mit variablem Mitgliedsbeitrag sollen diese Foodcoop auch als Master-Foodcoop verwenden können.
 
-## Technische Infos (für Programmierer)
-* [Installations-Anleitung (Englisch)]({{ site.baseurl }}/en/installation-network-plugin)
