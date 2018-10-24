@@ -6,6 +6,11 @@
 * **Be aware**: updating from v1.x to v2.x can only be done from v1.5.
 * If you want to update from v1.3 to v1.5 directly (skipping v1.4), you can do that. Just follow the instructions for updating to v1.4 and v1.5. 
 
+### FCS v2.2.x to FCS v2.3.x
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+* Enable the [new cronjob handling]({{ site.baseurl }}/en/cronjobs)
+
 ### FCS v2.1.x to FCS v2.2.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page

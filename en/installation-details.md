@@ -96,27 +96,5 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 * **Don't forget** to add the Super Admin data to credentials.php.
 
 ## Cronjobs
-Your server / provider must support command-line cronjobs. All possible cronjobs are located in [src/Shell](../blob/master/src/Shell) (e.g. /var/www/foodcoopshop/src/Shell). The jobs are run by the CakePHP engine located in the parent directory (e.g. /var/www/foodcoopshop/bin/cake). A sample crontab running database backup:
-```
-# For more information see the manual pages of crontab(5) and cron(8)
-SHELL=/bin/bash
-PATH=/var/www/foodcoopshop/bin:/bin:/usr/bin:/usr/local/bin:/sbin:/usr/sbin:/usr/local/sbin
-MAILTO=root
+To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl }}/en/cronjobs)
 
-# m h  dom mon dow   command
-43  05  *   *   *    cake BackupDatabase -q
-```
-
-* `SendOrderLists` sends order lists to manufacturers. Runs once a week (prefered on Wednesday morning)
-* `EmailOrderReminder` sends customers an order reminder. Runs once a week (prefered on Tuesday morning)
-* `CheckCreditBalance` sends customers a payment reminder. Runs as often as prefered (once a week or some days after pay day)
-* `SendInvoices` sends manufacturers invoices to customers. Runs once a month (prefered on day 11)
-* `BackupDatabase` sends database dump to eMail address configured. Runs as often as prefered.
-* `PickupReminder` sends customers a reminder if there are open orders to pick up where the order day and the pickup day have more than 6 days in between. Runs once a week (prefered on Monday morning)
-
-Edit the crontab for your Apache user (e.g. www-data) and add all the cronjobs you need to it:
-```bash
-me@home:/var/www/foodcoopshop$ sudo crontab -u www-data -e
-```
-
-**Beware**: cake is not a typical shell command! The -q option MUST BE LAST. (not sure if this is still necessary with FCS v2.x)

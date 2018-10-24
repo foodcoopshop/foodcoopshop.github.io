@@ -17,5 +17,6 @@
 * [WYSIWYG-Editor]({{ site.baseurl }}/en/wysiwyg-editor)
 
 ## For Developers
+* [Cronjobs]({{ site.baseurl }}/en/cronjobs)
 * [Installation]({{ site.baseurl }}/en/installation-details)
 * [Migration guide]({{ site.baseurl }}/en/migration-guide)
