@@ -2,9 +2,9 @@
 
 **Please remember to always make a database and file backup before updating your FoodCoopShop installation!**
 
-* There is no automatic update tool, updating FoodCoopShop needs to be done manually. 
+* There is no automatic update tool, updating FoodCoopShop needs to be done manually.
 * **Be aware**: updating from v1.x to v2.x can only be done from v1.5.
-* If you want to update from v1.3 to v1.5 directly (skipping v1.4), you can do that. Just follow the instructions for updating to v1.4 and v1.5. 
+* [Migration guide for v1.x]({{ site.baseurl }}/en/migration-guide-v1)
 
 ### FCS v2.2.x to FCS v2.3.x
 * replace source code => see bottom of page
@@ -20,7 +20,6 @@
 * At some configurations the migrations fail the first time when they are called. Just call them a second time, then it should work.
 * activate new cronjob "PickupReminder", see bottom of [installation details]({{ site.baseurl }}/en/installation-details)
 * if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
-
 
 ### FCS v2.0.x to FCS v2.1.x
 * replace source code => see bottom of page
@@ -51,31 +50,6 @@ RewriteRule ^admin/(.*)/index/(.+)\:(.+) /admin/$1/index/?$2=$3 [L,R=301]
 * run migrations => see bottom of page
 * if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
 
----
-
-### FCS v1.4.x to FCS v1.5
-* replace source code => see bottom of page
-* nothing else
-
-### FCS v1.3.x to FCS v1.4
-* replace source code => see bottom of page
-* The following settings moved from file-based configuration (app.config.php, custom.config.php) to the database:
-* app.useManufacturerCompensationPercentage => FCS\_USE\_VARIABLE\_MEMBER\_FEE
-* app.defaultCompensationPercentage => FCS\_DEFAULT\_VARIABLE\_MEMBER\_FEE\_PERCENTAGE
-* Please update these configurations manually
-
-### FCS v1.2.x to FCS v1.3
-* replace source code => see bottom of page
-* database migrations are executed automatically since v1.3 - many thanks to [k-pd](https://github.com/k-pd)
-
-### FCS v1.1.x to FCS v1.2
-* replace source code => see bottom of page
-* the file-based configuration "app.name" and "app.addressForPdf" have moved to database-based configuration and need to be set manually (/admin/configurations)
-* execute the database migration script [v1.2.0.sql]({{site.repo_url}}/blob/master/Config/sql/migrations/v1.2.0.sql)
-
-### FCS v1.0 to FCS v1.1.x
-* replace source code => see bottom of page
-* execute the database migration script [v1.1.0.sql]({{site.repo_url}}/blob/master/Config/sql/migrations/v1.1.0.sql)
 
 ### execute migrations
 * execute ``$ bin/cake migrations migrate`` to execute database migrations. If you do not have shell access, you need to update the migrations manually. The files with the sql statements are located in the folder /config/Migrations).
@@ -88,4 +62,4 @@ RewriteRule ^admin/(.*)/index/(.+)\:(.+) /admin/$1/index/?$2=$3 [L,R=301]
     * config/credentials.php
     * webroot/files
     * files_private
-    * and any other adapted files (favicon, custom css,...)
+    * and any other adapted files (favicon, /css/custom.css,, /css/mobile-frontend-custom.css...)

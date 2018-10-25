@@ -96,5 +96,5 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 * **Don't forget** to add the Super Admin data to credentials.php.
 
 ## Cronjobs
-To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl }}/en/cronjobs)
+To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl }}/en/cronjobs).
 
