@@ -24,4 +24,4 @@ The cronjobs can be configured directly in the database table **fcs_cronjobs**. 
 
 * Changing the default values is at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
 * Maximum one call per day per cronjob is supported
-* When you activate the new cronjob /cron be aware that it **will call cronjobs again** that were already called by the old configuration (which did not write logs)
+* When you activate the new cronjob, be aware that it **will call cronjobs again** that were already called by the old configuration **on the current day**. That's because the old configuration did not write logs.
