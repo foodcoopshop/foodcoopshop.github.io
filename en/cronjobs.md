@@ -20,7 +20,7 @@ The cronjobs can be configured directly in the database table **fcs_cronjobs**. 
 * **not_before_time**: time (HH:mm:ss) when cronjob is executed earliest (exact time is depending on main cronjob's time interval
 * **active**: 0 or 1
 
-## Important information
+### Important information
 
 * Changing the default values is at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
 * Maximum one call per day per cronjob is supported
