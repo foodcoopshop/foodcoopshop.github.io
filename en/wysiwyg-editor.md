@@ -33,7 +33,7 @@ The WYSIWYG editor is used to create and format text and images, it is used in t
 
 ### How can I make nice buttons from links?
 1. Highlight the linked text in the editor and click on "Insert / edit link".
-2. Click on the "Advanced" tab and enter under "Style Template" **btn btn-success ** (green button) or ** btn btn-default** (white button with gray border).
+2. Click on the "Advanced" tab and enter under "Style Template" **btn btn-success ** (green button) or **btn btn-outline-light** (white button with gray border).
 
 ### layout shot up? Remove formatting
 If you For example, if you copy text from a Word document or another Web page and paste it into the editor, the formatting is often incorrect. The font is z. B. another or the text is shot. Simply mark the entire text and click on the second button from the left "Remove formatting".
