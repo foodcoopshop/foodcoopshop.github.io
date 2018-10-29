@@ -7,7 +7,7 @@ Feel free to add your foodcoop
 | **2018** |
 | 20 | 10/2018 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
 | 19 | 10/2018 | [https://www.krekoodel.org](https://www.krekoodel.org) | Krems, Austria|
-| 18 | 09/2018 | [http://ghanafoodcoop.com](http://ghanafoodcoop.com) | Accra, Ghana|
+| 18 | 09/2018 | [http://www.ghanafoodcoop.com](http://www.ghanafoodcoop.com) | Accra, Ghana|
 | 17 | 06/2018 | [http://www.buntgesund.at](http://www.buntgesund.at) | Rauchenwarth, Austria|
 | 16 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
 | **2017** |
