@@ -5,6 +5,7 @@ Feel free to add your foodcoop
 | Nr | Date    | Url | City |
 | -- | ------- | --- | ---- |
 | **2018** |
+| 21 | 11/2018 | [https://www.reggaefood.at/](https://www.reggaefood.at/) | Bad Goisern, Austria|
 | 20 | 10/2018 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
 | 19 | 10/2018 | [https://www.krekoodel.org](https://www.krekoodel.org) | Krems, Austria|
 | 18 | 09/2018 | [http://www.ghanafoodcoop.com](http://www.ghanafoodcoop.com) | Accra, Ghana|
