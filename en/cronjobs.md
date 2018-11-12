@@ -17,10 +17,10 @@ The cronjobs are configured directly in the database table **fcs_cronjobs**. The
 
 ### Important information
 
-* Changing the default values is at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
-* Maximum one call per day per cronjob is supported
-* When you activate the new cronjob, be aware that it **will call cronjobs again** that were already called by the old configuration **on the current day**. That's because the old configuration did not write logs.
+* Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
+* Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
+* When you switch to the new cronjob feature, be aware that it **will call cronjobs again** that were already called by the old configuration **on that day**. That's because the old configuration did not write logs.
 
 ### Backwards compatibility
 
-The cronjobs that you set up before migrating to v2.3 still work and will work in future, but of course the new system is recommended.
+The cronjobs that you set up before migrating to v2.3 still work and will work in future, but the new system is recommended.
