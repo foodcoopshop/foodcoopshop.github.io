@@ -80,7 +80,7 @@ $ chmod a+w -R ./webroot/tmp
 ## Credentials
 * Copy [credentials.default.php]({{site.repo_url}}/blob/master/config/credentials.default.php) to credentials.php and change the configuration
 * The valid Super Admin account will be created later
-* The eMail error logging can be enabled to ease server monitoring
+* The email error logging can be enabled to ease server monitoring
 
 ## Testing your email configuration
 * Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
