@@ -19,6 +19,7 @@
 * Sometimes the pickup_day in table fcs_order_detail is not set correctly. If this is the case with your installation, please remove 20180720130810_RemoveOrdersTable from table phinxlog, then edit the migration and comment [these lines](https://github.com/foodcoopshop/foodcoopshop/blob/351d23b295297c91aba0a0e44107ea58609f7d95/config/Migrations/20180720130810_RemoveOrdersTable.php#L77-L84), run the migration, then remove the migration from table phinxlog, comment [these lines](https://github.com/foodcoopshop/foodcoopshop/blob/351d23b295297c91aba0a0e44107ea58609f7d95/config/Migrations/20180720130810_RemoveOrdersTable.php#L13-L75) and run the migration again.
 * At some configurations the migrations fail the first time when they are called. Just call them a second time, then it should work.
 * activate new cronjob "PickupReminder", see bottom of [installation details]({{ site.baseurl }}/en/installation-details)
+* add the configuration `app.dateOfFirstSendInvoiceCronjobWithPickupDayUpdate` to your custom_config.php and change the date when your SendInvoices cronjob will first run with this update. Example: you installed v2.2 or later on 3rd April 2019: value is 2019-04-11 (11 is default day of SendInvoices)
 * if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
 
 ### FCS v2.0.x to FCS v2.1.x
