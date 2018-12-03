@@ -1,7 +1,9 @@
 ## Installation
-This is the installation for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/master/README.md).
+This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/master/README.md).
 
 If you have questions please drop Mario an email: office@foodcoopshop.com
+
+If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 
 ### Requirements
 * Server connected to internet with root access / sudo and cronjobs
