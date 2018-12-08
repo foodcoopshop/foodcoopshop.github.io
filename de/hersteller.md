@@ -17,14 +17,7 @@ Nur Admins und Superadmins können den Hersteller aktivieren bzw. deaktivieren. 
 
 **Lieferpause**
 
-**neu ab v2.2**: Einfach die Abholtage, an denen nicht geliefert werden kann, aus dem Dropdown auswählen.
-
-Vor v2.2 gilt:
-Über die Einstellung "Lieferpause" kann der Zeitraum angebeben werden, in dem die Produkte automatisch deaktiviert und wieder aktiviert sind. Beim Hersteller-Profil und im Menü wird der Zeitraum der Lieferpause angezeigt.
-
-**Wichtig**: Hersteller müssen angeben, in welchem Zeitraum nicht **bestellt** werden darf. Beispiel: Wenn am Freitag, 18.11.2017 nicht geliefert werden kann, muss als Zeitraum 08.11.2017 (Mittwoch) bis 14.11.2017 (Dienstag) angeben werden. Dies ist der Zeitraum, in dem Bestellungen für Freitag 18.11.2017 gesammelt werden.
-
-Beide Felder leer bedeutet: Lieferpause ist **nicht aktiv**.
+Einfach die Abholtage, an denen nicht geliefert werden kann, aus dem Dropdown auswählen.
 
 
 **Nur für Mitglieder?**

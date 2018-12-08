@@ -44,7 +44,7 @@ If the price does not change in the aftermath (for example, 1 bottle of apple ju
 
 ## Price by weight
 
-Since v2.1 the **price by weight** is also integrated into the system. This z. For example, the following prices are given: "2.00 € / 100 g", "15.50 € / kg". This makes sense if the price is not yet determined when ordering, because the weight is expected to change, such. As often with meat, fish and cheese.
+For example, the following prices are possible: "2.00 € / 100 g", "15.50 € / kg". This makes sense if the price is not yet determined when ordering, because the weight is expected to change, such. As often with meat, fish and cheese.
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/preis-nach-gewicht-dialog.png)
 

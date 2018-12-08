@@ -42,7 +42,7 @@ Falls sich der Preis im Nachhein nicht ändert (z.B. 1 Flasche Apfelsaft, 1 Glas
 
 ## Preis nach Gewicht
 
-Seit v2.1 ist auch der **Preis nach Gewicht** sauber ins Sytem eingebunden. Hierbei können z. B. folgende Preise angeben werden: "2,00 € / 100 g", "15,50 € / kg". Das ist sinnvoll, wenn beim Bestellen der Preis noch nicht feststeht, weil sich das Gewicht voraussichtlich noch ändern wird, wie z. B. oft bei Fleisch, Fisch und Käse.
+Es können z. B. folgende Preise angeben werden: "2,00 € / 100 g", "15,50 € / kg". Das ist sinnvoll, wenn beim Bestellen der Preis noch nicht feststeht, weil sich das Gewicht voraussichtlich noch ändern wird, wie z. B. oft bei Fleisch, Fisch und Käse.
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/preis-nach-gewicht-dialog.png)
 
@@ -82,7 +82,7 @@ Mehr unter "[Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)"
 
 Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 
-## Erweiterte Lagerstandsverwaltung (neu in v2.2)
+## Erweiterte Lagerstandsverwaltung
 
 * 1) Hersteller mit Lagerprodukten können in ihren Einstellungen die **erweiterte Lagerstandsverwaltung** aktivieren.
 

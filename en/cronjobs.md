@@ -1,6 +1,6 @@
 ## Cronjobs
 
-Since v2.3 there is just one single cronjob needed which takes care of all implemented cronjobs.
+There is just one single cronjob needed which takes care of all implemented cronjobs.
 It **automatically resumes cronjobs** (eg. when the server was down for a short time), therefore increases stability and keeps the whole cronjob administration in the database.
 
 ### Setup / configuration

@@ -16,4 +16,4 @@ Dieser Ablauf hat den großen Vorteil, dass das bereits vorhandene Guthaben-Syst
 
 Unter *Bestellungen* gibt es die Möglichkeit, *Produkte zu gruppieren*. So erhält man eine schöne, sortierbare, Übersicht darüber, welche Produkte in einem bestimmten Zeitraum bestellt wurden.
 
-* Die Funktion ist für Mitglieder, Hersteller und die Foodcoop gleichermaßen interessant und seit v2.0 verfügbar.
+* Die Funktion ist für Mitglieder, Hersteller und die Foodcoop gleichermaßen interessant.
