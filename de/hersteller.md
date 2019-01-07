@@ -17,7 +17,7 @@ Nur Admins und Superadmins können den Hersteller aktivieren bzw. deaktivieren. 
 
 **Lieferpause**
 
-Einfach die Abholtage, an denen nicht geliefert werden kann, aus dem Dropdown auswählen.
+Einfach die Abholtage, an denen nicht geliefert werden kann, aus dem Dropdown auswählen. Falls an einem Abholtag bereits Bestellungen vorliegen, kommt eine Fehlermeldung und es müssen die Bestellungen vor dem Speichern zuerst storniert werden.
 
 
 **Nur für Mitglieder?**
