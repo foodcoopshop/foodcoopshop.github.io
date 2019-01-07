@@ -19,11 +19,7 @@ Only admins and super admins can activate or deactivate the manufacturer. The ma
 
 **Delivery break**
 
-The delivery break can be specified as a period. The products are automatically deactivated and reactivated, and the manufacturer also displays the period of the delivery break.
-
-**Important**: Manufacturers must specify in which period **may not be** ordered. Example: If delivery is not possible on Friday, 18.11.2017, the period must be 08.11.2017 (Wednesday) to 14.11.2017 (Tuesday). This is the period in which orders for Friday 18.11.2017 will be collected.
-
-Both fields empty means: delivery break is **not active**.
+Simply select the dates where the delivery break should be active. If there are already orders for the desired date, those need to be cancelled in order to activate the delivery break.
 
 
 **Just for members?**
