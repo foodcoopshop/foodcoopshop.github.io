@@ -47,6 +47,8 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 * jeden letzten Freitag im Monat
 * individuelles Datum (Sammelbestellung)
 
+Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf den Button "Lieferrhythmus für ausgewählte Produkte bearbeiten" klicken.
+
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen.png)
 
 Die Bestellungen können so über längere Zeiträume gesammelt werden und die Hersteller bekommen die Bestelllisten wie gewohnt am Mittwoch vor dem Liefertag per E-Mail zugeschickt. Wer zwischendurch wissen möchte, wie viel bereits bestellt wurde, kann im Admin-Bereich unter "Bestellungen" nachschauen. Dazu einfach den Abholtag entsprechend auswählen.
