@@ -26,7 +26,7 @@ Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachricht
 
 ## 2) Bestelllistenversand
 * Basis der Bestellungen, die in den Listen erscheinen, ist der Abholtag.
-* Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="fas fa-envelope-o ok"></i>
+* Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="far fa-envelope ok"></i>
 
 ## 3) Abholung der Produkte
 [Hier geht's zur ausführlichen Anleitung]({{ site.baseurl }}/de/abholung-der-produkte)
