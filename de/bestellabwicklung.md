@@ -22,11 +22,11 @@ Werden Lagerprodukte mit der wöchentlichen Bestellung mitbestellt, erscheinen s
 
 Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachrichtigt, da ab sofort auch automatisch E-Mails an die Hersteller verschickt werden, sobald das Lager leer wird bzw. ist.
 
-* Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fa fa-cart-arrow-down ok"></i>
+* Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fas fa-cart-arrow-down ok"></i>
 
 ## 2) Bestelllistenversand
 * Basis der Bestellungen, die in den Listen erscheinen, ist der Abholtag.
-* Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="fa fa-envelope-o ok"></i>
+* Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="fas fa-envelope-o ok"></i>
 
 ## 3) Abholung der Produkte
 [Hier geht's zur ausführlichen Anleitung]({{ site.baseurl }}/de/abholung-der-produkte)
@@ -34,7 +34,7 @@ Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachricht
 ## 4) Rechnungsversand
 * Die Verrechnung passiert immer am 11. des Monats.
 * **Neu**: Basis der Bestellungen, die verrechnet werden, ist der **Abholtag** (und nicht mehr der Bestelltag). Das Kontrollieren für die Hersteller ist somit einfacher.
-* Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fa fa-lock not-ok"></i>
+* Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fas fa-lock not-ok"></i>
 
 
 ## Lieferrhythmen und Sammelbestellungen
