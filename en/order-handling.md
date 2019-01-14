@@ -26,7 +26,7 @@ For instant orders for storage products, the manufacturer is not notified, since
 
 ## 2) Order list shipping
 * Base of orders that appear in the lists is the pickup day.
-* Order status after sending the order lists: **Order list sent to manufacturer** <i class="fas fa-envelope-o ok"></i>
+* Order status after sending the order lists: **Order list sent to manufacturer** <i class="far fa-envelope ok"></i>
 
 ## 3) Pick up the products
 [Click here for detailed instructions]({{site.baseurl}}/en/pick-up-products)
