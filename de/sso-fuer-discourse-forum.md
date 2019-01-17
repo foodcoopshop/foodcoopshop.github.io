@@ -1,6 +1,6 @@
 ## Single-Sign-On für Discourse-Forum
 
-Um sich beim Forum der Österreichischen Foodcoops [https://forum.foodcoops.at](https://forum.foodcoops.at) nicht erneut registrieren zu müssen, unterstützt der FoodCoopShop seit der Version 2.4 das sogenannten Single-Sign-On-Verfahren (SSO) für die verwendete Forum-Software [Discourse](https://www.discourse.org).
+Um sich beim Forum der Foodcoops Österreich [https://forum.foodcoops.at](https://forum.foodcoops.at) nicht erneut registrieren zu müssen, unterstützt der FoodCoopShop seit der Version 2.4 das sogenannten Single-Sign-On-Verfahren (SSO) für die verwendete Forum-Software [Discourse](https://www.discourse.org).
 
 Um die Installation eurer Software und somit eure Foodcoop dafür freizuschalten, sind folgende Schritte notwendig:
 
