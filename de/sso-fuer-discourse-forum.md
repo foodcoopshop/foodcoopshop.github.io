@@ -8,6 +8,8 @@ Um die Installation eurer Software und somit eure Foodcoop dafür freizuschalten
 
 In der Datei custom_config.php die Konfigurations-Variable `app.discourseSsoEnabled` auf `true` setzen. Dann die Homepage eurer Installation aufrufen und dadurch einen Wert für `app.discourseSsoSecret` generieren, diesen in die Datei custom_config.php eintragen und speichern.
 
-2) Der IG Foodcoop Bescheid sagen
+Falls ihr die Software auf die Version 2.4 oder höher upgedatet habt, müssen die Variablen erst von custom_config.default.php kopiert werden.
 
-Mit der IG Foodcoops Kontakt aufnehmen (Patrick) und ihnen app.discourseSsoSecret zukommen lassen. Patrick wird hierfür noch ein eigenes Formular bauen.
+2) Der IG Foodcoops Bescheid sagen
+
+Mit der IG Foodcoops Kontakt aufnehmen (Patrick) und ihnen `app.discourseSsoSecret` zukommen lassen. Patrick wird hierfür noch ein eigenes Formular bauen.
