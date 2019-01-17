@@ -12,6 +12,7 @@
 * [Produkt-Verwaltung]({{ site.baseurl }}/de/produkte)
 * [Rechtliches]({{ site.baseurl }}/de/rechtliches)
 * [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen)
+* [SSO für Discourse-Forum]({{ site.baseurl }}/de/sso-fuer-discourse-forum) (Einfaches Einloggen auf [https://forum.foodcoops.at](https://forum.foodcoops.at))
 * [Stundenabrechnung-Modul]({{ site.baseurl }}/de/stundenabrechnungs-modul) (Mitglieder können Produkte mit ihrer Arbeitszeit bezahlen)
 * [Tipps und Tricks]({{ site.baseurl }}/de/tipps-und-tricks)
 * [WYSIWYG-Editor]({{ site.baseurl }}/de/wysiwyg-editor)
