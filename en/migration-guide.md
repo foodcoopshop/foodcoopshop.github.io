@@ -9,7 +9,7 @@
 ### FCS v2.3.x to FCS v2.4.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
-* If you want to use the new single sign on for discourse forums, set app.discourseSsoEnabled to true and add a app.discourseSsoSecret
+* If you want to use the new single sign on for discourse forums, set `app.discourseSsoEnabled` to `true` and add a `app.discourseSsoSecret`. [Anleitung auf Deutsch]({{ site.baseurl }}/de/sso-fuer-discourse-forum)
 
 ### FCS v2.2.x to FCS v2.3.x
 * replace source code => see bottom of page
