@@ -8,10 +8,11 @@ If you want to update your installation to another version, please read the [mig
 ### Requirements
 * Server connected to internet with root access / sudo and cronjobs
 * Apache with `mod_rewrite`
-* PHP 7.1
+* PHP => 7.1
 * MySQL 5.7 (5.6 works too, but support can be stopped any time)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
+* If you cloned the repository from Github: Node.js, npm and Composer
 
 That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
 
