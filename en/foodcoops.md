@@ -4,12 +4,12 @@ Feel free to add your foodcoop
 
 | Nr | Date    | Url | City |
 | -- | ------- | --- | ---- |
+| **2019** |
+| 20 | 01/2018 | [https://www.dorfladenroitham.at/](https://www.dorfladenroitham.at/) | Roitham, Austria|
 | **2018** |
-| 21 | 11/2018 | [https://www.reggaefood.at/](https://www.reggaefood.at/) | Bad Goisern, Austria|
-| 20 | 10/2018 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
-| 19 | 10/2018 | [https://www.krekoodel.org](https://www.krekoodel.org) | Krems, Austria|
-| 18 | 09/2018 | [http://www.ghanafoodcoop.com](http://www.ghanafoodcoop.com) | Accra, Ghana|
-| 17 | 06/2018 | [http://www.buntgesund.at](http://www.buntgesund.at) | Rauchenwarth, Austria|
+| 19 | 11/2018 | [https://www.reggaefood.at/](https://www.reggaefood.at/) | Bad Goisern, Austria|
+| 18 | 10/2018 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
+| 17 | 10/2018 | [https://www.krekoodel.at](https://www.krekoodel.at) | Krems, Austria|
 | 16 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
 | **2017** |
 | 15 | 11/2017 | [https://www.sinnkistl.at](https://www.sinnkistl.at) | Reichersberg, Austria|
