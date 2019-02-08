@@ -60,6 +60,6 @@ In diesem Fall versuche, das Mitglied ausfindig machen, das das Produkt wahrsche
 So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein zu tragen hatte.
 
 ## Erklärungen zu "Bestellungen"
-* Mitglieder mit einem Blatt-Symbol haben erst 25x oder weniger Produkte bestellt.
+* Mitglieder mit einem Karotten-Symbol haben erst 25x oder weniger Produkte bestellt.
 * Das ein rotes Rufzeichen am Anfang der Zeile zeigt an, ob das Mitglied einen Kommentar zur einem Abholtag verfasst hat. Dieser kann auch geändert werden. Wenn das Symbol ausgegraut ist, kann ein neuer Kommentar erstellt werden.
 
