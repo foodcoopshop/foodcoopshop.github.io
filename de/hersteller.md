@@ -33,11 +33,11 @@ Viele automatisierte Benachrichtigungen per E-Mail können für jeden Hersteller
 
 **Variabler Mitgliedsbeitrag**
 
-Diesen Punkt sieht man nur, falls das Modul aktiviert ist. Herstellern wird der eingetragene Prozentsatz von der Rechnung abgezogen, das heißt, die Preise müssen dementsprechend höher im System eigegeben sein.
+Diese Einstellung sieht man nur, wenn das Modul aktiviert ist. Herstellern wird der eingetragene Prozentsatz von der Rechnung abgezogen, das heißt, die Preise müssen dementsprechend höher im System eigegeben sein.
 
-**Welcher Betrag muss überwiesen werden?** In der nach Hersteller gruppierten Liste der bestellten Produkte wird neben dem eigentlichen Rechnungsbetrag eine zusätzliche Spalte mit dem (eventuell) verminderten Betrag angezeigt. Zur besseren Übersicht ist dieser rot, falls der Betrag unterschiedlich ist (also ein Prozentsatz definiert ist).
+**Welcher Betrag muss überwiesen werden?** Seit der Version 2.4 steht der Betrag, bei dem der variable Mitgliedsbeitrag schon abgezogen ist, in der Tabelle unter "Aktivitäten". Der Link dazu wird an den Finanzverantwortlichen versendet. Alternativ kann man den Filter bei "Aktivitäten" auf "Rechnung versendet" stellen (Datumsbereich ggfs. anpassen).
 
-**Wichtig:** Der in der Liste angezeigte Betrag berechnet sich immer nach dem aktuell eingetragenen Prozentsatz. Wird dieser geändert und wird die Liste im Nachhinein aufgerufen, so ändern sich die Beträge! Nur in den Rechnungen (PDF) bleibt der tatsächliche Betrag gespeichert und im Nachhinein einsehbar.
+**Wichtig: Variablen Mitgliedsbeitrag ändern:** Möchtest du den variablen Mitgliedsbeitrag für einen Hersteller ändern, so kann das immer nur an einem ersten des Monats erfolgen. Gleichzeitig müssen die Preise der Produkte angepasst werden. Die Preise von beriets getätigten Bestellungen vom Vormonat, deren Abholtag im aktuellen Monat liegt, müssen ebenfalls angepasst werden.
 
 Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert werden.
 
