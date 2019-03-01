@@ -39,15 +39,24 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 
 Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf den Button "Lieferrhythmus für ausgewählte Produkte bearbeiten" klicken.
 
-![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-2.png)
 
 Die Bestellungen können so über längere Zeiträume gesammelt werden und die Hersteller bekommen die Bestelllisten wie gewohnt am Mittwoch vor dem Liefertag per E-Mail zugeschickt. Wer zwischendurch wissen möchte, wie viel bereits bestellt wurde, kann im Admin-Bereich unter "Bestellungen" nachschauen. Dazu einfach den Abholtag entsprechend auswählen.
 
 Bei wöchentlichen und monatlichen Lieferrhythmen kann mit dem Feld "Erster Liefertag" eingestellt werden, ab wann das Produkt erstmalig bestellbar ist, falls man eine Vorlaufzeit benötigt, bevor der Lieferrhythmus beginnt. Das Produkt ist auch in dieser Vorlaufzeit für den jeweiligen Abholtag bestellbar.
 
-Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produkt bis zum eingestellten Datum "Bestellbar bis" im Shop angezeigt und danach automatisch ausgeblendet.
+Neu in v2.4: Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter **Bestellschluss** kann individuell pro Produkt eingestellt werden, bis zu welchem Wochentag es bestellt werden kann. So kann z.B. "Montag Mitternacht" statt "Dienstag Mitternacht" angeben werden. Die Bestelllisten werden automatisch am Tag darauf versendet und wer das Produkt am Dienstag bestellen möchte, der kann das tun. Allerdings wird dann als Liefertag "Freitag in einer Woche" ausgewählt. Beim Einkaufen wird der geänderte Bestellschluss automatisch fett angezeigt, damit es zu keinen Verwechslungen kommt.
 
 Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
+
+
+## Sammelbestellungen (individuelles Datum)
+
+![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-sammelbestellungen.png)
+
+Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produkt bis zum eingestellten Datum "Bestellbar bis" im Shop angezeigt und danach automatisch ausgeblendet.
+
+Das Feld **Bestellbar bis** ermöglicht die Angabe eines Bestellschlusses, **Bestelllisten versenden am** (kann leer gelassen werden) versendet die Bestellliste der Sammelbestellung automatisch und der **Liefertag** ist ebenfalls individuell verwendbar.
 
 Für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus, dieser ist nicht änderbar.
 
