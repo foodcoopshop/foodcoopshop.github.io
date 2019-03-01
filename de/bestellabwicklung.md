@@ -1,8 +1,6 @@
-## Bestellabwicklung
-
 [Hier geht's zur Übersicht der Änderungen zu älteren Versionen (vor v2.2 vom September 2018)]({{ site.baseurl }}/de/uebersicht-aenderungen-bestellabwicklung-vor-september-2018)
 
-## Bestellabwicklung im Detail
+## Bestellabwicklung
 
 ## 1a) Bestellungen für Produkte, die geliefert werden
 Beim Bestellen steht ab sofort bei jedem Produkt der jeweilige Abholtag in der Produktbeschreibung. Da mit einer Bestellung Produkte **mit verschiedenen Abholtagen** bestellt werden können, werden die Produkte im Warenkorb übersichtlich nach Abholtagen gruppiert dargestellt. Ein Kommentar für den Abholdienst kann für jeden Abholtag einzeln geschrieben werden und auch die Bestellbestätigigung ist in die jeweiligen Abholtage unterteilt.
