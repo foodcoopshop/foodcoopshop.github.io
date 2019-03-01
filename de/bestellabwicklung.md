@@ -27,7 +27,7 @@ Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachricht
 * Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fas fa-lock not-ok"></i>
 
 
-## Lieferrhythmen und Sammelbestellungen
+## 5) Wöchentliche Lieferrhythmen und Sammelbestellungen
 Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswählen:
 
 * wöchentlich
@@ -37,8 +37,10 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 * jeden letzten Freitag im Monat
 * individuelles Datum (Sammelbestellung)
 
-Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf den Button "Lieferrhythmus für ausgewählte Produkte bearbeiten" klicken.
+**Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf den Button "Lieferrhythmus für ausgewählte Produkte bearbeiten" klicken.**
 
+
+### 5a) Wöchentliche Lieferrhythmen
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-2.png)
 
 Die Bestellungen können so über längere Zeiträume gesammelt werden und die Hersteller bekommen die Bestelllisten wie gewohnt am Mittwoch vor dem Liefertag per E-Mail zugeschickt. Wer zwischendurch wissen möchte, wie viel bereits bestellt wurde, kann im Admin-Bereich unter "Bestellungen" nachschauen. Dazu einfach den Abholtag entsprechend auswählen.
@@ -50,7 +52,7 @@ Neu in v2.4: Manche Produkte benötigen eine längere Herstellung / Vorbereitung
 Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
 
 
-## Sammelbestellungen (individuelles Datum)
+### 5b) Sammelbestellungen (individuelles Datum)
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-sammelbestellungen.png)
 
@@ -60,8 +62,9 @@ Das Feld **Bestellbar bis** ermöglicht die Angabe eines Bestellschlusses, **Bes
 
 Für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus, dieser ist nicht änderbar.
 
-## Bestelländerungen
-**Neu**: Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verrechnet ist.
+## 6 Bestelländerungen
+
+Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verrechnet ist.
 
 **Stornieren**
 * Das Mitglied wird immer benachrichtigt.
