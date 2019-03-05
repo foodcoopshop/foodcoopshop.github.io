@@ -9,7 +9,7 @@
 ### FCS v2.3.x to FCS v2.4.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
-* after the migrations you can remove app.deliveryDayDelta and app.sendOrderListsWeekday (see deprecation info in app_config.php and custom_config.default.php)
+* after the migrations you can remove app.deliveryDayDelta, app.sendOrderListsWeekday and app.registrationNotificationEmails (see documentation info in app_config.php and custom_config.default.php)
 * If you want to use the new single sign on for discourse forums, set `app.discourseSsoEnabled` to `true` and add a `app.discourseSsoSecret`. [Anleitung auf Deutsch]({{ site.baseurl }}/de/sso-fuer-discourse-forum)
 
 ### FCS v2.2.x to FCS v2.3.x
