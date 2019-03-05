@@ -6,13 +6,14 @@ If you have questions please drop Mario an email: office@foodcoopshop.com
 If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 
 ### Requirements
-* Server connected to internet with root access / sudo and cronjobs
+* Server connected to internet with shell access and cronjobs
 * Apache with `mod_rewrite`
 * PHP => 7.1
 * MySQL 5.7 (5.6 works too, but support can be stopped any time)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
 * If you cloned the repository from Github: Node.js, npm and Composer
+* PHP needs to be able to call mysqldump with exec() for database backups
 
 That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
 
