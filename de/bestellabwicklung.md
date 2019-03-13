@@ -59,7 +59,7 @@ Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produk
 
 **Neu in v2.4: Bestelllisten versenden am** (kann leer gelassen werden) versendet die Bestellliste der Sammelbestellung automatisch.
 
-Hier findest du hilreiche Details zu [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen) 
+Hier findest du hilfreiche Details zu [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen).
 
 
 ### 5c) Lagerprodukte
