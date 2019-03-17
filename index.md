@@ -1,4 +1,5 @@
 ---
+title: Software documentation
 nav_exclude: true
 ---
 
