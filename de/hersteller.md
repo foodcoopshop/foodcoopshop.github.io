@@ -1,5 +1,6 @@
 ---
 parent: Deutsch
+title: Hersteller
 ---
 ## Hersteller anlegen
 
