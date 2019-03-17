@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+title: Produkte
+---
 ## Produkt anlegen
 
 Menüpunkt "Hersteller" im FoodCoopShop, dann auf "x Produkte"-Button klicken und auf der Produkt-Seite oben rechts auf "Neues Produkt" klicken.

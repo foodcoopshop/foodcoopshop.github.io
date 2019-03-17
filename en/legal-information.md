@@ -1,3 +1,6 @@
+---
+parent: English
+---
 ## Legal information
 
 The terms of use (for manufacturers and members), terms and conditions, list of allergens, information about the right of withdrawal and the privacy policy are **empty** by default in English!

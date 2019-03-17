@@ -1,3 +1,7 @@
+---
+parent: English
+title: Deposit
+---
 ## Deposit processing with member
 
 Deposit is automatically deducted from the member's credit in the default configuration (cashless payment). In the credit balance, it is shown in an extra column.

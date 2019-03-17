@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+title: Hersteller
+---
 ## Hersteller anlegen
 
 Admins und Superadmins haben die Möglichkeit, im Admin-Bereich Hersteller neu anzulegen: **Hersteller** - Neuen Hersteller erstellen

@@ -1,3 +1,6 @@
+---
+parent: For developers
+---
 ## Cronjobs
 
 There is just one single cronjob needed which takes care of all implemented cronjobs.

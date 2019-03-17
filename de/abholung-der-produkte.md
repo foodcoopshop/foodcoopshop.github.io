@@ -1,3 +1,6 @@
+---
+parent: Deutsch
+---
 ## Abholung der Produkte
 
 * [Zur Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)

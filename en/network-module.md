@@ -1,3 +1,6 @@
+---
+parent: English
+---
 # Network module
 
 ## For whom is the network module intended?

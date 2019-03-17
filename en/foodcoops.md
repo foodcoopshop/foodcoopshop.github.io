@@ -1,3 +1,7 @@
+---
+nav_order: 3
+title: Who uses FCS
+---
 ## Chronological list of foodcoops that work with FoodCoopShop
 
 Feel free to add your foodcoop
