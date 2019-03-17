@@ -1,5 +1,5 @@
 ---
-parent: English
+nav_exclude: true
 ---
 ## Migration guide for v1.x
 

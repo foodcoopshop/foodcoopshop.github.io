@@ -1,5 +1,5 @@
 ---
-parent: English
+parent: For developers
 ---
 ## Translating
 
