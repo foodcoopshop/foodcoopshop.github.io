@@ -1,4 +1,6 @@
-
+---
+nav_exclude: true
+---
 ## Welcome to the online documentation
 
 * FoodCoopShop on Github: [https://github.com/foodcoopshop/foodcoopshop](https://github.com/foodcoopshop/foodcoopshop)
