@@ -1,7 +1,8 @@
 ---
+title: English
 nav_order: 1
 has_children: true
-has_toc: false
+has_toc: true
 ---
 ## English
 
