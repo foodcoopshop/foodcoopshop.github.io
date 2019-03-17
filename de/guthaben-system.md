@@ -1,6 +1,6 @@
 ---
 parent: Deutsch
-nav_order: 2
+title: Guthaben-System
 ---
 ## So funktioniert das Guthaben-System
 

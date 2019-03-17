@@ -1,6 +1,5 @@
 ---
 parent: Deutsch
-nav_order: 2
 ---
 ## Single-Sign-On für Discourse-Forum
 
