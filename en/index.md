@@ -1,3 +1,8 @@
+---
+nav_order: 1
+---
+## English
+
 ## Overview
 
 * [Credit-System]({{ site.baseurl }}/en/credit-system)
