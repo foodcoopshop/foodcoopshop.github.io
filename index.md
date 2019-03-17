@@ -4,7 +4,6 @@ nav_exclude: true
 
 ![]({{ site.baseurl }}/assets/img/foodcoopshop-logo.png)
 
-
 ## Welcome to the online documentation
 
 * FoodCoopShop on Github: [https://github.com/foodcoopshop/foodcoopshop](https://github.com/foodcoopshop/foodcoopshop)

@@ -5,3 +5,5 @@ has_children: true
 has_toc: true
 ---
 ## English
+
+![]({{ site.baseurl }}/assets/img/foodcoopshop-logo.png)
