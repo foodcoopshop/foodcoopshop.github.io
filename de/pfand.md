@@ -1,5 +1,6 @@
 ---
 parent: Deutsch
+title: Pfand
 ---
 ## Pfand-Abwicklung mit Mitglied
 

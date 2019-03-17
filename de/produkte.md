@@ -1,5 +1,6 @@
 ---
 parent: Deutsch
+title: Produkte
 ---
 ## Produkt anlegen
 

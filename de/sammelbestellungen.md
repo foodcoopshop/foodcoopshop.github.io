@@ -1,5 +1,6 @@
 ---
 parent: Deutsch
+title: Sammelbestellungen
 ---
 ## Leitfaden für Sammelbestellungen
 

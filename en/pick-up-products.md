@@ -1,7 +1,7 @@
 ---
 parent: English
 ---
-## Pick up the products
+## Picking up the products
 
 ## Admin area
 

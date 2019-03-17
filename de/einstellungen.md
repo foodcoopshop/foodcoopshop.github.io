@@ -1,5 +1,6 @@
 ---
 parent: Deutsch
+title: Software-Einstellungen
 ---
 ## Software-Einstellungen
 

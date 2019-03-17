@@ -1,5 +1,6 @@
 ---
 parent: English
+title: Foodcoops
 ---
 ## Chronological list of foodcoops that work with FoodCoopShop
 

@@ -1,5 +1,6 @@
 ---
 parent: English
+title: Credit system
 ---
 ## This is how the credit system works
 
