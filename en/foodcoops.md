@@ -1,6 +1,6 @@
 ---
-parent: English
-title: Foodcoops
+nav_order: 3
+title: Who uses FCS
 ---
 ## Chronological list of foodcoops that work with FoodCoopShop
 
