@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Chronological list of foodcoops that work with FoodCoopShop
 
 Feel free to add your foodcoop

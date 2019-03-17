@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+nav_order: 2
+---
 ## Finanzberichte
 
 * Gelöschte Einzahlungen werden ausgegraut angeführt.

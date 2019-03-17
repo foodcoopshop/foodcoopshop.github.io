@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+nav_order: 2
+---
 ## Übersicht: Änderungen zu älteren Versionen (vor v2.2 vom September 2018)
 TL;DR: Endlich gibt es neben dem wöchentlichen auch 2-wöchige und monatliche Lieferrhythmen! Außerdem sind Sammelbestellungen, Sofort-Bestellungen und die Lieferpause wesentlich einfacher zu bedienen.
 

@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Product declaration
 
 All food sold over the internet must have complete food labeling. That's what the legislator says.

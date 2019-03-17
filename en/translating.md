@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Translating
 
 Please contact Mario (office@foodcoopshop.com) if you want to make FoodCoopShop available in a new language. He will then prepare everything (e.g. create empty translation files) and you can start with the translation.

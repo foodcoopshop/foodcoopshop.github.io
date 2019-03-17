@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Migration guide for v1.x
 
 * If you want to update from v1.3 to v1.5 directly (skipping v1.4), you can do that. Just follow the instructions for updating to v1.4 and v1.5. 

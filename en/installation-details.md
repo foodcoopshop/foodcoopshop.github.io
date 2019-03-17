@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Installation
 This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/master/README.md).
 

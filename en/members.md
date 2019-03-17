@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Members
 
 ## Registration / Activation of members

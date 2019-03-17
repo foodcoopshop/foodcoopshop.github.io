@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Migration guide
 
 **Please remember to always make a database and file backup before updating your FoodCoopShop installation!**

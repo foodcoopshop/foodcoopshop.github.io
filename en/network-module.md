@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 # Network module
 
 ## For whom is the network module intended?

@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+nav_order: 2
+---
 ## Leitfaden für Sammelbestellungen
 
 1) **Hersteller erstellen / aktivieren**

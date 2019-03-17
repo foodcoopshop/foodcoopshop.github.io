@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+nav_order: 2
+---
 ## Pfand-Abwicklung mit Mitglied
 
 Pfand wird in der Standard-Konfiguration (bargeldlose Zahlung) automatisch vom Guthaben des Mitglieds abgezogen In der Guthaben-Übersicht wird es in einer extra Spalte ausgewiesen.

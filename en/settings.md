@@ -1,3 +1,7 @@
+---
+parent: English
+nav_order: 2
+---
 ## Software settings
 
 Most of the settings can be made as a superadmin in the admin area.

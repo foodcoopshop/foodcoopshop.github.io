@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+nav_order: 2
+---
 # Netzwerk-Modul
 
 ## Für wen ist das Netzwerk-Modul gedacht?
