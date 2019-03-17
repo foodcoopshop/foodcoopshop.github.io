@@ -1,4 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+aux_links:
+    "FoodCoopShop on GitHub":
+      - "https://github.com/foodcoopshop/foodcoopshop"
 repo_url: https://github.com/foodcoopshop/foodcoopshop
 title: FoodCoopShop
