@@ -1,3 +1,6 @@
+---
+parent: English
+---
 ## Software settings
 
 Most of the settings can be made as a superadmin in the admin area.

@@ -1,3 +1,7 @@
+---
+parent: English
+title: Credit system
+---
 ## This is how the credit system works
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)

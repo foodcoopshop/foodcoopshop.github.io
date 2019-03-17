@@ -1,3 +1,6 @@
+---
+parent: Deutsch
+---
 ## WYSIWYG-Editor
 
 Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er wird beim FoodCoopShop in verschiedenen Bereichen verwendet:

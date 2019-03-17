@@ -1,5 +1,11 @@
+---
+title: Software documentation
+nav_exclude: true
+---
 
-## Welcome to the online documentation
+![]({{ site.baseurl }}/assets/img/foodcoopshop-logo.png)
+
+## Welcome to the software documentation
 
 * FoodCoopShop on Github: [https://github.com/foodcoopshop/foodcoopshop](https://github.com/foodcoopshop/foodcoopshop)
 * Demo versions in [German](https://demo-de.foodcoopshop.com) and [English](https://demo-en.foodcoopshop.com)

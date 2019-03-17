@@ -1,3 +1,6 @@
+---
+parent: English
+---
 ## Financial reports
 
 * Deleted deposits are greyed out.

@@ -1,3 +1,6 @@
+---
+parent: Deutsch
+---
 ## Tipps & Tricks
 
 ### Mitgliedsbeiträge als Produkt anlegen

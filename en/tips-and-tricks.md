@@ -1,3 +1,6 @@
+---
+parent: English
+---
 ## Tips & Tricks
 
 ### Create membership fees as a product

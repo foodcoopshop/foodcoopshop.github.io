@@ -1,3 +1,6 @@
+---
+parent: Deutsch
+---
 # Stundenabrechnungs-Modul
 
 ## Anwendungsbeispiele

@@ -1,3 +1,7 @@
+---
+parent: Deutsch
+title: Guthaben-System
+---
 ## So funktioniert das Guthaben-System
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)

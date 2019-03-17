@@ -1,3 +1,6 @@
+---
+parent: English
+---
 ## Manufacturers
 
 ## Create a manufacturer

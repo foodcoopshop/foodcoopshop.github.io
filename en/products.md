@@ -1,3 +1,6 @@
+---
+parent: English
+---
 ## Products
 
 ## Create product

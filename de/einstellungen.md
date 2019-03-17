@@ -1,4 +1,7 @@
-## Software-Einstellungen
+---
+parent: Deutsch
+---
+## Einstellungen
 
 Die meisten Einstellungen können als Superadmin im Admin-Bereich getätigt werden und sind dort dokumentiert.
 

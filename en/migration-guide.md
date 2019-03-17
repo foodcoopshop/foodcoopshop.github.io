@@ -1,3 +1,6 @@
+---
+parent: For developers
+---
 ## Migration guide
 
 **Please remember to always make a database and file backup before updating your FoodCoopShop installation!**
