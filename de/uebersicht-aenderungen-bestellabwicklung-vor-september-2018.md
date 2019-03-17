@@ -1,5 +1,4 @@
 ---
-parent: Deutsch
 nav_exclude: true
 ---
 ## Übersicht: Änderungen zu älteren Versionen (vor v2.2 vom September 2018)
