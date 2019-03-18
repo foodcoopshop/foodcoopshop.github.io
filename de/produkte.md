@@ -7,7 +7,7 @@ has_children: true
 
 Menüpunkt "Hersteller" im FoodCoopShop, dann auf "x Produkte"-Button klicken und auf der Produkt-Seite oben rechts auf "Neues Produkt" klicken.
 
-Danach kann das neu angelegte Produkt bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien usw...)
+Danach kann das neu angelegte Produkt bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
 
 ## Produkt umbenennen
 
@@ -97,4 +97,6 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/erweiterte-lagerstandverwaltung.jpg)
 
+## Hersteller, die mehrere Foodcoops beliefern
+sollten sich das [Netzwerk-Modul]({{ site.baseurl }}/de/netzwerk-modul) mal anschauen!
 
