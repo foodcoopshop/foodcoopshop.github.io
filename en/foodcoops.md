@@ -1,6 +1,6 @@
 ---
 nav_order: 4
-title: Who uses FCS
+title: Who uses FoodCoopShop
 ---
 ## Chronological list of foodcoops that work with FoodCoopShop
 
