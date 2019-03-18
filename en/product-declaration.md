@@ -1,5 +1,6 @@
 ---
-parent: Products
+grand_parent: Products
+parent: English
 ---
 ## Product declaration
 

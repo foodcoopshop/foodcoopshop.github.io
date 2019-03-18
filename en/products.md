@@ -1,5 +1,6 @@
 ---
-parent: English
+grand_parent: English
+parent: Products
 has_children: true
 ---
 ## Products

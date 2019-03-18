@@ -1,4 +1,5 @@
 ---
+grand_parent: English
 parent: Migration guide
 ---
 ## Migration guide for v1.x

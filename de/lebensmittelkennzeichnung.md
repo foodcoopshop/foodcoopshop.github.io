@@ -1,4 +1,5 @@
 ---
+grand_parent: Deutsch
 parent: Produkte
 title: Lebensmittelkennzeichnung
 ---
