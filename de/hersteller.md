@@ -72,4 +72,4 @@ Sollte die Foodcoop einen variablen Mitgliedsbeitrag verrechnen, so ist dieser a
 
 Demo-Rechnungen: [Rechnung ohne variablem Mitgliedsbeitrag]({{ site.baseurl }}/assets/pdf/de/01.06.2018-30.06.2018-Demo-Gemuese-Hersteller_5_Rechnung_xxx_FoodCoopShop-Demo.pdf) / [Rechnung mit variablem Mitgliedsbeitrag]({{ site.baseurl }}/assets/pdf/de/01.06.2018-30.06.2018-Demo-Fleisch-Hersteller_4_Rechnung_xxx_FoodCoopShop-Demo.pdf) ansehen.
 
-**Wichtig:** Seit v2.2 dient der Abhol- bzw. Liefertag als Grundlage für die Verrechnung, nicht mehr das Bestelldatum.
+**Wichtig:** Die Grundlage für die Verrechnung ist der Liefer- bzw. Abholtag.
