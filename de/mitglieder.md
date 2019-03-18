@@ -1,5 +1,6 @@
 ---
 parent: Deutsch
+title: Mitglieder
 ---
 ## Registrierung / Aktivierung von Mitgliedern 
 
