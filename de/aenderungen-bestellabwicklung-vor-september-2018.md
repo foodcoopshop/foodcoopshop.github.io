@@ -1,9 +1,9 @@
 ---
 grand_parent: Deutsch
 parent: Bestellabwicklung
-title: Übersicht Änderungen zu älteren Versionen
+title: Änderungen zu älteren Versionen
 ---
-## Übersicht: Änderungen zu älteren Versionen (vor v2.2 vom September 2018)
+## Änderungen zu älteren Versionen (vor v2.2 vom September 2018)
 Endlich gibt es neben dem wöchentlichen auch 2-wöchige und monatliche Lieferrhythmen! Außerdem sind Sammelbestellungen, Sofort-Bestellungen und die Lieferpause wesentlich einfacher zu bedienen.
 
 Für die Abholung und die Rechnungslegung ist jetzt nicht mehr der **Bestelltag**, sondern der **Abholtag** ausschlaggebend. Das hat viele Auswirkungen:
