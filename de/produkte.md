@@ -1,6 +1,7 @@
 ---
 parent: Deutsch
 title: Produkte
+has_children: true
 ---
 ## Produkt anlegen
 

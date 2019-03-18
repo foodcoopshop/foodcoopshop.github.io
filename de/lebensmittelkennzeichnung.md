@@ -1,5 +1,5 @@
 ---
-parent: Deutsch
+parent: Produkte
 title: Lebensmittelkennzeichnung
 ---
 ## Lebensmittelkennzeichnung / Produktdeklaration

@@ -1,5 +1,5 @@
 ---
-nav_exclude: true
+parent: Migration guide
 ---
 ## Migration guide for v1.x
 

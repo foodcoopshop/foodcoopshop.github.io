@@ -1,5 +1,6 @@
 ---
 parent: For developers
+has_children: true
 ---
 ## Migration guide
 

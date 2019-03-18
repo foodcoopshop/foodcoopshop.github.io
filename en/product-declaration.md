@@ -1,5 +1,5 @@
 ---
-parent: English
+parent: Products
 ---
 ## Product declaration
 
