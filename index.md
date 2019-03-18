@@ -1,6 +1,6 @@
 ---
-title: Software documentation
-nav_exclude: true
+title: Home
+nav_order: 1
 ---
 
 ![]({{ site.baseurl }}/assets/img/foodcoopshop-logo.png)
