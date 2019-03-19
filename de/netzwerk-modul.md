@@ -5,15 +5,15 @@ parent: Deutsch
 
 ## Für wen ist das Netzwerk-Modul gedacht?
 * Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Hersteller, die **mehrere Foodcoops** beliefern.
-* Es ist dadurch möglich, die **verteilten Produktdaten der verschiedene Foodcoops** synchron zu halten. Die Daten werden dafür nicht auf einem einzigen Server zentral gespeichert, das ist wichtig für die Unabhängigkeit der Foodcoops.
-* Jede Foodcoop muss zur Verwendung des Netzwerk-Moduls immer die [aktuellste FoodCoopShop-Version](https://www.foodcoopshop.com/download) installiert haben.
+* Es ist dadurch möglich, die **verteilten Produktdaten der verschiedene Foodcoops** synchron zu halten. Die Daten werden dafür **nicht** auf einem einzigen Server zentral gespeichert, das ist wichtig für die Unabhängigkeit der Foodcoops.
+* Jede Foodcoop muss zur Verwendung des Netzwerk-Moduls immer die [aktuellste FoodCoopShop-Version](https://www.foodcoopshop.com/download) installiert haben und ein SSL-Zertifikat (https) verwenden.
 * Die Produktdaten **Bild, Name inkl. Beschreibungen, verfügbare Menge, Preis, Pfand**, **Lieferrhythmus** und **Status** können von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops übertragen werden. Das spart vor allem bei wöchentlichen Sortimentsänderungen viel Zeit.
-* Dafür notwendig: (einmalige) Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
-* Hersteller, die ihre Produkte bereits bei einer Foodcoop eingepflegt haben und **eine neue Foodcoop beliefern**, können ihre Produkte mit dem Netzwerk-Modul viel schneller neu anlegen. Details dazu unter Punkt 5)
+* Dafür notwendig: **einmalige** Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
+* Hersteller, die ihre Produkte bereits bei einer Foodcoop eingepflegt haben und **eine neue Foodcoop beliefern**, können ihre Produkte mit dem Netzwerk-Modul schneller neu anlegen. Details dazu unter Punkt 5
 
 ## Technische Ausdrücke
-* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** *Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Als Remote-Foodcoop kann sie verwendet werden.*
-* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können natürlich auch mehrere sein.
+* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** *Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Als Remote-Foodcoop kann sie natürlich schon verwendet werden.*
+* **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
 ## 1) Remote-Foodcoops erstellen
 In den Einstellungen können Superadmins Remote-Foodcoops erstellen und bearbeiten.
@@ -31,7 +31,7 @@ Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen
 ![]({{ site.baseurl }}/assets/img/de/netzwerk-modul/produkte-synchronisieren-button-1.png)
 
 * Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf die Remote-Foodcoops übertragen kannst. Dafür müssen allerdings zuvor die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet werden - siehe Punkt 4.
-* Ein Klick auf **Vorschau laden** (erfolgt automatisch, falls du die Zugangsdaten bereits einmal eingegeben hast) zeigt dir, welche Unterschiede bei den Produktdaten deiner Foodcoops bestehen. Rot hinterlegte Felder weisen auf einen Unterschied hin. Mit der Checkbox **Nur Produkte mit Abweichungen anzeigen** kannst du dir auch jene Produkte anzeigen lassen, die bereits auf allen Foodcoops abgeglichen sind. 
+* Ein Klick auf **Vorschau laden** (erfolgt automatisch, falls du die Zugangsdaten bereits einmal eingegeben hast) zeigt dir, welche Unterschiede bei den Produktdaten deiner Foodcoops bestehen. Rot hinterlegte Felder weisen auf einen Unterschied hin. Wenn du die Checkbox **Nur Produkte mit Abweichungen anzeigen** deaktivierst, kannst du dir auch jene Produkte anzeigen lassen, die bereits auf allen Foodcoops abgeglichen sind. 
 * Durch Auswählen der Häkchen kannst du festlegen, welche Produktdaten (horizontale Häkchen) und welche Produkte (vertikale Häkchen) synchronisiert werden sollen. Produkte, die keine Unterschiede aufweisen, können nicht ausgewählt werden.
 * Klicke jetzt auf **Produkte synchronisieren**, um die Daten der Master-Foodcoop zu übertragen. Nach dem Synchronisieren wir die Vorschau automatisch aktualisiert.
 
