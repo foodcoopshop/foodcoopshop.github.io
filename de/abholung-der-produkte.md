@@ -55,6 +55,9 @@ Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst
 
 ## Produkt ist zwar geliefert, aber von falschem Mitglied mitgenommen worden
 
+**Neu in v2.5:** Das Produkt dem anderen Mitglied zuweisen, dann werden beide Mitglieder per E-Mail benachrichtigt und die Guthaben-Konten automatisch angepasst. Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken.
+
+Vorgehensweise vor v2.5:
 In diesem Fall versuche, das Mitglied ausfindig machen, das das Produkt wahrscheinlich falsch mitgenommen hat. Falls das nicht mehr möglich ist, empfehle ich folgende Vorgehensweise:
 
 * Produkt stornieren (mit Hinweis, dass es falsch mitgenommen wurde, aber nachbestellt wird - der Hersteller wird ja per Mail über die Stornierung benachrichtigt)
