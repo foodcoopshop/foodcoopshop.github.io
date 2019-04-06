@@ -9,12 +9,12 @@ title: Who uses FoodCoopShop
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
 | **2019 / 4**|
-| 23 | 04/2019 | [https://körberl.taugl.online//](https://körberl.taugl.online/) | St. Koloman, Austria|
-| 22 | 03/2019 | [https://shop.lebensmittelpunkt.tirol//](https://shop.lebensmittelpunkt.tirol/) | Imst, Austria|
-| 21 | 02/2019 | [https://koorb.at/](https://koorb.at/) | Seitenstetten, Austria|
-| 20 | 01/2019 | [https://www.dorfladenroitham.at/](https://www.dorfladenroitham.at/) | Roitham, Austria|
+| 23 | 04/2019 | [https://körberl.taugl.online](https://körberl.taugl.online) | St. Koloman, Austria|
+| 22 | 03/2019 | [https://shop.lebensmittelpunkt.tirol](https://shop.lebensmittelpunkt.tirol) | Imst, Austria|
+| 21 | 02/2019 | [https://koorb.at](https://koorb.at) | Seitenstetten, Austria|
+| 20 | 01/2019 | [https://www.dorfladenroitham.at](https://www.dorfladenroitham.at) | Roitham, Austria|
 | **2018 / 4** |
-| 19 | 11/2018 | [https://www.reggaefood.at/](https://www.reggaefood.at/) | Bad Goisern, Austria|
+| 19 | 11/2018 | [https://www.reggaefood.at](https://www.reggaefood.at) | Bad Goisern, Austria|
 | 18 | 10/2018 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
 | 17 | 10/2018 | [https://www.krekoodel.at](https://www.krekoodel.at) | Krems, Austria|
 | 16 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
