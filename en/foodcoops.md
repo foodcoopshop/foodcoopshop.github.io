@@ -8,8 +8,9 @@ title: Who uses FoodCoopShop
 
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
-| **2019 / 3**|
-| 22 | 03/2019 | [https://shop.lebensmittelpunkt.tirol//](https://shop.lebensmittelpunkt.tirol//) | Imst, Austria|
+| **2019 / 4**|
+| 23 | 04/2019 | [https://körberl.taugl.online//](https://körberl.taugl.online/) | St. Koloman, Austria|
+| 22 | 03/2019 | [https://shop.lebensmittelpunkt.tirol//](https://shop.lebensmittelpunkt.tirol/) | Imst, Austria|
 | 21 | 02/2019 | [https://koorb.at/](https://koorb.at/) | Seitenstetten, Austria|
 | 20 | 01/2019 | [https://www.dorfladenroitham.at/](https://www.dorfladenroitham.at/) | Roitham, Austria|
 | **2018 / 4** |
