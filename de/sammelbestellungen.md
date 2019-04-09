@@ -46,4 +46,8 @@ Falls keine Nachbuchungen und Sofort-Bestellungen notwendig sind (z.B. eine Samm
 **Wichtig:**: Sollte der Hersteller die Rechnung selbst stellen, muss diese "An alle Mitglieder des Vereins XXX" gestellt werden.
 Nach Abschluss der Sammelbestellung müssen eventuelle Lieferkosten noch auf alle Mitglieder aufgeteilt werden (Preise ändern). Die Summe der Preise der Sammelbestellung im System (Filter auf Liefertag + Hersteller) muss exakt gleich sein mit der Summe der Rechnung des Herstellers!
 
+**Artikel werden verspätet geliefert**
+
+Unter Bestellungen betroffene Artikel markieren und dann Abholtag ändern. Eine E-Mail mit Begründung wird an die betroffenen Mitglieder versandt.
+
 Gutes Gelingen :-)
