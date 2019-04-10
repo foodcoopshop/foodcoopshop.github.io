@@ -12,7 +12,7 @@ In den Hersteller-Einstellungen kontrollieren, ob das Hakerl bei "Optimiert für
 
 **Produkte bearbeiten**
 
-Im Feld "Kurze Beschreibung" sind evtl. noch alte Infos über Liefertag, Bestellschluss oder ähnliches vorhanden. Diese löschen - es werden automatisch die Werte, die beim Lieferrhythmus (3) eingetragen werden, angezeigt.
+Im Feld "Kurze Beschreibung" sind evtl. noch alte Infos über Liefertag, Bestellschluss oder ähnliches vorhanden. Diese löschen - es werden automatisch die Werte, die beim Lieferrhythmus eingetragen werden, angezeigt.
 
 **Einstellen von Bestellschluss, Bestelllisten-Versand und Lieferdatum**
 
@@ -28,7 +28,7 @@ Das Feld "Liefertag" auf das gewüschte Datum ändern und dann unter "Bestellung
 
 **Ändern der Bestellungen: Stornierung, Anzahl vermindern**
 
-Falls nach Ablauf des Bestellschlusses Änderungen notwendig sind, so kann das unter "Bestellungen" - Filter nach Abholtag und Hersteller - gruppiert nach ... erledigt werden (wie beim Abholen der Produkte)
+Falls nach Ablauf des Bestellschlusses Änderungen notwendig sind, so kann das unter "Bestellungen" - Filter nach Abholtag und Hersteller - gruppiert nach... erledigt werden (wie beim Abholen der Produkte)
 
 **Nachbuchen für anderes Mitglied über die Sofort-Bestellung**
 
@@ -43,7 +43,8 @@ Sind alle Nachbuchungen fertig, kann man im Admin-Berich unter "Hersteller" oben
 Falls keine Nachbuchungen und Sofort-Bestellungen notwendig sind (z.B. eine Sammelbestellung ohne zu erreichende Verpackungseinheiten), kann im Feld "Bestellliste versenden am" auch ein Datum eingestellt werden. Die Software versendet die zwei Bestelllisten (gruppiert nach Produkt und gruppiert nach Mitglied) dann automatisch in der Früh an den Hersteller.
 
 **Rechnung**
-**Wichtig:**: Sollte der Hersteller die Rechnung selbst stellen, muss diese "An alle Mitglieder des Vereins XXX" gestellt werden.
+
+**Wichtig:** Sollte der Hersteller die Rechnung selbst stellen, muss diese "An alle Mitglieder des Vereins XXX" gestellt werden.
 Nach Abschluss der Sammelbestellung müssen eventuelle Lieferkosten noch auf alle Mitglieder aufgeteilt werden (Preise ändern). Die Summe der Preise der Sammelbestellung im System (Filter auf Liefertag + Hersteller) muss exakt gleich sein mit der Summe der Rechnung des Herstellers!
 
 **Artikel werden verspätet geliefert**
