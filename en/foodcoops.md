@@ -8,8 +8,9 @@ title: Who uses FoodCoopShop
 
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
-| **2019 / 5**|
-| 23 | 05/2019 | [https://www.genussfairteiler.at](https://www.genussfairteiler.at) | Neumarkt i.M., Austria|
+| **2019 / 6**|
+| 24 | 05/2019 | [https://www.genussfairteiler.at](https://www.genussfairteiler.at) | Neumarkt i.M., Austria|
+| 23 | 04/2019 | [http://shop.rhabarber-haberer.org](http://shop.rhabarber-haberer.org) | Tulln, Austria|
 | 22 | 04/2019 | [https://körberl.taugl.online](https://körberl.taugl.online) | St. Koloman, Austria|
 | 21 | 03/2019 | [https://shop.lebensmittelpunkt.tirol](https://shop.lebensmittelpunkt.tirol) | Imst, Austria|
 | 20 | 02/2019 | [https://koorb.at](https://koorb.at) | Seitenstetten, Austria|
