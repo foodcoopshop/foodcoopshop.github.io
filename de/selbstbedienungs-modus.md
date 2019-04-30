@@ -15,4 +15,6 @@ parent: Deutsch
 
 
 ### Den Selbstbedienungs-Modus für Lagerprodukte verwenden
-* kommt auch noch :-)
+* die Url www.example.com/selbstbedienung aufrufen
+* mittels Strichcode auf Mitgliedskarte oder E-Mail / Passwort einloggen
+* Bei Inaktivität wird man automatisch ausgeloggt
