@@ -19,7 +19,7 @@ nav_order: 1
 
 ## Supported languages
 
-* The software and its documentation are available in [German]({{ site.baseurl }}/de/) and [English]({{ site.baseurl }}/en/). 
+* The software and its documentation are available in [German]({{ site.baseurl }}/de/), [English]({{ site.baseurl }}/en/) and Polish (so far no translation of the documentation in Polish). 
 * If you want to translate it into your language, please read the [documentation for translating]({{ site.baseurl }}/en/translating).
 
 ## Who uses FoodCoopShop?
