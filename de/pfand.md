@@ -4,7 +4,7 @@ title: Pfand
 ---
 ## Pfand-Abwicklung mit Mitglied
 
-Pfand wird in der Standard-Konfiguration (bargeldlose Zahlung) automatisch vom Guthaben des Mitglieds abgezogen In der Guthaben-Übersicht wird es in einer extra Spalte ausgewiesen.
+Pfand wird automatisch vom Guthaben des Mitglieds abgezogen, in der Guthaben-Übersicht wird es in einer extra Spalte ausgewiesen.
 
 Wenn ein **Mitglied Leergebinde zurückbringt,** kann bei "Bestellungen" unter dem Punkt "Pfand-Rückgabe" der Betrag des Leergebindes eingetragen werden. Dieser Betrag scheint dann in der Guthaben-Übersicht auf und erhöht das Guthaben des Mitglieds.
 
@@ -14,7 +14,7 @@ Wenn ein **Hersteller Leergebinde zurücknimmt**, kann er selbst unter dem Menü
 
 Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
-Sowohl der Menüpunkt **Pfandkonto**im Hersteller-Login als auch der Link zum Pfandkonto des Herstellers in der Hersteller-Liste**scheinen nur auf, wenn zumindest ein Produkt mit Pfand beim Hersteller bestellt wurde**. Viele Hersteller verwenden keinen Pfand und werden so durch den nicht benötigten Menüpunkt nicht unnötig verwirrt.
+Sowohl der Menüpunkt **Pfandkonto** im Hersteller-Login als auch der Link zum Pfandkonto des Herstellers in der Hersteller-Liste **scheinen nur auf, wenn zumindest ein Produkt mit Pfand beim Hersteller bestellt wurde**. Viele Hersteller verwenden keinen Pfand und werden so durch den nicht benötigten Menüpunkt nicht unnötig verwirrt.
 
 ## Jahresabschluss
 
