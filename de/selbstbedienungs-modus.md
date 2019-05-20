@@ -15,6 +15,8 @@ parent: Deutsch
 
 
 ### Den Selbstbedienungs-Modus für Lagerprodukte verwenden
-* die Url www.example.com/selbstbedienung aufrufen
-* mittels Strichcode auf Mitgliedskarte oder E-Mail / Passwort einloggen
-* Bei Inaktivität wird man automatisch ausgeloggt
+* Als Superadmin in den Einstellungen den Selbstbedienungs-Modus aktivieren.
+* In der Navigation oben rechts (bei "Anmelden") befindet sich jetzt ein neuer Menüpunkt "Selbstbedienung"
+* Mittels Strichcode auf Mitgliedskarte oder E-Mail / Passwort einloggen.
+* Lagerprodukte wie gewohnt in den Warenkorb geben und bestellen.
+* Bei Inaktivität wird man automatisch ausgeloggt.
