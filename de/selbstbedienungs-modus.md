@@ -18,5 +18,8 @@ parent: Deutsch
 * Als Superadmin in den Einstellungen den Selbstbedienungs-Modus aktivieren.
 * In der Navigation oben rechts (bei "Anmelden") befindet sich jetzt ein neuer Menüpunkt "Selbstbedienung"
 * Mittels Strichcode auf Mitgliedskarte oder E-Mail / Passwort einloggen.
-* Lagerprodukte wie gewohnt in den Warenkorb geben und bestellen.
+* Es werden nur Lagerprodukte angezeigt. Produkte können nach Aktivieren der erweiterten Lagerstandsverwaltung (beim Hersteller) als "Lagerprodukt" deklariert werden.
+* Suche nach Produkt-Id, Name und Barcode möglich, zusätzlich Filter nach Kategorie.
+* Lagerprodukte wie gewohnt in den Warenkorb geben und bestellen. Für Produkte mit der Funktion "Preis nach Gewicht" muss das entnommene Gewicht eingetragen werden.
+* Button für die Pfand-Rückgabe ist ebenfalls vorhanden. 
 * Bei Inaktivität wird man automatisch ausgeloggt.
