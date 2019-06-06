@@ -3,7 +3,7 @@ parent: Deutsch
 ---
 ## Selbstbedienungs-Modus für Lagerprodukte
 
-**Neu in v2.5**
+**Ab v2.5 im Beta-Modus, ab v2.6 (Herbst 2019) dann stable**
 
 ### Mitgliedskarten
 * **Mitglieder** können in ihrem Profil ihre Mitgliedskarte generieren und selbst drucken (Button ist ganz unten).
