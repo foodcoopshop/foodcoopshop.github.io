@@ -7,9 +7,10 @@ parent: Deutsch
 
 Der Selbstbedienungs-Modus ersetzt die Sofort-Bestellung und vereinfacht das Kaufen von Lagerprodukten.
 
-### Aktivierung
+### Aktivierung / Einstellungen
 * Wer Beta-Testen möchte kann ab v2.5 die Einstellung in der Datenbank (Tabelle `fcs_configuration`) selbst aktivieren.
 * Ab v2.6 können Superadmins in den Einstellungen den Selbstbedienungs-Modus direkt aktivieren.
+* Admin-Bereich / Einstellungen: *Sollen Lagerprodukte mit der wöchentlichen Bestellung bestellt werden können?* Empfehlung für die Verwendung mit dem Selbstbedienungs-Modus: auf **nein** setzen.
 
 ### Verwendung
 * In der Navigation oben rechts (bei "Anmelden") befindet sich jetzt ein neuer Menüpunkt "Selbstbedienung"
