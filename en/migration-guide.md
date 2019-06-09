@@ -11,6 +11,11 @@ nav_order: 2
 * **Be aware**: updating from v1.x to v2.x can only be done from v1.5.
 * [Migration guide for v1.x]({{ site.baseurl }}/en/migration-guide-v1)
 
+### FCS v2.4.x to FCS v2.5.x
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+* PHP >= 7.2
+
 ### FCS v2.3.x to FCS v2.4.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page

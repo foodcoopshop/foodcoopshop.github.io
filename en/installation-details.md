@@ -12,7 +12,7 @@ If you want to update your installation to another version, please read the [mig
 ### Requirements
 * Server connected to internet with shell access and cronjobs
 * Apache with `mod_rewrite`
-* PHP => 7.1
+* PHP => 7.2
 * MySQL 5.7 (5.6 works too, but support can be stopped any time)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
