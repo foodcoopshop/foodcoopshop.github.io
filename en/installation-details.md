@@ -95,7 +95,7 @@ $ chmod -R a+w ./webroot/tmp
 * Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
 
 ## Setup security keys
-Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security keys ```app.cookieKey``` and ```Security.salt```. Set them in custom_config.php
+Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security salt ```Security.salt```. Set it in custom_config.php
 
 ## Create the valid Super Admin account
 * Open https://yourdomain.tld/sign-in in your browser and register with your personal email address (down below at "Create account")
