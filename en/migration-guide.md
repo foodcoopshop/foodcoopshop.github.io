@@ -11,6 +11,11 @@ nav_order: 2
 * **Be aware**: updating from v1.x to v2.x can only be done from v1.5.
 * [Migration guide for v1.x]({{ site.baseurl }}/en/migration-guide-v1)
 
+### FCS v2.5.x to FCS v2.6.x
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+* legacy password hashing (introduced in v2.3) method was removed
+
 ### FCS v2.4.x to FCS v2.5.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
