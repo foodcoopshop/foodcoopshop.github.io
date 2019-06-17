@@ -14,7 +14,7 @@ nav_order: 2
 ### FCS v2.5.x to FCS v2.6.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
-* legacy password hashing (introduced in v2.3) method was removed
+* legacy password hashing (introduced in v2.3) method was removed. If you don't update regularely, your users might need to request a new password. 
 
 ### FCS v2.4.x to FCS v2.5.x
 * replace source code => see bottom of page
