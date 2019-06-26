@@ -27,6 +27,6 @@ Jeden Freitag wird automatisch eine Erinnerungs-Mail an jene Mitglieder versende
 
 ## Bestellen sperren ab bestimmtem Guthaben-Stand
 In den Einstellungen kann ein Bestell-Limit angegeben werden, ab dem nicht mehr bestellt werden kann (z.B. -€ 100,00).
-Das funktioniert dann so: Wenn ein Mitglied bei der Einstellung "100 €" mit 99 € im Minus ist, kann es immer noch eine Bestellung (egal wie hoch) tätigen. Ab einem Guthaben von -101 € ist die Bestell-Funktion gesperrt.
+Das funktioniert dann so: Wenn ein Mitglied bei der Einstellung "1" mit 0,50 € im Minus ist, kann es immer noch eine Bestellung (egal wie hoch) tätigen. Bei einem Guthaben von -1 € oder weniger ist die Bestell-Funktion gesperrt.
 
 Welche Mitglieder aktuell im Minus sind, sehen alle Admins unter "Aktivitäten", Filter setzen auf "Cronjob: Guthaben überprüfen".
