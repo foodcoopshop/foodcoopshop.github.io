@@ -9,7 +9,7 @@ It **automatically resumes cronjobs** (eg. when the server was down for a short 
 
 ### Setup / configuration
 
-The only cronjob you need is one that calls the URL **www.yourdomain.com/cron** every 10 minutes. If you use smaller intervals (eg. 1 min) the **not_before_time** defined in your cronjob config is executed more precisely.
+The only cronjob you need is one that calls the URL **www.yourdomain.com/cron** every 10 minutes. If you use smaller intervals (eg. 1 min) the **not_before_time** defined in your cronjob configuration (table fcs_cronjobs) is executed more precisely.
 
 The cronjobs are configured directly in the database table **fcs_cronjobs**. There is no backend so far.
 
@@ -19,12 +19,8 @@ The cronjobs are configured directly in the database table **fcs_cronjobs**. The
 * **not_before_time**: time (hh:mm:ss) when cronjob is executed earliest (exact time is depending on main cronjob's time interval
 * **active**: 0 or 1
 
-### Important information
+### Important
 
 * Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
 * Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
-* When you switch to the new cronjob feature, be aware that it **will call cronjobs again** that were already called by the old configuration **on that day**. That's because the old configuration did not write logs.
-
-### Backwards compatibility
-
-The cronjobs that you set up before migrating to v2.3 still work and will work in future, but the new system is recommended.
+* If you already worked with FoodCoopShop < v2.3 and you want to switch to the new cronjob feature, be aware that it **will call cronjobs again** that were already called by the old configuration **on that day**. That's because the old configuration did not write logs.
