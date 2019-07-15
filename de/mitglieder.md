@@ -23,22 +23,22 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
 
 ## Gruppen
 * **Mitglied**
- * nur eigene Bestellungen und Daten können eingesehen bzw. geändert werden
+  * nur eigene Bestellungen und Daten können eingesehen bzw. geändert werden
 * **Admin**
- * darf alles, was ein Mitglied darf und zusätzlich:
- * auch Bestellungen von anderen Mitgliedern einsehen und ändern
- * Bestellungen auf andere Mitglieder umbuchen
- * Bearbeiten und Anlegen von Herstellern, Seiten, Blog-Artikeln, Slideshow-Bilder, Kategorien und Varianten
+  * darf alles, was ein Mitglied darf und zusätzlich:
+  * auch Bestellungen von anderen Mitgliedern einsehen und ändern
+  * Bestellungen auf andere Mitglieder umbuchen
+  * Bearbeiten und Anlegen von Herstellern, Seiten, Blog-Artikeln, Slideshow-Bilder, Kategorien und Varianten
 * **Superadmin**
- * darf alles, was ein Admin darf und zusätzlich:
- * Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen)
- * Zugriff auf die Software-Einstellungen
- * Eintragen von Pfand-Ausgleichszahlungen für Hersteller
- * Zugriff auf das Guthaben-System anderer Mitglieder
- * Möglichkeit zur Eintragung von Rückzahlungen
- * Beim Stundenabrechnungs-Modul Zugriff auf die Zeitkonten von Hersteller und Mitglied
- * Zugriff auf das Profil von anderen Mitgliedern,
- * Löschen von Mitgliedern
+  * darf alles, was ein Admin darf und zusätzlich:
+  * Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen)
+  * Zugriff auf die Software-Einstellungen
+  * Eintragen von Pfand-Ausgleichszahlungen für Hersteller
+  * Zugriff auf das Guthaben-System anderer Mitglieder
+  * Möglichkeit zur Eintragung von Rückzahlungen
+  * Beim Stundenabrechnungs-Modul Zugriff auf die Zeitkonten von Hersteller und Mitglied
+  * Zugriff auf das Profil von anderen Mitgliedern,
+  * Löschen von Mitgliedern
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
 Neu in v2.4: die Einstellung `app.isCustomerAllowedToModifyOwnOrders` kann auf `false` gesetzt werden, dann kann das Mitglied eigene Bestellungen nicht ändern und auch keinen Pfand eintragen.
