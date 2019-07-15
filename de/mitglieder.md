@@ -41,7 +41,7 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * Löschen von Mitgliedern
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
-Neu in v2.4: die Einstellung `app.isCustomerAllowedToModifyOwnOrders` kann auf `false` gesetzt werden, dann kann das Mitglied eigene Bestellungen nicht ändern und auch keinen Pfand eintragen.
+Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht ändern und auch keinen Pfand eintragen.
 
 ## Eigenes "Mitglied" für Abholdienste - Vorsicht!
 Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!**Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat.**Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
