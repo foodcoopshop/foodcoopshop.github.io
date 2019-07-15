@@ -22,9 +22,23 @@ Unterhalb des Menüpunktes "Meine Daten" (im Admin-Bereich) befindet sich der Me
 Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geändert werden (Bearbeiten-Symbol neben der Gruppe). Damit die Änderungen aktiv werden, muss sich das Mitglied allerdings aus- und wieder einloggen.
 
 ## Gruppen
-* **Mitglied**: nur eigene Bestellungen und Daten können eingesehen bzw. geändert werden.
-* **Admin**: dürfen im FoodCoopShop auch fremde Bestellungen ändern, Bestellungen auf andere Mitglieder umbuchen, Hersteller, Seiten, Blog-Artikel, Slideshow-Bilder, Kategorien und Varianten anlegen und bearbeiten
-* **Superadmin**: haben zusätzlich zu den Admin-Funktionen Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen), die Software-Einstellungen und können Pfand-Ausgleichszahlungen für Hersteller eintragen. Sie haben auf das Guthaben-System anderer Mitglieder Zugriff und können dort zusätzlich zu den "normalen" Funktionen auch Rückzahlungen eintragen. Beim Stundenabrechnungs-Modul können Superadmins auch auf die Zeitkonten von Hersteller und Mitglied zugreifen und ggfs. Eintragungen ändern. Sie können auch das Profil von anderen Mitgliedern ändern und Mitgliedskonten löschen.
+* **Mitglied**
+ * nur eigene Bestellungen und Daten können eingesehen bzw. geändert werden
+* **Admin**
+ * darf alles, was ein Mitglied darf und zusätzlich:
+ * auch Bestellungen von anderen Mitgliedern einsehen und ändern
+ * Bestellungen auf andere Mitglieder umbuchen
+ * Bearbeiten und Anlegen von Herstellern, Seiten, Blog-Artikeln, Slideshow-Bilder, Kategorien und Varianten
+* **Superadmin**
+ * darf alles, was ein Admin darf und zusätzlich:
+ * Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen)
+ * Zugriff auf die Software-Einstellungen
+ * Eintragen von Pfand-Ausgleichszahlungen für Hersteller
+ * Zugriff auf das Guthaben-System anderer Mitglieder
+ * Möglichkeit zur Eintragung von Rückzahlungen
+ * Beim Stundenabrechnungs-Modul Zugriff auf die Zeitkonten von Hersteller und Mitglied
+ * Zugriff auf das Profil von anderen Mitgliedern,
+ * Löschen von Mitgliedern
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
 Neu in v2.4: die Einstellung `app.isCustomerAllowedToModifyOwnOrders` kann auf `false` gesetzt werden, dann kann das Mitglied eigene Bestellungen nicht ändern und auch keinen Pfand eintragen.
