@@ -47,7 +47,7 @@ Neu in v2.4: die Einstellung `app.isCustomerAllowedToModifyOwnOrders` kann auf `
 Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!**Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat.**Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
 
 ## Mitgliedskonto löschen
-Nur **Superadmins** können Mitgliedskonten löschen. Die Funktion findet man, wenn man in der Mitglieder-Liste auf das Bearbeiten-Symbol neben dem Mitgliedsnamen klickt (Profil), ganz unten. In der Mitglieder-Liste im Admin-Bereich kann der kumulierte Produkt- bzw. Pfandwert von den Guthaben-Konten gelöschter Mitglieder eingesehen werden, indem man den Filter oben links auf "gelöscht stellt".
+Nur **Superadmins** können Mitgliedskonten löschen. Die Funktion findet man, wenn man in der Mitglieder-Liste auf das Bearbeiten-Symbol neben dem Mitgliedsnamen klickt (Profil), ganz unten rechts.
 
 ## Automatische Bestell-Erinnerung
 Falls die automatische Bestellerinnerung systemweit aktiviert ist (fragt euren Software-Betreuer), wird an Mitglieder, die diese Funktion ebenfalls in ihrem Profil aktiviert haben, wöchtentlich eine Bestellerinnerungs-E-Mail verschickt. Um die Mailflut einzudämmen, wird diese E-Mail nicht verschickt, wenn in der aktuellen Woche bereits bestellt wurde.
