@@ -41,6 +41,7 @@ Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen
 * Trage in den Login-Formularen oben deine Zugangsdaten für die entsprechenden Foodcoops ein und klicke auf **Produkte laden**.
 * Die Produkte der Remote-Foodcoops werden jetzt in den **orange** umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der **grün** umrahmten Tabelle ganz links ziehen, um die Produkte zuzuordnen.
 * Das Netzwerk-Modul legt keine Produkte neu an, es können nur bereits bestehende Produkte verknüpft werden - siehe auch 5). Gegebenfalls musst du dich bei den anderen Foodcoops einloggen und fehlende Produkte neu anlegen, dann erneut auf "Produkte laden" klicken und dann zuordnen.
+* Achtung: Wie erst am 22.07.2019 aufgefallen, erlaubt das Anmelden bei den Remote-Foodcoops über das Netzwerk-Modul leider keine Sonderzeichen im Passwort. Es muss bei der Remote-Foodcoop geändert werden, um das Netzwerk-Modul benutzen zu können.
 * Varianten müssen immer einzeln zugeordnet werden.
 * Es ist nicht möglich, Varianten und Produkte miteinander zu verknüpfen. Z.B. wenn bei der Master-Foodcoop nur eine Variante "1 Liter" verwendet wird und und bei einer Remote-Foodcoop wird dazu das Feld "Einheit" (ohne Variante) verwendet. Die Daten-Struktur muss dafür angeglichen werden (z.B. Variante löschen).
 
