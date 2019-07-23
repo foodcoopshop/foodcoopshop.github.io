@@ -9,3 +9,5 @@ has_toc: true
 ![]({{ site.baseurl }}/assets/img/foodcoopshop-logo.png)
 
 Since v2.5 FoodCoopShop is translated into Polish.
+
+[Demo version in Polish](https://demo-pl.foodcoopshop.com)
