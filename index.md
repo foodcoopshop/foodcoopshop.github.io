@@ -11,10 +11,10 @@ nav_order: 1
 * Demo versions in [German](https://demo-de.foodcoopshop.com), [English](https://demo-en.foodcoopshop.com) and [Polish](https://demo-pl.foodcoopshop.com)
 * Official homepage: [https://www.foodcoopshop.com](https://www.foodcoopshop.com/) (German)
 
-## Installation and updates
+## Installation and migration guides for self hosting
 
-* If you want to host FoodCoopShop by yourself, please read the [installation details]({{ site.baseurl }}/en/installation-details).
-* If you want to update your installation, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
+* [Installation details]({{ site.baseurl }}/en/installation-details).
+* [Migration guide]({{ site.baseurl }}/en/migration-guide).
 * What's new in the latest version? [View the changelog]({{{site.repo_url}}/blob/master/CHANGELOG.md) (German).
 
 ## Supported languages
