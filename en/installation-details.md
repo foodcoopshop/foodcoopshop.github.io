@@ -5,7 +5,7 @@ nav_order: 1
 ## Installation
 This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/master/README.md).
 
-If you have questions please drop Mario an email: office@foodcoopshop.com
+If you have questions, [please create a new issue]({{site.repo_url}}/issues/new).
 
 If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 
@@ -19,7 +19,7 @@ If you want to update your installation to another version, please read the [mig
 * If you cloned the repository from Github: Node.js, npm and Composer
 * PHP needs to be able to call mysqldump with exec() for database backups
 
-That's too much in depths for you? Look at [this offer](https://www.foodcoopshop.com/das-angebot/) (German only) or drop Mario an email: office@foodcoopshop.com
+There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to invest your time in IT stuff.
 
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)**, **[English](https://demo-en.foodcoopshop.com/)** and **[Polish](https://demo-pl.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 

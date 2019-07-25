@@ -5,6 +5,6 @@ nav_order: 6
 
 ## Roadmap
 
-[Issues on Github](https://github.com/foodcoopshop/foodcoopshop/issues)
+[Issues on Github]({{site.repo_url}}/issues)
 
-[Projects on Github](https://github.com/foodcoopshop/foodcoopshop/projects)
+[Projects on Github]({{site.repo_url}}/projects)

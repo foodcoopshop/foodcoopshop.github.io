@@ -5,4 +5,4 @@
 
 FoodCoopShop is a free open source software for foodcoops
 
-[https://github.com/foodcoopshop/foodcoopshop](https://github.com/foodcoopshop/foodcoopshop)
+[{{site.repo_url}}]({{site.repo_url}})

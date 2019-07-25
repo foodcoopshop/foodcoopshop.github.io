@@ -4,7 +4,7 @@ nav_order: 4
 ---
 ## Translating
 
-Please contact Mario (office@foodcoopshop.com) if you want to make FoodCoopShop available in a new language. He will then prepare everything (e.g. create empty translation files) and you can start with the translation.
+[Please create a new issue]({{site.repo_url}}/issues/new) if you want to make FoodCoopShop available in a new language. We will then prepare everything (e.g. create empty translation files) and you can start with the translation.
 
 The following steps are necessary: 
 

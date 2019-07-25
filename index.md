@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Welcome to the software documentation
 
-* FoodCoopShop on Github: [https://github.com/foodcoopshop/foodcoopshop](https://github.com/foodcoopshop/foodcoopshop)
+* FoodCoopShop on Github: [{{site.repo_url}}]({{site.repo_url}})
 * Demo versions in [German](https://demo-de.foodcoopshop.com), [English](https://demo-en.foodcoopshop.com) and [Polish](https://demo-pl.foodcoopshop.com)
 * Official homepage: [https://www.foodcoopshop.com](https://www.foodcoopshop.com/) (German)
 
