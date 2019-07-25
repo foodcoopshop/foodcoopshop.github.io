@@ -3,7 +3,7 @@ parent: For developers
 nav_order: 1
 ---
 ## Installation
-This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/master/README.md).
+This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/develop/README.md) and [CONTRIBUTING.md]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
 
 If you have questions, [please create a new issue]({{site.repo_url}}/issues/new).
 
@@ -23,10 +23,15 @@ There is an offer for [paid support and hosting](https://www.foodcoopshop.com/da
 
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)**, **[English](https://demo-en.foodcoopshop.com/)** and **[Polish](https://demo-pl.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
-### Upload latest version to your server
-The latest stable version is available at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). **Do not clone from Git, you will get an unstable develop version!** If you are a developer, please do clone the repository and don't forget to change app.debug to true in your custom_config.php.
+### Setting up your dev environment
+* If you want to set up a dev environment, please clone from Github.
+* After that, you need to manually install composer and npm vendors as described in [README.md]({{site.repo_url}}/blob/develop/README.md). **Be aware**: The default branch is develop and therefore unstable!
+* The master branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). The only difference is, that the zip-File already includes the vendors (`composer install` and `npm install` were already executed). 
+* Don't forget to change app.debug to true in your custom_config.php.
 
-Download and unpack the ZIP file. Upload the content of the versioned folder to your server (e.g. using FTP). The destination folder must be accessible to your Apache Server, but not the Document Root (e.g. /var/www/foodcoopshop).
+### Installing the latest stable version for your live server
+* Download the latest stable version at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download) and upload the unpacked files to your server using FTP.
+* Set the document root to /your-folder/foodcoopshop/webroot.
 Set the file access rights so that the Apache user (e.g. www-data) owns all files and folders:
 ```bash
 me@home:/var/www$ sudo chown -R www-data:www-data foodcoopshop
