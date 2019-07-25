@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Installation and migration guides for self hosting
 
-* [Installation details]({{ site.baseurl }}/en/installation-details).
+* [Installation guide]({{ site.baseurl }}/en/installation-guide).
 * [Migration guide]({{ site.baseurl }}/en/migration-guide).
 * What's new in the latest version? [View the changelog]({{{site.repo_url}}/blob/master/CHANGELOG.md) (German).
 

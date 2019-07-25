@@ -39,7 +39,7 @@ nav_order: 2
 * **20180720130810_RemoveOrdersTable** can take some time, depending on size of table fcs_order_detail so be sure that there is no execution timeout!
 * Sometimes the pickup_day in table fcs_order_detail is not set correctly. If this is the case with your installation, please remove 20180720130810_RemoveOrdersTable from table phinxlog, then edit the migration and comment [these lines]({{site.repo_url}}/blob/351d23b295297c91aba0a0e44107ea58609f7d95/config/Migrations/20180720130810_RemoveOrdersTable.php#L77-L84), run the migration, then remove the migration from table phinxlog, comment [these lines]({{site.repo_url}}/blob/351d23b295297c91aba0a0e44107ea58609f7d95/config/Migrations/20180720130810_RemoveOrdersTable.php#L13-L75) and run the migration again.
 * At some configurations the migrations fail the first time when they are called. Just call them a second time, then it should work.
-* activate new cronjob "PickupReminder", see bottom of [installation details]({{ site.baseurl }}/en/installation-details)
+* activate new cronjob "PickupReminder", see bottom of [installation guide]({{ site.baseurl }}/en/installation-guide)
 * add the configuration `app.dateOfFirstSendInvoiceCronjobWithPickupDayUpdate` to your custom_config.php and change the date when your SendInvoices cronjob will first run with this update. Example: you installed v2.2 or later on 3rd April 2019: value is 2019-04-11 (11 is default day of SendInvoices)
 * if you have problems with the update, [please create a new issue]({{site.repo_url}}/issues/new)
 
@@ -53,7 +53,7 @@ nav_order: 2
 * **therefore you can only update to v2.0 from v1.5!**, so if you are working on v1.x and you want to update to v2.0, first update to 1.5!
 * you can download v1.5 [here](https://github.com/foodcoopshop/foodcoopshop/releases/download/v1.5.0/FoodCoopShop-v1.5.0.zip)
 * replace source code => see bottom of page
-* use the new structure of config files (rename custom.config.php to custom_config.php), follow the steps in the updated [Installation details]({{ site.baseurl }}/en/installation-details)
+* use the new structure of config files (rename custom.config.php to custom_config.php), follow the steps in the updated [Installation guide]({{ site.baseurl }}/en/installation-guide)
 * be aware that the content of the config file changed in syntax! renaming the file to custom_config.php **is not enough!**
 * add the following code to the top of your /webroot/.htaccess in order to redirect some urls from v1.x
 
