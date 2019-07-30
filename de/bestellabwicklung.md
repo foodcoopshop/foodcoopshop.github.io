@@ -39,7 +39,7 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 * jede 4. Woche
 * jeden 1. Freitag im Monat
 * jeden letzten Freitag im Monat
-* individuelles Datum (Sammelbestellung)
+* Sammelbestellung (vor v2.6: Individuelles Datum)
 
 **Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf den Button "Lieferrhythmus für ausgewählte Produkte bearbeiten" klicken.**
 
@@ -56,7 +56,7 @@ Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter **Bes
 Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
 
 
-### 5b) Individuelles Datum (Sammelbestellungen)
+### 5b) Sammelbestellungen
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-sammelbestellungen.png)
 
