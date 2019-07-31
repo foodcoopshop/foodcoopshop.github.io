@@ -1,6 +1,5 @@
 ---
-grand_parent: For developers
-parent: Migration guide
+nav_exclude: true
 ---
 ## Migration guide for v1.x
 
