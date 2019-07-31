@@ -8,7 +8,6 @@ nav_order: 1
 ## Welcome to the software documentation
 
 * FoodCoopShop on Github: [{{site.repo_url}}]({{site.repo_url}})
-* Demo versions in [German](https://demo-de.foodcoopshop.com), [English](https://demo-en.foodcoopshop.com) and [Polish](https://demo-pl.foodcoopshop.com)
 * Official homepage: [https://www.foodcoopshop.com](https://www.foodcoopshop.com/) (German)
 
 ## Installation and migration guides for self hosting
@@ -19,7 +18,7 @@ nav_order: 1
 
 ## Supported languages
 
-* The software and its documentation are available in [German]({{ site.baseurl }}/de/), [English]({{ site.baseurl }}/en/) and [Polish]({{ site.baseurl }}/pl/). 
+* Have a look at the demo versions in [German](https://demo-de.foodcoopshop.com), [English](https://demo-en.foodcoopshop.com) and [Polish](https://demo-pl.foodcoopshop.com). 
 * If you want to translate it into your language, please read the [documentation for translating]({{ site.baseurl }}/en/translating).
 
 ## Who uses FoodCoopShop?
