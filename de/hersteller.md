@@ -10,7 +10,7 @@ Damit sich der Hersteller einloggen kann, vom Admin abmelden, dann unter "Anmeld
 
 ## Hersteller-Einstellungen
 
-In der Hersteller-Übersicht befindet sich weit rechts ein Symbol mit einem Zahnrad - hier können die folgenden Einstellungen für die Hersteller geändert werden. Seit der Version 1.4 können die Hersteller selbst ihre Einstellungen ändern, sie finden dies unter dem Menüpunkt "Einstellungen" im Hersteller-Login.
+In der Hersteller-Übersicht befindet sich weit rechts ein Symbol mit einem Zahnrad - hier können die folgenden Einstellungen für die Hersteller geändert werden. Die meisten davon können auch vom Hersteller selbst geändert werden.
 
 
 ### Sichtbarkeit der Produkte
@@ -39,7 +39,7 @@ Viele automatisierte Benachrichtigungen per E-Mail können für jeden Hersteller
 
 Diese Einstellung sieht man nur, wenn das Modul aktiviert ist. Herstellern wird der eingetragene Prozentsatz von der Rechnung abgezogen, das heißt, die Preise müssen dementsprechend höher im System eigegeben sein.
 
-**Welcher Betrag muss überwiesen werden?** Seit der Version 2.4 steht der Betrag, bei dem der variable Mitgliedsbeitrag schon abgezogen ist, in der Tabelle unter "Aktivitäten". Der Link dazu wird an den Finanzverantwortlichen versendet. Alternativ kann man den Filter bei "Aktivitäten" auf "Rechnung versendet" stellen (Datumsbereich ggfs. anpassen).
+**Welcher Betrag muss überwiesen werden?** Der Betrag, bei dem der variable Mitgliedsbeitrag schon abgezogen ist, steht in der Tabelle unter "Aktivitäten". Der Link dazu wird an den Finanzverantwortlichen versendet. Alternativ kann man den Filter bei "Aktivitäten" auf "Rechnung versendet" stellen (Datumsbereich ggfs. anpassen).
 
 **Variablen Mitgliedsbeitrag ändern:** Möchtest du den variablen Mitgliedsbeitrag für einen Hersteller ändern, so kann das immer nur an einem ersten des Monats erfolgen. Gleichzeitig müssen die Preise der Produkte angepasst werden. Die Preise von beriets getätigten Bestellungen vom Vormonat, deren Abholtag im aktuellen Monat liegt, müssen ebenfalls angepasst werden.
 

@@ -7,7 +7,7 @@ title: Lebensmittelkennzeichnung
 
 Alle Lebensmittel, die über Internet verkauft werden, müssen über eine vollständige Lebensmittelkennzeichnung verfügen. Das gibt der Gesetzgeber so vor.
 
-Seit der Version 1.5 (Dezember 2017) kann zusätzlich zu einer textlichen Erfassung dieser Daten **auch ein Bild hochgeladen werden**. Du kannst jetzt z.B. das Etikett abfotografieren und einfach ins Feld **Lange Beschreibung** (Produkt) hochladen. Es ist auch möglich, eine bereits bestehene Bilddatei des Etikettes (z.B. im PNG-Format) zu verwenden.
+Zusätzlich zu einer textlichen Erfassung dieser Daten kann **auch ein Bild hochgeladen werden**. Du kannst jetzt z.B. das Etikett abfotografieren und einfach ins Feld **Lange Beschreibung** (Produkt) hochladen. Es ist auch möglich, eine bereits bestehene Bilddatei des Etikettes (z.B. im PNG-Format) zu verwenden.
 
 Wichtig ist, dass die Angabe vom **Preis pro Einheit** (Grundpreis, z. B. Cocktailtomaten 250 g um 2 Euro (8 Euro/kg) nicht vergessen wird.
 
