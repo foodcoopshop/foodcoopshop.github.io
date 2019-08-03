@@ -70,8 +70,6 @@ RewriteRule ^admin/(.*)/index/(.+)\:(.+) /admin/$1/index/?$2=$3 [L,R=301]
 ```
 
 * run migrations => see bottom of page
-* if you have problems with the update, contact me: office@foodcoopshop.com (Mario)
-
 
 ### execute migrations
 * execute ``$ bin/cake migrations migrate`` to execute database migrations. If you do not have shell access, you need to update the migrations manually. The files with the sql statements are located in the folder /config/Migrations).

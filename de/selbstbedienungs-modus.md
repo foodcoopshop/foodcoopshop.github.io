@@ -27,3 +27,7 @@ Der Selbstbedienungs-Modus ersetzt die Sofort-Bestellung und vereinfacht somit d
 
 ### Etiketten für Produkte
 * Können im Produkt-Admin generiert werden (Produkte anhaken und dann unten auf "Produktkarten generieren" klicken).
+
+## Konzept, Umsetzung
+* Konzept: Andreas Egger von [Krekoodel](http://www.krekoodel.at)
+* Technische Umsetzung: [Mario Rothauer](https://www.rothauer-it.com)
