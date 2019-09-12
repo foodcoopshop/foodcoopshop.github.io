@@ -82,4 +82,4 @@ RewriteRule ^admin/(.*)/index/(.+)\:(.+) /admin/$1/index/?$2=$3 [L,R=301]
     * config/credentials.php
     * webroot/files
     * files_private
-    * and any other adapted files (favicon, /css/custom.css,, /css/mobile-frontend-custom.css...)
+    * and any other adapted files (favicons, /css/custom.css,, /css/mobile-frontend-custom.css...)
