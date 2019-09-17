@@ -3,7 +3,7 @@ parent: Deutsch
 ---
 ## Selbstbedienungs-Modus für Lagerprodukte
 
-**Ab v2.6 Herbst 2019**
+**Ab v2.7 Winter 2019**
 
 Der Selbstbedienungs-Modus ersetzt die Sofort-Bestellung und vereinfacht somit das Kaufen von Lagerprodukten vor Ort. Ziel war es, neben den bewährten Funktionen zur Vorbestellung von Frischwaren den Fokus der Software auf den einfachen Kauf von Lagerprodukten zu erweitern. 
 
