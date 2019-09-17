@@ -43,11 +43,7 @@ Der Abholdienst kann angeben, ob das Mitglied die Produkte abgeholt hat (unter "
 Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat (Dropdown oben). Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer es vergessen haben könnte. Unter "Mitglieder" findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
 
 ## Produkt auf anderes Mitglied umbuchen
-**Neu in v2.5:** Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern werden beide Mitglieder per E-Mail benachrichtigt und die Guthaben-Konten automatisch angepasst. 
-
-Vorgehensweise vor v2.5:
-* Produkt stornieren (mit Hinweis, dass es falsch mitgenommen wurde, aber nachbestellt wird - der Hersteller wird ja per Mail über die Stornierung benachrichtigt)
-* Produkt über Sofort-Bestellung für das richtige Mitglied nachbestellen.
+**Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern werden beide Mitglieder per E-Mail benachrichtigt und die Guthaben-Konten automatisch angepasst. 
 
 Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein Vereins-Mitgliedskonto anzulegen und das Produkte darauf hin zu buchen. So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein durch Fehler bei der Abholung zu tragen hatte.
 
