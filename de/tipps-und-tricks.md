@@ -3,7 +3,7 @@ parent: Deutsch
 ---
 ## Tipps & Tricks
 
-### Mitgliedsbeiträge als Produkt anlegen
+### Mitgliedsbeiträge über die Warenkorb-Funktion bestellen
 
 Eine einfache Möglichkeit zum Einheben der Mitgliedsbeiträge bietet folgendes Vorgehen (thx to Speis Vorchdorf!):
 
@@ -13,7 +13,12 @@ Eine einfache Möglichkeit zum Einheben der Mitgliedsbeiträge bietet folgendes 
 * Für neue Mitglieder, die später im Jahr einsteigen, kann der Preis mit der Funktion "Preis ändern" im Nachhinein angepasst werden.
 * Die Foodcoop überweist sich jeden Monat selbst das Geld von einem Konto aufs andere (vom Konto, auf dem die Guthaben-Einzahlungen landen auf das Vereinskonto).
 
-Dieser Ablauf hat den großen Vorteil, dass das bereits vorhandene Guthaben-System verwendet werden kann. Beim Fairteiler machen wir das seit Anfang 2017 so und es funktioniert wunderbar.
+Dieser Ablauf hat den großen Vorteil, dass das bereits vorhandene Guthaben-System verwendet werden kann und Geldflüsse nicht gesondert kontrolliert werden müssen.
+
+Zur Kontrolle, wer den Mitgliedsbeitrag schon bestellt hat, bietet sich folgende Vorgehensweise an:
+* Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).
+* Ggfs. sortieren nach Name des Mitglieds
+* Nun muss aber immer noch "händisch" mit der Mitgliederliste abgeglichen werden, wer schon bestellt hat und wer nicht, da kann die Software leider auch nicht unterstüzten.
 
 ### Jahresübersicht über bestellte Produkte erstellen
 
