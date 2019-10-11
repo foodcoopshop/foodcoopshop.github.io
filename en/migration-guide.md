@@ -5,16 +5,17 @@ nav_order: 2
 ---
 ## Migration guide
 
-**Please remember to always make a database and file backup before updating your FoodCoopShop installation!**
+### Introduction
 
-* There is no automatic update tool, updating FoodCoopShop needs to be done manually.
-* **Be aware**: updating from v1.x to v2.x can only be done from v1.5.
-* [Migration guide for v1.x]({{ site.baseurl }}/en/migration-guide-v1)
+* **Please remember to always make a database and file backup before updating your FoodCoopShop installation!**
+* There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
+* Updating from v1.x to v2.x can only be done from v1.5. [Migration guide for v1.x]({{ site.baseurl }}/en/migration-guide-v1)
+* Updating from 2.x to 2.y are possible. E.g. from 2.1.x to 2.6.x directly.
 
 ### FCS v2.5.x to FCS v2.6.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
-* legacy password hashing (introduced in v2.3) method was removed. If you don't update regularly, your users can't login any more might need to request a new password. You can now safely remove app.cookieKey. 
+* legacy password hashing (introduced in v2.3) method was removed. If you don't update regularly, your users can't login anymore and might need to request a new password. You can now safely remove app.cookieKey. 
 
 ### FCS v2.4.x to FCS v2.5.x
 * replace source code => see bottom of page
