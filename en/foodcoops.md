@@ -8,7 +8,8 @@ title: Who uses FoodCoopShop
 
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
-| **2019 / 7**|
+| **2019 / 8**|
+| 26 | 10/2019 | [https://www.s-gartl.at](https://www.s-gartl.at) | Windischgarsten, Austria|
 | 25 | 07/2019 | [https://www.lafoco.at](https://www.lafoco.at) | Langenlois, Austria|
 | 24 | 05/2019 | [https://www.genussfairteiler.at](https://www.genussfairteiler.at) | Neumarkt i.M., Austria|
 | 23 | 04/2019 | [http://shop.rhabarber-haberer.org](http://shop.rhabarber-haberer.org) | Tulln, Austria|
