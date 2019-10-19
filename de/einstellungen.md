@@ -10,4 +10,4 @@ Um die Einstellungen in den Dateien config/app_config.php, config/custom_config.
 Die Datei config/app_config.php darf nicht geändert werden, da sie beim nächsten Update überschrieben würde.
 
 ### Wöchentlichen Abholtag ändern
-siehe [settings]({{ site.baseurl }}/en/settings)
+siehe [settings]({{ site.baseurl }}/en/settings.html)
