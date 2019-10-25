@@ -11,6 +11,9 @@ parent: Deutsch
 * Dafür notwendig: **einmalige** Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
 * Hersteller, die ihre Produkte bereits bei einer Foodcoop eingepflegt haben und **eine neue Foodcoop beliefern**, können ihre Produkte mit dem Netzwerk-Modul schneller neu anlegen. Details dazu unter Punkt 5
 
+## Aktivierung
+* Das Netzwerk-Modul ist standardmäßig deaktiviert. Die Aktivierung des Netzwerk-Moduls für die Verwendung als Master- und/oder Remote-Foodcoop erfolgt über die Datenbank: In der Tabelle `fcs_configuration` das Feld `value` für `name=FCS_NETWORK_PLUGIN_ENABLED` auf 1 setzen.
+
 ## Technische Ausdrücke
 * **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** *Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Als Remote-Foodcoop kann sie natürlich schon verwendet werden.*
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
