@@ -100,3 +100,5 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 ## Hersteller, die mehrere Foodcoops beliefern
 sollten sich das [Netzwerk-Modul]({{ site.baseurl }}/de/netzwerk-modul) mal anschauen!
 
+## Produkt löschen
+Seit v2.7 (Dezember 2019). In der Produkt-Verwaltung die gewünschten Produkte anhaken und dann unten rechts auf "Ausgewählte Produkte löschen" klicken.
