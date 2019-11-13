@@ -18,8 +18,7 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 * **Admins und Superadmins** können im Admin-Bereich unter "Mitglieder" für die mittels Checkbox ausgewählten Mitglieder die Mitgliedkarten generieren und drucken.
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarten-generieren.png)
 
-* **Vorschau Mitgliedskarte**
-
+**Vorschau Mitgliedskarte**
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarte.png)
 
 
@@ -28,8 +27,7 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 * **Achtung**: Im PDF mit den Produktkarten werden nur "als Lagerprodukte" deklarierte Produkte angezeigt, auch, wenn sie angehakt wurden!
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarten-generieren.png)
 
-* **Vorschau Produktkarte**
-
+**Vorschau Produktkarte**
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarte.png)
 
 
