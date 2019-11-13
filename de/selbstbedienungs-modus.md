@@ -5,7 +5,9 @@ parent: Deutsch
 
 **Ab v2.7 Winter 2019**
 
-Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht das Kaufen von Lagerprodukten vor Ort. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet die Software nun eine einfach zu bedienende Möglichkeit zum Kauf von Lagerprodukten. 
+Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht das Kaufen von Lagerprodukten vor Ort. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet die Software nun eine einfach zu bedienende Möglichkeit zum Kauf von Lagerprodukten.
+
+Mithilfe eines **Barcode-Scanners** logged sich das Mitglied mit seiner Mitgliedskarte ein (ganz ohne Benutzername / Passwort). Auch die gewünschten Produkte können einfach mit dem Scanner **in die Einkaufstasche** (Warenkorb) gelegt werden. Die Scan-Funktion ist optional und muss nicht verwendet werden. 
 
 ### Aktivierung / Einstellungen
 * Superadmins können den Selbstbedienungs-Modus in den Einstellungen selbst aktivieren.
@@ -49,4 +51,4 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 * Der Button für die Pfand-Rückgabe befindet sich unten rechts.
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Die Sofort-Bestellung ist nur mehr für Superadmins zugänglich und wird unter den Bestellungen angezeigt.
-
+* Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [deutschen Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen verwendet werden.
