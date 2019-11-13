@@ -48,6 +48,3 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Die Sofort-Bestellung ist nur mehr für Superadmins zugänglich und wird unter den Bestellungen angezeigt.
 
-## An der Umsetung beteiligte Personen
-* Konzept: Andreas Egger von [Krekoodel](http://www.krekoodel.at)
-* Technische Umsetzung: [Mario Rothauer](https://www.rothauer-it.com)
