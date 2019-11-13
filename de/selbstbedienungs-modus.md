@@ -19,6 +19,7 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarten-generieren.png)
 
 **Vorschau Mitgliedskarte**
+
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarte.png)
 
 
@@ -28,6 +29,7 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarten-generieren.png)
 
 **Vorschau Produktkarte**
+
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarte.png)
 
 
@@ -40,11 +42,11 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 * Im Selbstbedienungs-Modus werden nur Lagerprodukte angezeigt. Produkte können nach Aktivieren der erweiterten Lagerstandsverwaltung (beim Hersteller) als "Lagerprodukt" deklariert werden.
 * Suche nach Produkt-Id, Name und Scannen des Barcodes möglich, zusätzlich Filter nach Kategorie.
 * Lagerprodukte wie gewohnt in den Warenkorb geben und bestellen.
-* Für Produkte mit der Funktion **Preis nach Gewicht** muss vor dem Kaufen das entnommene Gewicht eingetragen werden.
+* Für Produkte mit der Funktion **Preis nach Gewicht** muss **vor** dem Kaufen das entnommene Gewicht eingetragen werden. Der Preis berechnet sich automatisch und das Gewicht muss nicht im Nachhinein angepasst werden.
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-1.png)
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-2.png)
 
-* Button für die Pfand-Rückgabe ist ebenfalls vorhanden (unten).
+* Der Button für die Pfand-Rückgabe befindet sich unten rechts.
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Die Sofort-Bestellung ist nur mehr für Superadmins zugänglich und wird unter den Bestellungen angezeigt.
 
