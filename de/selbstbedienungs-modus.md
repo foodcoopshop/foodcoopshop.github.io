@@ -19,6 +19,7 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarten-generieren.png)
 
 * **Vorschau Mitgliedskarte**
+
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarte.png)
 
 
@@ -28,6 +29,7 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarten-generieren.png)
 
 * **Vorschau Produktkarte**
+
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarte.png)
 
 
