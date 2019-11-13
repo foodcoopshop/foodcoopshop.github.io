@@ -51,4 +51,4 @@ Mithilfe eines **Barcode-Scanners** logged sich das Mitglied mit seiner Mitglied
 * Der Button für die Pfand-Rückgabe befindet sich unten rechts.
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Die Sofort-Bestellung ist nur mehr für Superadmins zugänglich und wird unter den Bestellungen angezeigt.
-* Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [deutschen Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen verwendet werden.
+* Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [deutschen Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen mit einem Scanner verwendet werden.
