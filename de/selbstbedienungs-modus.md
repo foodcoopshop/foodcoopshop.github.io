@@ -9,11 +9,11 @@ Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und
 
 Mithilfe eines **Barcode-Scanners** meldet sich das Mitglied mit seiner Mitgliedskarte an (ohne Benutzername / Passwort). Die gewünschten Produkte können einfach mit dem Scanner **in die Einkaufstasche** (Warenkorb) gelegt werden. *Das Verwenden der Scan-Funktion ist optional.* 
 
-### Aktivierung / Einstellungen
+### 1) Aktivierung / Einstellungen
 * Superadmins können den Selbstbedienungs-Modus in den Einstellungen selbst aktivieren (Selbstbedienungs-Modus aktiv? - ja / nein).
 * *Sollen Lagerprodukte mit der wöchentlichen Bestellung bestellt werden können?* Empfehlung für die Verwendung mit dem Selbstbedienungs-Modus: auf **nein** setzen.
 
-### Mitgliedskarten
+### 2) Mitgliedskarten
 * **Mitglieder** können in ihrem Profil ein Profilbild hochladen.
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/profilbild-hochladen.png)
 
@@ -25,7 +25,7 @@ Mithilfe eines **Barcode-Scanners** meldet sich das Mitglied mit seiner Mitglied
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarte.png)
 
 
-### Produktkarten
+### 3) Produktkarten
 * Können im Produkt-Admin generiert werden (Produkte anhaken und dann unten auf "Produktkarten generieren" klicken).
 * **Achtung**: Im PDF mit den Produktkarten werden nur "als Lagerprodukte" deklarierte Produkte angezeigt. Auch, wenn sie angehakt wurden!
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarten-generieren.png)
@@ -36,7 +36,7 @@ Mithilfe eines **Barcode-Scanners** meldet sich das Mitglied mit seiner Mitglied
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarte.png)
 
 
-### Einkaufen im Selbstbedienungs-Modus
+### 4) Einkaufen im Selbstbedienungs-Modus
 * In der Navigation oben rechts (bei "Anmelden") befindet sich jetzt ein neuer Menüpunkt "Selbstbedienung"
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/neuer-button-selbstbedienung.png)
 
@@ -48,7 +48,7 @@ Mithilfe eines **Barcode-Scanners** meldet sich das Mitglied mit seiner Mitglied
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-1.png)
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-2.png)
 
-### Weitere Funktionen / Änderungen
+### 5) Weitere Funktionen / Änderungen
 * Der Button für die Pfand-Rückgabe befindet sich beim Einkaufen unten rechts.
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Sofort-Bestellungen sollten mit aktiviertem Selbstbedienungs-Modus nicht mehr notwendig sein. Sie sind deswegen nur mehr für Superadmins möglich, der Button dazu wird im Admin-Bereich unter den Bestellungen angezeigt.
