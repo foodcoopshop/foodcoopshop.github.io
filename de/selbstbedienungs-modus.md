@@ -14,7 +14,7 @@ Mithilfe eines **Barcode-Scanners** meldet sich das Mitglied mit seiner Mitglied
 * *Sollen Lagerprodukte mit der wöchentlichen Bestellung bestellt werden können?* Empfehlung für die Verwendung mit dem Selbstbedienungs-Modus: auf **nein** setzen.
 
 ### 2) Mitgliedskarten
-* **Mitglieder** können in ihrem Profil ein Profilbild hochladen.
+* **Mitglieder** können in ihrem Profil ein Profilbild hochladen und von dort auch ihre Mitgliedskarte ausdrucken.
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/profilbild-hochladen.png)
 
 * **Admins und Superadmins** können im Admin-Bereich unter "Mitglieder" für die mittels Checkbox ausgewählten Mitglieder die Mitgliedkarten generieren und drucken.
