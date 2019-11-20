@@ -3,14 +3,14 @@ parent: Deutsch
 ---
 ## Selbstbedienungs-Modus für Lagerprodukte
 
-**Ab v2.7 Winter 2019**
+**Verfügbar seit v2.7 (Dezember 2019)**
 
-Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet die Software nun auch dafür eine einfach zu bedienende Möglichkeit.
+Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet der FoodCoopShop nun auch dafür eine einfach zu bedienende Möglichkeit.
 
-Mithilfe eines **Barcode-Scanners** meldet sich das Mitglied mit seiner Mitgliedskarte an (ohne Benutzername / Passwort). Die gewünschten Produkte können einfach mit dem Scanner **in die Einkaufstasche** (Warenkorb) gelegt werden. *Das Verwenden der Scan-Funktion ist optional.* 
+Das Modul ist optimiert für die Verwendung eines **Barcode-Scanners**. Zum Anmelden scannt das Mitglied einfach seine Mitgliedskarte (ohne Benutzername / Passwort), zum Einkaufen können die gewünschten Produkte einfach mit dem Scanner **in die Einkaufstasche** (Warenkorb) gelegt werden. *Es muss kein Scanner verwendet werden, das Modul funktioniert auch ohne.* 
 
 ### 1) Aktivierung / Einstellungen
-* Superadmins können den Selbstbedienungs-Modus in den Einstellungen selbst aktivieren (Selbstbedienungs-Modus aktiv? - ja / nein).
+* Superadmins können den Selbstbedienungs-Modus für ihre Foodcoop selbst aktivieren (Einstellungen: Selbstbedienungs-Modus aktiv? - ja / nein).
 * *Sollen Lagerprodukte mit der wöchentlichen Bestellung bestellt werden können?* Empfehlung für die Verwendung mit dem Selbstbedienungs-Modus: auf **nein** setzen.
 
 ### 2) Mitgliedskarten
@@ -40,10 +40,10 @@ Mithilfe eines **Barcode-Scanners** meldet sich das Mitglied mit seiner Mitglied
 * In der Navigation oben rechts (bei "Anmelden") befindet sich jetzt ein neuer Menüpunkt "Selbstbedienung"
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/neuer-button-selbstbedienung.png)
 
-* Mittels Scannen des Barcodes auf der Mitgliedskarte oder wie gewohnt per E-Mail / Passwort einloggen.
+* Anmelden: Scannen des Barcodes auf der Mitgliedskarte oder wie gewohnt per E-Mail / Passwort.
 * Im Selbstbedienungs-Modus werden nur Lagerprodukte angezeigt. Produkte können nach Aktivieren der erweiterten Lagerstandsverwaltung (beim Hersteller) als "Lagerprodukt" deklariert werden.
 * Suche nach Produkt-Id, Name und Scannen der Produktkarten möglich, zusätzlich Filter nach Kategorie.
-* Lagerprodukte wie gewohnt in den Warenkorb geben und bestellen.
+* Lagerprodukte wie gewohnt in den Warenkorb geben und bestellen. Falls die Produkte gescannt werden, entfällt dieser Schritt und das Produkt ist nach dem Scannen sofort im Warenkorb.
 * Für Produkte mit der Funktion **Preis nach Gewicht** muss **vor** dem Kaufen das entnommene Gewicht eingetragen werden. Der Preis berechnet sich automatisch und das Gewicht muss nicht im Nachhinein angepasst werden.
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-1.png)
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-2.png)
