@@ -53,3 +53,6 @@ Das Modul ist optimiert für die Verwendung eines **Barcode-Scanners**. Zum Anme
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Sofort-Bestellungen sollten mit aktiviertem Selbstbedienungs-Modus nicht mehr notwendig sein. Sie sind deswegen nur mehr für Superadmins möglich, der Button dazu wird im Admin-Bereich unter den Bestellungen angezeigt.
 * Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen mit einem Scanner verwendet werden.
+
+### 6) Offene Punkte
+* Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"](https://github.com/foodcoopshop/foodcoopshop/issues/336)
