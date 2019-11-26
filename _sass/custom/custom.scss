@@ -5,7 +5,12 @@ $fcs-red: red;
 body {
     font-family: 'Open Sans', sans-serif ! important;
 }
-
+a {
+    color: $fcs-dark-green;
+}
+a:hover {
+    color: $fcs-light-green;
+}
 .site-title {
     color: $fcs-dark-green ! important;
 }
