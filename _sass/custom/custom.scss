@@ -2,6 +2,10 @@ $fcs-dark-green: #009335;
 $fcs-light-green: #719f41;
 $fcs-red: red;
 
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .site-title {
     color: $fcs-dark-green ! important;
 }
