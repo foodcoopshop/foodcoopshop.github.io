@@ -17,3 +17,5 @@ Please use the script ChangeWeeklyPickupDayByOneDayShell to change the setting F
 `bin/cake ChangeWeeklyPickupDayByOneDay increase` => Changed Thursday to Friday
 
 The script automatically changes custom order list send days for certain products.
+
+Do not forget to change the days when certain cronjobs run (e.g. EmailOrderReminder). Change that directly in the database table fcs_cronjobs.
