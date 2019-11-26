@@ -10,7 +10,7 @@ If you have questions, [please create a new issue]({{site.repo_url}}/issues/new)
 If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 
 ### Requirements
-* Server connected to internet with shell access and cronjobs
+* Server connected to internet with **shell access** and **cronjobs**
 * Apache with `mod_rewrite`
 * PHP => 7.2
 * MySQL 5.7 (5.6 works too, but support can be stopped any time)
