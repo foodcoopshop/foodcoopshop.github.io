@@ -3,7 +3,6 @@ parent: Deutsch
 title: Bestellabwicklung
 has_children: true
 ---
-[Hier geht's zur Übersicht der Änderungen zu älteren Versionen (vor v2.2 vom September 2018)]({{ site.baseurl }}/de/aenderungen-bestellabwicklung-vor-september-2018)
 
 ## Bestellabwicklung
 
