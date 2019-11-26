@@ -12,8 +12,8 @@ nav_order: 1
 
 ## Installation and migration guides for self hosting
 
-* [Installation guide]({{ site.baseurl }}/en/installation-guide).
-* [Migration guide]({{ site.baseurl }}/en/migration-guide).
+* [Installation guide]({{ site.baseurl }}/en/installation-guide)
+* [Migration guide]({{ site.baseurl }}/en/migration-guide)
 * What's new in the latest version? [View the changelog]({{{site.repo_url}}/blob/master/CHANGELOG.md) (German).
 
 ## Supported languages
