@@ -2,6 +2,21 @@ $fcs-dark-green: #009335;
 $fcs-light-green: #719f41;
 $fcs-red: red;
 
+body {
+    font-family: 'Open Sans', sans-serif ! important;
+}
+a {
+    color: $fcs-dark-green ! important;
+    background-image: none ! important;
+    text-decoration: underline ! important;
+}
+a:hover {
+    color: $fcs-light-green ! important;
+    background-image: none ! important;
+}
+nav a {
+    text-decoration: none ! important;
+}
 .site-title {
     color: $fcs-dark-green ! important;
 }
@@ -16,4 +31,9 @@ i.far.not-ok {
 
 #main-content img {
     border: 1px solid #ccc;
+}
+
+#main-content p,
+#main-content li {
+    text-align: justify;
 }
