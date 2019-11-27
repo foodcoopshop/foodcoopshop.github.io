@@ -70,7 +70,7 @@ Hier findest du hilfreiche Details zu [Sammelbestellungen]({{ site.baseurl }}/de
 
 Für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus, dieser ist nicht änderbar.
 
-## 6 Bestelländerungen
+## 6) Bestelländerungen
 
 Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verrechnet ist.
 
