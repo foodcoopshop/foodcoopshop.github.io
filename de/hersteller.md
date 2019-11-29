@@ -49,12 +49,6 @@ Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert wer
 
 Falls z. B. ein Hersteller nicht umsatzsteuerpflichtig ist, kann sein voreingestellter Steuersatz auf 0% geändert werden. Alle neu angelegten Produkte haben dann automatisch 0% eingestellt. Das verringert das Fehlerpotenzial und Arbeit für den Hersteller. 
 
-**Hersteller optimiert für Sammelbestellungen**
-
-Details findest du hier: [Leitfaden für Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen)
-
-Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert werden.
-
 **Ansprechperson**
 
 Ist einem Hersteller eine Ansprechperson zugeordnet, hat dieser Zugriff auf Name, E-Mail-Adresse und Telefonnummer des entsprechenden Mitglieds.
