@@ -8,6 +8,8 @@ title: Sammelbestellungen
 
 Achtung: Unter Umständen sind die Produkte nach der Aktivierung sofort bestellbar, wenn sie noch den Lieferrhythmus "wöchentlich" eingestellt haben. Daher am Besten einen Tag verwenden, an dem nicht viel bestellt wird, dann ist's nicht so schlimm falls was fälschlicherweise kurz bestellbar ist.
 
+Bei den Hersteller-Optionen unter "Benachrichtigungen" müssen meistens alle Häkchen entfernt werden.
+
 **Produkte bearbeiten**
 
 Im Feld "Kurze Beschreibung" sind evtl. noch alte Infos über Liefertag, Bestellschluss oder ähnliches vorhanden. Diese löschen - es werden automatisch die Werte, die beim Lieferrhythmus eingetragen werden, angezeigt.
