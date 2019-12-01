@@ -3,6 +3,8 @@ parent: Deutsch
 ---
 ## Finanzberichte
 
-* Gelöschte Einzahlungen werden ausgegraut angeführt.
-* Falls die Zahlung von einem anderen Mitglied eingetragen wurde, wird dieses Mitglied in der Spalte "Eingetragen von" angezeigt.
-* Mehr dazu hier: [Guthaben-System]({{ site.baseurl }}/de/guthaben-system)
+* Damit Fehler beim Aufladen des Guthabens frühzeit erkannt werden, sollten die ins System eingetragenen Aufladungen regelmäßig mit dem Kontostand verglichen werden. Dazu hilft das Modul "Finanzberichte" (sichtbar für Superadmins).
+
+Ziel sollte es sein, dass am Jahresende alle Zahlungen mit einem grünen Häkchen versehen sind. 
+ 
+* Siehe auch: [Guthaben-System]({{ site.baseurl }}/de/guthaben-system)
