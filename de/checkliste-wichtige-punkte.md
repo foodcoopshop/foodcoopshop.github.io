@@ -1,6 +1,6 @@
 ---
 parent: Deutsch
-title: Checkliste: Wichtige Punkte
+title: Checkliste "Wichtige Punkte"
 ---
 
 Die Software übernimmt sehr viele Aufgaben im Foodcoop-Alltag, dennoch müssen zum nachhaltigen Gelingen eurer Initiative folgende Punkte von Menschen erledigt werden:
