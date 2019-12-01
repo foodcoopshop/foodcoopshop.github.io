@@ -31,4 +31,4 @@ nav_order: 1
 
 ## Maintainer
 
-Mario Rothauer created the project in 2014 and maintains it: [mrothauer on Github](https://github.com/mrothauer)
+[Mario Rothauer](https://github.com/mrothauer) created the project in 2014 and maintains it.
