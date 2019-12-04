@@ -1,5 +1,4 @@
 ---
-parent: Deutsch
 nav_exclude: true
 ---
 ## Finanzberichte
