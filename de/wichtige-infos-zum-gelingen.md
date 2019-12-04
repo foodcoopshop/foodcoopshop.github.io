@@ -5,7 +5,7 @@ title: Wichtige Infos zum Gelingen
 
 ## Wichtige Infos zum Gelingen eurer Foodcoop
 
-Die Software übernimmt zwar sehr viele Aufgaben im Foodcoop-Alltag, dennoch müssen zum nachhaltigen Gelingen eurer Initiative folgende Aufgaben **von Menschen** erledigt werden:
+*Die Software übernimmt zwar sehr viele Aufgaben im Foodcoop-Alltag, dennoch müssen zum nachhaltigen Gelingen eurer Initiative folgende Aufgaben **von Menschen** erledigt werden:*
 
 * Damit Fehler beim Aufladen des Guthabens frühzeit erkannt werden, sollten die ins System eingetragenen Aufladungen regelmäßig mit dem Kontostand verglichen werden. Dazu hilft das Modul "Finanzberichte" (für Superadmins). Ziel sollte es sein, dass am Jahresende alle Zahlungen mit einem grünen Häkchen versehen sind. 
 
