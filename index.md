@@ -9,6 +9,8 @@ nav_order: 1
 
 * FoodCoopShop on Github: [{{site.repo_url}}]({{site.repo_url}})
 * Official homepage: [https://www.foodcoopshop.com](https://www.foodcoopshop.com/) (German)
+* Facebook: [https://facebook.com/foodcoopshop](https://facebook.com/foodcoopshop)
+* Twitter: [https://twitter.com/FoodCoopShop](https://twitter.com/FoodCoopShop)
 
 ## Installation and migration guides for self hosting
 
