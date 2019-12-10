@@ -11,6 +11,7 @@ Das Modul ist optimiert für die Verwendung eines **Barcode-Scanners**. Zum Anme
 
 ### 1) Aktivierung / Einstellungen
 * Superadmins können den Selbstbedienungs-Modus für ihre Foodcoop selbst aktivieren (Einstellungen: Selbstbedienungs-Modus aktiv? - ja / nein).
+* Nach dem Aktivieren erscheint darunter eine weitere Einstellung: "Selbstbedienungs-Modus im Test-Modus ausführen". Wenn man hier auf "ja" klickt, ist der Selbstbedienungs-Modus erst mal versteckt und für ein paar Leute testbar. Man kann ihn unter https://www.eure-foodcoop.com/selbstbedienung aufrufen.
 * *Sollen Lagerprodukte mit der wöchentlichen Bestellung bestellt werden können?* Empfehlung für die Verwendung mit dem Selbstbedienungs-Modus: auf **nein** setzen.
 
 ### 2) Mitgliedskarten
