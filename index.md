@@ -29,7 +29,7 @@ nav_order: 1
 
 ## Stability
 
-* In the latest version (v2.7) [323 automated unit tests and 1.639 assertions](https://travis-ci.org/foodcoopshop/foodcoopshop/builds) keep the software stable.
+* In the latest version (v2.7.1) [325 automated unit tests and 1.643 assertions](https://travis-ci.org/foodcoopshop/foodcoopshop/builds) keep the software stable.
 
 ## Maintainer
 
