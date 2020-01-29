@@ -12,6 +12,10 @@ nav_order: 2
 * Updating from v1.x to v2.x can only be done from v1.5. [Migration guide for v1.x]({{ site.baseurl }}/en/migration-guide-v1)
 * Updating from 2.x to 2.y are possible. E.g. from 2.1.x to 2.6.x directly.
 
+### FCS v2.7.x to FCS v2.8.x
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+
 ### FCS v2.6.x to FCS v2.7.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
