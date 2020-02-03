@@ -9,17 +9,16 @@ title: Who uses FoodCoopShop
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
 | **2019 / 8**|
-| 26 | 10/2019 | [https://www.s-gartl.at](https://www.s-gartl.at) | Windischgarsten, Austria|
-| 25 | 07/2019 | [https://www.lafoco.at](https://www.lafoco.at) | Langenlois, Austria|
-| 24 | 05/2019 | [https://www.genussfairteiler.at](https://www.genussfairteiler.at) | Neumarkt i.M., Austria|
-| 23 | 04/2019 | [http://shop.rhabarber-haberer.org](http://shop.rhabarber-haberer.org) | Tulln, Austria|
-| 22 | 04/2019 | [https://körberl.taugl.online](https://körberl.taugl.online) | St. Koloman, Austria|
-| 21 | 03/2019 | [https://shop.lebensmittelpunkt.tirol](https://shop.lebensmittelpunkt.tirol) | Imst, Austria|
-| 20 | 02/2019 | [https://koorb.at](https://koorb.at) | Seitenstetten, Austria|
-| 19 | 01/2019 | [https://www.dorfladenroitham.at](https://www.dorfladenroitham.at) | Roitham, Austria|
+| 25 | 10/2019 | [https://www.s-gartl.at](https://www.s-gartl.at) | Windischgarsten, Austria|
+| 24 | 07/2019 | [https://www.lafoco.at](https://www.lafoco.at) | Langenlois, Austria|
+| 23 | 05/2019 | [https://www.genussfairteiler.at](https://www.genussfairteiler.at) | Neumarkt i.M., Austria|
+| 22 | 04/2019 | [http://shop.rhabarber-haberer.org](http://shop.rhabarber-haberer.org) | Tulln, Austria|
+| 21 | 04/2019 | [https://körberl.taugl.online](https://körberl.taugl.online) | St. Koloman, Austria|
+| 20 | 03/2019 | [https://shop.lebensmittelpunkt.tirol](https://shop.lebensmittelpunkt.tirol) | Imst, Austria|
+| 19 | 02/2019 | [https://koorb.at](https://koorb.at) | Seitenstetten, Austria|
+| 18 | 01/2019 | [https://www.dorfladenroitham.at](https://www.dorfladenroitham.at) | Roitham, Austria|
 | **2018 / 4** |
-| 18 | 11/2018 | [https://www.reggaefood.at](https://www.reggaefood.at) | Bad Goisern, Austria|
-| 17 | 10/2018 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
+| 17 | 11/2018 | [https://www.reggaefood.at](https://www.reggaefood.at) | Bad Goisern, Austria|
 | 16 | 10/2018 | [https://www.krekoodel.at](https://www.krekoodel.at) | Krems, Austria|
 | 15 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
 | **2017 / 8** |
