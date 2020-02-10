@@ -12,8 +12,8 @@ If you want to update your installation to another version, please read the [mig
 ### Requirements
 * Server connected to internet with **shell access** and **cronjobs**
 * Apache with `mod_rewrite`
-* PHP => 7.2
-* MySQL 5.7 (5.6 works too, but support can be stopped any time)
+* PHP => 7.3
+* MySQL => 5.7
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
 * If you cloned the repository from Github: Node.js, npm and Composer
