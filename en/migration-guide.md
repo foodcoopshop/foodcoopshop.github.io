@@ -16,6 +16,7 @@ nav_order: 2
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * PHP >= 7.3
+* MySQL >= 5.7
 
 ### execute migrations
 * execute ``$ bin/cake migrations migrate`` to execute database migrations. If you do not have shell access, you need to update the migrations manually. The files with the sql statements are located in the folder /config/Migrations).
