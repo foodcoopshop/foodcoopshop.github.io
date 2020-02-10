@@ -6,7 +6,7 @@ nav_exclude: true
 * If you want to update from v1.3 to v1.5 directly (skipping v1.4), you can do that. Just follow the instructions for updating to v1.4 and v1.5. 
 
 ### FCS v1.4.x to FCS v1.5
-* replace source code => see bottom of page
+* replace source code => see bottom of [this page]({{ site.baseurl }}/en/migration-guide-v1)
 * nothing else
 
 ### FCS v1.3.x to FCS v1.4
