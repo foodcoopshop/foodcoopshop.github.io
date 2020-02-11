@@ -3,26 +3,27 @@ parent: Deutsch
 title: Guthaben-System
 ---
 
-Default label
+Neu seit v3.0
 {: .label }
 
-Blue label
+Neu seit v3.0
 {: .label .label-blue }
 
-Stable
+Neu seit v3.0
 {: .label .label-green }
 
-New release
+Neu seit v3.0
 {: .label .label-purple }
 
-Coming soon
+Neu seit v3.0
 {: .label .label-yellow }
 
-Deprecated
+Neu seit v3.0
 {: .label .label-red }
 
 Neu seit v3.0
-{: .label .label-green } Es gibt es neben diesem Guthaben-Sytem auch [das Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich)
+{: .label .label-green }
+Es gibt es neben diesem Guthaben-Sytem auch [das Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich)
 
 ## So funktioniert das Guthaben-System
 
