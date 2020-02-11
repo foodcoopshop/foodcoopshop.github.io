@@ -4,24 +4,6 @@ title: Guthaben-System
 ---
 
 Neu seit v3.0
-{: .label }
-
-Neu seit v3.0
-{: .label .label-blue }
-
-Neu seit v3.0
-{: .label .label-green }
-
-Neu seit v3.0
-{: .label .label-purple }
-
-Neu seit v3.0
-{: .label .label-yellow }
-
-Neu seit v3.0
-{: .label .label-red }
-
-Neu seit v3.0
 {: .label .label-green }
 Es gibt es neben diesem Guthaben-Sytem auch [das Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich)
 
