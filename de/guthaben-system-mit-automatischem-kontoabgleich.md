@@ -3,7 +3,8 @@ nav_exclude: true
 ---
 ## Guthaben-System mit automatischem Kontoabgleich
 
-Neu seit v3.0.
+Neu seit v3.0
+{: .label .label-green }
 
 ### Aktivierung der Funktion
 Die Funktion kann in den Einstellungen aktiviert werden ("Art der Eintragung der Guthaben-Aufladungen"). Hier bitte "Guthaben-Aufladungen werden von Superadmins über eine CSV-Liste ins System geladen" auswählen.
