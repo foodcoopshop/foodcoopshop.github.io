@@ -4,6 +4,8 @@ title: Guthaben-System
 ---
 ## So funktioniert das Guthaben-System
 
+* Seit v3.0: Zum [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system)
+
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-2.png)
