@@ -3,7 +3,7 @@ parent: Deutsch
 title: Guthaben-System
 ---
 
-* Seit v3.0 gibt es neben diesem Guthaben-Sytem auch [das Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system)
+Seit v3.0 gibt es neben diesem Guthaben-Sytem auch [das Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system)
 
 ## So funktioniert das Guthaben-System
 
