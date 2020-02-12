@@ -11,6 +11,7 @@ Neu seit v3.0
 * Ein Superadmin importiert die vom ELBA exportierte CSV-Datei regelmäßig im FoodCoopShop, alle Überweisungen werden automatisch ins Guthaben-System des jeweiligen Mitglieds übertragen und als automatisch "ok" gekennzeichnet.
 * Datensätze, die keinem Mitglied zugeordnet werden können (z.B. ungültiger oder nicht vorhandener Überweisungscode), müssen vor dem Speichern vom Superadmin manuell dem richtigen Mitglied zugewiesen werden.
 * Es können auch Zeilen gelöscht werden (wenn z. B. eine Überweisung in der Liste ist, die keine Guthaben-Aufladung darstellt).
+* Superadmins können nach wie vor über Klick auf das Guthaben unter "Admin-Bereich" - "Mitglieder" Zahlungen manuell für alle Mitglieder eintragen.
 
 ### Vorteile
 * Mitglieder müssen ihre Guthaben-Aufladungen nur noch überweisen und das Guthaben nicht mehr zusätzlich eintragen.
