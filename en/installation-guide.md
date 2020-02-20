@@ -95,6 +95,7 @@ $ chmod -R a+w ./webroot/tmp
 * The valid Super Admin account will be created later
 * The email error logging can be enabled to ease server monitoring
 * **Be aware** that you need to set `'EmailTransport' => [...]` three times. Twice in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default", "debug" and "fallback", so the configs must not stay commented!
+* See [https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports](https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports)
 
 ## Testing your email configuration
 * Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
