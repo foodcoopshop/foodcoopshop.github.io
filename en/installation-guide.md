@@ -5,14 +5,13 @@ nav_order: 1
 ## Installation guide
 This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/develop/README.md) and [CONTRIBUTING.md]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
 
-If you have questions, [please create a new issue]({{site.repo_url}}/issues/new).
-
 If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 
 ### Requirements
 * Server connected to internet with **shell access** and **cronjobs**
 * Apache with `mod_rewrite`
 * PHP => 7.3
+* PHP intl extension INTL_ICU_VERSION >= 50.1
 * MySQL => 5.7
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
@@ -118,3 +117,9 @@ To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
 * To re-build the assets in /cache for production, run `bin/cake asset_compress build`
+
+## If you have questions, please first check existing github support issues
+* [I#466](https://github.com/foodcoopshop/foodcoopshop/issues/466)
+* [Upgrade to v2.0 - I#330](https://github.com/foodcoopshop/foodcoopshop/issues/330)
+* If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).
+
