@@ -94,6 +94,7 @@ $ chmod -R a+w ./webroot/tmp
 * The valid Super Admin account will be created later
 * The email error logging can be enabled to ease server monitoring
 * **Be aware** that you need to set `'EmailTransport' => [...]` three times. Twice in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default", "debug" and "fallback", so the configs must not stay commented!
+* See [https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports](https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports)
 
 ## Testing your email configuration
 * Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
@@ -117,9 +118,9 @@ To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
 * To re-build the assets in /cache for production, run `bin/cake asset_compress build`
+<<<<<<< HEAD
 
 ## If you have questions, please first check existing github support issues
 * [I#466](https://github.com/foodcoopshop/foodcoopshop/issues/466)
 * [Upgrade to v2.0 - I#330](https://github.com/foodcoopshop/foodcoopshop/issues/330)
 * If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).
-
