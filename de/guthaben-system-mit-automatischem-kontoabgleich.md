@@ -3,7 +3,7 @@ nav_exclude: true
 ---
 ## Guthaben-System mit automatischem Kontoabgleich
 
-Neu seit v3.0
+Neu seit v3.1
 {: .label .label-green }
 
 ### Ablauf

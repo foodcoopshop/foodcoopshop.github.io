@@ -3,7 +3,7 @@ parent: Deutsch
 title: Guthaben-System
 ---
 
-Neu seit v3.0
+Neu seit v3.1
 {: .label .label-green }
 [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich)
 
