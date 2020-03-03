@@ -6,7 +6,7 @@ has_toc: true
 ---
 ## Polski
 
-![]({{ site.baseurl }}/assets/img/foodcoopshop-logo.png)
+![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/master/webroot/files/images/sliders/demo-slider.jpg)
 
 v2.5 (June 2019) was translated into Polish. All new features and changings after this realease remain untranslated!
 
