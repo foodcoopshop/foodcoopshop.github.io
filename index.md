@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-![]({{ site.baseurl }}/assets/img/foodcoopshop-logo.png)
+![]({https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/master/webroot/files/images/sliders/demo-slider.jpg)
 
 ## Welcome to the software documentation
 
