@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-![]({https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/master/webroot/files/images/sliders/demo-slider.jpg)
+![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/master/webroot/files/images/sliders/demo-slider.jpg)
 
 ## Welcome to the software documentation
 
