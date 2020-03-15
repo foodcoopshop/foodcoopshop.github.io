@@ -8,6 +8,8 @@ title: Who uses FoodCoopShop
 
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
+| **2020 / 1**|
+| 26 | 03/2020 | [https://order.alles-natur.at](https://order.alles-natur.at) | Klagenfurt, Austria|
 | **2019 / 8**|
 | 25 | 10/2019 | [https://www.s-gartl.at](https://www.s-gartl.at) | Windischgarsten, Austria|
 | 24 | 07/2019 | [https://www.lafoco.at](https://www.lafoco.at) | Langenlois, Austria|
