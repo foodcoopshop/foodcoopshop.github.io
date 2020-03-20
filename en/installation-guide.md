@@ -12,7 +12,7 @@ If you want to update your installation to another version, please read the [mig
 * Apache with `mod_rewrite`
 * PHP => 7.3
 * PHP intl extension INTL_ICU_VERSION >= 50.1
-* MySQL >= 5.7.7 for full 4-byte UTF8 character encoding support (emojis)
+* MySQL >= 5.7.7 (to support utf8mb4)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
 * If you cloned the repository from Github: Node.js, npm and Composer
