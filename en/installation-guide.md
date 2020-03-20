@@ -118,7 +118,6 @@ To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
 * To re-build the assets in /cache for production, run `bin/cake asset_compress build`
-<<<<<<< HEAD
 
 ## If you have questions, please first check existing github support issues
 * [I#466](https://github.com/foodcoopshop/foodcoopshop/issues/466)
