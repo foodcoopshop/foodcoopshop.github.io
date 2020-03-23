@@ -8,7 +8,8 @@ title: Who uses FoodCoopShop
 
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
-| **2020 / 1**|
+| **2020 / 2**|
+| 27 | 03/2020 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
 | 26 | 03/2020 | [https://order.alles-natur.at](https://order.alles-natur.at) | Klagenfurt, Austria|
 | **2019 / 8**|
 | 25 | 10/2019 | [https://www.s-gartl.at](https://www.s-gartl.at) | Windischgarsten, Austria|
