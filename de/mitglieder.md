@@ -41,7 +41,7 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * Löschen von Mitgliedern
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
-Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht ändern und auch keinen Pfand eintragen.
+Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht ändern, keinen Pfand eintragen und keine Sofort-Bestellung tätigen.
 
 Seit v2.7: Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann haben Admins keinen Zugriff auf die Umsatz-Statistik.
 
