@@ -89,10 +89,7 @@ Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verr
 * Das Mitglied wird immer benachrichtigt.
 * Falls ein Mitglied die Anzahl ändert und die Bestelllisten bereits verschickt wurden, wird der Hersteller ebenfalls per E-Mail benachrichtigt. Passiert das vor dem Versenden der Bestelllisten, bekommt nur das Mitglied eine E-Mail, der Hersteller nicht.
 
-
 * Der Hersteller kann den Empfang dieser E-Mails in seinen Hersteller-Einstellungen deaktivieren (das Mitglied nicht).
 
-
 **Bestellpause für die gesamte Foodcoop**
-
-Seit v2.7: Eine Bestellpause für die gesamte Foodcoop (Feiertag) kann nun bequem im Vorhinein in den Einstellungen angegeben werden. Diese Funktion ersetzt die Einstellung "Ist die Bestell-Funktion aktiviert?". Über die Sofort-Bestellung kann auch während einer Bestellpause bestellt werden.
+Eine Bestellpause für die gesamte Foodcoop (Feiertag) kann nun bequem im Vorhinein in den Einstellungen angegeben werden. Diese Funktion ersetzt die Einstellung "Ist die Bestell-Funktion aktiviert?". Über die Sofort-Bestellung kann auch während einer Bestellpause bestellt werden.

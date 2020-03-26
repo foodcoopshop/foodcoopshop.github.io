@@ -2,9 +2,6 @@
 parent: Deutsch
 ---
 ## Selbstbedienungs-Modus für Lagerprodukte
-
-**Verfügbar seit v2.7 (Dezember 2019)**
-
 Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet der FoodCoopShop nun auch dafür eine einfach zu bedienende Möglichkeit.
 
 Das Modul ist optimiert für die Verwendung eines **Barcode-Scanners**. Zum Anmelden scannt das Mitglied einfach seine Mitgliedskarte (ohne Benutzername / Passwort), zum Einkaufen können die gewünschten Produkte einfach mit dem Scanner **in die Einkaufstasche** (Warenkorb) gelegt werden. *Es muss kein Scanner verwendet werden, das Modul funktioniert auch ohne.* 
