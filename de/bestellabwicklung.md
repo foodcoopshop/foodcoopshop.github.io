@@ -52,6 +52,10 @@ Unter **Erster Liefertag** kann eingestellt werden, ab wann das Produkt erstmali
 
 Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter **Bestellschluss** kann nun individuell für jedes Produkt eingestellt werden, bis zu welchem Wochentag es bestellt werden kann. So kann z.B. "Montag Mitternacht" statt "Dienstag Mitternacht" angeben werden. Die Bestelllisten werden automatisch am Tag darauf versendet und wer das Produkt am Dienstag (nach Bestellschluss) bestellen möchte, der kann das ebenfalls tun. Allerdings wird dann als Liefertag "Freitag in einer Woche" ausgewählt. Beim Einkaufen wird der geänderte Bestellschluss automatisch fett angezeigt, damit alles klar und verständlich bleibt.
 
+Neu seit v3.1
+{: .label .label-green }
+Es kann nun auch ein Bestellschluss, der **zwei Tage** vor dem Standard-Bestellschluss liegt, ausgewählt werden.
+
 Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
 
 
