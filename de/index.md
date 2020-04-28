@@ -12,3 +12,4 @@ Diese Software-Dokumentation erklärt die Funktionen **der aktuellsten Version v
 
 Neue Funktionen, die noch nicht in einem Release veröffentlicht sind, sind als solche gesondert gekennzeichnet. (z.B. "neu in v3.0").
 
+* [Crowdfunding Weiterentwicklung](https://www.foodcoopshop.com/crowdfunding-weiterentwicklung)
