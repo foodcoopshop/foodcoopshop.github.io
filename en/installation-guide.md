@@ -120,6 +120,7 @@ To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl
 * To re-build the assets in /cache for production, run `bin/cake asset_compress build`
 
 ## If you have questions, please first check existing github support issues
+* [I#509](https://github.com/foodcoopshop/foodcoopshop/issues/509)
 * [I#466](https://github.com/foodcoopshop/foodcoopshop/issues/466)
 * [Upgrade to v2.0 - I#330](https://github.com/foodcoopshop/foodcoopshop/issues/330)
 * If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).
