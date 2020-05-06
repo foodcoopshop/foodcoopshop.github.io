@@ -9,6 +9,7 @@ title: Who uses FoodCoopShop
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
 | **2020 / 2**|
+| 28 | 04/2020 | [https://shop.unverpackt-foodcoop.de/](https://shop.unverpackt-foodcoop.de/) | Karlsruhe, Germany|
 | 27 | 03/2020 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
 | 26 | 03/2020 | [https://order.alles-natur.at](https://order.alles-natur.at) | Klagenfurt, Austria|
 | **2019 / 8**|
