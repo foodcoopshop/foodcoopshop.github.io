@@ -73,3 +73,8 @@ RewriteRule ^admin/(.*)/index/(.+)\:(.+) /admin/$1/index/?$2=$3 [L,R=301]
 ```
 
 * run migrations => see bottom of page
+
+## If you have questions, please first check existing github support issues
+* [I#330](https://github.com/foodcoopshop/foodcoopshop/issues/330)
+* [I#518](https://github.com/foodcoopshop/foodcoopshop/issues/518)
+* If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).

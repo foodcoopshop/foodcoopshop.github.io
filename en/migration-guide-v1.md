@@ -28,7 +28,3 @@ nav_exclude: true
 ### FCS v1.0 to FCS v1.1.x
 * replace source code => see bottom of page
 * execute the database migration script [v1.1.0.sql]({{site.repo_url}}/blob/master/Config/sql/migrations/v1.1.0.sql)
-
-## If you have questions, please first check existing github support issues
-* [I#518](https://github.com/foodcoopshop/foodcoopshop/issues/518)
-* If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).
