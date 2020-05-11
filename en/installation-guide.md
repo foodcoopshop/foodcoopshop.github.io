@@ -9,7 +9,7 @@ If you want to update your installation to another version, please read the [mig
 
 ### Requirements
 * Server connected to internet with **shell access** and **cronjobs**
-* Apache with `mod_rewrite`
+* Apache - **`mod_rewrite` needs to be enabled!**
 * PHP => 7.3
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * MySQL >= 5.7.7 (to support utf8mb4)
