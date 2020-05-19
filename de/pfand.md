@@ -4,15 +4,13 @@ title: Pfand
 ---
 ## Pfand-Abwicklung mit Mitglied
 
-Pfand wird automatisch vom Guthaben des Mitglieds abgezogen, in der Guthaben-Übersicht wird es in einer extra Spalte ausgewiesen.
+Der Pfand wird beim Kauf des Produktes automatisch vom Guthaben des Mitglieds abgezogen, in der Guthaben-Übersicht wird dieser in einer extra Spalte ausgewiesen.
 
-Wenn ein **Mitglied Leergebinde zurückbringt,** kann bei "Bestellungen" unter dem Punkt "Pfand-Rückgabe" der Betrag des Leergebindes eingetragen werden. Dieser Betrag scheint dann in der Guthaben-Übersicht auf und erhöht das Guthaben des Mitglieds.
+Wenn ein **Mitglied Leergebinde zurückbringt,** muss unter "Bestellungen" in der Zeile des Mitgliedes auf den Button "Pfand-Rückgabe" der Wert des Leergebindes in € eingetragen werden. Dieser Betrag scheint dann in der Guthaben-Übersicht des Mitglieds auf und erhöht das Guthaben.
 
 ## Pfand-Abwicklung mit Hersteller
 
-Wenn ein **Hersteller Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes eintragen. Es wird dann mit dem gelieferten Pfand gegengerechnet und schön übersichtlich dargestellt.
-
-Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
+Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
 Sowohl der Menüpunkt **Pfandkonto** im Hersteller-Login als auch der Link zum Pfandkonto des Herstellers in der Hersteller-Liste **scheinen nur auf, wenn zumindest ein Produkt mit Pfand beim Hersteller bestellt wurde**. Viele Hersteller verwenden keinen Pfand und werden so durch den nicht benötigten Menüpunkt nicht unnötig verwirrt.
 
