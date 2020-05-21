@@ -19,3 +19,12 @@ Please use the script ChangeWeeklyPickupDayByOneDayShell to change the setting F
 The script automatically changes custom order list send days for certain products.
 
 Do not forget to change the days when certain cronjobs run (e.g. EmailOrderReminder). Change that directly in the database table fcs_cronjobs.
+
+### Change the day where the order lists are sent
+
+Open the table fcs_configuration and change the value of the field "FCS_DEFAULT_SEND_ORDER_LISTS_DAY_DELTA" (default: 2) to eg. 1.
+
+Example: If you want to change the default weekly order cycle from Tuesday midnight (last order possible) - Wednesday morning (order lists are sent) - Friday (pickup day) - to: Thursday midnight (last order possible) - Friday morning (order lists are sent) - Saturday: (pickup day), you would need to:
+
+* execute `bin/cake ChangeWeeklyPickupDayByOneDay increase` once
+* change FCS_DEFAULT_SEND_ORDER_LISTS_DAY_DELTA to 1
