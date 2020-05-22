@@ -8,7 +8,9 @@ title: Who uses FoodCoopShop
 
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
-| **2020 / 2**|
+| **2020 / 5**|
+| 30 | 06/2020 | [https://www.aistkistl.at/](https://www.aistkistl.at/) | Wartberg ob der Aist, Austria|
+| 29 | 06/2020 | [https://www.guat-taiskirchen.at](https://www.guat-taiskirchen.at) | Taiskirchen, Austria|
 | 28 | 04/2020 | [https://shop.unverpackt-foodcoop.de/](https://shop.unverpackt-foodcoop.de/) | Karlsruhe, Germany|
 | 27 | 03/2020 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
 | 26 | 03/2020 | [https://order.alles-natur.at](https://order.alles-natur.at) | Klagenfurt, Austria|
