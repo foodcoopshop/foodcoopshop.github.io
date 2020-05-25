@@ -12,6 +12,7 @@ If you want to update your installation to another version, please read the [mig
 * Apache - **`mod_rewrite` needs to be enabled!**
 * PHP => 7.3
 * PHP intl extension INTL_ICU_VERSION >= 50.1
+* PHP ZipArchive class
 * MySQL >= 5.7.7 (to support utf8mb4)
 * A domain name registered for you
 * Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
@@ -25,7 +26,7 @@ There are demo installations in **[German](https://demo-de.foodcoopshop.com/)**,
 ### Setting up your dev environment
 * If you want to set up a dev environment, please clone from Github.
 * After that, you need to manually install composer and npm vendors as described in [README.md]({{site.repo_url}}/blob/develop/README.md). **Be aware**: The default branch is develop and therefore unstable!
-* The master branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). The only difference is, that the zip-File already includes the vendors (`composer install` and `npm install` were already executed). 
+* The master branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). The only difference is, that the zip-File already includes the vendors (`composer install` and `npm install` were already executed).
 * Don't forget to change app.debug to true in your custom_config.php.
 
 ### Installing the latest stable version for your live server
