@@ -9,7 +9,7 @@ Neu seit v3.1
 ### Ablauf für Mitglieder
 * Das Mitglied gibt beim Überweisen von Guthaben beim Verwendungszweck den **persönlichen Überweisungscode** (1) an. Diesen befindet sich im Guthaben-System (ganz oben), bleibt immer gleich und kann einfach mit einem Button in die Zwischenablage kopiert werden (2).
 
-![]({{ site.baseurl }}/assets/img/de/guthaben-system/persoenlicher-ueberweisungscode.png)
+![]({{ site.baseurl }}/assets/img/de/guthaben-system/persoenlicher-ueberweisungscode.jpg)
 
 ### Ablauf für Superadmins
 * 1) Ein Superadmin importiert die vom ELBA exportierte CSV-Datei regelmäßig in den FoodCoopShop (Admin-Bereich / Homepage-Verwaltung / Finanzberichte).
