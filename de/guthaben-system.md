@@ -4,10 +4,6 @@ title: Guthaben-System
 has_children: true
 ---
 
-Neu seit v3.1
-{: .label .label-green }
-[Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich)
-
 ## So funktioniert das Guthaben-System
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)
