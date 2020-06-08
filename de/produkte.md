@@ -3,11 +3,11 @@ parent: Deutsch
 title: Produkte
 has_children: true
 ---
-## Produkt anlegen
+## Produkt erstellen
 
 Auf den Menüpunkt "Hersteller" im Admin-Bereich klicken, dann auf den "x Produkte"-Button und dann oben auf "Neues Produkt" klicken. Name und Beschreibung angeben, auf Speichern klicken und danach kann das neu angelegte Produkt weiter bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
 
-## Produkt umbenennen
+## Vorsicht: Produkt umbenennen
 
 Beim Bearbeiten vom Produktnamen erscheint ein Hinweis: **Wichtig: Bitte keine Produkte in andere Produkte umbenennen, sondern dafür ein neues Produkt erstellen!**
 
@@ -20,6 +20,8 @@ Wenn das Produkt bereits bestellt wurde, würde ein Umbenennen in ein anderes Pr
 Wenn ein Produkt mehrere Ausprägungen hat (zb. Käse zu 100g und zu 200g, Apfelsaft in der 1L-Flasche und im 3L-Bag), kommen die Varianten zum Einsatz.
 
 Um eine Variante zu einem Produkt zu erstellen, einfach auf das +-Zeichen neben dem Produktnamen klicken und die entsprechende Variante auswählen. Die Anzeige der Varianten ist **nicht sortierbar** (die zuerst angelegte Variante wird zuerst angezeigt), die Standard-Variante (das ist jene Variante, die vorausgewählt ist) kann aber durch Klick auf den Stern geändert werden.
+
+Um eine Variante vorübergehend zu deaktivieren, bei der Anzahl 0 eingeben. Sie wird beim Einkaufen dann gar nicht angezeigt.
 
 ## Bild hochladen
 
