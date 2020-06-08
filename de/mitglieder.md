@@ -4,9 +4,9 @@ title: Mitglieder
 ---
 ## Registrierung / Aktivierung von Mitgliedern
 
-Jedes Mitglied kann sich selbst registrieren. Dazu auf den Punkt "Anmelden" klicken, unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
+Zum Anlegen eines Mitgliedskontos auf den Punkt "Anmelden" klicken, unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
 
-Je nach Einstellung (kann von Superadmins geändert werden) muss das Mitglied erst von einem Admin aktiviert werden (Standard-Einstellung) oder ist sofort freigeschaltet.
+Je nach Einstellung (kann von Superadmins geändert werden) muss das Mitglied erst von einem Admin aktiviert werden (Standard-Einstellung) oder es ist automatisch freigeschaltet und kann sofort bestellen.
 
 Um ein Mitglied manuell freizuschalten, gehe im Admin-Bereich auf "Mitglieder", ändere das Dropdown oben links auf "deaktiviert". Dann beim gewünschten Mitglied auf das Symbol in der Spalte "Status" klicken. Das Mitglied wird aktiviert und bekommt automatisch ein neues Passwort zugeschickt.
 
