@@ -19,25 +19,25 @@ Wenn das Produkt bereits bestellt wurde, würde ein Umbenennen in ein anderes Pr
 
 Wenn ein Produkt mehrere Ausprägungen hat (zb. Käse zu 100g und zu 200g, Apfelsaft in der 1L-Flasche und im 3L-Bag), kommen die Varianten zum Einsatz.
 
-Um eine Variante zu einem Produkt zu erstellen, einfach auf das +-Zeichen neben dem Produktnamen klicken und die entsprechende Variante auswählen. Die Anzeige der Varianten ist nicht sortierbar, die Standard-Variante (das ist jene Variante, die vorausgewählt ist) kann aber durch Klick auf den Stern geändert werden.
+Um eine Variante zu einem Produkt zu erstellen, einfach auf das +-Zeichen neben dem Produktnamen klicken und die entsprechende Variante auswählen. Die Anzeige der Varianten ist **nicht sortierbar** (die zuerst angelegte Variante wird zuerst angezeigt), die Standard-Variante (das ist jene Variante, die vorausgewählt ist) kann aber durch Klick auf den Stern geändert werden.
 
 ## Bild hochladen
 
-Auf das Bild-Symbol klicken und entweder ein neues Bild hochladen, oder das bestehende Bild ersetzen. Neue Bilder können direkt nach dem Hochladen gedreht werden, nach dem Speichern steht diese praktische Funktion nicht mehr zur Verfügung. Bilder zu Varianten sind nicht möglich, es wird immer das Bild des Haupt-Produktes angezeigt.
+Auf das Bild-Symbol klicken und entweder ein neues Bild hochladen, oder das bestehende Bild ersetzen. Neue Bilder können direkt nach dem Hochladen gedreht werden, nach dem Speichern steht diese praktische Funktion allerdings nicht mehr zur Verfügung. Bilder zu einzelnen Varianten sind nicht möglich, es wird dafür immer das Bild des Haupt-Produktes angezeigt.
 
 ## Beschreibung / Einheit
 
 Jedem Produkt kann eine kurze und eine lange Beschreibung hinzugefügt werden. Die kurze scheint sofort auf, die lange wird hinter einem "Mehr-anzeigen"-Link versteckt.
 
-Falls das Produkt über keine Varianten verfügt, kann man in diesem Formular auch die Einheit ändern (Freitextfeld). Der Wert dieses Feldes wird dann in der Bestellansicht an Stelle der Varianten angezeigt.
+Falls das Produkt über keine Varianten verfügt, kann man in diesem Formular auch die Einheit ändern (Freitext-Feld). Der Wert dieses Feldes wird dann in der Bestellansicht an Stelle der Varianten angezeigt.
 
-## Kategorien
+## Kategorien zuweisen
 
-Jedes Produkt kann einer oder mehreren Kategorien zugewiesen werden. Solltet ihr Unterkategorien verwenden, so muss das Häkchen sowohl bei der Unter- als auch bei der Oberkategorie angehakt werden, damit es in beiden Kategorien aufscheint.
+Jedes Produkt kann einer oder mehreren Kategorien zugewiesen werden.
 
 ## Anzahl
 
-1) Neue Produkte sind standardmäßig auf "immer verfügbar" <i class="fas fa-infinity ok"></i> gestellt, d. h. die verfügbare Anzahl wird beim Bestellen **nicht vermindert**.
+1) Neue Produkte sind standardmäßig auf **immer verfügbar** <i class="fas fa-infinity ok"></i> gestellt, d. h. die verfügbare Anzahl wird beim Bestellen **nicht vermindert**.
 
 Wenn das Produkt nur in einer begrenzten Stückzahl verfügbar ist, kann man diese Funktion aber deaktivieren und die verfügbare Anzahl selbst bestimen. Sie verringert sich bei jeder Bestellung und bei 0 ist das Produkt automatisch nicht mehr bestellbar. Sinnvoll, wenn man z. B. ein Lager im Betrieb hat und jede Woche liefert.
 
@@ -71,21 +71,21 @@ Wenn man die Funktion **Preis nach Gewicht** verwendet, wird beim Bestellen und 
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/preis-nach-gewicht-varianten-2.png)
 
-## Steuersatz
+## Steuersatz ändern
 
-Bevor das Produkt online gestellt wird, bitte sicherstellen, dass der Steuersatz der richtige ist. Den Steuersatz von bereits bestellten Produkten zu ändern geht nur über "stornieren, neu bestellen, rückdatieren".
+Bevor das Produkt online gestellt wird, bitte sicherstellen, dass der Steuersatz der richtige ist. Den Steuersatz von bereits bestellten Produkten zu ändern geht nur über "stornieren, neu bestellen, Abholtag ändern".
 
 Tipp: In den Hersteller-Optionen kann jedem **Hersteller ein Standard-Steuersatz zugewiesen werden**. Dies ist der Steuersatz, der neu angelegten Produkte automatisch zugewiesen wird.
 
-## Neu
+## "Als neu anzeigen"
 
 Produkte sind nach dem Erstellen automatisch "als neu markiert", d. h. sie scheinen in der "Kategorie" "Neue Produkte" auf. Produkte können aber auch manuell (z. B. nach einem saisonal bedingten Sortimentswechsel) "als neu markiert werden". Nach dem Verstreichen von x Tagen (unter "Einstellungen" konfigurierbar) ist das Produkt dann wieder ohne dem Sternchen in den Produktlisten auffindbar.
 
-## Pfand
+## Pfand ändern
 
-Im FoodCoopShop unter Hersteller - Produkte auf das Icon neben dem Pfand-Betrag klicken. Wenn Hersteller den Pfand seines Produktes ändert, wird die Foodcoop per E-Mail benachrichtigt, damit eventuelle Listen, die im Abhollager aufliegen, aktualisiert werden können. Um Pfand zu löschen bitte den Wert auf 0 setzen.
+Unter Hersteller - Produkte auf das Bearbeiten-Symbol neben dem Pfand-Betrag klicken. Um Pfand zu löschen bitte den Wert auf 0 setzen.
 
-## Lieferrhythmus
+## Lieferrhythmus ändern
 Mehr unter "[Bestellabwicklung]({{ site.baseurl }}/de/bestellabwicklung)"
 
 ## Status (aktiv / inaktiv)
