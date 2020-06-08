@@ -5,9 +5,7 @@ has_children: true
 ---
 ## Produkt anlegen
 
-Menüpunkt "Hersteller" im FoodCoopShop, dann auf "x Produkte"-Button klicken und auf der Produkt-Seite oben rechts auf "Neues Produkt" klicken.
-
-Danach kann das neu angelegte Produkt bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
+Auf den Menüpunkt "Hersteller" im Admin-Bereich klicken, dann auf den "x Produkte"-Button und dann oben auf "Neues Produkt" klicken. Name und Beschreibung angeben, auf Speichern klicken und danach kann das neu angelegte Produkt weiter bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
 
 ## Produkt umbenennen
 
