@@ -18,6 +18,9 @@ Falls ein Produkt nicht geliefert wird, muss es storniert werden, damit das Mitg
 
 Falls mehrere Produkte gleichzeitig storniert werden sollen, kann man links die Häkchen setzen und ganz unten auf "Ausgewählte Produkte stornieren" klicken.
 
+![]({{ site.baseurl }}/assets/img/de/bestellungen/bestellung-stornieren.png)
+
+
 ## Anpassen des Preises
 Manchmal kommt es vor, dass der Preis eines bereits bestellten Produktes geändert werden muss. Dafür auf das Bearbeiten-Symbol neben dem Preis klicken. Achtung: für Gewichtsanpassungen (die auch den Preis ändern) sollte die Funktion "Preis nach Gewicht" verwendet werden!
 
@@ -43,7 +46,7 @@ Der Abholdienst kann angeben, ob das Mitglied die Produkte abgeholt hat (unter "
 Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat (Dropdown oben). Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer es vergessen haben könnte. Unter "Mitglieder" findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
 
 ## Produkt auf anderes Mitglied umbuchen
-Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern werden beide Mitglieder per E-Mail benachrichtigt und die Guthaben-Konten automatisch angepasst. 
+Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern werden beide Mitglieder per E-Mail benachrichtigt und die Guthaben-Konten automatisch angepasst.
 
 Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein Vereins-Mitgliedskonto anzulegen und das Produkte darauf hin zu buchen. So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein durch Fehler bei der Abholung zu tragen hatte.
 

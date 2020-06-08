@@ -44,7 +44,7 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 
 
 ### 5a) Wöchentliche Lieferrhythmen
-![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-2.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-3.png)
 
 Mit den wöchentlichen Lieferrhythmen können die Bestellungen über längere Zeiträume gesammelt werden und die Hersteller bekommen die Bestelllisten wie gewohnt z.B. am Mittwoch (je nach Foodcoop-Konfiguration) vor dem Liefertag per E-Mail zugeschickt. Wer zwischendurch wissen möchte, wie viel bereits bestellt wurde, kann im Admin-Bereich unter "Bestellungen" nachschauen. Dazu einfach den Abholtag entsprechend auswählen.
 
@@ -61,7 +61,7 @@ Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finde
 
 ### 5b) Sammelbestellungen
 
-![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-sammelbestellungen.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-sammelbestellung.png)
 
 Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produkt bis zum eingestellten Datum **Bestellbar bis** im Shop angezeigt und danach automatisch ausgeblendet. Der **Liefertag** ist ebenfalls individuell einstellbar.
 

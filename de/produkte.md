@@ -49,12 +49,12 @@ Neu seit v3.0
 {: .label .label-green }
 2) Standard-Anzahl pro Lieferrhythmus: Nach jedem Bestelllisten-Versand wird die verfügbare Anzahl automatisch wieder auf diesen Wert gesetzt. Sinnvoll z. B. für Salat (jede Woche 20 Stück).
 
-![]({{ site.baseurl }}/assets/img/de/produkte/produkt-anzahl-aendern-dialog.png)
+![]({{ site.baseurl }}/assets/img/de/produkte/produkt-anzahl-aendern-modal.png)
 
 
 ## Preis
 
-Falls sich der Preis im Nachhein nicht ändert (z.B. 1 Flasche Apfelsaft, 1 Glas Honig...), bitte den Brutto-Verkaufspreis bei **Preis pro Bestelleinheit** eintragen. 
+Falls sich der Preis im Nachhein nicht ändert (z.B. 1 Flasche Apfelsaft, 1 Glas Honig...), bitte den Brutto-Verkaufspreis bei **Preis pro Bestelleinheit** eintragen.
 
 ## Preis nach Gewicht
 
