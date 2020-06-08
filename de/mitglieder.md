@@ -2,7 +2,7 @@
 parent: Deutsch
 title: Mitglieder
 ---
-## Registrierung / Aktivierung von Mitgliedern 
+## Registrierung / Aktivierung von Mitgliedern
 
 Jedes Mitglied kann sich selbst registrieren. Dazu auf den Punkt "Anmelden" klicken, unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
 
@@ -31,13 +31,12 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * Bearbeiten und Anlegen von Herstellern, Seiten, Blog-Artikeln, Slideshow-Bilder, Kategorien und Varianten
 * **Superadmin**
   * darf alles, was ein Admin darf und zusätzlich:
-  * Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen)
+  * Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen, CSV-Upload falls aktiviert)
+  * Zugriff auf das Guthaben-System anderer Mitglieder (inkl. Eintragen von Rückzahlungen)
   * Zugriff auf die Software-Einstellungen
   * Eintragen von Pfand-Ausgleichszahlungen für Hersteller
-  * Zugriff auf das Guthaben-System anderer Mitglieder
-  * Möglichkeit zur Eintragung von Rückzahlungen
-  * Beim Stundenabrechnungs-Modul Zugriff auf die Zeitkonten von Hersteller und Mitglied
-  * Zugriff auf das Profil von anderen Mitgliedern,
+  * Stundenabrechnungs-Modul: Zugriff auf die Zeitkonten von Hersteller und Mitglied
+  * Ändern des Profils von anderen Mitgliedern
   * Löschen von Mitgliedern
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
