@@ -1,6 +1,7 @@
 ---
 parent: Deutsch
 title: Guthaben-System
+has_children: true
 ---
 
 Neu seit v3.1
@@ -13,7 +14,7 @@ Neu seit v3.1
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-2.png)
 
-## Mitglied: Guthaben eintragen 
+## Mitglied: Guthaben eintragen
 * Um Guthaben aufzuladen, überweise bitte mittels E-Banking oder Erlagschein den gewünschten Betrag auf das angezeigte Konto.
 * Je größer der eingezahlte Betrag, desto einfacher ist es für denjenigen, der die Guthaben-Aufladungen kontrolliert.
 * Bitte gib als Buchungstext "Guthaben-Aufladung", deinen Namen, und - falls das Datum der Überweisung vom Datum der Guthaben-Aufladung abweicht, auch das Datum der Guthaben-Aufladung an (Dann ist das Kontrollieren leichter).
