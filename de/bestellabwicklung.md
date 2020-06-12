@@ -95,5 +95,5 @@ Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verr
 
 * Der Hersteller kann den Empfang dieser E-Mails in seinen Hersteller-Einstellungen deaktivieren (das Mitglied nicht).
 
-**Bestellpause für die gesamte Foodcoop**
-Eine Bestellpause für die gesamte Foodcoop (Feiertag) kann nun bequem im Vorhinein in den Einstellungen angegeben werden. Diese Funktion ersetzt die Einstellung "Ist die Bestell-Funktion aktiviert?". Über die Sofort-Bestellung kann auch während einer Bestellpause bestellt werden.
+**Lieferpause für die alle Hersteller**
+Eine Lieferpause für alle Hersteller der Foodcoop (z.B. Feiertag) kann nun bequem im Vorhinein in den Einstellungen angegeben werden. Über die Sofort-Bestellung kann auch während einer Lieferpause bestellt werden.
