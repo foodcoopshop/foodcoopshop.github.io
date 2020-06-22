@@ -50,6 +50,22 @@ Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, 
 
 Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein Vereins-Mitgliedskonto anzulegen und das Produkte darauf hin zu buchen. So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein durch Fehler bei der Abholung zu tragen hatte.
 
+## Feedback zu Produkt abgeben
+
+Neu seit v3.1
+{: .label .label-green }
+
+Um den Kontakt zwischen Konsumenten und Produzenten zu verbessern, gibt es die Feedback-Funktion.
+
+1) Feedback lesen: Zum Produkt wurde bereits Feedback verfasst. Bewegt man die Maus über das Icon (oder klickt darauf, wenn man ein Smartphone verwendet), kann das Feedback gelesen werden.
+
+2) Feedback schreiben: Nach Klick auf das Symbol öffnet sich ein Fenster, in dem das Feedback eingegeben werden kann. Es kann auch ein Bild hochgeladen werden (3). Nach dem Speichern erhält der Hersteller automatisch eine E-Mail mit dem Feedback.
+
+Die Feedback-Funktion kann in den Einstellungen (Admin-Bereich / Einstellungen) deaktiviert werden.
+
+![]({{ site.baseurl }}/assets/img/de/bestellungen/produkt-feedback.png)
+
+
 ## Erklärungen zu "Bestellungen"
 * Mitglieder mit einem Karotten-Symbol haben erst 25x oder weniger Produkte bestellt.
 * Das ein rotes Rufzeichen am Anfang der Zeile zeigt an, ob das Mitglied einen Kommentar zur einem Abholtag verfasst hat. Dieser kann auch geändert werden. Wenn das Symbol ausgegraut ist, kann ein neuer Kommentar erstellt werden.
