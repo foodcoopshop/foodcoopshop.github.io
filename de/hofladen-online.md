@@ -6,9 +6,9 @@ has_toc: true
 
 ## Hofladen Online
 
-Die Software FoodCoopShop kann auch für Hofläden verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte kann auch dort verwendet werden.
+Die Software FoodCoopShop kann auch für Hofläden verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich.
 
-Die dafür notwendigen Code-Änderungen sind seit Juni 2020 Open Source, sie werden allerdings erst im Herbst 2020 (v3.1) als Download veröffentlicht. Über Github (develop-Branch) kann Hofladen Online aber ab sofort vollständig kostenfrei verwendet werden.
+Die dafür notwendigen Code-Änderungen sind seit Juni 2020 Open Source, sie werden allerdings erst im Herbst 2020 (v3.1) als Download veröffentlicht. Über Github (develop-Branch), `composer install` und `npm install` kann Hofladen Online aber ab sofort vollständig kostenfrei verwendet werden.
 
 Mehr Infos zu meinem Angebot für Installation und Hosting: [https://www.hofladen-online.at](https://www.hofladen-online.at)
 
@@ -16,7 +16,7 @@ Mehr Infos zu meinem Angebot für Installation und Hosting: [https://www.hoflade
 
 Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
 
-## Notwendige zusätzliche Einstellungen für custom_config.php
+## Zusätzliche Einstellungen für custom_config.php
 
 ```
 'isCustomerAllowedToModifyOwnOrders' => false,
@@ -35,5 +35,17 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 'isDepositPaymentCashless' => false,
 ```
 
-## Notwendige zusätzliche Änderungen in der Tabelle fcs_configuration
+## Zusätzliche Änderungen in der Tabelle fcs_configuration
+
+* Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
+
+```
+FCS_CUSTOMER_GROUP
+FCS_ACCOUNTING_EMAIL
+FCS_USE_VARIABLE_MEMBER_FEE
+FCS_DEFAULT_VARIABLE_MEMBER_FEE_PERCENTAGE
+FCS_TIMEBASED_CURRENCY_ENABLED
+FCS_FOODCOOPS_MAP_ENABLED
+FCS_SELF_SERVICE_MODE_FOR_STOCK_PRODUCTS_ENABLED
+```
 
