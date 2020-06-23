@@ -12,11 +12,11 @@ Die dafür notwendigen Code-Änderungen dieses Spin-Offs sind seit Juni 2020 Ope
 
 Mehr Infos zu meinem Angebot für Installation und Hosting: [https://www.hofladen-online.at](https://www.hofladen-online.at)
 
-## Installation
+### 1) Installation
 
 Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
 
-## Zusätzliche Einstellungen für custom_config.php
+### 2) Zusätzliche Einstellungen für custom_config.php
 
 ```
 'isCustomerAllowedToModifyOwnOrders' => false,
@@ -35,7 +35,7 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 'isDepositPaymentCashless' => false,
 ```
 
-## Zusätzliche Änderungen in der Tabelle fcs_configuration
+### 3) Zusätzliche Änderungen in der Tabelle fcs_configuration
 
 * Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
 
