@@ -18,7 +18,8 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 
 ## Notwendige zusätzliche Einstellungen für custom_config.php
 
-`'isCustomerAllowedToModifyOwnOrders' => false,
+```
+'isCustomerAllowedToModifyOwnOrders' => false,
 
 'showManufacturerListAndDetailPage' => false,
 
@@ -27,14 +28,12 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
     include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'hofladenOnlineConfig.php')
 ),
 
-/**
- * valid options of array: 'cashless' or 'cash' (or both but this is not recommended)
- */
 'paymentMethods' => [
     'cash'
 ],
 
-'isDepositPaymentCashless' => false,`
+'isDepositPaymentCashless' => false,
+```
 
 ## Notwendige zusätzliche Änderungen in der Tabelle fcs_configuration
 
