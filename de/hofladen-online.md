@@ -28,6 +28,8 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
     include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'hofladenOnlineConfig.php')
 ),
 
+'customerMainNamePart' => 'lastname',
+
 'paymentMethods' => [
     'cash'
 ],
