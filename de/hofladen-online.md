@@ -1,6 +1,6 @@
 ---
 title: Hofladen Online
-nav_order: 2
+nav_order: 10
 has_toc: true
 ---
 
@@ -13,22 +13,24 @@ Mehr Infos auf [https://www.hofladen-online.at](https://www.hofladen-online.at)
 ## Empfohlene Einstellungen für custom_config.php
 
 `
-    'isCustomerAllowedToModifyOwnOrders' => false,
+'isCustomerAllowedToModifyOwnOrders' => false,
 
-    'showManufacturerListAndDetailPage' => false,
+'showManufacturerListAndDetailPage' => false,
 
-    'outputStringReplacements' => array_merge(
-        include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'memberClientConfig.php'),
-        include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'hofladenOnlineConfig.php')
-    ),
+'outputStringReplacements' => array_merge(
+    include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'memberClientConfig.php'),
+    include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'hofladenOnlineConfig.php')
+),
 
-    /**
-     * valid options of array: 'cashless' or 'cash' (or both but this is not recommended)
-     */
-    'paymentMethods' => [
-        'cash'
-    ],
+/**
+ * valid options of array: 'cashless' or 'cash' (or both but this is not recommended)
+ */
+'paymentMethods' => [
+    'cash'
+],
 
-    'isDepositPaymentCashless' => false,
+'isDepositPaymentCashless' => false,
 `
+
+## Empfohlene Änderungen in der Tabelle fcs_configuration
 
