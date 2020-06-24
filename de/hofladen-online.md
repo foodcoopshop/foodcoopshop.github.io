@@ -8,7 +8,7 @@ has_toc: true
 
 Die Software FoodCoopShop kann auch für Hofläden verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich.
 
-Die dafür notwendigen Code-Änderungen des Spin-Offs "Hofladen Online" sind seit Juni 2020 al Open Source (MIT-Lizenz) verfügbar, sie werden allerdings erst mit dem nächsten geplanten Release v3.1 im Herbst 2020 als Download veröffentlicht. Über Github (develop-Branch), `composer install` und `npm install` kann Hofladen Online aber schon ab Juni 2020 kostenfrei verwendet werden.
+Die dafür notwendigen Code-Änderungen des Spin-Offs "Hofladen Online" sind seit Juni 2020 als Open Source (MIT-Lizenz) verfügbar, sie werden allerdings erst mit dem nächsten geplanten Release v3.1 im Herbst 2020 als Download veröffentlicht. Über Github (develop-Branch), `composer install` und `npm install` kann Hofladen Online aber schon ab Juni 2020 kostenfrei verwendet werden.
 
 Wer mit diesen Informationen nichts anfangen kann, die Software "Hofladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.hofladen-online.at](https://www.hofladen-online.at)
 
