@@ -1,7 +1,6 @@
 ---
 parent: Deutsch
 title: Bestellabwicklung
-has_children: true
 ---
 
 ## Bestellabwicklung
