@@ -26,15 +26,12 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 'outputStringReplacements' => array_merge(
     include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'memberClientConfig.php'),
     include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'hofladenOnlineConfig.php'),
-    include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'hofladenConfig.php')
-
+    include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'hofladenConfig.php'),
 ),
 
 'customerMainNamePart' => 'lastname',
 
-'paymentMethods' => [
-    'cash'
-],
+'paymentMethods' => ['cash'],
 
 'isDepositPaymentCashless' => false,
 ```
@@ -59,7 +56,7 @@ FCS_SELF_SERVICE_MODE_FOR_STOCK_PRODUCTS_ENABLED
 FCS_FOODCOOPS_MAP_ENABLED => 0
 ```
 
-### 4) Kunde kann Abholtag selbst auswählen
+### 4) Neue Funktion (Juli 2020): Kunde kann Abholtag selbst auswählen
 
 ```FCS_CUSTOMER_CAN_SELECT_PICKUP_DAY``` auf 1 setzen
 
