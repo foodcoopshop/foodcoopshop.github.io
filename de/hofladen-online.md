@@ -58,3 +58,12 @@ FCS_SELF_SERVICE_MODE_FOR_STOCK_PRODUCTS_ENABLED
 ```
 FCS_FOODCOOPS_MAP_ENABLED => 0
 ```
+
+### 4) Kunde kann Abholtag selbst auswählen
+
+```FCS_CUSTOMER_CAN_SELECT_PICKUP_DAY``` auf 1 setzen
+
+* Der berechnete Abholtag wird beim Produkt und im Warenkorb nicht mehr angezeigt.
+* Der Kunde kann den Abholtag beim Bestell-Abschluss selbst auswählen, zur Auswahl stehen die nächsten 14 Tage.
+* Lieferpausen (z.B. Ruhetage, Feiertage) können über die globale Lieferpause für ein Jahr im Voraus definiert werden.
+* Bestelllisten werden täglich für den aktuellen Tag versendet.
