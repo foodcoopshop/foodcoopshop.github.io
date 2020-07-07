@@ -67,3 +67,4 @@ FCS_FOODCOOPS_MAP_ENABLED => 0
 * Der Kunde kann den Abholtag beim Bestell-Abschluss selbst auswählen, zur Auswahl stehen die nächsten 14 Tage.
 * Lieferpausen (z.B. Ruhetage, Feiertage) können über die globale Lieferpause für ein Jahr im Voraus definiert werden.
 * Bestelllisten werden täglich für den aktuellen Tag versendet.
+* Lieferrhythmen können mit dieser Einstellung nicht verwendet werden (d.h. auch keine Sammelbestellungen).
