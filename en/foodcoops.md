@@ -23,7 +23,7 @@ title: Who uses FoodCoopShop
 | 20 | 03/2019 | [https://shop.lebensmittelpunkt.tirol](https://shop.lebensmittelpunkt.tirol) | Imst, Austria|
 | 19 | 02/2019 | [https://koorb.at](https://koorb.at) | Seitenstetten, Austria|
 | 18 | 01/2019 | [https://www.dorfladenroitham.at](https://www.dorfladenroitham.at) | Roitham, Austria|
-| **2018 / 4** |
+| **2018 / 3** |
 | 17 | 11/2018 | [https://www.reggaefood.at](https://www.reggaefood.at) | Bad Goisern, Austria|
 | 16 | 10/2018 | [https://www.krekoodel.at](https://www.krekoodel.at) | Krems, Austria|
 | 15 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
