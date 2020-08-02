@@ -6,7 +6,7 @@ title: Who uses FoodCoopShop
 
 [Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
-| Year / Nr | Start | Name / City / Country | Hosted |
+| Year / Nr | Start | Name / City / Country | Hosted by |
 | **2020 / 5**|
 | 31 | 08/2020 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org/) | self-hosted |
 | 30 | 06/2020 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at/) | foodcoopshop.com |
