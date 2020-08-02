@@ -6,43 +6,43 @@ title: Who uses FoodCoopShop
 
 [Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
-| Nr | Start   | Url | City |
-| -- | ------- | --- | ---- |
+| Nr | Start   | Url | Hosted | City |
+| -- | ------- | --- | ------ | ---- |
 | **2020 / 5**|
-| 31 | 08/2020 | [https://foodcoop.kultinativ.org/](https://foodcoop.kultinativ.org/) | Speisekammer Fischbach, Germany|
-| 30 | 06/2020 | [https://www.aistkistl.at/](https://www.aistkistl.at/) | Wartberg ob der Aist, Austria|
-| 29 | 06/2020 | [https://www.guat-taiskirchen.at](https://www.guat-taiskirchen.at) | Taiskirchen, Austria|
-| 28 | 04/2020 | [https://shop.unverpackt-foodcoop.de/](https://shop.unverpackt-foodcoop.de/) | Karlsruhe, Germany|
-| 27 | 03/2020 | [https://www.zurberta.at](https://www.zurberta.at) | Ottensheim, Austria|
-| 26 | 03/2020 | [https://order.alles-natur.at](https://order.alles-natur.at) | Klagenfurt, Austria|
+| 31 | 08/2020 | [https://foodcoop.kultinativ.org/](https://foodcoop.kultinativ.org/) | self-hosted |  Speisekammer Fischbach, Germany|
+| 30 | 06/2020 | [https://www.aistkistl.at/](https://www.aistkistl.at/) | foodcoopshop.com | Wartberg ob der Aist, Austria|
+| 29 | 06/2020 | [https://www.guat-taiskirchen.at](https://www.guat-taiskirchen.at) | foodcoopshop.com | Taiskirchen, Austria|
+| 28 | 04/2020 | [https://shop.unverpackt-foodcoop.de/](https://shop.unverpackt-foodcoop.de/) | self-hosted | Karlsruhe, Germany|
+| 27 | 03/2020 | [https://www.zurberta.at](https://www.zurberta.at) | foodcoopshop.com | Ottensheim, Austria|
+| 26 | 03/2020 | [https://order.alles-natur.at](https://order.alles-natur.at) | self-hosted | Klagenfurt, Austria|
 | **2019 / 8**|
-| 25 | 10/2019 | [https://www.s-gartl.at](https://www.s-gartl.at) | Windischgarsten, Austria|
-| 24 | 07/2019 | [https://www.lafoco.at](https://www.lafoco.at) | Langenlois, Austria|
-| 23 | 05/2019 | [https://www.genussfairteiler.at](https://www.genussfairteiler.at) | Neumarkt i.M., Austria|
-| 22 | 04/2019 | [http://shop.rhabarber-haberer.org](http://shop.rhabarber-haberer.org) | Tulln, Austria|
-| 21 | 04/2019 | [https://körberl.taugl.online](https://körberl.taugl.online) | St. Koloman, Austria|
+| 25 | 10/2019 | [https://www.s-gartl.at](https://www.s-gartl.at) | self-hosted | Windischgarsten, Austria|
+| 24 | 07/2019 | [https://www.lafoco.at](https://www.lafoco.at) | foodcoopshop.com | Langenlois, Austria|
+| 23 | 05/2019 | [https://www.genussfairteiler.at](https://www.genussfairteiler.at) | foodcoopshop.com | Neumarkt i.M., Austria|
+| 22 | 04/2019 | [http://shop.rhabarber-haberer.org](http://shop.rhabarber-haberer.org) | self-hosted | Tulln, Austria|
+| 21 | 04/2019 | [https://körberl.taugl.online](https://körberl.taugl.online) | foodcoopshop.com | St. Koloman, Austria|
 | 20 | 03/2019 | [https://shop.lebensmittelpunkt.tirol](https://shop.lebensmittelpunkt.tirol) | Imst, Austria|
-| 19 | 02/2019 | [https://koorb.at](https://koorb.at) | Seitenstetten, Austria|
-| 18 | 01/2019 | [https://www.dorfladenroitham.at](https://www.dorfladenroitham.at) | Roitham, Austria|
+| 19 | 02/2019 | [https://koorb.at](https://koorb.at) | self-hosted | Seitenstetten, Austria|
+| 18 | 01/2019 | [https://www.dorfladenroitham.at](https://www.dorfladenroitham.at) | foodcoopshop.com | Roitham, Austria|
 | **2018 / 3** |
-| 17 | 11/2018 | [https://www.reggaefood.at](https://www.reggaefood.at) | Bad Goisern, Austria|
-| 16 | 10/2018 | [https://www.krekoodel.at](https://www.krekoodel.at) | Krems, Austria|
-| 15 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | Bad Hall, Austria|
+| 17 | 11/2018 | [https://www.reggaefood.at](https://www.reggaefood.at) | self-hosted | Bad Goisern, Austria|
+| 16 | 10/2018 | [https://www.krekoodel.at](https://www.krekoodel.at) | foodcoopshop.com | Krems, Austria|
+| 15 | 02/2018 | [https://www.haller-regio-kistl.at](https://www.haller-regio-kistl.at) | foodcoopshop.com | Bad Hall, Austria|
 | **2017 / 8** |
-| 14 | 11/2017 | [https://www.sinnkistl.at](https://www.sinnkistl.at) | Reichersberg, Austria|
-| 13 | 09/2017 | [https://www.riadarei.at](https://www.riadarei.at) | Ried im Innkreis, Austria |
-| 12 | 09/2017 | [http://www.stadtkern.at](http://www.stadtkern.at) | Steyregg, Austria |
-| 11 | 08/2017 | [https://www.bauernladenein.at](https://www.bauernladenein.at) | Alberndorf, Austria |
-| 10 | 06/2017 | [https://vb.foodcoopshop.com](https://vb.foodcoopshop.com) | Vöcklabruck, Austria |
-| 09 | 05/2017 | [https://foodcoopquerfeldein.at](https://foodcoopquerfeldein.at) | Frankenmarkt, Austria |
-| 08 | 05/2017 | [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at) | Gmunden, Austria |
-| 07 | 01/2017 | [https://www.speisvorchdorf.at](https://www.speisvorchdorf.at) | Vorchdorf, Austria |
+| 14 | 11/2017 | [https://www.sinnkistl.at](https://www.sinnkistl.at) | foodcoopshop.com | Reichersberg, Austria|
+| 13 | 09/2017 | [https://www.riadarei.at](https://www.riadarei.at) | foodcoopshop.com | Ried im Innkreis, Austria |
+| 12 | 09/2017 | [http://www.stadtkern.at](http://www.stadtkern.at) | self-hosted | Steyregg, Austria |
+| 11 | 08/2017 | [https://www.bauernladenein.at](https://www.bauernladenein.at) | foodcoopshop.com | Alberndorf, Austria |
+| 10 | 06/2017 | [https://vb.foodcoopshop.com](https://vb.foodcoopshop.com) | foodcoopshop.com | Vöcklabruck, Austria |
+| 09 | 05/2017 | [https://foodcoopquerfeldein.at](https://foodcoopquerfeldein.at) | self-hosted | Frankenmarkt, Austria |
+| 08 | 05/2017 | [http://www.foodcoop-gmunden.at](http://www.foodcoop-gmunden.at) | self-hosted | Gmunden, Austria |
+| 07 | 01/2017 | [https://www.speisvorchdorf.at](https://www.speisvorchdorf.at) | foodcoopshop.com | Vorchdorf, Austria |
 | **2016 / 2** |
-| 06 | 07/2016 | [https://www.atterguat.at](https://www.atterguat.at) | Straß im Attergau, Austria |
-| 05 | 01/2016 | [https://www.gueterwege.at](https://www.gueterwege.at) | Kirchdorf a.d.K., Austria |
+| 06 | 07/2016 | [https://www.atterguat.at](https://www.atterguat.at) | foodcoopshop.com | Straß im Attergau, Austria |
+| 05 | 01/2016 | [https://www.gueterwege.at](https://www.gueterwege.at) | foodcoopshop.com | Kirchdorf a.d.K., Austria |
 | **2015 / 2** |
-| 04 | 10/2015 | [https://www.regionalspeis.at](https://www.regionalspeis.at) | Neukirchen a.d.V., Austria |
-| 03 | 10/2015 | [https://www.kirchschlagerspeis.net](https://www.kirchschlagerspeis.net) | Kirchschlag, Austria |
+| 04 | 10/2015 | [https://www.regionalspeis.at](https://www.regionalspeis.at) | foodcoopshop.com | Neukirchen a.d.V., Austria |
+| 03 | 10/2015 | [https://www.kirchschlagerspeis.net](https://www.kirchschlagerspeis.net) | foodcoopshop.com | Kirchschlag, Austria |
 | **2014 / 2** |
-| 02 | 09/2014 | [https://www.gutesvondahoam.at](https://www.gutesvondahoam.at) | Rüstorf, Austria |
-| 01 | 05/2014 | [https://www.fairteiler-scharnstein.at](https://www.fairteiler-scharnstein.at) | Scharnstein, Austria |
+| 02 | 09/2014 | [https://www.gutesvondahoam.at](https://www.gutesvondahoam.at) | foodcoopshop.com | Rüstorf, Austria |
+| 01 | 05/2014 | [https://www.fairteiler-scharnstein.at](https://www.fairteiler-scharnstein.at) | foodcoopshop.com | Scharnstein, Austria |
