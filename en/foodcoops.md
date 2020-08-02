@@ -6,13 +6,12 @@ title: Who uses FoodCoopShop
 
 [Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
-| Nr | Start | Name/City | Hosted |
-| -- | ----- | --------- | ------ |
+| Year / Nr | Start | Name / City / Country | Hosted |
 | **2020 / 5**|
 | 31 | 08/2020 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org/) | self-hosted |
 | 30 | 06/2020 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at/) | foodcoopshop.com |
 | 29 | 06/2020 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | foodcoopshop.com |
-| 28 | 04/2020 | [Unverpackt Foodcoop, Karlsruhe, DE/](https://shop.unverpackt-foodcoop.de/) | self-hosted |
+| 28 | 04/2020 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de/) | self-hosted |
 | 27 | 03/2020 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | foodcoopshop.com |
 | 26 | 03/2020 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | self-hosted |
 | **2019 / 8**|
