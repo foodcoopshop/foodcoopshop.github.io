@@ -2,7 +2,7 @@
 nav_order: 5
 title: Who uses FoodCoopShop
 ---
-## Chronological list of foodcoops that work with FoodCoopShop
+## Chronological list of projects that work with FoodCoopShop
 
 [Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
