@@ -9,6 +9,7 @@ title: Who uses FoodCoopShop
 | Nr | Start   | Url | City |
 | -- | ------- | --- | ---- |
 | **2020 / 5**|
+| 31 | 08/2020 | [https://foodcoop.kultinativ.org/](https://foodcoop.kultinativ.org/) | Speisekammer Fischbach, Germany|
 | 30 | 06/2020 | [https://www.aistkistl.at/](https://www.aistkistl.at/) | Wartberg ob der Aist, Austria|
 | 29 | 06/2020 | [https://www.guat-taiskirchen.at](https://www.guat-taiskirchen.at) | Taiskirchen, Austria|
 | 28 | 04/2020 | [https://shop.unverpackt-foodcoop.de/](https://shop.unverpackt-foodcoop.de/) | Karlsruhe, Germany|
