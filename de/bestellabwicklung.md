@@ -94,5 +94,9 @@ Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verr
 
 * Der Hersteller kann den Empfang dieser E-Mails in seinen Hersteller-Einstellungen deaktivieren (das Mitglied nicht).
 
+**Abholtag ändern**
+* Bestellte Produkte links anhaken und dann unten auf "Abholtag ändern" klicken.
+* **Wichtig: ** Bestellungen, die bereits einmal in einer Bestellliste versendet wurden, scheinen in späteren Bestelllisten (z.B. nach Vordatieren des Abholtags) nicht mehr auf.
+
 **Lieferpause für die alle Hersteller**
 Eine Lieferpause für alle Hersteller der Foodcoop (z.B. Feiertag) kann nun bequem im Vorhinein in den Einstellungen angegeben werden. Über die Sofort-Bestellung kann auch während einer Lieferpause bestellt werden.
