@@ -26,5 +26,5 @@ nav_order: 1
 
 ## Stability / maintenance
 
-* In the latest version (v3.0.2) [345 automated unit tests and 1.720 assertions](https://travis-ci.com/github/foodcoopshop/foodcoopshop/builds) keep the software stable.
+* In the latest version (v3.1.0) [370 automated unit tests and 1.751 assertions](https://travis-ci.com/github/foodcoopshop/foodcoopshop/builds) keep the software stable.
 [Mario Rothauer](https://github.com/mrothauer) created the project in 2014 and maintains it.
