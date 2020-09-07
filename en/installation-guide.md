@@ -5,6 +5,8 @@ nav_order: 1
 ## Installation guide
 This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/develop/README.md) and [CONTRIBUTING.md]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
 
+This installation guide always references to the [latest stable version](https://github.com/foodcoopshop/foodcoopshop/releases).
+
 If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 
 ### Requirements
@@ -121,7 +123,5 @@ To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl
 * To re-build the assets in /cache for production, run `bin/cake asset_compress build`
 
 ## If you have questions, please first check existing github support issues
-* [I#519](https://github.com/foodcoopshop/foodcoopshop/issues/519)
-* [I#509](https://github.com/foodcoopshop/foodcoopshop/issues/509)
-* [I#466](https://github.com/foodcoopshop/foodcoopshop/issues/466)
+* [I#519](https://github.com/foodcoopshop/foodcoopshop/issues/519), [I#509](https://github.com/foodcoopshop/foodcoopshop/issues/509), [I#466](https://github.com/foodcoopshop/foodcoopshop/issues/466)
 * If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).
