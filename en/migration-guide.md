@@ -16,6 +16,7 @@ nav_order: 2
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * PHP >= 7.4
+* After the update, `app.adminEmail` and `app.adminPassword` should be removed.
 
 ### FCS v3.0.x to FCS 3.1.x
 * **LATEST STABLE VERSION**
