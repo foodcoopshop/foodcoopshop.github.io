@@ -54,7 +54,7 @@ nav_exclude: true
 ### FCS v1.5.x to FCS v2.0.x
 * FCS v2.0 uses CakePHP3 which is **mostly incompatible** to CakePHP2
 * **therefore you can only update to v2.0 from v1.5!**, so if you are working on v1.x and you want to update to v2.0, first update to 1.5!
-* you can download v1.5 [here](https://github.com/foodcoopshop/foodcoopshop/releases/download/v1.5.0/FoodCoopShop-v1.5.0.zip)
+* you can download v1.5 [here]({{site.repo_url}}/releases/download/v1.5.0/FoodCoopShop-v1.5.0.zip)
 * replace source code => see bottom of page
 * use the new structure of config files (rename custom.config.php to custom_config.php), follow the steps in the updated [Installation guide]({{ site.baseurl }}/en/installation-guide)
 * be aware that the content of the config file changed in syntax! renaming the file to custom_config.php **is not enough!**
@@ -75,6 +75,5 @@ RewriteRule ^admin/(.*)/index/(.+)\:(.+) /admin/$1/index/?$2=$3 [L,R=301]
 * run migrations => see bottom of page
 
 ## If you have questions, please first check existing github support issues
-* [I#330](https://github.com/foodcoopshop/foodcoopshop/issues/330)
-* [I#518](https://github.com/foodcoopshop/foodcoopshop/issues/518)
+* [I#330]({{site.repo_url}}/issues/330), [I#518]({{site.repo_url}}/issues/518)
 * If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).

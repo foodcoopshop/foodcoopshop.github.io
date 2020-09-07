@@ -53,4 +53,4 @@ Mit der Verwendung eines **Barcode-Scanners** kann das Modul recht effizent verw
 * Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen mit einem Scanner verwendet werden.
 
 ### 6) Offene Punkte
-* Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"](https://github.com/foodcoopshop/foodcoopshop/issues/336)
+* Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"]({{site.repo_url}}/issues/336)
