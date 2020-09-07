@@ -17,7 +17,7 @@ nav_order: 1
 
 * [Installation guide]({{ site.baseurl }}/en/installation-guide)
 * [Migration guide]({{ site.baseurl }}/en/migration-guide)
-* [Changelog (German)]({{{site.repo_url}}/blob/master/CHANGELOG.md)
+* [Changelog of latest stable version (German)]({{{site.repo_url}}/blob/master/CHANGELOG.md)
 
 ## Supported languages
 
