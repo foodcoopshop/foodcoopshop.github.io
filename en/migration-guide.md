@@ -12,7 +12,7 @@ nav_order: 2
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 ### FCS v3.1.x to FCS 3.2.x
-* **NOT YET RELEASED!!!**
+* **WILL BE RELEASED IN MARCH 2021**
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * PHP >= 7.4
