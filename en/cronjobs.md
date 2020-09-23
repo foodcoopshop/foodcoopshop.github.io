@@ -7,6 +7,11 @@ nav_order: 3
 There is just one single cronjob needed which takes care of all implemented cronjobs.
 It **automatically resumes cronjobs** (eg. when the server was down for a short time), therefore increases stability and keeps the whole cronjob administration in the database.
 
+New since v3.2
+{: .label .label-green }
+An additional cronjob needs to be set up to handle the queue:
+`*/5 * * * * bash /path-to-your-installation/bin/cake queue runworker -q`
+
 ### Setup / configuration
 
 The only cronjob you need is one that calls the URL **www.yourdomain.com/cron** every 10 minutes. If you use smaller intervals (eg. 1 min) the **not_before_time** defined in your cronjob configuration (table fcs_cronjobs) is executed more precisely.
