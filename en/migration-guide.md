@@ -16,7 +16,7 @@ nav_order: 2
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * additionally execute `$ bin/cake migrations migrate -p Queue`
-* add a new cronjob to handle the queue: `*/5 * * * * bash /path-to-your-installation/bin/cake queue runworker -q`
+* add a new cronjob to handle the queue: `*/5 * * * * /your-app/bin/cake queue runworker -q`
 * PHP >= 7.4
 * After the update, please remove `app.adminEmail` and `app.adminPassword`.
 
