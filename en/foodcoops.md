@@ -8,9 +8,9 @@ title: Who uses FoodCoopShop
 
 | Start | Name / City / Country | Hosted by |
 | **2020** |
-| 10 | [Körberl 4722 Bodenständig, Peuerbach](https://koerberl.4722boden-staendig.at/) | foodcoopshop.com |
+| 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at/) | foodcoopshop.com |
 | 10 | [Bauernladen Eibiswald, AT](https://www.bauernladen-eibiswald.at/) | foodcoopshop.com |
-| 10 | [Bio Drehscheibe, Lembach](https://www.bio-drehscheibe.at/) | self-hosted |
+| 10 | [Bio Drehscheibe, Lembach, AT](https://www.bio-drehscheibe.at/) | self-hosted |
 | 08 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org/) | self-hosted |
 | 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at/) | foodcoopshop.com |
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | foodcoopshop.com |
