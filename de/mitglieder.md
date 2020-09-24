@@ -28,7 +28,7 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * darf alles, was ein Mitglied darf und zusätzlich:
   * auch Bestellungen von anderen Mitgliedern einsehen und ändern
   * Bestellungen auf andere Mitglieder umbuchen
-  * Bearbeiten und Anlegen von Herstellern, Seiten, Blog-Artikeln, Slideshow-Bilder, Kategorien und Varianten
+  * Bearbeiten und Anlegen von Herstellern, Produkten, Seiten, Blog-Artikeln, Slideshow-Bilder, Kategorien und Varianten
 * **Superadmin**
   * darf alles, was ein Admin darf und zusätzlich:
   * Zugriff auf die Finanzberichte (Übersicht der Guthaben-Aufladungen, CSV-Upload falls aktiviert)
