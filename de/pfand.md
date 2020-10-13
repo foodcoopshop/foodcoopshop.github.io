@@ -12,7 +12,10 @@ Wenn ein **Mitglied Leergebinde zurückbringt,** muss unter "Bestellungen" in de
 
 Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
-Sowohl der Menüpunkt **Pfandkonto** im Hersteller-Login als auch der Link zum Pfandkonto des Herstellers in der Hersteller-Liste **scheinen nur auf, wenn zumindest ein Produkt mit Pfand beim Hersteller bestellt wurde**. Viele Hersteller verwenden keinen Pfand und werden so durch den nicht benötigten Menüpunkt nicht unnötig verwirrt.
+Neu seit v3.2
+{: .label .label-green }
+
+Für Pfand-Rücknahmen und Ausgleichszahlungen kann nun ein Buchungsdatum angegeben werden.
 
 ## Jahresabschluss
 
@@ -20,13 +23,12 @@ Da selten das gesamte Pfand in Form von Leergebinde zurückgegen wird, sollte am
 
 Eine etwaige Differenz der Summen (Hersteller - Spalte Pfand und Mitglieder - Zweite Zahl Spalte Guthaben) kann daher resultieren, dass Pfand bereits zurückgebraucht und ins System eingetragen wurde, aber vom Hersteller noch nicht zurückgenommen wurde. Es müsste dann aber in Form von Leergut im Abhollager liegen.
 
-## Finanzbericht "Pfand"
+## Pfand-Übersicht
 
-Im **Finanzbericht Pfand** scheinen nur diese Ausgleichs-Zahlungen auf, nicht die Leergebinde-Rücknahmen.
+Neu seit v3.2
+{: .label .label-green }
 
-## Pfand-Saldo in Mitglieder-Übersicht
-
-Der Saldo des Pfandes in der Mitglieder-Liste enthält neben den Pfand-Lieferungen und den Pfand-Rückgaben für Mitglieder ebenfalls nur die Ausgleichs-Zahlungen. Diese Zahl ist der Betrag, der auf dem Guthaben-Konto liegt, aber für Pfand-Ausgleichszahlungen vorgesehen ist.
+Im Admin-Bereich unter "Finanzberichte / Pfand-Übersicht" gibt es eine übersichtliche Tabelle, die die einzelnen Jahre gesondert ausweist. Außerdem ist dort eine Grafik vorhanden, die alle manuell eingetragenen Daten (Pfand-Rücknahmen, Pfand-Rückgaben und Ausgleichszahlungen) als Liniendiagramm darstellt. So sollen Ausreißer und Fehleingaben leichter gefunden und anschließend korrigiert werden.
 
 ## Hilfe-Text: Übernahme aus Menüpunkt "Pfand-Konto"
 * Pfand, das vor dem 01.01.2016 verkauft / geliefert wurde, wird nicht berücksichtigt.
