@@ -11,6 +11,7 @@ New since v3.2
 {: .label .label-green }
 An additional cronjob needs to be set up to handle the [queue](https://github.com/dereuromark/cakephp-queue):
 `*/5 * * * * /your-app/bin/cake queue runworker -q`
+{: .d-inline}
 
 ### Setup / configuration
 
