@@ -10,7 +10,7 @@ Neu seit v3.2
 {: .label .label-green }
 
 Beim Einkaufen mit dem Handy kann man nun direkt mit der Smartphone-Kamera (ganz ohne App) die Barcodes scannen. Dazu muss im Profil das Häkchen bei "Ich möchte die Kamera meines Smartphones zum Scannen der Barcodes benutzen." angehakt werden. Diese Funktion
-
+{: .d-inline}
 
 ### 1) Aktivierung / Einstellungen
 * Superadmins können den Selbstbedienungs-Modus für ihre Foodcoop selbst aktivieren (Einstellungen: Selbstbedienungs-Modus aktiv? - ja / nein).
@@ -46,7 +46,9 @@ Beim Einkaufen mit dem Handy kann man nun direkt mit der Smartphone-Kamera (ganz
 
 Neu seit v3.2
 {: .label .label-green }
+
 Beim Einkaufen mit dem Handy kann man nun direkt mit dem Smartphone (ganz ohne App) die Barcodes scannen! Dazu muss im Profil das Häkchenbei "Ich möchte die Kamera meines Smartphones zum Scannen der Barcodes benutzen." angehakt werden. In Kürze folgt ein Video, das den Ablauf verdeutlicht.
+{: .d-inline}
 
 * Anmelden: Scannen des Barcodes auf der Mitgliedskarte oder wie gewohnt per E-Mail / Passwort.
 * Im Selbstbedienungs-Modus werden nur Lagerprodukte angezeigt. Produkte können nach Aktivieren der erweiterten Lagerstandsverwaltung (beim Hersteller) als "Lagerprodukt" deklariert werden.

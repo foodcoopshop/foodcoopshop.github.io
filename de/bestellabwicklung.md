@@ -53,7 +53,9 @@ Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter **Bes
 
 Neu seit v3.1
 {: .label .label-green }
+
 Es kann nun auch ein Bestellschluss, der **zwei Tage** vor dem Standard-Bestellschluss liegt, ausgewählt werden.
+{: .d-inline}
 
 Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
 

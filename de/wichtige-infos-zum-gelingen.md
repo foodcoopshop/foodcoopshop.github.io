@@ -15,6 +15,7 @@ Neu seit v3.2
 {: .label .label-green }
 
 * Weiters im Modul "Finanzberichte": Zumindest einmal jährlich einen Blick auf den Reiter "Pfand-Übersicht" werfen. Hier seht ihr unter anderem, wie viel Geld von den gesamten Mitglieder-Guthaben für Pfand vorgesehen ist und wie hoch alle offenen Pfand-Forderungen sind. (Für Superadmins, unter Finanzberichte und dann rechts oben auf "Pfand-Saldo" klicken.)
+{: .d-inline}
 
 * Pfand: Pfand-Rückgaben für Mitglieder und Pfand-Rücknahme für Hersteller eintragen (und evtl. Ausgleichszahlungen tätigen und eintragen). Siehe [Pfand]({{ site.baseurl }}/de/pfand).
 
