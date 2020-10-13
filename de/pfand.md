@@ -13,7 +13,7 @@ Wenn ein **Mitglied Leergebinde zurückbringt,** muss unter "Bestellungen" in de
 Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
 Neu seit v3.2
-{: .label .label-green }
+{: .label .label-green .d-inline-block}
 
 Für Pfand-Rücknahmen und Ausgleichszahlungen kann nun ein Buchungsdatum angegeben werden.
 
