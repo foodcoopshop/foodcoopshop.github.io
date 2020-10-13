@@ -23,10 +23,10 @@ Da selten das gesamte Pfand in Form von Leergebinde zurückgegen wird, sollte am
 
 Eine etwaige Differenz der Summen (Hersteller - Spalte Pfand und Mitglieder - Zweite Zahl Spalte Guthaben) kann daher resultieren, dass Pfand bereits zurückgebraucht und ins System eingetragen wurde, aber vom Hersteller noch nicht zurückgenommen wurde. Es müsste dann aber in Form von Leergut im Abhollager liegen.
 
-## Pfand-Übersicht
-
 Neu seit v3.2
 {: .label .label-green }
+
+## Pfand-Übersicht
 
 Im Admin-Bereich unter "Finanzberichte / Pfand-Übersicht" gibt es eine übersichtliche Tabelle, die die einzelnen Jahre gesondert ausweist. Außerdem ist dort eine Grafik vorhanden, die alle manuell eingetragenen Daten (Pfand-Rücknahmen, Pfand-Rückgaben und Ausgleichszahlungen) als Liniendiagramm darstellt. So sollen Ausreißer und Fehleingaben leichter gefunden und anschließend korrigiert werden.
 

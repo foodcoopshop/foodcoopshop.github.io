@@ -8,7 +8,8 @@ Mit der Verwendung eines **Barcode-Scanners** kann das Modul recht effizent verw
 
 Neu seit v3.2
 {: .label .label-green }
-Beim Einkaufen mit dem Handy kann man nun direkt mit dem Smartphone (ganz ohne App) die Barcodes scannen! Dazu muss im Profil das Häkchenbei "Ich möchte die Kamera meines Smartphones zum Scannen der Barcodes benutzen." angehakt werden. In Kürze folgt ein Video, das den Ablauf verdeutlicht.
+
+Beim Einkaufen mit dem Handy kann man nun direkt mit der Smartphone-Kamera (ganz ohne App) die Barcodes scannen. Dazu muss im Profil das Häkchen bei "Ich möchte die Kamera meines Smartphones zum Scannen der Barcodes benutzen." angehakt werden. Diese Funktion
 
 
 ### 1) Aktivierung / Einstellungen
@@ -63,3 +64,6 @@ Beim Einkaufen mit dem Handy kann man nun direkt mit dem Smartphone (ganz ohne A
 
 ### 6) Offene Punkte
 * Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"]({{site.repo_url}}/issues/336)
+
+### 7) Finanzierung
+* Die gesamte Funktion "Selbstbedienungs-Modus" wurde von einem privaten Unterstützer finanziert.
