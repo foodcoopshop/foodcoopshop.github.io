@@ -30,7 +30,7 @@ Eine etwaige Differenz der Summen (Hersteller - Spalte Pfand und Mitglieder - Zw
 Neu seit v3.2
 {: .label .label-green }
 
-Im Admin-Bereich unter “Finanzberichte / Pfand-Übersicht” gibt es eine übersichtliche Tabelle, die alle Pfand-relevanten Daten über die einzelnen Jahre gesondert ausweist. Außerdem ist dort eine Grafik vorhanden, die alle manuell eingetragenen Daten (Pfand-Rücknahmen, Pfand-Rückgaben und Ausgleichszahlungen) als Liniendiagramm darstellt. So sollen Ausreißer und Fehleingaben leichter gefunden und anschließend korrigiert werden.
+Im Admin-Bereich unter “Finanzberichte / Pfand-Übersicht” gibt es eine neue, übersichtliche Tabelle, die alle Pfand-relevanten Daten über die einzelnen Jahre gesondert ausweist. Außerdem ist dort eine Grafik vorhanden, die alle manuell eingetragenen Daten (Pfand-Rücknahmen, Pfand-Rückgaben und Ausgleichszahlungen) als Liniendiagramm darstellt. So können Fehleingaben leichter gefunden und anschließend korrigiert werden.
 
 ![]({{ site.baseurl }}/assets/img/de/pfand/pfand-uebersicht.png)
 
