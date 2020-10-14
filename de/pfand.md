@@ -32,9 +32,5 @@ Neu seit v3.2
 
 Im Admin-Bereich unter "Finanzberichte / Pfand-Übersicht" gibt es eine übersichtliche Tabelle, die die einzelnen Jahre gesondert ausweist. Außerdem ist dort eine Grafik vorhanden, die alle manuell eingetragenen Daten (Pfand-Rücknahmen, Pfand-Rückgaben und Ausgleichszahlungen) als Liniendiagramm darstellt. So sollen Ausreißer und Fehleingaben leichter gefunden und anschließend korrigiert werden.
 
-## Hilfe-Text: Übernahme aus Menüpunkt "Pfand-Konto"
-* Pfand, das vor dem 01.01.2016 verkauft / geliefert wurde, wird nicht berücksichtigt.
-* Produkt mit Pfand geliefert: Stichtag ist der Tag der Bestellung des Produktes, das "verpfandet" ist (nicht das Lieferdatum!)
-* Leergebinde zurückgenommen: Stichtag ist der Tag, an dem das Retour-Pfand ins System eingetragen wurde. Dies kann entweder in Form von Leergebinde oder als Überweisung erfolgen.
-* Ein Klick auf Details zeigt die genau Zusammensetzung des monatlichen Betrages an.
-* Falls du dem Hersteller das Pfandkonto mit Geld ausgleichst, oder er Leergebinde mitnimmt, kannst du hier eine neue Pfand-Rücknahme eintragen.
+![]({{ site.baseurl }}/assets/img/de/pfand/pfand-uebersichte.png)
+In diesem Beispiel hat die Initiative offene Pfand-Forderungen der Hersteller von 1.654,94 €. Die Summe der Guthaben aller Mitglieder verfügt über einen Anteil, der für Pfand vorgesehen ist, von 1.085,86 €. Das heißt es wurde 568,08 € fehlerhaft eingetragen (entweder zuviele Pfand-Rückgaben oder zuwenige Pfand-Rücknahmen).
