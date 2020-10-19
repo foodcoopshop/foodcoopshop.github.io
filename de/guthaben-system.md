@@ -28,7 +28,13 @@ Superadmins können unter "Finanzberichte" die Guthaben-Aufladungen bestätigen 
 Jeden Freitag wird automatisch eine Erinnerungs-Mail an jene Mitglieder versendet, deren Kontostand negativ ist. Mitglieder, die einen positiven Kontostand haben, werden nicht benachrichtigt.
 
 ## Bestellen sperren ab bestimmtem Guthaben-Stand
-In den Einstellungen kann ein Bestell-Limit angegeben werden, ab dem nicht mehr bestellt werden kann (z.B. -€ 100,00).
-Das funktioniert dann so: Wenn ein Mitglied bei der Einstellung "1" mit 0,50 € im Minus ist, kann es immer noch eine Bestellung (egal wie hoch) tätigen. Bei einem Guthaben von -1 € oder weniger ist die Bestell-Funktion gesperrt.
+In den Einstellungen kann ein Bestell-Limit angegeben werden, bis zu welchem bestellt werden kann (z.B. -€ 100,00).
 
-Welche Mitglieder aktuell im Minus sind, sehen alle Admins unter "Aktivitäten", Filter setzen auf "Cronjob: Guthaben überprüfen".
+Neu seit v3.2
+{: .label .label-green}
+
+Das eingestellte Guthaben-Limit kann nun beim normalen Bestellen nicht mehr unterschritten werden. Bei Sofort-Bestellungen und Preis- bzw. Gewichtsanpassungen ist dies aber weiterhin möglich.
+{: .d-inline}
+
+
+Welche Mitglieder aktuell im Minus sind, sehen alle Admins im Admin-Bereich unter "Mitglieder".

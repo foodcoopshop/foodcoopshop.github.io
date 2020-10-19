@@ -29,7 +29,7 @@ Neu seit v3.1
 
 ### Nachteile
 * Superadmins müssen die CSV-Liste **regelmäßig** vom ELBA exportieren und anschließend in den FoodCoopShop importieren, sonst erscheint der überwiesene Betrag nicht im Guthaben-System der Mitglieder.
-* Das Bestelllimit sollte heruntergesetzt werden, da es vorkommen kann, dass Mitglieder durch die zeitliche Verzögerung von Überweisung und Listen-Import nicht bestellen können.
+* Das Bestelllimit sollte heruntergesetzt werden (z.B. auf -100 €), da es vorkommen kann, dass Mitglieder durch die zeitliche Verzögerung von Überweisung und Listen-Import nicht bestellen können.
 
 ### Aktivierung der Funktion
 Die Funktion kann in den Einstellungen aktiviert werden: "Admin-Bereich" / "Homepage-Verwaltung" / "Art der Eintragung der Guthaben-Aufladungen". Hier "Guthaben-Aufladungen werden von Superadmins über eine CSV-Liste ins System geladen" auswählen.
