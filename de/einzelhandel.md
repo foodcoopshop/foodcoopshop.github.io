@@ -44,7 +44,7 @@ FCS_TIMEBASED_CURRENCY_ENABLED
 FCS_FOODCOOPS_MAP_ENABLED => 0
 ```
 
-## Neue Funktion (Juli 2020): Kunde kann Abholtag selbst auswählen
+## Neue Funktion (ab Frühjahr 2021, v3.2): Kunde kann Abholtag selbst auswählen
 
 ```FCS_RETAIL_MODE_ENABLED``` auf 1 setzen
 
