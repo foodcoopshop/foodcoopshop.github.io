@@ -26,7 +26,7 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 ),
 
 'customerMainNamePart' => 'lastname',
-
+'showManufacturerImprint' => false,
 ```
 
 ### 3) Zusätzliche Änderungen in der Tabelle fcs_configuration
