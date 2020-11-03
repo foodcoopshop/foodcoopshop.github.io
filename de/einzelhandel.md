@@ -41,13 +41,13 @@ FCS_TIMEBASED_CURRENCY_ENABLED
 * Einstellungen ändern (Feld "value")
 
 ```
-FCS_RETAIL_MODE_ENABLED => 1
+FCS_BULK_INVOICE_MODE => 0
 FCS_DEPOSIT_TAX_RATE => '20,00'
 FCS_INVOICE_HEADER_TEXT => ''
 ```
 
-### 4) Rechnungs-Cronjob aktivieren
+### 4) Korrekten Rechnungs-Cronjob aktivieren
 ```
-SendInvoicesWithRetailModeEnabled => 1
-SendInvoicesWithRetailModeDisabled => 0
+SendInvoicesToManufacturers => 1
+SendInvoicesToMembers => 0
 ```
