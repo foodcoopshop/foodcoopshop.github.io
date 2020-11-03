@@ -41,7 +41,9 @@ FCS_TIMEBASED_CURRENCY_ENABLED
 * Einstellungen ändern (Feld "value")
 
 ```
-FCS_FOODCOOPS_MAP_ENABLED => 0
+FCS_RETAIL_MODE_ENABLED => 1
+FCS_DEPOSIT_TAX_RATE => '20,00'
+FCS_INVOICE_HEADER_TEXT => ''
 ```
 
 ### 4) Rechnungs-Cronjob aktivieren
@@ -49,9 +51,3 @@ FCS_FOODCOOPS_MAP_ENABLED => 0
 SendInvoicesWithRetailModeEnabled => 1
 SendInvoicesWithRetailModeDisabled => 0
 ```
-
-## Neue Funktion (ab Frühjahr 2021, v3.2): Kunde kann Abholtag selbst auswählen
-
-```FCS_RETAIL_MODE_ENABLED``` auf 1 setzen
-
-* Rechnungen werden automatisch 1x pro Woche an die Kunden versendet.
