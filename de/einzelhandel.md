@@ -43,7 +43,7 @@ FCS_TIMEBASED_CURRENCY_ENABLED
 ```
 FCS_BULK_INVOICE_MODE => 0
 FCS_DEPOSIT_TAX_RATE => '20,00'
-FCS_INVOICE_HEADER_TEXT => ''
+FCS_INVOICE_HEADER_TEXT => 'Vorname Nachname<br />Adresse<br />UID-Nr.'
 ```
 
 ### 4) Korrekten Rechnungs-Cronjob aktivieren
