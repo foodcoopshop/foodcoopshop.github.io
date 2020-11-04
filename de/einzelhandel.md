@@ -48,6 +48,6 @@ FCS_INVOICE_HEADER_TEXT => 'Vorname Nachname<br />Adresse<br />UID-Nr.'
 
 ### 4) Korrekten Rechnungs-Cronjob aktivieren
 ```
-SendInvoicesToManufacturers => 1
-SendInvoicesToMembers => 0
+SendInvoicesToManufacturers => 0
+SendInvoicesToCustomers => 1
 ```
