@@ -41,7 +41,7 @@ FCS_TIMEBASED_CURRENCY_ENABLED
 * Einstellungen ändern (Feld "value")
 
 ```
-FCS_BULK_INVOICE_MODE => 0
+FCS_SEND_INVOICES_TO_CUSTOMERS => 1
 FCS_DEPOSIT_TAX_RATE => '20,00'
 FCS_INVOICE_HEADER_TEXT => 'Vorname Nachname<br />Adresse<br />UID-Nr.'
 ```
