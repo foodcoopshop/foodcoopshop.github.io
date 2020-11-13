@@ -10,6 +10,8 @@ Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn
 
 Die dafür notwendigen Code-Änderungen werden ab dem Frühjahr 2021 (mit der Version v3.2) als Open Source (MIT-Lizenz) verfügbar sein.
 
+**Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
+
 
 ### 1) Installation
 
