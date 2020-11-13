@@ -11,13 +11,13 @@ If you want to update your installation to another version, please read the [mig
 
 ### Requirements
 * Server connected to internet with **shell access** and **cronjobs**
-* Apache - **`mod_rewrite` needs to be enabled!**
+* Apache webserver - **`mod_rewrite` needs to be enabled!** (Will also work on nginx, see below)
 * PHP => 7.3
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP ZipArchive class
 * MySQL >= 5.7.7 (to support utf8mb4)
 * A domain name registered for you
-* Basic understanding of Apache Webserver, MySQL Database and Linux Server administration
+* Basic understanding of Webservers, MySQL Database and Linux Server administration
 * If you cloned the repository from Github: Node.js, npm and Composer
 * PHP needs to be able to call mysqldump with exec() for database backups
 
@@ -40,6 +40,8 @@ me@home:/var/www$ sudo chown -R www-data:www-data foodcoopshop
 ```
 
 ### Document Root / Virtual Host
+
+#### Apache Webserver
 If you develop on your local machine, your virtual host should end with ".test" (e.g. foodcoopshop.test). Then development environment and correct debug mode are set automatically. Simply add the prefered hostname to your local hosts file (e.g. /etc/hosts). Check in your browser by loading http://foodcoopshop.test/.
 
 Create a new virtual host in your Apache configuration. Most common is copying /etc/apache2/sites-available/000-default.conf to 020-foodcoopshop.conf and symlinking it to /etc/apache2/sites-enabled:
@@ -67,6 +69,34 @@ Then restart the webserver:
 ```bash
 me@home:/etc/apache2/sites-available$ sudo service apache2 restart
 ```
+#### Nginx Webserver
+Nginx webserver doesn't have something like mod_rewrite or .htaccess. See https://book.cakephp.org/2/en/installation/url-rewriting.html for details of preparing nginx to run cakephp-apps. The virtualhosts are configured in a similar manner under /etc/nginx/sites-avaliabe/xx symlinked to /etc/nginx/sites-enabled/xx and this would be a basic working virtualhost-sample for nginx with php7-fpm
+
+```
+server {
+    listen   80;
+    server_name your-foodcoops-hostname.net;
+
+    root   /var/www/your-foodcoops-hostname.net/webroot/;
+    index  index.php;
+
+    access_log /var/www/your-foodcoops-hostname.net/logs/access.log;
+    error_log /var/www/your-foodcoops-hostname.net/logs/error.log;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        try_files $uri =404;
+        fastcgi_pass unix:/var/run/php/php7.3-fpm.sock;
+        include /etc/nginx/fastcgi_params;
+        fastcgi_index   index.php;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    }
+}
+```
+
 
 ## Setting permissions
 ```
