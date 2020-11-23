@@ -8,7 +8,7 @@ has_toc: true
 
 Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich. Die notwendigen Änderungen betreffen vor allem die Gesetzestexte (AGB, Nutzungsbedingungen, Datenschutzerklärung) und die Rechnungslegung.
 
-### 1) Fakten und Ablauf
+### 1) Neue Funktionen
 
 * Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt einfach änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann auch manuell ausgelöst werden (für Laufkundschaft). Rechnungen können aus "bar bezahlt" markiert werden.
 
@@ -16,7 +16,9 @@ Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn
 
 * Der Umsatzsteuersatz von Pfand wird über die sogenannte "Vereinfachungsregel" abgebildet: dh. **immer 20% USt.** (unabhängig vom Steuersatz des Produktes).
 
-* Die erstellten Rechnungen werden übersichtlich in einem **Journal** (zu finden unter "Finanzberichte / Rechnungen") zusammengefasst. Das erleichtert die Buchhaltung.
+* Die erstellten Rechnungen werden übersichtlich im **Journal** (zu finden unter "Finanzberichte / Journal") zusammengefasst. Die Rechnungsummen werden auch nach Umsatzsteuer gruppiert dargestellt, das erleichtert die Buchhaltung.
+
+* Das Stornieren von Rechnungen rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
 
 Die dafür notwendigen Code-Änderungen werden ab dem Frühjahr 2021 (mit der Version v3.2) als Open Source (MIT-Lizenz) verfügbar sein.
 
@@ -42,13 +44,6 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 ```
 
 ### 2.2) Zusätzliche Änderungen in der Tabelle fcs_configuration
-
-* Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
-
-```
-FCS_CUSTOMER_GROUP
-FCS_TIMEBASED_CURRENCY_ENABLED
-```
 
 * Einstellungen ändern (Feld "value")
 
