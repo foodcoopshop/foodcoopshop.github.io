@@ -7,7 +7,7 @@ nav_order: 3
 There is just one single cronjob needed which takes care of all implemented cronjobs.
 It **automatically resumes cronjobs** (eg. when the server was down for a short time), therefore increases stability and keeps the whole cronjob administration in the database.
 
-New since v3.2
+New in v3.2 (Spring 2021)
 {: .label .label-green }
 An additional cronjob needs to be set up to handle the [queue](https://github.com/dereuromark/cakephp-queue):
 `*/5 * * * * /your-app/bin/cake queue runworker -q`
