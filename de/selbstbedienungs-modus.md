@@ -17,6 +17,13 @@ Beim Einkaufen mit dem Handy kann man nun direkt mit der Smartphone-Kamera (ganz
 * Nach dem Aktivieren erscheint darunter eine weitere Einstellung: "Selbstbedienungs-Modus im Test-Modus ausführen". Wenn man hier auf "ja" klickt, ist der Selbstbedienungs-Modus erst mal versteckt und für ein paar Leute testbar. Man kann ihn unter https://www.eure-foodcoop.com/selbstbedienung aufrufen.
 * *Sollen Lagerprodukte mit der wöchentlichen Bestellung bestellt werden können?* Empfehlung für die Verwendung mit dem Selbstbedienungs-Modus: auf **nein** setzen.
 
+Neu ab v3.2 (Frühjahr 2021)
+{: .label .label-green }
+
+`app.selfServiceModeAutoLogoutDesktopEnabled` Auto-Logout in der Desktop-Ansicht kann nun deaktiviert werden.
+{: .d-inline}
+
+
 ### 2) Mitgliedskarten
 * **Mitglieder** können in ihrem Profil ein Profilbild hochladen und von dort auch ihre Mitgliedskarte ausdrucken.
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/profilbild-hochladen.png)
@@ -52,11 +59,6 @@ Beim Einkaufen mit dem Handy kann man nun direkt mit der Smartphone-Kamera (ganz
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-1.png)
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-2.png)
 
-Neu ab v3.2 (Frühjahr 2021)
-{: .label .label-green }
-
-`app.selfServiceModeAutoLogoutDesktopEnabled` Auto-Logout in der Desktop-Ansicht kann nun deaktiviert werden.
-{: .d-inline}
 
 ### 5) Weitere Funktionen / Änderungen
 * Der Button für die Pfand-Rückgabe befindet sich beim Einkaufen unten rechts.
