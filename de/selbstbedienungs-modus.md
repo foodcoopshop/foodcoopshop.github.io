@@ -52,6 +52,12 @@ Beim Einkaufen mit dem Handy kann man nun direkt mit der Smartphone-Kamera (ganz
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-1.png)
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-2.png)
 
+Neu ab v3.2 (Frühjahr 2021)
+{: .label .label-green }
+
+`app.selfServiceModeAutoLogoutDesktopEnabled` Auto-Logout in der Desktop-Ansicht kann nun deaktiviert werden.
+{: .d-inline}
+
 ### 5) Weitere Funktionen / Änderungen
 * Der Button für die Pfand-Rückgabe befindet sich beim Einkaufen unten rechts.
 * Bei Inaktivität wird man automatisch ausgeloggt.
