@@ -22,3 +22,5 @@ Neu ab v3.2 (Frühjahr 2021)
 * Zwecks Datenschutz bitte regelmäßig inaktive Mitglieder löschen (und nicht nur deaktivieren).
 
 * Lieferpausen der Foodcoop (z.B. bei Feiertagen) rechtzeitig eintragen, damit keine Bestellungen getätigt werden können, die später wieder storniert werden müssen.
+
+* Zumindest einmal im Jahr alte E-Mails, die als BCC an die Backup-Mail-Adresse versendet wurden, löschen.
