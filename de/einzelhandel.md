@@ -49,6 +49,17 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 
 ### 2.2) Zusätzliche Änderungen in der Tabelle fcs_configuration
 
+* Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
+
+```
+FCS_CUSTOMER_GROUP
+FCS_ACCOUNTING_EMAIL
+FCS_USE_VARIABLE_MEMBER_FEE
+FCS_DEFAULT_VARIABLE_MEMBER_FEE_PERCENTAGE
+FCS_TIMEBASED_CURRENCY_ENABLED
+FCS_FOODCOOPS_MAP_ENABLED
+```
+
 * Einstellungen ändern (Feld "value")
 
 ```
