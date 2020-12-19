@@ -2,6 +2,13 @@
 parent: Deutsch
 title: Pfand
 ---
+
+Neu ab v3.2 (Frühjahr 2021)
+{: .label .label-green }
+
+Das Pfand-System kann nun auch komplett deaktiviert werden: ```app.isDepositEnabled => false```
+{: .d-inline}
+
 ## Pfand-Abwicklung mit Mitglied
 
 Der Pfand wird beim Kauf des Produktes automatisch vom Guthaben des Mitglieds abgezogen, in der Guthaben-Übersicht wird dieser in einer extra Spalte ausgewiesen.
