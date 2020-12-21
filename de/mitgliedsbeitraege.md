@@ -11,6 +11,7 @@ parent: Deutsch
 
 * Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
+
 In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwendet?" das bzw. die entsprechenden Produkt(e) auswählen. Sobald das erledigt ist, scheint in der Mitgliederliste rechts unter "Mitgliedsbeitrag" die Summe des vom jeweiligen Mitglied im ausgewählten Kalenderjahr gekauften Mitgliedsbeitrag. So sieht man, wer noch keinen bestellt hat (Klick auf die Spaltenübersicht sortiert nach Mitgliedsbeitrag).
 {: .d-inline}
 
@@ -24,3 +25,6 @@ In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwende
 * Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).
 * Ggfs. sortieren nach Name des Mitglieds
 * Nun muss aber immer noch "händisch" mit der Mitgliederliste abgeglichen werden, wer schon bestellt hat und wer nicht, da kann die Software leider auch nicht unterstüzten.
+
+**Umsatzstatistik**
+* Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt.
