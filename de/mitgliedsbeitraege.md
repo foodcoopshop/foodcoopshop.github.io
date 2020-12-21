@@ -17,7 +17,7 @@ parent: Deutsch
 Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
-In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwendet?" das bzw. die entsprechenden Produkt(e) auswählen. Sobald das erledigt ist, scheint in der Mitgliederliste rechts unter "Mitgliedsbeitrag" die Summe des vom jeweiligen Mitglied im ausgewählten Kalenderjahr gekauften Mitgliedsbeitrag. So sieht man, wer noch keinen bestellt hat (Klick auf die Spaltenübersicht sortiert nach Mitgliedsbeitrag).
+In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwendet?" das bzw. die entsprechenden Produkt(e) auswählen. Sobald das erledigt ist, scheint in der Mitgliederliste rechts unter "Mitgliedsbeitrag" die Summe des vom jeweiligen Mitglied im ausgewählten Kalenderjahr gekauften Mitgliedsbeitrag. So sieht man, wer noch keinen bestellt hat (Klick auf die Spaltenübersicht sortiert nach Mitgliedsbeitrag). Falls man das linke der beiden Datumsfelder nach "Letzter Abholtag" auf 01.01. des ensprechenden Jahres setzt, werden nur Mitglieder angezeigt, die in diesem Jahr überhaupt bestellt haben.
 {: .d-inline}
 
 ![]({{ site.baseurl }}/assets/img/de/mitglieder/mb-einstellungen.png)
