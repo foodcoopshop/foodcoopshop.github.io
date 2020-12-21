@@ -15,6 +15,10 @@ Neu ab v3.2 (Frühjahr 2021)
 In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwendet?" das bzw. die entsprechenden Produkt(e) auswählen. Sobald das erledigt ist, scheint in der Mitgliederliste rechts unter "Mitgliedsbeitrag" die Summe des vom jeweiligen Mitglied im ausgewählten Kalenderjahr gekauften Mitgliedsbeitrag. So sieht man, wer noch keinen bestellt hat (Klick auf die Spaltenübersicht sortiert nach Mitgliedsbeitrag).
 {: .d-inline}
 
+![]({{ site.baseurl }}/assets/img/de/mitglieder/mb-einstellungen.png)
+![]({{ site.baseurl }}/assets/img/de/mitglieder/mb-kontrolle-in-mitglieder-liste.png)
+
+
 * Falls der Mitgliedsbeitrag nicht bestellt wurde, wird er von einem Admin über die Sofort-Bestellung eingehoben (dieses Vorgehen bitte im Vorhinein an alle Mitglieder klar kommunzieren).
 * Für neue Mitglieder, die später im Jahr einsteigen, sollte der Preis mit der Funktion "Preis ändern" im Nachhinein angepasst werden.
 * Die Foodcoop überweist sich jeden Monat selbst das Geld von einem Konto aufs andere (vom Konto, auf dem die Guthaben-Einzahlungen landen auf das Vereinskonto).
@@ -27,4 +31,4 @@ In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwende
 * Nun muss aber immer noch "händisch" mit der Mitgliederliste abgeglichen werden, wer schon bestellt hat und wer nicht, da kann die Software leider auch nicht unterstüzten.
 
 **Umsatzstatistik**
-* Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt.
+* Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt, die Umsätze sind dadurch bereinigt.

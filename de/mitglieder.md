@@ -2,6 +2,9 @@
 parent: Deutsch
 title: Mitglieder
 ---
+
+[Mitgliedsbeiträge verwalten]({{ site.baseurl }}/de/mitgliedsbeitraege.html)
+
 ## Registrierung / Aktivierung von Mitgliedern
 
 Zum Anlegen eines Mitgliedskontos auf den Punkt "Anmelden" klicken, unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
