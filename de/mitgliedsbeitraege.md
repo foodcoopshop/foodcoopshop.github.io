@@ -9,7 +9,7 @@ parent: Deutsch
 * Produkt "Mitgliedsbeitrag" anlegen, dieses kann z.B. 2 Varianten haben: 1 Jahr Single, 1 Jahr Familie
 * Den Mitgliedern kommunizieren, dass dieses Produkt jedes Jahr z.B. bis Ende Februar bestellt werden muss.
 
-* Neu ab v3.2 (Frühjahr 2021)
+Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
 In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwendet?" das bzw. die entsprechenden Produkt(e) auswählen. Sobald das erledigt ist, scheint in der Mitgliederliste rechts unter "Mitgliedsbeitrag" die Summe des vom jeweiligen Mitglied im ausgewählten Kalenderjahr gekauften Mitgliedsbeitrag. So sieht man, wer noch keinen bestellt hat (Klick auf die Spaltenübersicht sortiert nach Mitgliedsbeitrag).
