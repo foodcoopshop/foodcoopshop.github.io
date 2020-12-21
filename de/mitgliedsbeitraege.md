@@ -6,7 +6,7 @@ parent: Deutsch
 **Der folgende Ablauf hat den großen Vorteil, dass das bereits vorhandene Guthaben-System auch für die Mitgliedsbeiträge verwendet werden kann und Geldflüsse nicht gesondert kontrolliert werden müssen. Weiters kann mit dieser Vorgehensweise leicht ermittelt werden, wer den Mitgliedsbeitrag noch nicht bezahlt hat.**
 
 * Die eigene Foodcoop als Hersteller anlegen
-* Produkt "Mitgliedsbeitrag" anlegen, dieses kann z.B. 2 Varianten haben: 1 Jahr Single, 1 Jahr Familie
+* Produkt "Mitgliedsbeitrag 2020" anlegen, dieses kann z.B. 2 Varianten haben: 1 Jahr Single, 1 Jahr Familie. Empfehlung: Das Produkt im nächsten Jahr auf "Mitgliedsbeitrag 2021" umbenennen, das hält die Produktverwaltung schlank. Gefiltert wird ja nach dem Datum der Bestellung bzw. dem ensprechenden "Liefertag".
 * Den Mitgliedern kommunizieren, dass dieses Produkt jedes Jahr z.B. bis Ende Februar bestellt werden muss.
 
 Neu ab v3.2 (Frühjahr 2021)
