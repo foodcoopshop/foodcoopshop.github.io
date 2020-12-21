@@ -27,8 +27,6 @@ In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwende
 
 **Die Summe der Mitgliedsbeiträge eines Kalenderjahres findet man so raus:**
 * Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).
-* Ggfs. sortieren nach Name des Mitglieds
-* Nun muss aber immer noch "händisch" mit der Mitgliederliste abgeglichen werden, wer schon bestellt hat und wer nicht, da kann die Software leider auch nicht unterstüzten.
 
 **Umsatzstatistik**
 * Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt, die Umsätze sind dadurch bereinigt.
