@@ -1,8 +1,8 @@
 ---
 parent: Deutsch
 ---
-## Mitgliedsbeiträge
 
+# Mitgliedsbeiträge
 
 **Mitgliedsbeiträge sind für viele Foodcoops die einzige Einnahmequelle. Die Verwaltung bzw. Kontrolle der Mitgliedsbeiträge kann jedoch schnell sehr zeitaufwändig werden.**
 
@@ -34,6 +34,7 @@ In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwende
 Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).
 
 **Umsatzstatistik**
+
 Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
