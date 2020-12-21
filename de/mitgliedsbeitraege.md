@@ -8,6 +8,7 @@ parent: Deutsch
 * Die eigene Foodcoop als Hersteller anlegen
 * Produkt "Mitgliedsbeitrag" anlegen, dieses kann z.B. 2 Varianten haben: 1 Jahr Single, 1 Jahr Familie
 * Den Mitgliedern kommunizieren, dass dieses Produkt jedes Jahr z.B. bis Ende Februar bestellt werden muss.
+
 Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
