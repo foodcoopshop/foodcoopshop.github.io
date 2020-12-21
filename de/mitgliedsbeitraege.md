@@ -3,6 +3,7 @@ parent: Deutsch
 ---
 ## Mitgliedsbeiträge
 
+
 **Mitgliedsbeiträge sind für viele Foodcoops die einzige Einnahmequelle. Die Verwaltung bzw. Kontrolle der Mitgliedsbeiträge kann jedoch schnell sehr zeitaufwändig werden.**
 
 **Dieser Leitfaden beschreibt, wie das vorhandene Guthaben-System auch für Mitgliedsbeiträge verwendet werden kann. Kontoeingänge müssen so nicht gesondert kontrolliert werden, sondern laufen - wie alle anderen Produkte auch - über die Bestellfunktion des FoodCoopShops. Mit einer neuen Funktion (ab v3.2) kann leicht ermittelt werden, wer den Mitgliedsbeitrag noch nicht bezahlt hat.**
@@ -30,7 +31,11 @@ In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwende
 
 
 **Die Summe der Mitgliedsbeiträge eines Kalenderjahres findet man so raus:**
-* Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).
+Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).
 
 **Umsatzstatistik**
-* Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt, die Umsätze sind dadurch bereinigt.
+Neu ab v3.2 (Frühjahr 2021)
+{: .label .label-green }
+
+Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt, die Umsätze sind dadurch bereinigt.
+{: .d-inline}
