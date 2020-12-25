@@ -1,5 +1,7 @@
 ---
-parent: Deutsch
+grand_parent: Deutsch
+parent: Mitglieder
+title: Mitgliedsbeiträge
 ---
 
 # Mitgliedsbeiträge
