@@ -1,6 +1,7 @@
 ---
 parent: Deutsch
 title: Mitglieder
+has_children: true
 ---
 
 [Mitgliedsbeiträge verwalten]({{ site.baseurl }}/de/mitgliedsbeitraege.html)
