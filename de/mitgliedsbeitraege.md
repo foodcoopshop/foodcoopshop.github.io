@@ -27,7 +27,7 @@ Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
 In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwendet?" das entsprechende Produkt / die entsprechenden Produkte auswählen. Sobald das erledigt ist, scheint in der Mitgliederliste rechts unter "Mitgliedsbeitrag" die Summe des vom jeweiligen Mitglied im ausgewählten Kalenderjahr gekauften Mitgliedsbeitrages auf. Ein Klick auf die Spaltenübersicht sortiert nach Mitgliedsbeitrag, so sieht man alle, die noch keinen bestellt haben.
-{: .d-inline}
+{: .d-inline-block}
 
 ![]({{ site.baseurl }}/assets/img/de/mitglieder/mb-einstellungen.png)
 ![]({{ site.baseurl }}/assets/img/de/mitglieder/mb-kontrolle-in-mitglieder-liste.png)
@@ -40,7 +40,7 @@ Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
 Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt, die Umsätze sind dadurch bereinigt.
-{: .d-inline}
+{: .d-inline-block}
 
 **Summe der Mitgliedsbeiträge pro Kalenderjahr**
 Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).
