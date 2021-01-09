@@ -10,13 +10,13 @@ In den Admin-Bereich gelangt man, in dem man sich einloggt und anschließend obe
 ## Annahme der Produkte
 Wenn ein Hersteller die Bestellliste, die er per E-Mail bekommen hat, vergessen haben sollte, kannst du sie unter Bestellungen / Bestelllisten ansehen bzw. ausdrucken. Die Listen sind entweder nach Produkt oder Mitglied gruppiert verfügbar.
 
-## Bestellte Produkte des Mitglieds anzeigen / Kontrollieren
-Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Mehrere Bestellungen werden automatisch zusammengefasst. Beim gegenseitigen Kontrollieren der Produkte musst du dir die Produkte nicht merken, sondern kannst auf das Hakerl ganz links in der jeweiligen Zeile klicken, dann wird sie grün eingefärbt.
+## Bestellte Produkte des Mitglieds anzeigen bzw. kontrollieren
+Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Mehrere Bestellungen werden automatisch zusammengefasst. Beim gegenseitigen Kontrollieren der Produkte musst du dir die bereits überprüften Produkte nicht merken, sondern kannst auf das Hakerl ganz links in der jeweiligen Zeile klicken. Die Zeile wird dann grün.
 
 Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
-Die Markierung bleibt auch bestehen, wenn die Seite neu geladen wird (z.B. nach Gewichtsänderung oder Stornierung). Allerdings nur im gleichen Browser und nach spätestens 24 Stunden sind die Markierungen automatisch wieder gelöscht.
+Die Markierung der Zeile bleibt auch bestehen, wenn die Seite neu geladen wird (z.B. nach Gewichtsänderung oder Stornierung). Allerdings nur im gleichen Browser und nach spätestens 24 Stunden sind die Markierungen automatisch wieder gelöscht.
 {: .d-inline}
 
 ## Stornieren von Produkten
@@ -37,7 +37,7 @@ Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück lie
 Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. Nach dem Speichern ist das Feld auch nicht mehr rot hinterlegt.
 
 ## Pfand-Rückgabe eintragen
-Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezogen. Unter "Bestellungen" gibt es einen Button "Pfand-Rückgabe", mit dem der Betrag des Leergutes eingeben werden kann, das das jeweilige Mitglied zurückbringt. Der Betrag wird somit im Guthaben-System wieder gutgeschrieben.
+Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezogen. Unter "Bestellungen" gibt es einen Button "Pfand-Rückgabe", mit dem der Betrag des Leergutes eingeben werden kann, das das jeweilige Mitglied zurückbringt. Der Betrag wird somit im Guthaben-System wieder gutgeschrieben (und kann bei einer Fehleingabe dort auch wieder gelöscht werden).
 
 ## Sofort-Bestellung für Lagerprodukte
 Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung tätigen, **der Abholtag wird dabei automatisch auf "heute" gesetzt**. Die Hersteller werden über Sofort-Bestellungen automatisch informiert (sofern die Produkte nicht als Lagerprodukte deklariert sind).
