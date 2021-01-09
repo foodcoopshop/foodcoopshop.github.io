@@ -45,8 +45,14 @@ Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung f
 ## Produkte für anderen Abholtag anzeigen
 Die Liste der Bestellungen wird auf Basis des nächsten Abholtages angezeigt. Diesen kann man im Filter oben ändern. Die Bestellungen eines Zeitraums (also für mehrere Abholtage) anzuzeigen funktioniert über dem Button "Mehrere Abholtage" (ganz unten).
 
-## Produkte "auf abgeholt setzen"
-Der Abholdienst kann angeben, ob das Mitglied die Produkte abgeholt hat (unter "Bestellungen", Button ganz rechts). Die Zeile wird dann grün angezeigt, ansonsten hat es aber keine Auswirkungen. Es ist nur möglich, **alle Produkte eines Abholtages** auf "abgeholt" zu setzen, nicht einzelne Produkte.
+## Produkte auf "abgeholt" setzen
+Der Abholdienst kann angeben, wenn das Mitglied die Produkte abgeholt hat (unter "Bestellungen", Button ganz rechts). Die Zeile wird dann grün angezeigt, ansonsten hat es aber keine Auswirkungen. Es ist nur möglich, **alle Produkte eines Abholtages** auf "abgeholt" zu setzen, nicht einzelne Produkte.
+
+Neu seit v3.2
+{: .label .label-green }
+
+Falls die Bestellung Produkte enthält, deren Gewicht noch angepasst werden muss, erscheint nach dem Setzen auf "abgeholt" eine enstprechende Fehlermeldung. Der Status wird aber trotzdem auf "abgeholt" gesetzt.
+{: .d-inline-block }
 
 ## Produkte bleiben am Ende des Abholtages übrig - was tun?
 Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat (Dropdown oben). Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer es vergessen haben könnte. Unter "Mitglieder" findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
