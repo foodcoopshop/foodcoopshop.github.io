@@ -10,8 +10,14 @@ In den Admin-Bereich gelangt man, in dem man sich einloggt und anschließend obe
 ## Annahme der Produkte
 Wenn ein Hersteller die Bestellliste, die er per E-Mail bekommen hat, vergessen haben sollte, kannst du sie unter Bestellungen / Bestelllisten ansehen bzw. ausdrucken. Die Listen sind entweder nach Produkt oder Mitglied gruppiert verfügbar.
 
-## Bestellte Produkte des Mitglieds anzeigen
-Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Mehrere Bestellungen werden also automatisch zusammengefasst. Beim gegenseitigen Kontrollieren der Produkte musst du dir die Produkte nicht merken, sondern kannst auf die jeweilige Zeile klicken, dann wird sie grün eingefärbt. Achtung: Wenn die Seite neu geladen wird (z.B. nach Gewichtsänderung), ist die Einfärbung wieder weg! Das sollte mal geändert werden, ich weiß...
+## Bestellte Produkte des Mitglieds anzeigen / Kontrollieren
+Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Mehrere Bestellungen werden automatisch zusammengefasst. Beim gegenseitigen Kontrollieren der Produkte musst du dir die Produkte nicht merken, sondern kannst auf das Hakerl ganz links in der jeweiligen Zeile klicken, dann wird sie grün eingefärbt.
+
+Neu ab v3.2 (Frühjahr 2021)
+{: .label .label-green }
+
+Die Markierung bleibt auch bestehen, wenn die Seite neu geladen wird (z.B. nach Gewichtsänderung oder Stornierung). Allerdings nur im gleichen Browser und nach spätestens 24 Stunden sind die Markierungen automatisch wieder gelöscht.
+{: .d-inline}
 
 ## Stornieren von Produkten
 Falls ein Produkt nicht geliefert wird, muss es storniert werden, damit das Mitglied es nicht bezahlen muss und das Produkt auch nicht mit dem Hersteller verrechnet wird. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren. Du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind: Einfach "Bestellungen / Bestelländerungen" anklicken.
