@@ -63,10 +63,6 @@ Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, 
 Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein Vereins-Mitgliedskonto anzulegen und das Produkte darauf hin zu buchen. So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein durch Fehler bei der Abholung zu tragen hatte.
 
 ## Feedback zu Produkt abgeben
-{: .d-inline-block }
-
-Neu seit v3.1
-{: .label .label-green }
 
 Um den Kontakt zwischen Konsumenten und Produzenten zu verbessern, gibt es die Feedback-Funktion.
 

@@ -5,10 +5,6 @@ title: Automatischer Kontoabgleich (CSV-Upload)
 ---
 
 ## Guthaben-System mit automatischem Kontoabgleich
-{: .d-inline-block }
-
-Neu seit v3.1
-{: .label .label-green }
 
 ### Ablauf für Mitglieder
 * Das Mitglied gibt beim Überweisen von Guthaben beim Verwendungszweck den **persönlichen Überweisungscode** (1) an. Diesen befindet sich im Guthaben-System (ganz oben), bleibt immer gleich und kann einfach mit einem Button in die Zwischenablage kopiert werden (2).
