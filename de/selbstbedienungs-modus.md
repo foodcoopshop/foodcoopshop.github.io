@@ -1,5 +1,6 @@
 ---
 parent: Deutsch
+title: Selbstbedienungs-Modus
 ---
 ## Selbstbedienungs-Modus für Lagerprodukte
 Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet der FoodCoopShop nun auch dafür eine einfach zu bedienende Möglichkeit.
