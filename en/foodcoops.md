@@ -7,6 +7,8 @@ title: Who uses FoodCoopShop
 [Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Hosted by |
+| **2021** |
+| 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at/) | self-hosted |
 | **2020** |
 | 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at/) | foodcoopshop.com |
 | 10 | [Bauernladen Eibiswald, AT](https://www.bauernladen-eibiswald.at/) | foodcoopshop.com |
