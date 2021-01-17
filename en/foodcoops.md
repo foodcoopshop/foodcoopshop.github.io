@@ -8,6 +8,7 @@ title: Who uses FoodCoopShop
 
 | Start | Name / City / Country | Hosted by |
 | **2021** |
+| 01 | [Keinkauf Brühl, DE](https://shop.keinkauf-bruehl.at/) | self-hosted |
 | 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at/) | self-hosted |
 | **2020** |
 | 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at/) | foodcoopshop.com |
