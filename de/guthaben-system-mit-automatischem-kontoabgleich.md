@@ -33,7 +33,7 @@ Die Funktion kann in den Einstellungen aktiviert werden: "Admin-Bereich" / "Home
 Neu ab v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
-Die Guthaben-Höhe, ab der die Guthaben-Erinnerungsmail versendet wird, kann nun individuell eingestellt werden. Einstellung: "Bis zu welchem Guthaben-Betrag sollen Bestellungen möglich sein?"
+Neue  Einstellung: "Ab welchem Guthaben-Stand soll die Erinnerungsmail versendet werden?" 50 ist ein sinnvoller Wert, falls der automatische Kontoabgleich verwendet wird.
 {: .d-inline}
 
 
