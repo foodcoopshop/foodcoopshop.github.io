@@ -8,16 +8,18 @@ title: Who uses FoodCoopShop
 
 | Start | Name / City / Country | Hosted by |
 | **2021** |
-| 01 | [Keinkauf Brühl, DE](https://shop.keinkauf-bruehl.de/) | self-hosted |
-| 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at/) | self-hosted |
+| 02 | [Echt.Guat.GesbR, Seewalchen, AT](https://www.echt-guat.at) | foodcoopshop.com |
+| 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | foodcoopshop.com |
+| 01 | [Keinkauf Brühl, DE](https://shop.keinkauf-bruehl.de) | self-hosted |
+| 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at) | self-hosted |
 | **2020** |
-| 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at/) | foodcoopshop.com |
-| 10 | [Bauernladen Eibiswald, AT](https://www.bauernladen-eibiswald.at/) | foodcoopshop.com |
-| 10 | [Bio Drehscheibe, Lembach, AT](https://www.bio-drehscheibe.at/) | self-hosted |
-| 08 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org/) | self-hosted |
-| 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at/) | foodcoopshop.com |
+| 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at) | foodcoopshop.com |
+| 10 | [Bauernladen Eibiswald, AT](https://www.bauernladen-eibiswald.at) | foodcoopshop.com |
+| 10 | [Bio Drehscheibe, Lembach, AT](https://www.bio-drehscheibe.at) | self-hosted |
+| 08 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org) | self-hosted |
+| 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at) | foodcoopshop.com |
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | foodcoopshop.com |
-| 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de/) | self-hosted |
+| 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | self-hosted |
 | 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | foodcoopshop.com |
 | 03 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | self-hosted |
 | **2019** |
