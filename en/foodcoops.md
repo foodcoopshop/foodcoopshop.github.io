@@ -8,7 +8,7 @@ title: Who uses FoodCoopShop
 
 | Start | Name / City / Country | Hosted by |
 | **2021** |
-| 02 | [Echt.Guat.GesbR, Seewalchen, AT](https://www.echt-guat.at) | foodcoopshop.com |
+| 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | foodcoopshop.com |
 | 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | foodcoopshop.com |
 | 01 | [Keinkauf Brühl, DE](https://shop.keinkauf-bruehl.de) | self-hosted |
 | 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at) | self-hosted |
