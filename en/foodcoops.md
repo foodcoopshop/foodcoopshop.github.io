@@ -10,6 +10,7 @@ title: Who uses FoodCoopShop
 | **2021** |
 | 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | foodcoopshop.com |
 | 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | foodcoopshop.com |
+| 01 | [Klaa Karott, Frankfurt a. M., DE](https://shop.klaakarott.de) | self-hosted |
 | 01 | [Keinkauf Brühl, DE](https://shop.keinkauf-bruehl.de) | self-hosted |
 | 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at) | self-hosted |
 | **2020** |
