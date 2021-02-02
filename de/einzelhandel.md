@@ -12,6 +12,8 @@ Neu ab v3.2 (Frühjahr 2021)
 
 Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich. Die notwendigen Änderungen betreffen vor allem die Gesetzestexte (AGB, Nutzungsbedingungen, Datenschutzerklärung) und die Rechnungslegung.
 
+Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.dorfladen-online.at](https://www.dorfladen-online.at)
+
 ### 1) Neue Funktionen
 
 * Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt einfach änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann auch manuell ausgelöst werden (für Laufkundschaft). Rechnungen können aus "bar bezahlt" markiert werden.
@@ -40,6 +42,7 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 
 'outputStringReplacements' => array_merge(
     include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'memberClientConfig.php'),
+    include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'dorfladenOnlineConfig.php'),
     include(APP . 'Lib' . DS . 'OutputFilter' . DS . 'config' . DS . 'de_DE' . DS . 'geschaeftConfig.php'),
 ),
 
