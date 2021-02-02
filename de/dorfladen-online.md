@@ -1,10 +1,10 @@
 ---
 title: Einzelhandel
-nav_order: 11
+nav_order: 10
 has_toc: true
 ---
 
-## Einzelhandel
+## Dorfladen Online
 {: .d-inline-block }
 
 Neu ab v3.2 (Frühjahr 2021)
