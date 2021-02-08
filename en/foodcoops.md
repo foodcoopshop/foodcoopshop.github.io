@@ -8,6 +8,7 @@ title: Who uses FoodCoopShop
 
 | Start | Name / City / Country | Hosted by |
 | **2021** |
+| 02 | [FoodKollektiv Wedding, Berlin, DE](https://www.foodkollektiv-wedding.de) | self-hosted |
 | 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | foodcoopshop.com |
 | 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | foodcoopshop.com |
 | 01 | [Klaa Karott, Frankfurt a. M., DE](https://shop.klaakarott.de) | self-hosted |
