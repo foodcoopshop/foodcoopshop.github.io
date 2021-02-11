@@ -14,10 +14,10 @@ nav_order: 2
 ### FCS v3.1.x to FCS 3.2.x
 * **v3.2 WILL BE RELEASED IN MARCH 2021**
 * replace source code => see bottom of page
-* execute migrations => see bottom of page
-* additionally execute `$ bin/cake migrations migrate -p Queue`
+* execute migrations => see bottom of page: **the command changed with this version!**
 * add a new cronjob to handle the new [queue](https://github.com/dereuromark/cakephp-queue): `*/5 * * * * /your-app/bin/cake queue runworker -q`
-* Minimal requirement for PHP is now 7.4
+* rename `app.customFrontendColorTheme` to `app.customThemeMainColor`
+* Minimal requirement for PHP is now 7.4, PHP 8.0 is supported and recommended.
 * After the update, please remove `app.adminEmail` and `app.adminPassword`.
 
 ### FCS v3.0.x to FCS 3.1.x
@@ -35,7 +35,7 @@ nav_order: 2
 * MySQL >= 5.7.7 (to support utf8mb4)
 
 ### execute migrations
-* execute `$ bin/cake migrations migrate` to execute database migrations. If you do not have shell access, you need to update the migrations manually. The files with the sql statements are located in the folder /config/Migrations).
+`$ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
 
 ### replacing source code
 * rename old installation folder (e.g. foodcoopshop-old)
