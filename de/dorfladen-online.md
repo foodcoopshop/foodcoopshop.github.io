@@ -16,9 +16,9 @@ Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" abe
 
 ### 1) Neue Funktionen
 
-* Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt einfach änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann auch manuell ausgelöst werden (für Laufkundschaft). Rechnungen können aus "bar bezahlt" markiert werden.
+* Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt einfach änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann auch manuell ausgelöst werden (für Laufkundschaft). Rechnungen können als "bar bezahlt" markiert werden.
 
-* Beim Erstellen einer Rechnung oder dem Anzeigen der Rechnungs-Vorschau werden immer die Bestellungen **des aktuellen Tages** oder von **bereits vergangenen Tagen** verwendet, aber **niemals zukünftige Bestellungen** (z.B. offene Vorbestellungen).
+* Beim Erstellen einer Rechnung oder dem Anzeigen der Rechnungs-Vorschau werden immer alle Bestellungen **des aktuellen Tages** und von **bereits vergangenen Tagen** verwendet, aber **niemals zukünftige Bestellungen** (z.B. offene Vorbestellungen).
 
 * Der Umsatzsteuersatz von Pfand wird über die sogenannte "Vereinfachungsregel" abgebildet: dh. **immer 20% USt.** (unabhängig vom Steuersatz des Produktes).
 
