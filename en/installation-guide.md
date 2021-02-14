@@ -124,13 +124,13 @@ $ chmod -R a+w ./webroot/tmp
 
 ## Credentials
 * Copy [credentials.default.php]({{site.repo_url}}/blob/master/config/credentials.default.php) to credentials.php and change the configuration
-* The valid Super Admin account will be created later
+* Only until v3.1: The valid Super Admin account will be created later
 * The email error logging can be enabled to ease server monitoring
 * **Be aware** that you need to set `'EmailTransport' => [...]` three times. Twice in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default", "debug" and "fallback", so the configs must not stay commented!
 * See [https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports](https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports)
 
 ## Testing your email configuration
-* Once you created a Super Admin account (will be created later), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
+* Once you created a Super Admin account (instructions further down), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
 
 ## Setup security keys
 Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security salt ```Security.salt```. Set it in custom_config.php
@@ -140,7 +140,7 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 * After the successful registration go to your database (e.g. using Adminer or phpMyAdmin) and open the table "fcs_customer". There is one record (with your email address). Change the field "id_default_group" from 3 to 5 and  the field "active" from 0 to 1.
 * Open https://yourdomain.tld/request-new-password, type in your email address and press "Send".
 * With the password that was sent to you by email you are able to login as a Super Admin.
-* **Don't forget** to add the Super Admin data to credentials.php.
+* Only until v3.1: **Don't forget** to add the Super Admin data to credentials.php.
 * **Be aware:** The Urls in this section depend on your installation language and therefore may be different for you. The Urls are constructed from translation-settings which can be found in the "/resources/locale/country_CULTURE/default.po" file under the keys "route_sign_in" and "route_request_new_password". Example for "de_DE":
   * Sign-in: https://yourdomain.tld/anmelden
   * Request-new-password: https://yourdomain.tld/neues-passwort-anfordern
