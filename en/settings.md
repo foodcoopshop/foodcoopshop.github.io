@@ -1,5 +1,6 @@
 ---
-parent: English
+parent: For developers
+nav_order: 5
 ---
 ## Software settings
 
@@ -10,7 +11,7 @@ To override settings in the files config / app_config.php, config / custom_confi
 The file config / app_config.php must not be changed, as it would be overwritten by the next update.
 
 ### Change weekly pickup day
-Please use the script ChangeWeeklyPickupDayByOneDayShell to change the setting FCS\_WEEKLY\_PICKUP\_DAY. 
+Please use the script ChangeWeeklyPickupDayByOneDayShell to change the setting FCS\_WEEKLY\_PICKUP\_DAY.
 
 `bin/cake ChangeWeeklyPickupDayByOneDay decrease` => Changed Friday to Thursday
 
