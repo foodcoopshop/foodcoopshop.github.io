@@ -23,7 +23,7 @@ If you want to update your installation to another version, please read the [mig
 
 There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to invest your time in IT stuff.
 
-There are demo installations in **[German](https://demo-de.foodcoopshop.com/)**, **[English](https://demo-en.foodcoopshop.com/)** and **[Polish](https://demo-pl.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
+There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
 ### Setting up your dev environment
 * If you want to set up a dev environment, please clone from Github.
@@ -119,7 +119,7 @@ $ chmod -R a+w ./webroot/tmp
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
 * Define your database configuration in custom_config.php
 * At first, **import the [initial database structure]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-structure.sql)**
-* Then **import initial database data in [German]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-de_DE.sql), [English]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-en_US.sql) or [Polish]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-pl_PL.sql)**. You can't easily change the language after the installation, so please don't play around.
+* Then **import initial database data in [German]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-en_US.sql)**. You can't easily change the language after the installation, so please don't play around.
 * You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials

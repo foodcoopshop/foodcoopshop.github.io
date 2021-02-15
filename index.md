@@ -21,7 +21,7 @@ nav_order: 1
 
 ## Supported languages
 
-* Demo versions in [German](https://demo-de.foodcoopshop.com), [English](https://demo-en.foodcoopshop.com) and [Polish](https://demo-pl.foodcoopshop.com)
+* Demo versions in [German](https://demo-de.foodcoopshop.com) and [English](https://demo-en.foodcoopshop.com)
 * [New translations are welcome]({{ site.baseurl }}/en/translating)
 
 ## Stability / maintenance
