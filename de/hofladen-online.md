@@ -4,6 +4,8 @@ nav_order: 11
 has_toc: true
 ---
 
+![]({{ site.baseurl }}/assets/img/de/spin-offs/hofladen-online-logo.png)
+
 ## Hofladen Online
 
 Die Software FoodCoopShop kann auch für Direktvermarkter mit Hofläden verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich.

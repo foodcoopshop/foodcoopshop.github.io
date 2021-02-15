@@ -4,6 +4,8 @@ nav_order: 10
 has_toc: true
 ---
 
+![]({{ site.baseurl }}/assets/img/de/spin-offs/dorfladen-online-logo.png)
+
 ## Dorfladen Online
 {: .d-inline-block }
 
