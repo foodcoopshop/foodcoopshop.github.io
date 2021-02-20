@@ -14,24 +14,25 @@ Neu ab v3.2 (Frühjahr 2021)
 
 Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich. Die notwendigen Änderungen betreffen vor allem die Gesetzestexte (AGB, Nutzungsbedingungen, Datenschutzerklärung) und die Rechnungslegung.
 
+Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" werden ab März 2021 als Open Source (MIT-Lizenz) verfügbar sein und können dann hier downgeloadet werden:
+[https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
+
 Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.dorfladen-online.at](https://www.dorfladen-online.at)
-
-### 1) Neue Funktionen
-
-* Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt einfach änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann auch manuell ausgelöst werden (für Laufkundschaft). Rechnungen können als "bar bezahlt" markiert werden.
-
-* Beim Erstellen einer Rechnung oder dem Anzeigen der Rechnungs-Vorschau werden immer alle Bestellungen **des aktuellen Tages** und von **bereits vergangenen Tagen** verwendet, aber **niemals zukünftige Bestellungen** (z.B. offene Vorbestellungen).
-
-* Der Umsatzsteuersatz von Pfand wird über die sogenannte "Vereinfachungsregel" abgebildet: dh. **immer 20% USt.** (unabhängig vom Steuersatz des Produktes).
-
-* Die erstellten Rechnungen werden übersichtlich im **Journal** (zu finden unter "Finanzberichte / Journal") zusammengefasst. Die Rechnungsummen werden auch nach Umsatzsteuer gruppiert dargestellt, das erleichtert die Buchhaltung.
-
-* Das Stornieren von Rechnungen rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
-
-Die dafür notwendigen Code-Änderungen werden ab dem Frühjahr 2021 (mit der Version v3.2) als Open Source (MIT-Lizenz) verfügbar sein.
 
 **Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
 
+
+### 1) Neue Funktionen
+
+* Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann aber auch manuell ausgelöst werden (z.B. für Laufkundschaft). Rechnungen können so auch als "bar bezahlt" markiert werden.
+
+* Beim Erstellen einer Rechnung oder dem Anzeigen der Rechnungs-Vorschau werden immer die Daten aller Bestellungen **des aktuellen Tages** und von **bereits vergangenen Tagen** verwendet, aber **niemals die Daten von noch offenen, zukünftigen Vorbestellungen**.
+
+* Der Umsatzsteuersatz von Pfand wird über die sogenannte "Vereinfachungsregel" abgebildet: dh. **immer 20% USt.** (unabhängig vom Steuersatz des eigentlichen Produktes).
+
+* Die erstellten Rechnungen werden übersichtlich im **Journal** (zu finden unter "Finanzberichte / Journal") zusammengefasst. Die Rechnungsummen werden auch nach Umsatzsteuer gruppiert dargestellt, das erleichtert die Buchhaltung.
+
+* Auch das Stornieren von Rechnungen ist rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
 
 ### 2) Installation
 
@@ -50,6 +51,7 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 
 'customerMainNamePart' => 'lastname',
 'showManufacturerImprint' => false,
+'sendEmailWhenOrderDetailQuantityOrPriceChanged' => false,
 ```
 
 ### 2.2) Zusätzliche Änderungen in der Tabelle fcs_configuration
@@ -62,7 +64,6 @@ FCS_ACCOUNTING_EMAIL
 FCS_USE_VARIABLE_MEMBER_FEE
 FCS_DEFAULT_VARIABLE_MEMBER_FEE_PERCENTAGE
 FCS_TIMEBASED_CURRENCY_ENABLED
-FCS_FOODCOOPS_MAP_ENABLED
 FCS_MEMBER_FEE_PRODUCTS
 ```
 
