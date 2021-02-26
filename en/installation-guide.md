@@ -148,6 +148,13 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 ## Cronjobs
 To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl }}/en/cronjobs).
 
+## Unit Testing
+* Create second database and add test database configuration to database.php. For details read [Cake's testing documentation](https://book.cakephp.org/4.0/en/development/testing.html)
+* Import [this dump](config/sql/_installation/clean-db-structure.sql) into your test database
+```
+$ vendor/bin/phpunit
+```
+
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
 * To re-build the assets in /cache for production, run `bin/cake asset_compress build`
