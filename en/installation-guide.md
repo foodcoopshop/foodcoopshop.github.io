@@ -25,13 +25,19 @@ There is an offer for [paid support and hosting](https://www.foodcoopshop.com/da
 
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
-### Setting up your dev environment
-* If you want to set up a dev environment, please clone from Github.
-* After that, you need to manually install composer and npm vendors as described in [README.md]({{site.repo_url}}/blob/develop/README.md). **Be aware**: The default branch is develop and therefore unstable!
-* The master branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download). The only difference is, that the zip-File already includes the vendors (`composer install` and `npm install` were already executed).
+### 1) Setting up your dev environment
+* If you want to set up a dev environment, clone from Github.
+* After that, you need to manually install composer and npm vendors.
+* The master branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
+* The only difference is, that the zip file already includes the vendors which were already installed by the following commands):
+```
+$ composer install
+$ npm --prefix ./webroot install ./webroot
+```
+* So run that commands if you cloned from Github.
 * Don't forget to change app.debug to true in your custom_config.php.
 
-### Installing the latest stable version for your live server
+### 2) Installing the latest stable version for your live server
 * Download the latest stable version at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download) and upload the unpacked files to your server using FTP.
 * Set the document root to /your-folder/foodcoopshop/webroot.
 Set the file access rights so that the Apache user (e.g. www-data) owns all files and folders:
