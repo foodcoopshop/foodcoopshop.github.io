@@ -3,11 +3,10 @@ parent: For developers
 nav_order: 1
 ---
 ## Installation guide
-This is the installation guide for using the software "as is". If you want to contribute to this project, please follow the developers installation in the project's [README.md]({{site.repo_url}}/blob/develop/README.md) and [CONTRIBUTING.md]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
-
-This installation guide always references to the [latest stable version]({{site.repo_url}}/releases).
-
-If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
+* If you want to contribute to this project, please follow the [contribution guideline]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
+* This installation guide always references to the [latest stable version]({{site.repo_url}}/releases).
+* If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
+* You can help making this open source project more visible on GitHub by starring ⭐ it. Thank you!
 
 ### Requirements
 * Server connected to internet with **shell access** and **cronjobs**
