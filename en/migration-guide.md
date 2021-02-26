@@ -17,6 +17,7 @@ nav_order: 2
 * execute migrations => see bottom of page: **the command changed with this version!**
 * add a new cronjob to handle the new [queue](https://github.com/dereuromark/cakephp-queue): `*/5 * * * * /your-app/bin/cake queue runworker -q`
 * rename `app.customFrontendColorTheme` to `app.customThemeMainColor`
+* The new default logo format is png. You can change back to jpg setting `app.logoFileName` to `logo.jpg`
 * Minimal requirement for PHP is now 7.4
 * After the update, please remove `app.adminEmail` and `app.adminPassword`.
 
