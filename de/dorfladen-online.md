@@ -21,6 +21,7 @@ Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" abe
 
 **Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
 
+Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) ist momentan noch nicht möglich. Diese Dokumentation richtet sich also an Neuinstallationen.
 
 ### 1) Neue Funktionen
 
