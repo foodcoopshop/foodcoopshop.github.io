@@ -3,6 +3,8 @@ parent: Deutsch
 ---
 # Stundenabrechnungs-Modul
 
+⚠️ **ACHTUNG: Wer das Stundenabrechnungs-Modul aktiv verwendet, soll sich bitte bei mir melden. Ich habe nämlich den Eindruck, dass es kaum im Gebrauch ist. Da aber die Wartung Aufwand bedeutet, werde ich das Modul - sofern sich niemand meldet - ab v3.3 (Herbst 2021) aus der Software entfernen.** ⚠️
+
 ## Anwendungsbeispiele
 * Das Stundenabrechnungs-Modul gibt Herstellern die Möglichkeit, ihre Produkte zu einem frei wählbaren Prozentsatz **zusätzlich zum Geldbetrag in Stunden anzubieten**.
 * Mitglieder, die die Produkte in Stunden bezahlen wollen, stellen dem Hersteller dann diese Zeit z. B. in Form von **Mithilfe am Hof** zur Verfügung.
