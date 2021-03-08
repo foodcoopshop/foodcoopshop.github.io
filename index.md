@@ -26,5 +26,5 @@ nav_order: 1
 
 ## Stability / maintenance
 
-* In the latest version (v3.1) [370 automated unit tests and 1.751 assertions]({{site.repo_url}}/actions) keep the software stable.
+* In the latest version (v3.2) [412 automated unit tests and 1.916 assertions]({{site.repo_url}}/actions) keep the software stable.
 [Mario Rothauer](https://github.com/mrothauer) created the project in 2014 and maintains it.

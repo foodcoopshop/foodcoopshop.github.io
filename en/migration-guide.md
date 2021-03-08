@@ -12,7 +12,7 @@ nav_order: 2
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 ### FCS v3.1.x to FCS 3.2.x
-* **v3.2 WILL BE RELEASED IN MARCH 2021**
+* **v3.2 IS THE LATEST STABLE VERSION**
 * replace source code => see bottom of page
 * execute migrations => see bottom of page: **the command changed with this version!**
 * add a new cronjob to handle the new [queue](https://github.com/dereuromark/cakephp-queue): `*/5 * * * * /your-app/bin/cake queue runworker -q`
@@ -22,7 +22,6 @@ nav_order: 2
 * After the update, please remove `app.adminEmail` and `app.adminPassword`.
 
 ### FCS v3.0.x to FCS 3.1.x
-* **v3.1 IS THE LATEST STABLE VERSION**
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 
