@@ -11,7 +11,7 @@ title: Wichtige Infos zum Gelingen
 
 * Ebenfalls im Modul "Finanzberichte" befindet sich der Reiter "Pfand". Hier werden alle Pfand-Eintragungen aufgelistet, die mindestens 1x im Jahr auf grobe Fehler überprüft werden sollten. Z.B. kann die Summe mit der Summe der insgesamt bestellten Produkte mit Pfand verglichen werden (Bestellungen, mehrere Abholtage / Zeitraum auswählen / Gruppierung nach Hersteller). Die beiden Summen sollten in etwa gleich sein.
 
-Neu ab v3.2 (Frühjahr 2021)
+Neu in v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
 * Weiters im Modul "Finanzberichte": Zumindest einmal jährlich einen Blick auf den Reiter "Pfand-Übersicht" werfen. Hier seht ihr unter anderem, wie viel Geld von den gesamten Mitglieder-Guthaben für Pfand vorgesehen ist und wie hoch alle offenen Pfand-Forderungen sind. (Für Superadmins, unter Finanzberichte und dann rechts oben auf "Pfand-Saldo" klicken.)

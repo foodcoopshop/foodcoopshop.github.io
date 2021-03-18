@@ -9,7 +9,7 @@ has_toc: true
 ## Dorfladen Online
 {: .d-inline-block }
 
-Neu ab v3.2 (Frühjahr 2021)
+Neu in v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
 Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich. Die notwendigen Änderungen betreffen vor allem die Gesetzestexte (AGB, Nutzungsbedingungen, Datenschutzerklärung) und die Rechnungslegung.

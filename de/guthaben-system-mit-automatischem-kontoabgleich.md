@@ -30,7 +30,7 @@ title: Automatischer Kontoabgleich (CSV-Upload)
 ### Aktivierung der Funktion
 Die Funktion kann in den Einstellungen aktiviert werden: "Admin-Bereich" / "Homepage-Verwaltung" / "Art der Eintragung der Guthaben-Aufladungen". Hier "Guthaben-Aufladungen werden von Superadmins über eine CSV-Liste ins System geladen" auswählen.
 
-Neu ab v3.2 (Frühjahr 2021)
+Neu in v3.2 (Frühjahr 2021)
 {: .label .label-green }
 
 Neue  Einstellung: "Ab welchem Guthaben-Stand soll die Erinnerungsmail versendet werden?" 50 ist ein sinnvoller Wert, falls der automatische Kontoabgleich verwendet wird.
