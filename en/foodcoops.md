@@ -1,8 +1,8 @@
 ---
 nav_order: 5
-title: Who uses FoodCoopShop
+title: Users
 ---
-## Chronological list of users
+## Users
 
 [Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
