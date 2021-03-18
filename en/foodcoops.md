@@ -2,12 +2,13 @@
 nav_order: 5
 title: Who uses FoodCoopShop
 ---
-## Chronological list of projects that work with FoodCoopShop
+## Chronological list of users
 
 [Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Hosted by |
 | **2021** |
+| 04 | [Freistädter Genusskisterl, AT](https://www.freistaedtergenusskisterl.at) | foodcoopshop.com |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | self-hosted |
 | 02 | [FoodKollektiv Wedding, Berlin, DE](https://www.foodkollektiv-wedding.de) | self-hosted |
 | 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | foodcoopshop.com |
