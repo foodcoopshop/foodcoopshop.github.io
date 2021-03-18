@@ -4,7 +4,7 @@ title: Users
 ---
 ## Users
 
-[Map of all these foodcoops](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
+[View map](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Hosted by |
 | **2021** |
