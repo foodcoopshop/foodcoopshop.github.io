@@ -11,15 +11,14 @@ nav_order: 2
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
-### FCS v3.2.0 to FCS 3.2.1
+### FCS v3.2.1
 * **v3.2.1 IS THE LATEST STABLE VERSION**
 * replace source code => see bottom of page
 * Due to a code cleaning problem where all old migrations were removed in v3.0, two migrations were lost. Installations that migrated from <= v3.0 to v3.2.x need to copy these two migrations - [Migration A](https://github.com/foodcoopshop/foodcoopshop/blob/1d7561acd589eb0f4cc04b33c960dcef6cb4c414/config/Migrations/20200319092123_ChangeDefaultTableCollationToUtf8mb4.php) and [Migration B](https://github.com/foodcoopshop/foodcoopshop/blob/1d7561acd589eb0f4cc04b33c960dcef6cb4c414/config/Migrations/20200319192745_MarkPricePerUnitAsSaved.php) - into the folder /config/Migrations/ and then go on with the next point "execute migrations". [Details](https://github.com/foodcoopshop/foodcoopshop/issues/649)
 * execute migrations => see bottom of page
 * execute `bin/cake cache clear_all`
 
-
-### FCS v3.1.x to FCS 3.2.0
+### FCS v3.2.0
 * replace source code => see bottom of page
 * execute migrations => see bottom of page: **the command changed with this version!**
 * add a new cronjob to handle the new [queue](https://github.com/dereuromark/cakephp-queue): `*/5 * * * * /your-app/bin/cake queue runworker -q`
@@ -28,11 +27,11 @@ nav_order: 2
 * Minimal requirement for PHP is now 7.4
 * After the update, please remove `app.adminEmail` and `app.adminPassword`.
 
-### FCS v3.0.x to FCS 3.1.x
+### FCS v3.1.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 
-### FCS v2.7.x to FCS 3.0.x
+### FCS v3.0.x
 * FCS v3.x uses CakePHP v4 as the base framework.
 * For the new major version v3 a lot of legacy code was removed. Please ensure that your last v2.x installation at least runs **two full months in production** before updating to v3! The reason is, that in v2.2 / v2.3 the invoice generation was changed. If you don't use the invoice cronjob, you can update to v3 immediately.
 * `app.dateOfFirstSendInvoiceCronjobWithPickupDayUpdate` can be removed
