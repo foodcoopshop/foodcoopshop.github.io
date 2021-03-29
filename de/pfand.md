@@ -15,6 +15,13 @@ Der Pfand wird beim Kauf des Produktes automatisch vom Guthaben des Mitglieds ab
 
 Wenn ein **Mitglied Leergebinde zurückbringt,** muss unter "Bestellungen" in der Zeile des Mitgliedes auf den Button "Pfand-Rückgabe" der Wert des Leergebindes in € eingetragen werden. Dieser Betrag scheint dann in der Guthaben-Übersicht des Mitglieds auf und erhöht das Guthaben.
 
+Neu in v3.3 (Herbst 2021)
+{: .label .label-green}
+
+Pfand-Rückgaben für Mitglieder können nun auch dann eingegeben werden, auch wenn das Mitglied in der aktuellen Woche nicht bestellt hat. Der Button "Pfand-Rückgabe" wird immer angezeigt, das Mitglied kann dann aus einer Dropdown-Liste ausgewählt werden.
+{: .d-inline}
+
+
 ## Pfand-Abwicklung mit Hersteller
 
 Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
