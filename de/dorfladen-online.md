@@ -23,7 +23,7 @@ Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" abe
 
 Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) ist momentan noch nicht möglich. Diese Dokumentation richtet sich also an Neuinstallationen.
 
-### 1) Neue Funktionen
+### Neue Funktionen
 
 * Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann aber auch manuell ausgelöst werden (z.B. für Laufkundschaft). Rechnungen können so auch als "bar bezahlt" markiert werden.
 
@@ -35,11 +35,11 @@ Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) 
 
 * Auch das Stornieren von Rechnungen ist rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
 
-### 2) Installation
+### Installation
 
 Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
 
-### 2.1) Zusätzliche Einstellungen für custom_config.php
+### Zusätzliche Einstellungen für custom_config.php
 
 ```
 'isCustomerAllowedToModifyOwnOrders' => false,
@@ -55,7 +55,7 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 'sendEmailWhenOrderDetailQuantityOrPriceChanged' => false,
 ```
 
-### 2.2) Zusätzliche Änderungen in der Tabelle fcs_configuration
+### Zusätzliche Änderungen in der Tabelle fcs_configuration
 
 * Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
 
@@ -76,7 +76,7 @@ FCS_DEPOSIT_TAX_RATE => '20,00'
 FCS_INVOICE_HEADER_TEXT => 'Vorname Nachname<br />Adresse<br />UID-Nr.'
 ```
 
-### 2.3) Korrekten Rechnungs-Cronjob aktivieren
+### Korrekten Rechnungs-Cronjob aktivieren
 ```
 SendInvoicesToManufacturers => 0
 SendInvoicesToCustomers => 1
