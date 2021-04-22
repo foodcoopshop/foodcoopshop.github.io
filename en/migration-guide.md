@@ -31,7 +31,7 @@ nav_order: 2
 * Minimal requirement for PHP is now 7.4
 * After the update, please remove `app.adminEmail` and `app.adminPassword`.
 
-### FCS v3.1.x
+### FCS v3.1.0
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 
