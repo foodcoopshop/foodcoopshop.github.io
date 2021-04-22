@@ -11,8 +11,12 @@ nav_order: 2
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
+### FCS v3.2.2
+* **v3.2.2 IS THE LATEST STABLE VERSION**
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+
 ### FCS v3.2.1
-* **v3.2.1 IS THE LATEST STABLE VERSION**
 * replace source code => see bottom of page
 * Due to a code cleaning problem where all old migrations were removed in v3.0, two migrations were lost. Installations that migrated from <= v3.0 to v3.2.x need to copy these two migrations - [Migration A](https://github.com/foodcoopshop/foodcoopshop/blob/1d7561acd589eb0f4cc04b33c960dcef6cb4c414/config/Migrations/20200319092123_ChangeDefaultTableCollationToUtf8mb4.php) and [Migration B](https://github.com/foodcoopshop/foodcoopshop/blob/1d7561acd589eb0f4cc04b33c960dcef6cb4c414/config/Migrations/20200319192745_MarkPricePerUnitAsSaved.php) - into the folder /config/Migrations/ and then go on with the next point "execute migrations". [Details](https://github.com/foodcoopshop/foodcoopshop/issues/649)
 * execute migrations => see bottom of page
