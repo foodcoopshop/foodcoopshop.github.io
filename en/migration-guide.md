@@ -11,6 +11,12 @@ nav_order: 2
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
+
+### FCS unreleased version
+* The old member fee system was removed. If you used it, remove `app.memberFeeEnabled` from custom_config.php. [Docs to new member fee system](https://foodcoopshop.github.io/de/mitgliedsbeitraege.html).
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+
 ### FCS v3.2.2
 * **v3.2.2 IS THE LATEST STABLE VERSION**
 * replace source code => see bottom of page
