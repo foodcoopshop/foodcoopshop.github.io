@@ -76,6 +76,12 @@ FCS_DEPOSIT_TAX_RATE => '20,00'
 FCS_INVOICE_HEADER_TEXT => 'Vorname Nachname<br />Adresse<br />UID-Nr.'
 ```
 
+Neu in v3.3 (Herbst 2021)
+{: .label .label-green }
+```
+FCS_PURCHASE_PRICE_ENABLED => 1
+```
+
 ### Korrekten Rechnungs-Cronjob aktivieren
 ```
 SendInvoicesToManufacturers => 0
