@@ -21,7 +21,7 @@ title: Users
 | 10 | [Bauernladen Eibiswald, AT](https://www.bauernladen-eibiswald.at) | Direct selling | foodcoopshop.com |
 | 10 | [Bio Drehscheibe, Lembach, AT](https://www.bio-drehscheibe.at) | Direct selling | self-hosted |
 | 08 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org) | Direct selling | self-hosted |
-| 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at | Direct selling) | foodcoopshop.com |
+| 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at) | Direct selling | foodcoopshop.com |
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | Direct selling | foodcoopshop.com |
 | 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | Direct selling | self-hosted |
 | 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | Retail | foodcoopshop.com |
