@@ -35,6 +35,12 @@ Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) 
 
 * Auch das Stornieren von Rechnungen ist rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
 
+Neu in v3.3 (Herbst 2021)
+{: .label .label-green }
+
+* Die Erfassung des Einkaufspreises ist nun möglich, sie dient als Grundlage zur Gewinnermittlung.
+
+
 ### Installation
 
 Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
