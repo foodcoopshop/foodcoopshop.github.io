@@ -62,7 +62,7 @@ FCS_MEMBER_FEE_PRODUCTS
 FCS_FOODCOOPS_MAP_ENABLED => 0
 ```
 
-## Neue Funktion (Juli 2020): Kunde kann Abholtag selbst auswählen
+## Kunde kann Abholtag selbst auswählen
 
 ```FCS_CUSTOMER_CAN_SELECT_PICKUP_DAY``` auf 1 setzen
 
