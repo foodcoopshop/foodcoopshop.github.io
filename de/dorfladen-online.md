@@ -17,11 +17,16 @@ Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn
 Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" werden ab März 2021 als Open Source (MIT-Lizenz) verfügbar sein und können dann hier downgeloadet werden:
 [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
 
-Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.dorfladen-online.at](https://www.dorfladen-online.at)
-
 **Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
 
 Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) ist momentan noch nicht möglich. Diese Dokumentation richtet sich also ausschließlich an Neuinstallationen.
+
+### Installation
+
+Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
+
+Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.dorfladen-online.at](https://www.dorfladen-online.at)
+
 
 ### Neue Funktionen
 
@@ -40,10 +45,6 @@ Neu in v3.3 (Herbst 2021)
 
 * Die Erfassung des Einkaufspreises ist nun möglich, sie dient als Grundlage zur Gewinnermittlung.
 
-
-### Installation
-
-Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
 
 ### Zusätzliche Einstellungen für custom_config.php
 
