@@ -67,7 +67,6 @@ Neu in v3.3 (Herbst 2021)
 * Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
 
 ```
-FCS_CUSTOMER_GROUP
 FCS_ACCOUNTING_EMAIL
 FCS_USE_VARIABLE_MEMBER_FEE
 FCS_DEFAULT_VARIABLE_MEMBER_FEE_PERCENTAGE
