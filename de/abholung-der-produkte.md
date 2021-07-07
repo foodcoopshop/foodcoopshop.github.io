@@ -13,11 +13,7 @@ Wenn ein Hersteller die Bestellliste, die er per E-Mail bekommen hat, vergessen 
 ## Bestellte Produkte des Mitglieds anzeigen bzw. kontrollieren
 Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Mehrere Bestellungen werden automatisch zusammengefasst. Beim gegenseitigen Kontrollieren der Produkte musst du dir die bereits überprüften Produkte nicht merken, sondern kannst auf das Hakerl ganz links in der jeweiligen Zeile klicken. Die Zeile wird dann grün.
 
-Neu in v3.2 (Frühjahr 2021)
-{: .label .label-green }
-
 Die Markierung der Zeile bleibt auch bestehen, wenn die Seite neu geladen wird (z.B. nach Gewichtsänderung oder Stornierung). Allerdings nur im gleichen Browser und nach spätestens 24 Stunden sind die Markierungen automatisch wieder gelöscht.
-{: .d-inline}
 
 ## Stornieren von Produkten
 Falls ein Produkt nicht geliefert wird, muss es storniert werden, damit das Mitglied es nicht bezahlen muss und das Produkt auch nicht mit dem Hersteller verrechnet wird. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren. Du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind: Einfach "Bestellungen / Bestelländerungen" anklicken.
@@ -47,9 +43,6 @@ Die Liste der Bestellungen wird auf Basis des nächsten Abholtages angezeigt. Di
 
 ## Produkte auf "abgeholt" setzen
 Der Abholdienst kann angeben, wenn das Mitglied die Produkte abgeholt hat (unter "Bestellungen", Button ganz rechts). Die Zeile wird dann grün angezeigt, ansonsten hat es aber keine Auswirkungen. Es ist nur möglich, **alle Produkte eines Abholtages** auf "abgeholt" zu setzen, nicht einzelne Produkte.
-
-Neu in v3.2
-{: .label .label-green }
 
 Falls die Bestellung Produkte enthält, deren Gewicht noch angepasst werden muss, erscheint nach dem Setzen auf "abgeholt" eine enstprechende Fehlermeldung. Der Status wird aber trotzdem auf "abgeholt" gesetzt.
 {: .d-inline-block }

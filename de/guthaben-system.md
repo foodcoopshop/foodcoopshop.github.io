@@ -30,10 +30,6 @@ Jeden Freitag wird automatisch eine Erinnerungs-Mail an jene Mitglieder versende
 ## Bestellen sperren ab bestimmtem Guthaben-Stand
 In den Einstellungen kann ein Bestell-Limit angegeben werden, bis zu welchem bestellt werden kann (z.B. -100,00 €).
 
-Neu in v3.2 (Frühjahr 2021)
-{: .label .label-green}
-
 Das eingestellte Guthaben-Limit kann nun beim normalen Bestellen nicht mehr unterschritten werden. Bei Sofort-Bestellungen und Preis- bzw. Gewichtsanpassungen ist dies aber weiterhin möglich.
-{: .d-inline}
 
 Den Guthaben-Saldo aller Mitglieder sieht man im Admin-Bereich unter "Mitglieder".

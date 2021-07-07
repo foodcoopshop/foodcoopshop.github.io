@@ -8,7 +8,7 @@ title: Mitgliedsbeiträge
 
 **Mitgliedsbeiträge sind für viele Foodcoops die einzige Einnahmequelle. Die Verwaltung bzw. Kontrolle der Mitgliedsbeiträge kann jedoch recht schnell sehr zeitaufwändig werden.**
 
-**Dieser Leitfaden beschreibt, wie das vorhandene Guthaben-System auch für Mitgliedsbeiträge verwendet werden kann. Kontoeingänge müssen so nicht gesondert kontrolliert werden, sondern laufen - wie alle anderen Produkte auch - über die Bestellfunktion des FoodCoopShops. Mit einer neuen Funktion (ab v3.2) kann nun auch leicht ermittelt werden, wer den Mitgliedsbeitrag noch nicht bezahlt hat.**
+**Dieser Leitfaden beschreibt, wie das vorhandene Guthaben-System auch für Mitgliedsbeiträge verwendet werden kann. Kontoeingänge müssen so nicht gesondert kontrolliert werden, sondern laufen - wie alle anderen Produkte auch - über die Bestellfunktion des FoodCoopShops. Es kann auch leicht ermittelt werden, wer den Mitgliedsbeitrag bereits bezahlt hat und wer nicht.**
 
 ## Leitfaden
 
@@ -20,26 +20,16 @@ title: Mitgliedsbeiträge
 * Für neue Mitglieder, die später im Jahr einsteigen, gilt: Das Produkt normal bestellen, dann aber den Preis mit der Funktion "Preis ändern" im Nachhinein an die verbleibenden Monate des Kalenderjahres anpassen. **Wichtig**: Falls jemand z.B. im Oktober einsteigt, muss der Mitgliedsbeitrag auf den Betrag für drei Monate angepasst werden, damit alle Beiträge für ein Kalenderjahr auch im jeweiligen Kalenderjahr gebucht werden und sich nichts überschneidet. Sonst ist nicht rauszufinden, wie viele Einnahmen über Mitgliedsbeiträge der Verein im Kalenderjahr X hatte (Stichwort Jahresabchluss).
 
 **Wer hat den Mitgliedsbeitrag noch nicht bezahlt?**
-{: .d-inline-block }
-
-Neu in v3.2 (Frühjahr 2021)
-{: .label .label-green }
 
 In den Einstellungen unter "Welche Produkte werden als Mitgliedsbeitrag verwendet?" das entsprechende Produkt / die entsprechenden Produkte auswählen. Sobald das erledigt ist, scheint in der Mitgliederliste rechts unter "Mitgliedsbeitrag" die Summe des vom jeweiligen Mitglied im ausgewählten Kalenderjahr gekauften Mitgliedsbeitrages auf. Ein Klick auf die Spaltenübersicht sortiert nach Mitgliedsbeitrag, so sieht man alle, die noch keinen bestellt haben.
-{: .d-inline-block}
 
 ![]({{ site.baseurl }}/assets/img/de/mitglieder/mb-einstellungen.png)
 ![]({{ site.baseurl }}/assets/img/de/mitglieder/mb-kontrolle-in-mitglieder-liste.png)
 
 
 **Umsatzstatistik**
-{: .d-inline-block }
 
-Neu in v3.2 (Frühjahr 2021)
-{: .label .label-green }
-
-Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht mehr angezeigt, die Umsätze sind dadurch bereinigt.
-{: .d-inline-block}
+Die in den Einstellungen ausgewählten Mitgliedsbeitrags-Produkte werden in der Umsatzstatistik nicht angezeigt, die Umsätze sind dadurch bereinigt.
 
 **Summe der Mitgliedsbeiträge pro Kalenderjahr**
 Bestellungen / Mehrere Abholtage / 01.01. bis 31.12. des entsprechenden Jahres / Produkt-Filter auf Mitgliedsbeitrag / evtl. Gruppieren nach... auswählen (oder auch auf "Gruppieren nach Mitglied" belassen).

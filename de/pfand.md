@@ -3,11 +3,7 @@ parent: Deutsch
 title: Pfand
 ---
 
-Neu in v3.2 (Frühjahr 2021)
-{: .label .label-green }
-
-Das Pfand-System kann nun auch komplett deaktiviert werden: ```app.isDepositEnabled => false```
-{: .d-inline}
+Das Pfand-System kann komplett deaktiviert werden: ```app.isDepositEnabled => false```
 
 ## Pfand-Abwicklung mit Mitglied
 
@@ -26,11 +22,7 @@ Pfand-Rückgaben für Mitglieder können nun auch dann eingegeben werden, auch w
 
 Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
-Neu in v3.2 (Frühjahr 2021)
-{: .label .label-green}
-
-Für Pfand-Rücknahmen und Ausgleichszahlungen kann nun ein Buchungsdatum angegeben werden.
-{: .d-inline}
+Für Pfand-Rücknahmen und Ausgleichszahlungen kann auch ein Buchungsdatum angegeben werden.
 
 ## Jahresabschluss
 
