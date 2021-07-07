@@ -1,6 +1,7 @@
 ---
 title: Dorfladen Online
 nav_order: 10
+has_children: true
 has_toc: true
 ---
 
@@ -44,7 +45,7 @@ Neu in v3.3 (Herbst 2021)
 {: .label .label-green }
 
 * Die Erfassung des Einkaufspreises ist nun möglich, sie dient als Grundlage zur Gewinnermittlung.
-* Schnittstelle zu Registrierkasse HelloCash (hellocash.at).
+* [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/registrierkasse-hello-cash)
 
 
 ### Zusätzliche Einstellungen für custom_config.php
@@ -99,20 +100,4 @@ Neu in v3.3 (Herbst 2021)
 {: .label .label-green }
 ```
 FCS_PURCHASE_PRICE_ENABLED => 1
-```
-
-### Registrierkasse: Hello Cash API verwenden
-Um Barverkäufe rechtlich korrekt abzuwickeln, braucht man in Österreich ab einer gewissen Umsatzgrenze eine Registrierkasse. Mit dieser Einstellung werden alle Rechnungen (bar und unbar) über die cloudbasierte Hello-Cash-Registrierkasse erstellt. Die Bedienung der Registrierkasse erfolgt nahtlos und recht einfach über die Dorfladen-Online-Software, HelloCash arbeitet komplett im Hintergrund. Um die Registrierkassen-Funktion zu nutzen, muss ein Acoount bei hellocash.at vorhanden sein.
-
-* Tabelle fcs_configuration
-```
-FCS_HELLO_CASH_API_ENABLED => 1
-```
-
-* custom_config.php
-```
-'helloCashAtCredentials' => [
-    'username' => 'your-hello-cash-email@example.com',
-    'password' => 'your-hello-cash-password',
-],
 ```
