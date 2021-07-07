@@ -12,12 +12,12 @@ has_toc: true
 
 Die Software FoodCoopShop kann auch für den Einzelhandel verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich. Die notwendigen Änderungen betreffen vor allem die Gesetzestexte (AGB, Nutzungsbedingungen, Datenschutzerklärung) und die Rechnungslegung.
 
-Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" werden ab März 2021 als Open Source (MIT-Lizenz) verfügbar sein und können dann hier downgeloadet werden:
+Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind seit März 2021 als Open Source (MIT-Lizenz) verfügbar und können hier downgeloadet werden:
 [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
 
 **Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
 
-Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) ist momentan noch nicht möglich. Diese Dokumentation richtet sich also ausschließlich an Neuinstallationen.
+Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) ist nicht möglich. Diese Dokumentation richtet sich also ausschließlich an Neuinstallationen.
 
 ### Installation
 
