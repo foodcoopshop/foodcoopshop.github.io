@@ -6,9 +6,9 @@ nav_order: 1
 
 ## Registrierkasse
 
-Um Barverkäufe korrekt abzuwickeln, benötigt man in Österreich ab einer gewissen Umsatzgrenze eine Registrierkasse. Um dem Nutzer das Arbeiten mit zwei Systemen zu ersparen, habe ich mich für eine recht einfach zu bedienende Registrierkasse entschieden: Nämlich eine, die man gar nicht bemerkt :-)
+Um Barverkäufe korrekt abzuwickeln, benötigt man in Österreich ab einer gewissen Umsatzgrenze eine Registrierkasse. Um dem Betreiber das Arbeiten mit zwei Systemen zu ersparen, habe ich mich für eine recht einfach zu bedienende Registrierkasse entschieden: Nämlich eine, die man gar nicht bemerkt :-)
 
-Die Registrierkasse arbeite komplett im Hintergrund und ist zu 100% in die Dorladen-Online-Software integriert. Der Kassiervorgang und das Drucken des Beleges ist daher sehr einfach und schnell.
+Die Registrierkasse arbeite komplett im Hintergrund und ist zu 100% in die Dorfladen-Online-Software integriert. Der Kassiervorgang und das Drucken des Beleges ist daher sehr einfach und schnell.
 
 Mit einer Schnittstelle zur cloudbasierten Hello-Cash-Registrierkasse [https://www.hellocash.at](https://www.hellocash.at) werden alle Rechnungen (bar und unbar) erstellt.
 
