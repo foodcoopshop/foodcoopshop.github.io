@@ -30,7 +30,6 @@ title: Users
 | 10 | [s'Gartl, Windischgarsten, AT](https://www.s-gartl.at) | Direct selling | self-hosted |
 | 07 | [LaFoCo, Langenlois, AT](https://www.lafoco.at) | Direct selling | foodcoopshop.com |
 | 05 | [Genussfairteiler, Neumarkt i.M., AT](https://www.genussfairteiler.at) | Direct selling | foodcoopshop.com |
-| 04 | [Rhabarber Haberer, Tulln, AT](http://shop.rhabarber-haberer.org) | Direct selling | self-hosted |
 | 04 | [Taugler Körberl, St. Koloman, AT](https://körberl.taugl.online) | Direct selling | foodcoopshop.com |
 | 03 | [Lebensmittelpunkt , Imst, AT](https://shop.lebensmittelpunkt.tirol) | Direct selling | foodcoopshop.com|
 | 02 | [Koorb, Seitenstetten, AT](https://koorb.at) | Direct selling | self-hosted |
@@ -45,7 +44,6 @@ title: Users
 | 09 | [Stadtkern, Steyregg, AT](http://www.stadtkern.at) | Direct selling | self-hosted |
 | 08 | [bauern.laden.ein, Alberndorf, AT](https://www.bauernladenein.at) | Direct selling | foodcoopshop.com  |
 | 06 | [Foodcoop Vöcklabruck, AT](https://vb.foodcoopshop.com) | Direct selling | foodcoopshop.com |
-| 05 | [Querfeldein, Frankenmarkt, AT](https://foodcoopquerfeldein.at) | Direct selling | self-hosted |
 | 05 | [Foodcoop Gmunden, AT](http://www.foodcoop-gmunden.at) | Direct selling | self-hosted  |
 | 01 | [Speis, Vorchdorf, AT](https://www.speisvorchdorf.at) | Direct selling | foodcoopshop.com |
 | **2014-16**  |
