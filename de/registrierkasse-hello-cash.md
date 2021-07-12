@@ -34,3 +34,11 @@ FCS_HELLO_CASH_API_ENABLED => 1
 ```
 
 ## Konfiguration Hello Cash
+
+* Registrierkasse / Einstellungen / Allgemein / Nummberkreise: Rechnungen / Belege anpassen auf: YY0000001
+* Registrierkasse / Einstellungen / Allgemein / Bon: Layout einstellen (Logo, Breite, angezeigte Daten...)
+* Registrierkasse / Einstellungen / Allgemein / Rechnung: Layout einstellen (Logo, angezeigte Daten...)
+* Registrierkasse / Einstellungen / Signatur: Registrierkase mit dem Finanzamt verknüpfen
+* Mein Konto / Stammdaten: Ausfüllen
+* Mitarbeiter: Name ändern und ID in custom_config.php unter cashier_id (Aktuell nur ein Mitarbeiter möglich, da bräuchte es noch eine Zuordnung FCS-User / Mitarbeiter)
+* Zusätzliche Zahlungsart "Guthaben-System": Text: Der Betrag wurde von deinem Guthaben-System abgezogen.
