@@ -35,7 +35,7 @@ FCS_HELLO_CASH_API_ENABLED => 1
 
 ## Konfiguration Hello Cash
 
-* Registrierkasse / Einstellungen / Allgemein / Nummberkreise: Rechnungen / Belege anpassen auf: YY0000001
+* Registrierkasse / Einstellungen / Allgemein / Nummernkreise: Rechnungen / Belege anpassen auf: YY0000001 (Achtung: Stornierungen auf 0 lassen - sonst ergeben sich Überschneidungen, die beim internen Speichern in der Tabelle fcs_invoices Daten überschreiben).
 * Registrierkasse / Einstellungen / Allgemein / Bon: Layout einstellen (Logo, Breite, angezeigte Daten...)
 * Registrierkasse / Einstellungen / Allgemein / Rechnung: Layout einstellen (Logo, angezeigte Daten...)
 * Registrierkasse / Einstellungen / Signatur: Registrierkase mit dem Finanzamt verknüpfen
