@@ -37,7 +37,7 @@ FCS_HELLO_CASH_API_ENABLED => 1
 
 WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werden - nicht in HelloCash direkt (sonst stimmt das Journal nicht).
 
-* Registrierkasse / Einstellungen / Allgemein / Nummernkreise: Rechnungen / Belege anpassen auf: YY0000001 (Achtung: Stornierungen auf 0 lassen - sonst ergeben sich Überschneidungen, die beim internen Speichern in der Tabelle fcs_invoices Daten überschreiben).
+* Registrierkasse / Einstellungen / Allgemein / Nummernkreise: Rechnungen / Belege anpassen auf: YY0000001 (6x0) (Stornierungen anpassen auf YY0001 (4x0) - sonst ergeben sich Überschneidungen, die beim internen Speichern in der Tabelle fcs_invoices Daten überschreiben).
 * Registrierkasse / Einstellungen / Allgemein / Bon: Layout einstellen (Logo, Breite, angezeigte Daten...)
 * Registrierkasse / Einstellungen / Allgemein / Rechnung: Layout einstellen (Logo, angezeigte Daten...)
 * Registrierkasse / Einstellungen / Signatur: Registrierkase mit dem Finanzamt verknüpfen
