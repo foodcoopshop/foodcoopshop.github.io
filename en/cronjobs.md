@@ -30,6 +30,7 @@ An additional cronjob needs to be set up to handle the [queue](https://github.co
 New in v3.3
 {: .label .label-green }
 `*/5 * * * * /your-app/bin/cake queue run`
+{: .d-inline}
 
 
 Before v3.3
