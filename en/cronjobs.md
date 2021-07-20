@@ -26,4 +26,11 @@ The cronjobs are configured in the database table **fcs_cronjobs** - there is no
 ### Queue
 
 An additional cronjob needs to be set up to handle the [queue](https://github.com/dereuromark/cakephp-queue) (responsible for generating and sending order lists and invoices):
+
+New in v3.3
+{: .label .label-green }
+`*/5 * * * * /your-app/bin/cake queue run`
+
+
+Before v3.3
 `*/5 * * * * /your-app/bin/cake queue runworker -q`
