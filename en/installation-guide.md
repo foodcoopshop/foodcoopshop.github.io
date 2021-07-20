@@ -17,7 +17,7 @@ nav_order: 1
 * MySQL >= 5.7.7 (to support utf8mb4)
 * A domain name registered for you
 * Basic understanding of Webservers, MySQL Database and Linux Server administration
-* If you cloned the repository from Github: Node.js, npm and Composer
+* If you cloned the repository from Github: Node.js, npm >= v7 and Composer v2
 * PHP needs to be able to call mysqldump with exec() for database backups
 
 There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to invest your time in IT stuff.
