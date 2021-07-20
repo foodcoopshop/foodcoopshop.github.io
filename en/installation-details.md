@@ -1,1 +1,0 @@
-This page has moved to: [Installation guide]({{ site.baseurl }}/en/installation-guide).
