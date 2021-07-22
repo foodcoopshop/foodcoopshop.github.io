@@ -12,7 +12,9 @@ Die Registrierkasse arbeitet komplett im Hintergrund und ist zu 100% in die Dorf
 
 Mit einer Schnittstelle zur cloudbasierten Hello-Cash-Registrierkasse [https://www.hellocash.at](https://www.hellocash.at) werden alle Rechnungen (bar und unbar) erstellt.
 
-Um die Registrierkassen-Funktion zu nutzen, muss ein Account bei hellocash.at vorhanden sein. Ich empfehle dafür das Medium-Paket um 6,90  / Monat (Stand: 08.07.2021).
+Um die Registrierkassen-Funktion zu nutzen, muss ein Account bei hellocash.at vorhanden sein. Ich empfehle dafür das Medium-Paket um 6,90 € / Monat (Stand: 08.07.2021).
+
+Mit dem Premium-Paket um 10,90 € / Monat erhält man unter anderem auch die Möglichkeit eines Datev-Exportes.
 
 
 ## Konfiguration Dorfladen Online
