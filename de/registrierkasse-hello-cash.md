@@ -46,3 +46,4 @@ WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werd
 * Mein Konto / Stammdaten: Ausfüllen
 * Mitarbeiter: Name ändern und ID in custom_config.php unter cashier_id (Aktuell nur ein Mitarbeiter möglich, da bräuchte es noch eine Zuordnung FCS-User / Mitarbeiter)
 * Zusätzliche Zahlungsart "Guthaben-System": Text: Der Betrag wurde von deinem Guthaben-System abgezogen.
+* Text: "Rechnungsdatum = Lieferdatum"
