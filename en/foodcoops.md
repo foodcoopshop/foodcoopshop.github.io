@@ -8,6 +8,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2021** |
+| 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
 | 04 | [Freistädter Genusskisterl, AT](https://www.freistaedtergenusskisterl.at) | Direct selling | foodcoopshop.com |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | Retail | self-hosted |
 | 02 | [FoodKollektiv Wedding, Berlin, DE](https://www.foodkollektiv-wedding.de) | Direct selling | self-hosted |
