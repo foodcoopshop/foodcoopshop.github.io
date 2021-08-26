@@ -44,6 +44,8 @@ Neu in v3.3 (Herbst 2021)
 * Die Erfassung des Einkaufspreises ist nun möglich, sie dient als Grundlage zur Gewinnermittlung.
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/registrierkasse-hello-cash)
 
+* Im Selbstbedienungs-Modus wird die Rechnung nun automatisch generiert und gedruckt. Für Laufkundschaft einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden, dann kann als Zahlungsart nur "Bar" (und nicht "Guthaben" gewählt werden.
+
 
 ### Zusätzliche Einstellungen für custom_config.php
 
