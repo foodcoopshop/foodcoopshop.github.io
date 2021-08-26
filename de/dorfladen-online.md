@@ -41,11 +41,11 @@ Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" abe
 Neu in v3.3 (Herbst 2021)
 {: .label .label-green }
 
-* Die Erfassung des Einkaufspreises ist nun möglich, sie dient als Grundlage zur Gewinnermittlung.
+* Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/registrierkasse-hello-cash)
 
-* Im Selbstbedienungs-Modus wird die Rechnung nun automatisch generiert und gedruckt. Für Laufkundschaft einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden, dann kann als Zahlungsart nur "Bar" (und nicht "Guthaben" gewählt werden.
-Firefox: about:config / print.always_print_silent: true
+* Nach jedem Einkauf im Selbstbedienungs-Modus wird die Rechnung nun automatisch erstellt und gedruckt. Für Laufkundschaft empfehle ich, einen Kunden mit der neuen User-Gruppe "SB-Kunde" zu verwenden, dann kann als Zahlungsart nur "Bar" (und nicht auch "Guthaben") gewählt werden.
+Automatisches Drucken im Hintergrund: Firefox: about:config / print.always_print_silent: true
 Chrome: [Anleitung](https://help.brightpearl.com/hc/en-us/articles/360028542572-Chrome-settings-for-silent-printing)
 
 
