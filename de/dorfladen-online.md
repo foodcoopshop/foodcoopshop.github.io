@@ -44,7 +44,7 @@ Neu in v3.3 (Herbst 2021)
 * Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/registrierkasse-hello-cash)
 
-* Nach jedem Einkauf im Selbstbedienungs-Modus wird die Rechnung nun automatisch erstellt und gedruckt. Für Laufkundschaft empfehle ich, einen Kunden mit der neuen User-Gruppe "SB-Kunde" zu verwenden, dann kann als Zahlungsart nur "Bar" (und nicht auch "Guthaben") gewählt werden.
+* Nach jedem Einkauf im Selbstbedienungs-Modus wird die Rechnung nun automatisch erstellt und gedruckt. Für Laufkundschaft empfehle ich, einen Kunden mit der neuen User-Gruppe "SB-Kunde" zu verwenden.
 Automatisches Drucken im Hintergrund: Firefox: about:config / print.always_print_silent: true
 Chrome: [Anleitung](https://help.brightpearl.com/hc/en-us/articles/360028542572-Chrome-settings-for-silent-printing)
 
