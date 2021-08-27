@@ -63,4 +63,4 @@ Beim Einkaufen mit dem Handy kann man auch direkt mit der Smartphone-Kamera (gan
 * Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"]({{site.repo_url}}/issues/336)
 
 ### 7) Finanzierung
-* Die gesamte Funktion "Selbstbedienungs-Modus" wurde von einem privaten Unterstützer finanziert.
+* Die für Foodcoops relevanten Funktionen des "Selbstbedienungs-Modus" wurde von einem privaten Unterstützer finanziert.
