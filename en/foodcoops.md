@@ -8,12 +8,13 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2021** |
+| 09 | [Tischlein deck dich!, Michaelnbach, AT](https://tischleindeckdich.jetzt) | Retail | dorfladen-online.at |
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
 | 04 | [Freistädter Genusskisterl, AT](https://www.freistaedtergenusskisterl.at) | Direct selling | foodcoopshop.com |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | Retail | self-hosted |
 | 02 | [FoodKollektiv Wedding, Berlin, DE](https://www.foodkollektiv-wedding.de) | Direct selling | self-hosted |
-| 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | Retail | foodcoopshop.com |
-| 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | Retail | foodcoopshop.com |
+| 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | Retail | dorfladen-online.at |
+| 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | Retail | dorfladen-online.at |
 | 01 | [Klaa Karott, Frankfurt a. M., DE](https://shop.klaakarott.de) | Direct selling | self-hosted |
 | 01 | [Keinkauf Brühl, DE](https://shop.keinkauf-bruehl.de) | Direct selling | self-hosted |
 | 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at) | Direct selling | self-hosted |
@@ -25,7 +26,7 @@ title: Users
 | 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at) | Direct selling | foodcoopshop.com |
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | Direct selling | foodcoopshop.com |
 | 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | Direct selling | self-hosted |
-| 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | Retail | foodcoopshop.com |
+| 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | Retail | dorfladen-online.at |
 | 03 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | Direct selling | self-hosted |
 | **2019** |
 | 10 | [s'Gartl, Windischgarsten, AT](https://www.s-gartl.at) | Direct selling | self-hosted |
