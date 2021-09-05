@@ -5,22 +5,22 @@ nav_order: 1
 ## Installation guide
 * If you want to contribute to this project, please follow the [contribution guideline]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
 * This installation guide always references to the [latest stable version]({{site.repo_url}}/releases).
-* If you want to update your installation to another version, please read the [migration guide]({{ site.baseurl }}/en/migration-guide).
+* If you want to update your installation to another version, read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 * You can help making this open source project more visible on GitHub by starring ⭐ it. Thank you!
 
 ### Requirements
 * Server connected to internet with **shell access** and **cronjobs**
 * Apache webserver - **`mod_rewrite` needs to be enabled!** (Will also work on nginx, see below)
-* PHP => 7.4 (v3.2 supports PHP 8.0)
+* PHP => 7.4 (v3.2 and higher support PHP 8.0)
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP ZipArchive class
 * MySQL >= 5.7.7 (to support utf8mb4)
-* A domain name registered for you
+* A domain or subdomain
 * Basic understanding of Webservers, MySQL Database and Linux Server administration
 * If you cloned the repository from Github: Node.js, npm >= v7 and Composer v2
 * PHP needs to be able to call mysqldump with exec() for database backups
 
-There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to invest your time in IT stuff.
+There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to spend your time on IT stuff.
 
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
@@ -124,7 +124,7 @@ $ chmod -R a+w ./webroot/tmp
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
 * Define your database configuration in custom_config.php
 * At first, **import the [initial database structure]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-structure.sql)**
-* Then **import initial database data in [German]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-en_US.sql)**. You can't easily change the language after the installation, so please don't play around.
+* Then **import initial database data in [German]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-en_US.sql)**. You can't easily change the language after the installation.
 * You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials
@@ -151,9 +151,10 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
   * Request-new-password: https://yourdomain.tld/neues-passwort-anfordern
 
 ## Cronjobs
-To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl }}/en/cronjobs).
+To enable all cronjobs, read the [cronjobs documentation]({{ site.baseurl }}/en/cronjobs).
 
-## Unit Testing
+## Unit Tests
+* If you want to contribute source code, all unit tests should pass locally before pushing:
 * Create second database and add test database configuration to database.php. For details read [Cake's testing documentation](https://book.cakephp.org/4.0/en/development/testing.html)
 * Import [this dump]({{site.repo_url}}//blob/master/config/sql/_installation/clean-db-structure.sql) into your test database
 ```
@@ -164,6 +165,6 @@ $ vendor/bin/phpunit
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
 * To re-build the assets in /cache for production, run `bin/cake asset_compress build`
 
-## If you have questions, please first check existing github support issues
+## If you have questions, first check existing github support issues
 * [I#519]({{site.repo_url}}/issues/519), [I#509]({{site.repo_url}}/issues/509), [I#466]({{site.repo_url}}/issues/466)
-* If you still have questions, [please create a new issue]({{site.repo_url}}/issues/new).
+* If you still have questions, [create a new issue]({{site.repo_url}}/issues/new).
