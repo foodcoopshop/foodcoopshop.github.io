@@ -155,7 +155,7 @@ To enable all cronjobs, please read the [cronjobs documentation]({{ site.baseurl
 
 ## Unit Testing
 * Create second database and add test database configuration to database.php. For details read [Cake's testing documentation](https://book.cakephp.org/4.0/en/development/testing.html)
-* Import [this dump](config/sql/_installation/clean-db-structure.sql) into your test database
+* Import [this dump]({{site.repo_url}}//blob/master/config/sql/_installation/clean-db-structure.sql) into your test database
 ```
 $ vendor/bin/phpunit
 ```
