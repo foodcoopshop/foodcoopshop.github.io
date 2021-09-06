@@ -12,7 +12,8 @@ nav_order: 2
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 
-### FCS unreleased version
+### FCS v3.3.0
+* **v3.3.0 IS THE LATEST STABLE VERSION**
 * The old member fee system was removed. If you used it, remove `app.memberFeeEnabled` from custom_config.php. [How to use the new member fee system](https://foodcoopshop.github.io/de/mitgliedsbeitraege.html).
 * The minimal requirement for npm is now v7 (if you install vendors by yourself)
 * Change the cronjob to run the worker. See [cronjobs](https://foodcoopshop.github.io/en/cronjobs.html) (bottom of page)
@@ -20,7 +21,6 @@ nav_order: 2
 * execute migrations => see bottom of page
 
 ### FCS v3.2.2
-* **v3.2.2 IS THE LATEST STABLE VERSION**
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 
