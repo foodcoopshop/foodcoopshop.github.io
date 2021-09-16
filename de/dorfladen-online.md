@@ -51,7 +51,7 @@ Chrome: [Anleitung](https://help.brightpearl.com/hc/en-us/articles/360028542572-
 Neu in v3.4 (Frühjahr 2021)
 {: .label .label-green }
 
-Siehe [Changelog]({{site.repo_url}}/blob/develop/CHANGELOG.md#neue-funktionen-für-den-einzelhandels-modus
+Siehe [Changelog]({{site.repo_url}}/blob/develop/CHANGELOG.md#neue-funktionen-für-den-einzelhandels-modus)
 
 ### Zusätzliche Einstellungen für custom_config.php
 
