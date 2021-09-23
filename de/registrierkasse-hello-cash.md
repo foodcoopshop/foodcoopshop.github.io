@@ -28,6 +28,8 @@ FCS_HELLO_CASH_API_ENABLED => 1
     'username' => 'your-hello-cash-email@example.com',
     'password' => 'your-hello-cash-password',
     'cashier_id' => 'Deine Kassier-Id',
+    'payment_type_cash' => 'Bar',
+    'payment_type_cashless' => 'Guthaben-System',
 ],
 ```
 
