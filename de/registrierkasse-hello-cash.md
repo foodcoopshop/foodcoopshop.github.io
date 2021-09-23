@@ -37,7 +37,7 @@ FCS_HELLO_CASH_API_ENABLED => 1
 
 WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werden - nicht in HelloCash direkt (sonst stimmt das Journal nicht).
 
-###Registrierkasse / Einstellungen / Allgemein
+### Registrierkasse / Einstellungen / Allgemein
 
 * **Nummernkreise**
 
@@ -57,19 +57,19 @@ Fußzeile bei Bon und Rechnung: "Vielen Dank für deinen Einkauf! Rechnungsdatum
 
 * **Zahlungsarten**
 
-Neue Zahlungsart anlegen: "Guthaben-System": Text: **Der Betrag wurde von deinem Guthaben abgezogen**.
+Neue Zahlungsart anlegen: "Guthaben-System": Text: **Der Betrag wurde von deinem Guthaben abgezogen.**.
 
 
-###Registrierkasse / Einstellungen / Signatur
+### Registrierkasse / Einstellungen / Signatur
 
 Registrierkase mit dem Finanzamt verknüpfen
 
 
-###Mitarbeiter
+### Mitarbeiter
 
 Name ändern und ID in custom_config.php unter cashier_id (Aktuell nur ein Mitarbeiter möglich)
 
 
-###Mein Konto / Stammdaten
+### Mein Konto / Stammdaten
 
 Ausfüllen mit den eigenen Daten (UID, Adresse...)
