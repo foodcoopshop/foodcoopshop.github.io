@@ -12,6 +12,9 @@ nav_order: 2
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 
+### unreleased
+* Minimal requirement for PHP is now 8.0
+
 ### FCS v3.3.0
 * **v3.3.0 IS THE LATEST STABLE VERSION**
 * The old member fee system was removed. If you used it, remove `app.memberFeeEnabled` from custom_config.php. [How to use the new member fee system](https://foodcoopshop.github.io/de/mitgliedsbeitraege.html).

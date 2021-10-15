@@ -11,7 +11,7 @@ nav_order: 1
 ### Requirements
 * Server connected to internet with **shell access** and **cronjobs**
 * Apache webserver - **`mod_rewrite` needs to be enabled!** (Will also work on nginx, see below)
-* PHP => 7.4 (v3.2 and higher support PHP 8.0)
+* PHP => 7.4 (v3.3 supports PHP 8.0, since v3.4 >= PHP 8.0)
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP ZipArchive class
 * MySQL >= 5.7.7 (to support utf8mb4)
