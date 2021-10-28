@@ -8,6 +8,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2021** |
+| 10 | [Foodcoop Saar, Saarbrücken, DE](https://shop.foodcoop-saar.de) | Direct selling | self-hosted |
 | 09 | [Schöpfkelle, Witzenhausen, DE](https://schoepfkelle.com) | Direct selling | self-hosted |
 | 09 | [Tischlein deck dich!, Michaelnbach, AT](https://tischleindeckdich.jetzt) | Retail | dorfladen-online.at |
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
