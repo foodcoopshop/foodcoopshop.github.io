@@ -53,11 +53,16 @@ Beim Einkaufen mit dem Handy kann man auch direkt mit der Smartphone-Kamera (gan
 ![]({{ site.baseurl }}/assets/img/de/selbstbedienung/preis-nach-gewicht-2.png)
 
 
-### 5) Weitere Funktionen / Änderungen
+### 5) Weitere Funktionen / Updates
 * Der Button für die Pfand-Rückgabe befindet sich beim Einkaufen unten rechts.
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Sofort-Bestellungen sollten mit aktiviertem Selbstbedienungs-Modus nicht mehr notwendig sein. Sie sind deswegen nur mehr für Superadmins möglich, der Button dazu wird im Admin-Bereich unter den Bestellungen angezeigt.
 * Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen mit einem Scanner verwendet werden.
+
+Neu in v3.4 (Frühjahr 2021)
+{: .label .label-green }
+
+Bereits bestehende Barcodes (EAN-13) können nun Produkten und Varianten zugewiesen und zum Scannen verwendet werden.
 
 ### 6) Offene Punkte
 * Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"]({{site.repo_url}}/issues/336)
