@@ -11,13 +11,13 @@ Neu in v3.4 (Frühjahr 2021)
 * Produkte werden erst nach Suche, Scannen oder Kategorie-Auswahl angezeigt. Außerdem steht im Kategorien-Dropdown jetzt die Produkt-Anzahl.
 * Für Admins und Superadmins ist es jetzt möglich, über den Selbstbedienungs-Modus für andere Mitglieder zu bestellen.
 
+### Beschreibung
+Der Selbstbedienungs-Modus (als Alternative zur Sofort-Bestellung) vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet der FoodCoopShop auch dafür eine praktische Funktion.
 
-Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet der FoodCoopShop nun auch dafür eine einfach zu bedienende Möglichkeit.
+Mit der Verwendung eines **Barcode-Scanners** (FCS verwendet den Barcode-Standard "Code39") kann der Selbstbedienungs-Modus sehr effizent verwendet werden, folgender Ablauf ist dafür vorgesehen:
+Der Scanner (am besten kabellos) wird mit dem Computer verbunden, auf dem dann im Browser der Selbstbedienungs-Modus aufgerufen wird. Der Scanner dient dabei als Eingabegerät (wie Maus oder Tastatur). Zum Anmelden scannt das Mitglied seine Mitgliedskarte (ohne Benutzername / Passwort), zum Einkaufen können die gewünschten Produkte einfach mit dem Scanner **in die Einkaufstasche** gelegt werden. *Das Verwenden eines Scanners ist optional. Der Selbstbedienungs-Modus funktioniert auch ohne Scanner.*
 
-Mit der Verwendung eines **Barcode-Scanners** (FCS verwendet den Barcode-Standard "Code39") kann der Selbstbedienungs-Modus recht effizent verwendet werden, folgender Ablauf ist dafür vorgesehen:
-Der Scanner wird mit dem Computer verbunden, auf dem dann im Browser der Selbstbedienungs-Modus aufgerufen wird. Der Scanner dient dabei als Eingabegerät (wie Maus oder Tastatur). Zum Anmelden scannt das Mitglied einfach seine Mitgliedskarte (ohne Benutzername / Passwort), zum Einkaufen können die gewünschten Produkte einfach mit dem Scanner **in die Einkaufstasche** (Warenkorb) gelegt werden. *Es muss kein Scanner verwendet werden, der Selbstbedienungs-Modus funktioniert auch ohne.*
-
-Beim Einkaufen mit dem Handy kann man auch direkt mit der Smartphone-Kamera (ganz ohne App) die Barcodes scannen. Dazu muss im Profil das Häkchen bei "Ich möchte die Kamera meines Smartphones zum Scannen der Barcodes benutzen." angehakt werden und beim Scannen dann der Kamera-Zugriff freigegeben werden. Diese Funktion wurde - wie übrigens der gesamte Selbstbedienungs-Modus - von einem privaten Unterstützer finanziert.
+Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera die Barcodes scannen, ohne sich dazu eine App installieren zu müssen. Dazu muss im Profil das Häkchen bei "Ich möchte die Kamera meines Smartphones zum Scannen der Barcodes benutzen." angehakt werden und beim Scannen dann der Kamera-Zugriff freigegeben werden.
 
 ### 1) Aktivierung / Einstellungen
 * Superadmins können den Selbstbedienungs-Modus für ihre Foodcoop selbst aktivieren (Einstellungen: Selbstbedienungs-Modus aktiv? - ja / nein).
@@ -64,7 +64,7 @@ Beim Einkaufen mit dem Handy kann man auch direkt mit der Smartphone-Kamera (gan
 
 ### 5) Weitere Funktionen / Updates
 * Der Button für die Pfand-Rückgabe befindet sich beim Einkaufen unten rechts.
-* Bei Inaktivität wird man automatisch ausgeloggt.
+* Bei 3 Minuten Inaktivität wird man automatisch ausgeloggt.
 * Sofort-Bestellungen sollten mit aktiviertem Selbstbedienungs-Modus nicht mehr notwendig sein. Sie sind deswegen nur mehr für Superadmins möglich, der Button dazu wird im Admin-Bereich unter den Bestellungen angezeigt.
 * Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen mit einem Scanner verwendet werden.
 
@@ -72,4 +72,4 @@ Beim Einkaufen mit dem Handy kann man auch direkt mit der Smartphone-Kamera (gan
 * Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"]({{site.repo_url}}/issues/336)
 
 ### 7) Finanzierung
-* Die für Foodcoops relevanten Funktionen des "Selbstbedienungs-Modus" wurde von einem privaten Unterstützer finanziert.
+* Die für Foodcoops relevanten Funktionen des "Selbstbedienungs-Modus" wurden zu einem großen Teil von einem privaten Unterstützer finanziert.
