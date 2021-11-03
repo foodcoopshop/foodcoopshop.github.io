@@ -3,6 +3,15 @@ parent: Deutsch
 title: Selbstbedienungs-Modus
 ---
 ## Selbstbedienungs-Modus für Lagerprodukte
+
+Neu in v3.4 (Frühjahr 2021)
+{: .label .label-green }
+
+* Bereits bestehende Barcodes (EAN-13) können nun Produkten und Varianten zugewiesen und zum Scannen verwendet werden.
+* Produkte werden erst nach Suche, Scannen oder Kategorie-Auswahl angezeigt. Außerdem steht im Kategorien-Dropdown jetzt die Produkt-Anzahl.
+* Für Admins und Superadmins ist es jetzt möglich, über den Selbstbedienungs-Modus für andere Mitglieder zu bestellen.
+
+
 Der Selbstbedienungs-Modus stellt eine Alternative zur Sofort-Bestellung dar und vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet der FoodCoopShop nun auch dafür eine einfach zu bedienende Möglichkeit.
 
 Mit der Verwendung eines **Barcode-Scanners** (FCS verwendet den Barcode-Standard "Code39") kann der Selbstbedienungs-Modus recht effizent verwendet werden, folgender Ablauf ist dafür vorgesehen:
@@ -58,11 +67,6 @@ Beim Einkaufen mit dem Handy kann man auch direkt mit der Smartphone-Kamera (gan
 * Bei Inaktivität wird man automatisch ausgeloggt.
 * Sofort-Bestellungen sollten mit aktiviertem Selbstbedienungs-Modus nicht mehr notwendig sein. Sie sind deswegen nur mehr für Superadmins möglich, der Button dazu wird im Admin-Bereich unter den Bestellungen angezeigt.
 * Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen mit einem Scanner verwendet werden.
-
-Neu in v3.4 (Frühjahr 2021)
-{: .label .label-green }
-
-Bereits bestehende Barcodes (EAN-13) können nun Produkten und Varianten zugewiesen und zum Scannen verwendet werden.
 
 ### 6) Offene Punkte
 * Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"]({{site.repo_url}}/issues/336)
