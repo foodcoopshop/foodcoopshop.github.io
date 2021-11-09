@@ -56,9 +56,11 @@ nav_order: 2
 * MySQL >= 5.7.7 (to support utf8mb4)
 
 ### execute migrations
+`>= v3.4: $ composer migrate`
+
 `>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
 
-`< v3.2: $ bin/cake migrations migrate`
+` < v3.2: $ bin/cake migrations migrate`
 
 
 ### replacing source code

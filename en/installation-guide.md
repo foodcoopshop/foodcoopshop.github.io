@@ -163,7 +163,7 @@ $ vendor/bin/phpunit
 
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
-* To re-build the assets in /cache for production, run `bin/cake asset_compress build`
+* To re-build the assets in /cache for production, run `composer build`
 
 ## If you have questions, first check existing github support issues
 * [I#519]({{site.repo_url}}/issues/519), [I#509]({{site.repo_url}}/issues/509), [I#466]({{site.repo_url}}/issues/466)
