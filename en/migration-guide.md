@@ -60,7 +60,7 @@ nav_order: 2
 
 `>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
 
-` < v3.2: $ bin/cake migrations migrate`
+`<  v3.2: $ bin/cake migrations migrate`
 
 
 ### replacing source code
