@@ -38,9 +38,6 @@ Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" abe
 
 * Auch das Stornieren von Rechnungen ist rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
 
-Neu in v3.3 (Herbst 2021)
-{: .label .label-green }
-
 * Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/registrierkasse-hello-cash)
 
@@ -93,6 +90,7 @@ FCS_DEFAULT_NEW_MEMBER_ACTIVE => 1
 FCS_SHOW_PRODUCTS_FOR_GUESTS => 1
 FCS_SHOW_PRODUCT_PRICE_FOR_GUESTS => 1
 FCS_CASHLESS_PAYMENT_ADD_TYPE => 'list-upload'
+FCS_PURCHASE_PRICE_ENABLED => 1
 ```
 
 
@@ -100,10 +98,4 @@ FCS_CASHLESS_PAYMENT_ADD_TYPE => 'list-upload'
 ```
 SendInvoicesToManufacturers => 0
 SendInvoicesToCustomers => 1
-```
-
-Neu in v3.3 (Herbst 2021)
-{: .label .label-green }
-```
-FCS_PURCHASE_PRICE_ENABLED => 1
 ```
