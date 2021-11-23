@@ -10,6 +10,7 @@ Neu in v3.4 (Frühjahr 2021)
 {: .label .label-green }
 
 Neben der Raiffeisenbank unterstützt der Upload jetzt auch die Volksbank.
+{: .d-inline-block }
 
 ### Ablauf für Mitglieder
 * Das Mitglied gibt beim Überweisen von Guthaben beim Verwendungszweck den **persönlichen Überweisungscode** (1) an. Diesen befindet sich im Guthaben-System (ganz oben), bleibt immer gleich und kann einfach mit einem Button in die Zwischenablage kopiert werden (2).
