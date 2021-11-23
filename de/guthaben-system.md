@@ -25,7 +25,13 @@ Superadmins können auch Guthaben-Aufladungen und Rückzahlungen (z.B. wenn das 
 Superadmins können unter "Finanzberichte" die Guthaben-Aufladungen bestätigen oder zurückweisen, der Status scheint dann im Guthaben-System der Mitglieder auf. So können fehlerhafte Aufladungen frühzeitig erkannt werden.
 
 ## Erinnerungs-Mail
-Jeden Freitag wird automatisch eine Erinnerungs-Mail an jene Mitglieder versendet, deren Kontostand negativ ist. Mitglieder, die einen positiven Kontostand haben, werden nicht benachrichtigt.
+Einmal pro Woche wird automatisch eine Erinnerungs-Mail an jene Mitglieder versendet, deren Kontostand das eingestellte Limit unterschreitet.
+
+Neu in v3.4 (Frühjahr 2021)
+{: .label .label-green }
+
+Die Erinnerungs-Mail kann nun vom Mitglied abbestellt werden.
+{: .d-inline-block }
 
 ## Bestellen sperren ab bestimmtem Guthaben-Stand
 In den Einstellungen kann ein Bestell-Limit angegeben werden, bis zu welchem bestellt werden kann (z.B. -100,00 €).
