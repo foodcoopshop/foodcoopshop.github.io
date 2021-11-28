@@ -22,20 +22,23 @@ nav_order: 2
 * Change the cronjob to run the worker. See [cronjobs](https://foodcoopshop.github.io/en/cronjobs.html) (bottom of page)
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
+* clear cache  => see bottom of page
 
 ### FCS v3.2.2
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
+* clear cache  => see bottom of page
 
 ### FCS v3.2.1
 * replace source code => see bottom of page
 * Due to a code cleaning problem where all old migrations were removed in v3.0, two migrations were lost. Installations that migrated from <= v3.0 to v3.2.x need to copy these two migrations - [Migration A](https://github.com/foodcoopshop/foodcoopshop/blob/1d7561acd589eb0f4cc04b33c960dcef6cb4c414/config/Migrations/20200319092123_ChangeDefaultTableCollationToUtf8mb4.php) and [Migration B](https://github.com/foodcoopshop/foodcoopshop/blob/1d7561acd589eb0f4cc04b33c960dcef6cb4c414/config/Migrations/20200319192745_MarkPricePerUnitAsSaved.php) - into the folder /config/Migrations/ and then go on with the next point "execute migrations". [Details](https://github.com/foodcoopshop/foodcoopshop/issues/649)
 * execute migrations => see bottom of page
-* execute `bin/cake cache clear_all`
+* clear cache  => see bottom of page
 
 ### FCS v3.2.0
 * replace source code => see bottom of page
 * execute migrations => see bottom of page: **the command changed with this version!**
+* clear cache  => see bottom of page
 * add a new cronjob to handle the new [queue](https://github.com/dereuromark/cakephp-queue): `*/5 * * * * /your-app/bin/cake queue runworker -q`
 * rename `app.customFrontendColorTheme` to `app.customThemeMainColor`
 * The new default logo format is png. You can change back to jpg setting `app.logoFileName` to `logo.jpg`
@@ -45,6 +48,7 @@ nav_order: 2
 ### FCS v3.1.0
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
+* clear cache  => see bottom of page
 
 ### FCS v3.0.x
 * FCS v3.x uses CakePHP v4 as the base framework.
@@ -52,18 +56,12 @@ nav_order: 2
 * `app.dateOfFirstSendInvoiceCronjobWithPickupDayUpdate` can be removed
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
+* clear cache  => see bottom of page
 * PHP >= 7.3
 * MySQL >= 5.7.7 (to support utf8mb4)
 
-### execute migrations
-`>= v3.4: $ composer migrate`
 
-`>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
-
-`<  v3.2: $ bin/cake migrations migrate`
-
-
-### replacing source code
+### replace source code
 * rename old installation folder (e.g. foodcoopshop-old)
 * upload source code of new version into new folder with the name of the old version before renaming
 * copy the following files and folders from your old installation directory into the new directory
@@ -72,3 +70,13 @@ nav_order: 2
     * webroot/files
     * files_private
     * and any other adapted files (favicons, /css/custom.css, /css/mobile-frontend-custom.css...)
+
+### execute migrations
+`>= v3.4: $ composer migrate`
+
+`>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
+
+`<  v3.2: $ bin/cake migrations migrate`
+
+### clear cache
+* execute `bin/cake cache clear_all`
