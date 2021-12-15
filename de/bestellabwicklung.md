@@ -15,6 +15,13 @@ Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachricht
 
 * Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fas fa-cart-arrow-down ok"></i>
 
+Neu in v3.4 (Frühjahr 2021)
+{: .label .label-green }
+
+Neue Hersteller-Einstellung: "Sollen die Bestelllisten auch Lagerprodukte enthalten?"
+{: .d-inline-block }
+
+
 ## 2) Bestelllistenversand
 * Basis der Bestellungen, die in den Listen erscheinen, ist der Abholtag.
 * Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="far fa-envelope ok"></i>
