@@ -1,5 +1,6 @@
 ---
 parent: Dorfladen Online
+title: Gutscheine
 nav_order: 2
 ---
 
