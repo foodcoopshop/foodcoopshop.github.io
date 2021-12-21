@@ -17,7 +17,7 @@ nav_order: 1
 * Auch das Stornieren von Rechnungen ist rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
 
 * Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
-* [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/dorfladen-online-registrierkasse-hello-cash)
+* [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/dorfladen-online-registrierkasse-hello-cash.html)
 
 * Nach jedem Einkauf im Selbstbedienungs-Modus wird die Rechnung nun automatisch erstellt und gedruckt. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden.
 Automatisches Drucken im Hintergrund: Firefox: about:config / print.always_print_silent: true
