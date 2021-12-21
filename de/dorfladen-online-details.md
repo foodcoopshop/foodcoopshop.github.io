@@ -4,7 +4,7 @@ title: Details
 nav_order: 1
 ---
 
-# Details zu den Abläufen bei Dorfladen Online
+## Details zu den Abläufen bei Dorfladen Online
 
 * Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann aber auch manuell ausgelöst werden (z.B. für Laufkundschaft). Diese manuell generierten Rechnungen können auch als "bar bezahlt" markiert werden.
 
