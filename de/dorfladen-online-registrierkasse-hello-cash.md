@@ -1,7 +1,7 @@
 ---
 parent: Dorfladen Online
 title: Registrierkasse Hello Cash
-nav_order: 1
+nav_order: 3
 ---
 
 ## Registrierkasse

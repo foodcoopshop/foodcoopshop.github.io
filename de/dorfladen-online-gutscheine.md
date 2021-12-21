@@ -1,7 +1,7 @@
 ---
 parent: Dorfladen Online
 title: Gutscheine
-nav_order: 2
+nav_order: 4
 ---
 
 Neu in v3.4 (Frühjahr 2021)
