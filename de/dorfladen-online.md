@@ -19,14 +19,9 @@ Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind al
 
 Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) ist aktuell nicht vorgesehen. Diese Dokumentation richtet sich daher ausschließlich an Neuinstallationen.
 
-### Installation
+### Links
 
-Siehe [Dorfladen Online Installation]({{ site.baseurl }}/de/dorfladen-online-installation.md).
-
-### Changelog
-
-Neu in v3.4 (Frühjahr 2021)
-{: .label .label-green }
-
-Siehe [Changelog]({{site.repo_url}}/blob/develop/CHANGELOG.md#neue-funktionen-für-den-einzelhandels-modus)
-
+* [Installation]({{ site.baseurl }}/de/dorfladen-online-installation.md)
+* [Changelog]({{site.repo_url}}/blob/develop/CHANGELOG.md#neue-funktionen-für-den-einzelhandels-modus)
+* [Projekt-Seite](https://dorfladen-online.at)
+* [Blog](https://dorfladen-online.at/aktuelles)

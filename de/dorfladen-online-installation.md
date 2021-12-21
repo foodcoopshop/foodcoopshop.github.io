@@ -4,16 +4,16 @@ title: Installation
 nav_order: 2
 ---
 
-# 1) Installation der Software
+## 1) Installation der Software
 
 Dorfladen Online ist ein Spin-Off der Software FoodCoopShop. Die Installation ist daher ident:
 [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
 
-# 2) Angebot
+## 2) Angebot
 
 Wer mit der Installation bzw. Konfiguration nicht zurechtkommt, die Software "Dorfladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.dorfladen-online.at](https://www.dorfladen-online.at)
 
-# 3) Konfiguration für Dorfläden
+## 3) Konfiguration für Dorfläden
 
 Um die Software als Händler verwenden zu können, sind folgende spezielle Einstellungen notwendig:
 
