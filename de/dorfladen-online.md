@@ -21,7 +21,7 @@ Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) 
 
 ### Links
 
-* [Installation]({{ site.baseurl }}/de/dorfladen-online-installation.md)
+* [Installation]({{ site.baseurl }}/de/dorfladen-online-installation.html)
 * [Changelog]({{site.repo_url}}/blob/develop/CHANGELOG.md#neue-funktionen-für-den-einzelhandels-modus)
 * [Projekt-Seite](https://dorfladen-online.at)
 * [Blog](https://dorfladen-online.at/aktuelles)
