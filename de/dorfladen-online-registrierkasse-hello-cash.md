@@ -49,7 +49,7 @@ WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werd
 
 Layout einstellen (Logo in S/W, Breite, angezeigte Daten...)
 
-* **Rechnung**
+* **PDF**
 
 Layout einstellen (Logo, angezeigte Daten...)
 
