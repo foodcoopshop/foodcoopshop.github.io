@@ -45,6 +45,10 @@ WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werd
 
 **Testmodus**: "Rechnungen / Belege" anpassen auf: **990000001** (6x0) (Stornierungen anpassen auf **9900001** (4x0). Der Testmodus wird ausschließlich für die Beleg-Vorschau verwendet.
 
+* **Zahlungsarten**
+
+Neue Zahlungsart anlegen: "Guthaben-System": Text: **Der Betrag wurde von deinem Guthaben abgezogen.**.
+
 * **Bon**
 
 Layout einstellen (Logo in S/W, Breite, angezeigte Daten...)
@@ -53,11 +57,7 @@ Layout einstellen (Logo in S/W, Breite, angezeigte Daten...)
 
 Layout einstellen (Logo, angezeigte Daten...)
 
-Fußzeile bei Bon und Rechnung: "Vielen Dank für deinen Einkauf! Rechnungsdatum = Lieferdatum"
-
-* **Zahlungsarten**
-
-Neue Zahlungsart anlegen: "Guthaben-System": Text: **Der Betrag wurde von deinem Guthaben abgezogen.**.
+Fußzeile bei Bon und Schlusstext bei PDF: "Vielen Dank für deinen Einkauf! Rechnungsdatum = Lieferdatum"
 
 
 ### Registrierkasse / Einstellungen / Signatur
@@ -72,4 +72,4 @@ Name ändern und ID in custom_config.php unter cashier_id (Aktuell nur ein Mitar
 
 ### Mein Konto / Stammdaten
 
-Ausfüllen mit den eigenen Daten (UID, Adresse...)
+Ausfüllen mit den eigenen Daten (UID, Firmenbuch-Nummer, IBAN, Adresse...)
