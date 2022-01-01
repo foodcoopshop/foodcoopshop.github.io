@@ -41,9 +41,9 @@ WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werd
 
 * **Nummernkreise**
 
-**Normalmodus**: "Rechnungen / Belege" anpassen auf: **JJ0000000** (6x0) (Stornierungen anpassen auf **JJ00000** (4x0). "JJ" steht für das aktuelle Jahr, also z.B. "21". **Wichtig: Beide Nummernkreise müssen zu Jahresbeginn immer manuell geändert werden!**
+**Normalmodus**: "Rechnungen / Belege" anpassen auf: **JJ0000000** (7x0) (Stornierungen anpassen auf **JJ00000** (5x0). "JJ" steht für das aktuelle Jahr, also z.B. "21". **Wichtig: Beide Nummernkreise müssen zu Jahresbeginn immer manuell geändert werden!**
 
-**Testmodus**: "Rechnungen / Belege" anpassen auf: **990000000** (6x0) (Stornierungen anpassen auf **9900000** (4x0). Der Testmodus wird ausschließlich für die Beleg-Vorschau verwendet.
+**Testmodus**: "Rechnungen / Belege" anpassen auf: **990000000** (7x0) (Stornierungen anpassen auf **9900000** (5x0). Der Testmodus wird ausschließlich für die Beleg-Vorschau verwendet.
 
 * **Zahlungsarten**
 
