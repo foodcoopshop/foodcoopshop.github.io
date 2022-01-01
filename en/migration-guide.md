@@ -14,6 +14,18 @@ nav_order: 2
 
 ### unreleased
 * Minimal requirement for PHP is now 8.0
+* add cache prefixes to custom_config.php see [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php)
+`'Cache' => [
+    'default' => [
+        'prefix' => 'example_com_',
+    ],
+    '_cake_core_' => [
+        'prefix' => 'example_com_',
+    ],
+    '_cake_model_' => [
+        'prefix' => 'example_com_',
+    ],
+],`
 
 ### FCS v3.3.0
 * **v3.3.0 IS THE LATEST STABLE VERSION**
