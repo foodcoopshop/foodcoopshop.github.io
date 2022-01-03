@@ -1,7 +1,7 @@
 ---
 grand_parent: Deutsch
-parent: Guthaben-System
-title: Automatischer Kontoabgleich (CSV-Upload)
+parent: Deutsch
+title: Guthaben-System mit automatischem Kontoabgleich
 ---
 
 ## Guthaben-System mit automatischem Kontoabgleich

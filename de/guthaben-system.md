@@ -1,6 +1,6 @@
 ---
 parent: Deutsch
-title: Guthaben-System
+title: Guthaben-System mit selbstständiger Aufladung
 has_children: true
 ---
 
