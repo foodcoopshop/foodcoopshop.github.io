@@ -6,7 +6,9 @@ has_children: true
 
 ## Guthaben-System mit selbstständiger Aufladung
 
-**Hinweis 03.01.2022:** Das Guthaben mit selbstständiger Aufladung ist seit v3.4 nicht mehr die Standard-Einstellung und sollte wenn möglich auch nicht mehr verwendet werden. Viel weniger Fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html).
+**Hinweis 03.01.2022:** Das Guthaben mit selbstständiger Aufladung ist seit v3.4 nicht mehr die Standard-Einstellung und sollte wenn möglich auch nicht mehr verwendet werden. Viel weniger fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html).
+
+Wer es trotzdem verwenden möchte, so funktioniert's:
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)
 
