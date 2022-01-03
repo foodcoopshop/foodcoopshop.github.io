@@ -4,7 +4,9 @@ title: Guthaben-System mit selbstständiger Aufladung
 has_children: true
 ---
 
-## So funktioniert das Guthaben-System
+## Guthaben-System mit selbstständiger Aufladung
+
+**Hinweis:** Das Guthaben mit selbstständiger Aufladung ist seit v3.4 nicht mehr die Standard-Einstellung und sollte wenn möglich auch nicht mehr verwendet werden. Viel weniger Fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html).
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)
 
