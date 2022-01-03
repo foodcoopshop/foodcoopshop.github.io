@@ -1,16 +1,10 @@
 ---
 grand_parent: Deutsch
-parent: Deutsch
+parent: Guthaben-System
 title: Guthaben-System mit automatischem Kontoabgleich
 ---
 
 ## Guthaben-System mit automatischem Kontoabgleich
-
-Neu in v3.4 (Frühjahr 2021)
-{: .label .label-green }
-
-Neben der Raiffeisenbank unterstützt der Upload jetzt auch die Volksbank.
-{: .d-inline-block }
 
 ### Ablauf für Mitglieder
 * Das Mitglied gibt beim Überweisen von Guthaben beim Verwendungszweck den **persönlichen Überweisungscode** (1) an. Diesen befindet sich im Guthaben-System (ganz oben), bleibt immer gleich und kann einfach mit einem Button in die Zwischenablage kopiert werden (2).
@@ -40,4 +34,10 @@ Neue  Einstellung: "Ab welchem Guthaben-Stand soll die Erinnerungsmail versendet
 
 
 ### Unterstützte Banken
-Da die Struktur der exportierten Daten von Bank zu Bank unterschiedlich sind, wird momentan nur die Bank des Auftraggebers der neuen Funktion (Raiffeisenbank) unterstützt. Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
+Da die Struktur der exportierten Daten von Bank zu Bank unterschiedlich sind, wird momentan nur eine Bank (Raiffeisenbank) unterstützt. Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
+
+Neu in v3.4 (Frühjahr 2021)
+{: .label .label-green }
+
+Neben der Raiffeisenbank unterstützt der Upload jetzt auch die Volksbank.
+{: .d-inline-block }
