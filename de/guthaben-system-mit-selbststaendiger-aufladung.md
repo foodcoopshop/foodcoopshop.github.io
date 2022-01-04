@@ -1,7 +1,7 @@
 ---
 grand_parent: Deutsch
 parent: Guthaben-System
-title: Guthaben-System mit selbstständiger Aufladung
+title: Selbstständige Aufladung
 ---
 
 ## Guthaben-System mit selbstständiger Aufladung

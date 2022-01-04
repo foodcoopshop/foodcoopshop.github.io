@@ -1,7 +1,7 @@
 ---
 grand_parent: Deutsch
 parent: Guthaben-System
-title: Guthaben-System mit automatischem Kontoabgleich
+title: Automatischer Kontoabgleich
 ---
 
 ## Guthaben-System mit automatischem Kontoabgleich
