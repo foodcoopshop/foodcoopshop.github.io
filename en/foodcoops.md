@@ -7,6 +7,8 @@ title: Users
 [View map](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Type | Hosted by |
+| **2022** |
+| 04 | [Hoamatkistl, Schildorn, AT](https://www.hoamatkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2021** |
 | 11 | [Tante Regina, Scharnstein, AT](https://www.tante-regina.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 10 | [Foodcoop Saar, Saarbrücken, DE](https://shop.foodcoop-saar.de) | Direct selling | self-hosted |
