@@ -20,7 +20,7 @@ nav_order: 1
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/dorfladen-online-registrierkasse-hello-cash.html)
 
 ### Automatischer Rechnungsdruck
-* Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, wenn der Kunde entweder bar bezahlt (Laufkunde) oder den Rechnungsversand deaktiviert hat. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden.
+* Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, wenn der Kunde entweder bar bezahlt (Laufkunde) oder den Rechnungsversand deaktiviert hat. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden **und den Rechnungsversand bei diesem Kunden deaktiveren**.
 
 * Für das Bar-Bezahlen von Vorbestellungen gilt für den automatischen Rechnungsdruck die gleiche Logik.
 
