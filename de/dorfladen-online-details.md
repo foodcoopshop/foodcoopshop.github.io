@@ -19,6 +19,10 @@ nav_order: 1
 * Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/dorfladen-online-registrierkasse-hello-cash.html)
 
-* Nach jedem Einkauf im Selbstbedienungs-Modus wird die Rechnung nun automatisch erstellt und gedruckt. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden.
-Automatisches Drucken im Hintergrund: Firefox: about:config / print.always_print_silent: true
-Chrome: [Anleitung](https://help.brightpearl.com/hc/en-us/articles/360028542572-Chrome-settings-for-silent-printing)
+### Automatischer Rechnungsdruck
+* Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, wenn der Kunde entweder bar bezahlt (Laufkunde) oder den Rechnungsversand deaktiviert hat. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden.
+
+* Für das Bar-Bezahlen von Vorbestellungen gilt für den automatischen Rechnungsdruck die gleiche Logik.
+
+* Automatisches Drucken im Hintergrund aktivieren: **Firefox:** about:config / print.always_print_silent: true
+**Chrome:** [Anleitung](https://help.brightpearl.com/hc/en-us/articles/360028542572-Chrome-settings-for-silent-printing)
