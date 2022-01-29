@@ -66,8 +66,15 @@ FCS_PURCHASE_PRICE_ENABLED => 1
 ```
 
 
-### Korrekten Rechnungs-Cronjob aktivieren
+### Einstellungen in der Tabelle fcs_cronjobs
 ```
 SendInvoicesToManufacturers => 0
 SendInvoicesToCustomers => 1
+```
+
+Neu in v3.4 (Frühjahr 2021)
+{: .label .label-green }
+
+```
+SendDeliveryNotes => 1
 ```
