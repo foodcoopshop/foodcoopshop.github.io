@@ -52,7 +52,7 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 Neu in v3.4 (Frühjahr 2021)
 {: .label .label-green }
 
-Neue globale Einstellung: Beim zweiwöchigen Lieferrhythmus kann ausgewählt werden, ob die Produkte jetzt nur noch in der Woche vor der Lieferung bestellt werden können. In der anderen Woche sind die Produkte beim Bestellen nicht sichtbar. Alle anderen Lieferrhythmen sind von dieser Einstellung nicht betroffen.
+Der zweiwöchige Lieferrhythmus kann jetzt so eingestellt werden, dass die Produkte nur noch in der Woche vor der Lieferung bestellt werden können. In der anderen Woche sind bei aktivierter Einstellung die Produkte beim Bestellen zwar sichtbar, aber nicht bestellbar. Auch bei einem vorgezogenen Bestellschluss, kann nur mehr in der Woche vor der Lieferung bestellt werden (gilt für ein- und zweiwöchig). Alle anderen Lieferrhythmen sind von der neuen Einstellung nicht betroffen.
 {: .d-inline-block }
 
 **Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf den Button "Lieferrhythmus für ausgewählte Produkte bearbeiten" klicken.**
