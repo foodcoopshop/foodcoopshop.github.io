@@ -14,6 +14,7 @@ nav_order: 2
 
 ### unreleased
 * Minimal requirement for PHP is now 8.0
+* Rename `app.sendEmailWhenOrderDetailQuantityOrPriceChanged` to `app.sendEmailWhenOrderDetailQuantityChanged` in custom_config.php
 * add cache prefixes to custom_config.php see [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php)
 ```
 'Cache' => [
