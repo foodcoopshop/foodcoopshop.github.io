@@ -8,6 +8,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2022** |
+| 02 | [Brot & Ruam, Aspach, AT](https://shop.brotundruam.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 01 | [Hoamatkistl, Schildorn, AT](https://www.hoamatkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2021** |
 | 11 | [Tante Regina, Scharnstein, AT](https://www.tante-regina.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
@@ -42,7 +43,6 @@ title: Users
 | 02 | [Koorb, Seitenstetten, AT](https://koorb.at) | Direct selling | self-hosted |
 | 01 | [Dorfladen Roitham, AT](https://www.dorfladenroitham.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2018** |
-| 11 | [Reggaefood, Bad Goisern, AT](https://www.reggaefood.at) | Direct selling | self-hosted |
 | 10 | [Krekoodel, Krems, AT](https://www.krekoodel.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 02 | [Haller Regio Kistl, Bad Hall, AT](https://www.haller-regio-kistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2017** |
