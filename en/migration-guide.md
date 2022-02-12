@@ -28,6 +28,9 @@ nav_order: 2
         'prefix' => 'example_com_',
     ],
 ],
+replace source code => see bottom of page
+execute migrations => see bottom of page
+clear cache => see bottom of page
 ```
 
 ### FCS v3.3.0
