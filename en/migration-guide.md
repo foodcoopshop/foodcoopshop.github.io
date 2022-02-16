@@ -15,7 +15,8 @@ nav_order: 2
 ### unreleased
 * Minimal requirement for PHP is now 8.0
 * Rename `app.sendEmailWhenOrderDetailQuantityOrPriceChanged` to `app.sendEmailWhenOrderDetailQuantityChanged` in custom_config.php
-* add cache prefixes to custom_config.php see [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php)
+* Frontend caching of product / category data is enabled by default. If you manipulate product data in the database directly, do not forget to clear the cache manually (see bottom of page).
+* It's recommended to add cache prefixes to custom_config.php see [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php)
 ```
 'Cache' => [
     'default' => [
@@ -28,10 +29,10 @@ nav_order: 2
         'prefix' => 'example_com_',
     ],
 ],
+```
 replace source code => see bottom of page
 execute migrations => see bottom of page
 clear cache => see bottom of page
-```
 
 ### FCS v3.3.0
 * **v3.3.0 IS THE LATEST STABLE VERSION**
