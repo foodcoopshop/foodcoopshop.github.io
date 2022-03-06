@@ -12,8 +12,8 @@ nav_order: 2
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 
-### FCS v3.4.0
-* **v3.4.0 IS THE LATEST STABLE VERSION**
+### FCS v3.4.1
+* **v3.4.1 IS THE LATEST STABLE VERSION**
 * Minimal requirement for PHP is now 8.0
 * Rename `app.sendEmailWhenOrderDetailQuantityOrPriceChanged` to `app.sendEmailWhenOrderDetailQuantityChanged` in custom_config.php
 * Frontend caching of product / category data is enabled by default. If you manipulate product data in the database directly, do not forget to clear the cache manually (see bottom of page).
