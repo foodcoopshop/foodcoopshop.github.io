@@ -13,7 +13,7 @@ nav_order: 2
 
 
 ### FCS v3.4.0
-* **UNRELEASED VERSION**
+* **v3.4.0 IS THE LATEST STABLE VERSION**
 * Minimal requirement for PHP is now 8.0
 * Rename `app.sendEmailWhenOrderDetailQuantityOrPriceChanged` to `app.sendEmailWhenOrderDetailQuantityChanged` in custom_config.php
 * Frontend caching of product / category data is enabled by default. If you manipulate product data in the database directly, do not forget to clear the cache manually (see bottom of page).
@@ -36,7 +36,6 @@ execute migrations => see bottom of page
 clear cache => see bottom of page
 
 ### FCS v3.3.0
-* **v3.3.0 IS THE LATEST STABLE VERSION**
 * The old member fee system was removed. If you used it, remove `app.memberFeeEnabled` from custom_config.php. [How to use the new member fee system](https://foodcoopshop.github.io/de/mitgliedsbeitraege.html).
 * The minimal requirement for npm is now v7 (if you install vendors by yourself)
 * Change the cronjob to run the worker. See [cronjobs](https://foodcoopshop.github.io/en/cronjobs.html) (bottom of page)
