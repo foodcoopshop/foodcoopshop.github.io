@@ -31,9 +31,9 @@ nav_order: 2
     ],
 ],
 ```
-replace source code => see bottom of page
-execute migrations => see bottom of page
-clear cache => see bottom of page
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+* clear cache => see bottom of page
 
 ### FCS v3.3.0
 * The old member fee system was removed. If you used it, remove `app.memberFeeEnabled` from custom_config.php. [How to use the new member fee system](https://foodcoopshop.github.io/de/mitgliedsbeitraege.html).
