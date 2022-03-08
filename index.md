@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/master/webroot/files/images/sliders/demo-slider.jpg)
+![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/main/webroot/files/images/sliders/demo-slider.jpg)
 
 ## Welcome to the software documentation
 
@@ -17,7 +17,7 @@ nav_order: 1
 
 * [Installation guide]({{ site.baseurl }}/en/installation-guide)
 * [Migration guide]({{ site.baseurl }}/en/migration-guide)
-* [Changelog of latest stable version (German)]({{{site.repo_url}}/blob/master/CHANGELOG.md)
+* [Changelog of latest stable version (German)]({{{site.repo_url}}/blob/main/CHANGELOG.md)
 
 ## Supported languages
 

@@ -27,7 +27,7 @@ There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** 
 ### 1) Setting up your dev environment
 * If you want to set up a dev environment, clone from Github.
 * After that, you need to manually install composer and npm vendors.
-* The master branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
+* The main branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
 * The only difference is, that the zip file already includes the vendors which were already installed by the following commands):
 ```
 $ composer install
@@ -114,21 +114,21 @@ $ chmod -R a+w ./webroot/tmp
 ```
 
 ## Configuring FoodCoopShop
-* Copy [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php) to custom_config.php and change your configuration if you want to
+* Copy [custom_config.default.php]({{site.repo_url}}/blob/main/config/custom_config.default.php) to custom_config.php and change your configuration if you want to
 * **Important for receiving correct links in emails:** Set `cakeServerName` to your server's data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
-* The default configuration is found in [app_config.php]({{site.repo_url}}/blob/master/config/app_config.php).
+* The default configuration is found in [app_config.php]({{site.repo_url}}/blob/main/config/app_config.php).
 * Some configuration is stored in the database and can easily be changed from the admin screen: https://yourdomain.tld/admin/configurations (Super Admin account required)
 * More configuration information in [German]({{ site.baseurl }}/de/einstellungen) and [English]({{ site.baseurl }}/en/settings)
 
 ## Database Setup
 * Create a new database (e.g. foodcoopshop_db) and a new user (e.g. fcs_db_user) using the `mysql` commandline tool. Refer to `man mysql` and [the online manual](https://dev.mysql.com/doc/refman/5.7/en/). Grant all rights on the new database to the new user. Note: In SQL terms the database is called _scheme_, so actually you create a new _scheme_ and grant _scheme_ rights.
 * Define your database configuration in custom_config.php
-* At first, **import the [initial database structure]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-structure.sql)**
-* Then **import initial database data in [German]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/master/config/sql/_installation/clean-db-data-en_US.sql)**. You can't easily change the language after the installation.
+* At first, **import the [initial database structure]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-structure.sql)**
+* Then **import initial database data in [German]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-data-en_US.sql)**. You can't easily change the language after the installation.
 * You can use the commandline or a webbased tool like [Adminer](https://www.adminer.org/) or phpMyAdmin.
 
 ## Credentials
-* Copy [credentials.default.php]({{site.repo_url}}/blob/master/config/credentials.default.php) to credentials.php and change the configuration
+* Copy [credentials.default.php]({{site.repo_url}}/blob/main/config/credentials.default.php) to credentials.php and change the configuration
 * Only until v3.1: The valid Super Admin account will be created later
 * The email error logging can be enabled to ease server monitoring
 * **Be aware** that you need to set `'EmailTransport' => [...]` three times. Twice in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default", "debug" and "fallback", so the configs must not stay commented!
@@ -156,7 +156,7 @@ To enable all cronjobs, read the [cronjobs documentation]({{ site.baseurl }}/en/
 ## Unit Tests
 * If you want to contribute source code, all unit tests should pass locally before pushing:
 * Create second database and add test database configuration to database.php. For details read [Cake's testing documentation](https://book.cakephp.org/4.0/en/development/testing.html)
-* Import [this dump]({{site.repo_url}}//blob/master/config/sql/_installation/clean-db-structure.sql) into your test database
+* Import [this dump]({{site.repo_url}}//blob/main/config/sql/_installation/clean-db-structure.sql) into your test database
 ```
 $ vendor/bin/phpunit
 ```

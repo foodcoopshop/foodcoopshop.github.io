@@ -17,7 +17,7 @@ nav_order: 2
 * Minimal requirement for PHP is now 8.0
 * Rename `app.sendEmailWhenOrderDetailQuantityOrPriceChanged` to `app.sendEmailWhenOrderDetailQuantityChanged` in custom_config.php
 * Frontend caching of product / category data is enabled by default. If you manipulate product data in the database directly, do not forget to clear the cache manually (see bottom of page).
-* It's recommended to add cache prefixes to custom_config.php see [custom_config.default.php]({{site.repo_url}}/blob/master/config/custom_config.default.php)
+* It's recommended to add cache prefixes to custom_config.php see [custom_config.default.php]({{site.repo_url}}/blob/main/config/custom_config.default.php)
 ```
 'Cache' => [
     'default' => [
