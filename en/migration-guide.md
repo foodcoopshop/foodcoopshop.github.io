@@ -11,6 +11,11 @@ nav_order: 2
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
+### Unreleased version
+* Minimal requirement for MySQL is now 8.0
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+* clear cache => see bottom of page
 
 ### FCS v3.4.1
 * **v3.4.1 IS THE LATEST STABLE VERSION**
