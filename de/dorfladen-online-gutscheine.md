@@ -4,7 +4,7 @@ title: Gutscheine
 nav_order: 4
 ---
 
-Neu in v3.4 (Frühjahr 2021)
+Neu in v3.4 (Frühjahr 2022)
 {: .label .label-green }
 
 Folgender Ablauf gewährleistet die Rechtslage, dass die USt.-Schuld beim Einlösen des Mehrzweck-Gutscheines entsteht, die Einnahmen aber zum Zeitpunkt des Verkaufs des Gutscheins entstehen.

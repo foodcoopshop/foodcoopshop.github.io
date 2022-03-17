@@ -72,7 +72,7 @@ SendInvoicesToManufacturers => 0
 SendInvoicesToCustomers => 1
 ```
 
-Neu in v3.4 (Frühjahr 2021)
+Neu in v3.4 (Frühjahr 2022)
 {: .label .label-green }
 
 ```

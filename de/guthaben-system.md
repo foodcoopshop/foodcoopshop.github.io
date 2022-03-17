@@ -18,7 +18,7 @@ Superadmins können auch Guthaben-Aufladungen und Rückzahlungen (z.B. wenn das 
 ### Erinnerungs-Mail
 Einmal pro Woche wird automatisch eine Erinnerungs-Mail an jene Mitglieder versendet, deren Kontostand das eingestellte Limit unterschreitet.
 
-Neu in v3.4 (Frühjahr 2021)
+Neu in v3.4 (Frühjahr 2022)
 {: .label .label-green }
 
 Die Erinnerungs-Mail kann nun vom Mitglied abbestellt werden.

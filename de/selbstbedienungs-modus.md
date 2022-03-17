@@ -4,7 +4,7 @@ title: Selbstbedienungs-Modus
 ---
 ## Selbstbedienungs-Modus für Lagerprodukte
 
-Neu in v3.4 (Frühjahr 2021)
+Neu in v3.4 (Frühjahr 2022)
 {: .label .label-green }
 
 * Bereits bestehende Barcodes (EAN-13) können nun Produkten und Varianten zugewiesen und zum Scannen verwendet werden.

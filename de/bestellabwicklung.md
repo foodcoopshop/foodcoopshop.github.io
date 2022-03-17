@@ -15,7 +15,7 @@ Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachricht
 
 * Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fas fa-cart-arrow-down ok"></i>
 
-Neu in v3.4 (Frühjahr 2021)
+Neu in v3.4 (Frühjahr 2022)
 {: .label .label-green }
 
 Neue Hersteller-Einstellung: "Sollen die Bestelllisten auch Lagerprodukte enthalten?"
@@ -49,7 +49,7 @@ Im Admin-Bereich kann nun bei jedem Produkt aus folgenden Lieferrythmen auswähl
 * jeden letzten Freitag im Monat
 * Sammelbestellung
 
-Neu in v3.4 (Frühjahr 2021)
+Neu in v3.4 (Frühjahr 2022)
 {: .label .label-green }
 
 Der zweiwöchige Lieferrhythmus kann jetzt so eingestellt werden, dass die Produkte nur noch in der Woche vor der Lieferung bestellt werden können. In der anderen Woche sind bei aktivierter Einstellung die Produkte beim Bestellen zwar sichtbar, aber nicht bestellbar. Auch bei einem vorgezogenen Bestellschluss, kann nur mehr in der Woche vor der Lieferung bestellt werden (gilt für ein- und zweiwöchig). Alle anderen Lieferrhythmen sind von der neuen Einstellung nicht betroffen.
