@@ -46,6 +46,13 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
 
 Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht ändern, keinen Pfand eintragen und keine Sofort-Bestellung tätigen.
 
+Neu in v3.5 (Herbst 2022)
+{: .label .label-green }
+
+Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht einsehen (der Menüpunkt "Bestellungen" ist ausgeblendet).
+{: .d-inline-block }
+
+
 Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann haben Admins keinen Zugriff auf die Umsatz-Statistik.
 
 ## Eigenes "Mitglied" für Abholdienste - Vorsicht!
