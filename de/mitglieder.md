@@ -52,7 +52,6 @@ Neu in v3.5 (Herbst 2022)
 Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht einsehen (der Menüpunkt "Bestellungen" ist ausgeblendet).
 {: .d-inline-block }
 
-
 Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann haben Admins keinen Zugriff auf die Umsatz-Statistik.
 
 ## Eigenes "Mitglied" für Abholdienste - Vorsicht!
