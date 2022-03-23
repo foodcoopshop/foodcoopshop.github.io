@@ -70,3 +70,14 @@ FCS_FOODCOOPS_MAP_ENABLED => 0
 * Lieferpausen (z.B. Ruhetage, Feiertage) können über die globale Lieferpause für ein Jahr im Voraus individuell definiert werden.
 * Bestelllisten werden täglich mit den Bestellungen des aktuellen Tages versendet.
 * Lieferrhythmen können mit dieser Einstellung nicht verwendet werden (d.h. auch keine Sammelbestellungen für einzelne Produkte).
+
+
+Neu in v3.5 (Herbst 2022)
+{: .label .label-green }
+
+Die Berechnung der Umsatzsteuer auf den Rechnungen kann jetzt so eingestellt werden, dass die Gesamt-Steuer auf Basis der Gesamt-Netto-Erlöse berechnet wird. Das ist für pauschalierte Betriebe sinnvoll, die die Software auch zur Verrechnung verwenden. Achtung: Nicht möglich bei Verwendung der Hello-Cash-API!
+
+```FCS_TAX_BASED_ON_NET_INVOICE_SUM``` auf 1 setzen
+
+{: .d-inline-block }
+

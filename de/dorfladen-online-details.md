@@ -22,7 +22,7 @@ nav_order: 1
 Neu in v3.5 (Herbst 2022)
 {: .label .label-green }
 
-Für Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Bei Verwendung der Hello-Cash-API ist das allerdings nicht möglich.
+Für Kunden-Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Achtung: Nicht möglich bei Verwendung der Hello-Cash-API!
 {: .d-inline-block }
 
 ### Automatischer Rechnungsdruck
