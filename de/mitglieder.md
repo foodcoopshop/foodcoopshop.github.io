@@ -64,3 +64,12 @@ Nur **Superadmins** können Mitgliedskonten löschen. Die Funktion findet man, w
 Falls die automatische Bestellerinnerung systemweit aktiviert ist (fragt euren Software-Betreuer), wird an Mitglieder, die diese Funktion ebenfalls in ihrem Profil aktiviert haben, wöchtentlich eine Bestellerinnerungs-E-Mail verschickt. Um die Mailflut einzudämmen, wird diese E-Mail nicht verschickt, wenn in der aktuellen Woche bereits bestellt wurde.
 
 Im Admin-Bereich unter "Mitglieder" sieht man in der Spalte "E-Mail", welche Mitglieder die Erinnerung abonniert haben. Unter "Aktivitäten" sieht man, an welche Mitglieder konkret diese Erinnerungen verschickt wurden (zur besseren Übersicht ggfs. Filter auf "Cronjob: E-Mail Bestellerinnerung" setzen und Datum beachten).
+
+Neu in v3.5 (Herbst 2022)
+{: .label .label-green }
+
+## Newsletter-Funktion
+* In den globalen Einstellungen kann die Newsletter-Funktion aktiviert werden.
+* Um einen Newsletter zu versenden, unter Admin-Berich/Mitglieder oben im Filter-Dropdown "Newsletter" "ja" auswählen und dann alle Mitglieder auswählen. Dann unten rechts die E-Mail-Adressen kopieren und diese im E-Mail-Programm unter BCC einfügen.
+* Um datenschutzkonform zu arbeiten muss am Ende jedes Newsletters der Link zum Profil des Mitgliedes angegeben sein, denn dort kann sich das Mitglied wieder vom Newsletter austragen. Dieser Link lautet: https://www.example.com/admin/customers/profile (https://www.example.com mit der eigenen Domain austauschen)!
+* Alle automatisierten E-Mails an Mitglieder enthalten bei aktivierter Newsletter-Funktion einen Hinweis, wei man sich für den Newsletter anmelden kann. Sofern das Mitglied nicht schon angemeldet ist.
