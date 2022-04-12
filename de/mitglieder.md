@@ -70,6 +70,6 @@ Neu in v3.5 (Herbst 2022)
 
 ## Newsletter-Funktion
 * In den globalen Einstellungen kann die Newsletter-Funktion aktiviert werden.
-* Um einen Newsletter zu versenden, unter Admin-Berich/Mitglieder oben im Filter-Dropdown "Newsletter" "ja" auswählen und dann alle Mitglieder auswählen. Dann unten rechts die E-Mail-Adressen kopieren und diese im E-Mail-Programm unter BCC einfügen.
-* Um datenschutzkonform zu arbeiten muss am Ende jedes Newsletters der Link zum Profil des Mitgliedes angegeben sein, denn dort kann sich das Mitglied wieder vom Newsletter austragen. Dieser Link lautet: https://www.example.com/admin/customers/profile (https://www.example.com mit der eigenen Domain austauschen)!
-* Alle automatisierten E-Mails an Mitglieder enthalten bei aktivierter Newsletter-Funktion einen Hinweis, wei man sich für den Newsletter anmelden kann. Sofern das Mitglied nicht schon angemeldet ist.
+* Um nur die E-Mail-Adressen von Mitgliedern zu kopieren, die den Newsletter abonniert haben, so vorgehen: Unter Admin-Berich/Mitglieder oben im Filter-Dropdown "Newsletter" "ja" auswählen und dann links oben alle Mitglieder auswählen. Dann unten rechts die E-Mail-Adressen kopieren und diese im E-Mail-Programm deiner Wahl ins **BCC-Feld** einfügen.
+* Die DSGVO verlangt, am Ende jedes Newsletters der Link zum Profil des Mitgliedes anzugeben. Denn dort kann sich das Mitglied wieder vom Newsletter austragen. Dieser Link lautet: https://www.example.com/admin/customers/profile (https://www.example.com mit der eigenen Domain austauschen)!
+* Alle automatisierten E-Mails an Mitglieder enthalten bei aktivierter Newsletter-Funktion einen Hinweis, wie man den Newsletter abonnieren. (Nur, wenn das Mitglied den Newsletter nicht schon abonniert hat).
