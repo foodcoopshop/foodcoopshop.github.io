@@ -8,6 +8,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2022** |
+| 04 | [Boundary Exchange, Kootenay Boundary, CA](https://boundaryexchange.com) | Direct selling| self-hosted |
 | 02 | [Brot & Ruam, Aspach, AT](https://shop.brotundruam.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 01 | [Hoamatkistl, Schildorn, AT](https://www.hoamatkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2021** |
