@@ -41,3 +41,9 @@ Neu in v3.4 (Frühjahr 2022)
 
 Neben der Raiffeisenbank unterstützt der Upload jetzt auch die Volksbank.
 {: .d-inline-block }
+
+Neu in v3.5 (Herbst 2022)
+{: .label .label-green }
+
+Auch die Sparkasse ist mit dabei!
+{: .d-inline-block }
