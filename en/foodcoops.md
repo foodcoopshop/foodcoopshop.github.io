@@ -37,7 +37,7 @@ title: Users
 | 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 03 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | Direct selling | self-hosted |
 | **2019** |
-| 10 | [s'Gartl, Windischgarsten, AT](https://www.s-gartl.at) | Direct selling | self-hosted |
+| 10 | [s'Gartl, Windischgarsten, AT](https://www.s-gartl.at) | Direct selling | foodcoopshop.com |
 | 07 | [LaFoCo, Langenlois, AT](https://www.lafoco.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 05 | [Genussfairteiler, Neumarkt i.M., AT](https://www.genussfairteiler.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Taugler Körberl, St. Koloman, AT](https://körberl.taugl.online) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
