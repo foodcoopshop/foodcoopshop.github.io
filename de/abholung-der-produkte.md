@@ -31,6 +31,7 @@ Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück lie
 
 ## Anpassen des Gewichts
 Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. Nach dem Speichern ist das Feld auch nicht mehr rot hinterlegt.
+Die E-Mail-Benachrichtigung kann global deakiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
 
 ## Pfand-Rückgabe eintragen
 Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezogen. Unter "Bestellungen" gibt es einen Button "Pfand-Rückgabe", mit dem der Betrag des Leergutes eingeben werden kann, das das jeweilige Mitglied zurückbringt. Der Betrag wird somit im Guthaben-System wieder gutgeschrieben (und kann bei einer Fehleingabe dort auch wieder gelöscht werden).
@@ -53,6 +54,8 @@ Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst
 Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern werden beide Mitglieder per E-Mail benachrichtigt und die Guthaben-Konten automatisch angepasst.
 
 Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein Vereins-Mitgliedskonto anzulegen und das Produkte darauf hin zu buchen. So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein durch Fehler bei der Abholung zu tragen hatte.
+
+Die E-Mail-Benachrichtigung kann global deakiviert werden: `app.sendEmailWhenOrderDetailCustomerChanged => false`
 
 ## Feedback zu Produkt abgeben
 
