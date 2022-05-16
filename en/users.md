@@ -8,6 +8,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2022** |
+| 05 | [Käserei Frech, Vorderstoder, AT](https://www.freches-schaf.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
 | 04 | [dSpeis, Andorf, AT](https://foodcoop.dspeis-andorf.at/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Boundary Exchange, Kootenay Boundary, CA](https://boundaryexchange.com) | Direct selling| self-hosted |
 | 02 | [Brot & Ruam, Aspach, AT](https://shop.brotundruam.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
@@ -30,10 +31,12 @@ title: Users
 | 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 10 | [Bauernladen Eibiswald, AT](https://www.bauernladen-eibiswald.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 10 | [Bio Drehscheibe, Lembach, AT](https://www.bio-drehscheibe.at) | Direct selling | self-hosted |
+| 08 | [Fischerei Ecker, Seewalchen, AT](https://shop.fischerei-ecker.at) | Retail | [hofladen-online.at](https://www.hofladen-online.at) |
 | 08 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org) | Direct selling | self-hosted |
 | 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | Direct selling | self-hosted |
+| 04 | [Naturhof, Laakirchen, AT](https://shop.naturhof.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
 | 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 03 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | Direct selling | self-hosted |
 | **2019** |
