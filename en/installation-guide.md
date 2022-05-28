@@ -131,7 +131,7 @@ $ chmod -R a+w ./webroot/tmp
 * Copy [credentials.default.php]({{site.repo_url}}/blob/main/config/credentials.default.php) to credentials.php and change the configuration
 * Only until v3.1: The valid Super Admin account will be created later
 * The email error logging can be enabled to ease server monitoring
-* **Be aware** that you need to set `'EmailTransport' => [...]` three times. Twice in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default", "debug" and "fallback", so the configs must not stay commented!
+* **Be aware** that you need to set `'EmailTransport' => [...]` twice, once in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default" and "debug" so the configs must not stay commented!
 * See [https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports](https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports)
 
 ## Testing your email configuration
