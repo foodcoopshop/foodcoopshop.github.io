@@ -13,6 +13,14 @@ nav_order: 2
 
 ### Unreleased version
 * Minimal requirement for MySQL is now 8.0
+* add the array indizes 'emailFormat' and 'transport' to your credentials.php:
+```
+'Email' => [
+    'debug' => [
+        'emailFormat' => 'html',
+        'transport' => 'debug',
+```
+* remove `Email.fallback` and `EmailTransport.fallback` from credentials.php
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * clear cache => see bottom of page
