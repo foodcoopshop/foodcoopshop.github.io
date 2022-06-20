@@ -39,7 +39,6 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * Zugriff auf das Guthaben-System anderer Mitglieder (inkl. Eintragen von Rückzahlungen)
   * Zugriff auf die Software-Einstellungen
   * Eintragen von Pfand-Ausgleichszahlungen für Hersteller
-  * Stundenabrechnungs-Modul: Zugriff auf die Zeitkonten von Hersteller und Mitglied
   * Ändern des Profils von anderen Mitgliedern
   * Löschen von Mitgliedern
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
