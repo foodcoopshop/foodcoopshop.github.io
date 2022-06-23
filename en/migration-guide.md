@@ -12,6 +12,7 @@ nav_order: 2
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 ### Unreleased version
+* Minimal requirement for PHP is now 8.1
 * Minimal requirement for MySQL is now 8.0
 * add the array indizes 'emailFormat' and 'transport' to your credentials.php:
 ```
