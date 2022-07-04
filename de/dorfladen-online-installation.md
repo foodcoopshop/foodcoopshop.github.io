@@ -9,10 +9,10 @@ nav_order: 2
 Dorfladen Online ist ein Spin-Off der Software FoodCoopShop. Die Installation ist daher ident:
 [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
 
-Die notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind als Open Source (MIT-Lizenz) verfügbar und können hier downgeloadet werden:
+Die notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind als Open Source (Lizenz: AGPL-3.0) verfügbar und können hier downgeloadet werden:
 [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
 
-**Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
+**Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
 
 ## 2) Angebot
 

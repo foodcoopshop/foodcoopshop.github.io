@@ -9,6 +9,6 @@ Die Software sollte auch DSGVO-konform sein.
 
 Es ist noch notwendig, ein eigenes Impressum zu erstellen (Admin-Bereich / Seiten).
 
-**Die Verwendung der Software erfolgt auf eigene Gefahr! Die [MIT-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
+**Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
 
 * [Lebensmittelkennzeichnung]({{ site.baseurl }}/de/lebensmittelkennzeichnung)
