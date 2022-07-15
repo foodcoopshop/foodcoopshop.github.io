@@ -11,7 +11,7 @@ Create a cronjob that calls the URL **www.yourdomain.com/cron** every 10 minutes
 The cronjobs are configured in the database table **fcs_cronjobs** - there is no backend so far.
 
 * **time_interval**: day, week or month
-* **day_of_month**: needs to be a valid day number (1-28/31) if time_interval is "month". else: NULL
+* **day_of_month**: needs to be a valid day number (1-28/31 or 0 "for last of month") if time_interval is "month". else: NULL
 * **weekday**: needs to be a valid, capitalized english weekday (eg. Monday, Tuesday) if time_interval is "week". else: NULL
 * **not_before_time**: time (hh:mm:ss) when cronjob is executed earliest (exact time is depending on main cronjob's time interval
 * **active**: 0 or 1
