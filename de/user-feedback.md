@@ -10,4 +10,4 @@ Neu in v3.5 (Herbst 2022)
 
 * DIESES FEATURE IST GERADE IN ENTWICKLUNG UND NOCH NICHT FERTIG
 
-* Einbindung der Feedbacks auf Seiten oder Blog-Beiträgen über den Short-Code [FEEDBACK_MEMBER] bzw. [FEEDBACK_MANUFACTURER]
+* Einbindung der Feedbacks auf Seiten oder Blog-Beiträgen über den Short-Code [FEEDBACK_MEMBERS] bzw. [FEEDBACK_MANUFACTURERS]
