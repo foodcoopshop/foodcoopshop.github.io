@@ -10,4 +10,13 @@ Neu in v3.5 (Herbst 2022)
 
 * DIESES FEATURE IST GERADE IN ENTWICKLUNG UND NOCH NICHT FERTIG
 
-* Einbindung der Feedbacks auf Seiten oder Blog-Beiträgen über den Short-Code [FEEDBACK_MEMBERS] bzw. [FEEDBACK_MANUFACTURERS]
+Mitglieder (und später auch Hersteller) können in einem einfachen Formular angeben, warum sie bei der Initiative einkaufen. Dieses Feedback wird dann öffentlich angezeigt und soll andere Leute zum Mitmachen animieren.
+
+## Wichtige Infos
+* Feedbacks von Mitgliedern müssen zur Veröffentlichung freigeschaltet erst werden. Die Links dazu finden Superadmins im Admin-Bereich unter "Mitglieder".
+* Die Feedbacks von Admins und Superadmins sind sofort nach dem Speichern freigeschaltet.
+* Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten". Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback"
+
+## In Planung
+* Hersteller sollen auch bald Feedback abgeben können.
+* Evtl. gibts auch mal einen Bild-Upload.
