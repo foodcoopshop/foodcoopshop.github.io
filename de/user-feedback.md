@@ -1,6 +1,6 @@
 ---
 parent: Deutsch
-title: Feedback
+title: Feedback-Funktion
 ---
 
 ## Feedback von Mitgliedern und Herstellern
