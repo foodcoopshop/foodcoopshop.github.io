@@ -17,7 +17,7 @@ Mitglieder und Hersteller können in einem Formular angeben, warum sie bei der I
 * Um die Funktion zu nutzen, muss die Einstellung "Mitglieder- und Hersteller-Feedback aktiv?" (Homepage-Verwaltung / Einstellungen) aktiviert werden.
 
 ## Wichtige Infos
-* Feedbacks von Mitgliedern und Herstellern müssen zur Veröffentlichung freigeschaltet erst werden. Die Links dazu finden Superadmins im Admin-Bereich unter "Mitglieder" bzw. "Hersteller".
+* Feedbacks von Mitgliedern und Herstellern müssen zur Veröffentlichung freigeschaltet erst werden. Die Links dazu finden Superadmins im Admin-Bereich unter "Mitglieder" bzw. "Hersteller". Die Zahl in Klammer ist die Zahl der Feedbacks, die noch nicht freigeschaltet sind.
 * Die Feedbacks von Admins und Superadmins sind sofort nach dem Speichern freigeschaltet.
 * Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten". Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedbacks" (Darstellung der Feedbacks).
 
