@@ -11,7 +11,7 @@ Neu in v3.5 (Herbst 2022)
 * DIESES FEATURE IST GERADE IN ENTWICKLUNG UND NOCH NICHT GANZ FERTIG
 
 
-Mitglieder und Hersteller können in einem Formular angeben, warum sie bei der Initiative einkaufen bzw. die Initiative beliferen. Dieses Feedback wird dann öffentlich angezeigt und soll andere Mitglieder / Hersteller zum Mitmachen animieren.
+Mitglieder und Hersteller können in einem Formular angeben, warum sie bei der Initiative einkaufen bzw. die Initiative beliefern. Dieses Feedback wird dann öffentlich angezeigt und soll andere Mitglieder / Hersteller zum Mitmachen animieren.
 
 ## Aktivierung der Funktion
 * Um die Funktion zu nutzen, muss die Einstellung "Mitglieder- und Hersteller-Feedback aktiv?" (Homepage-Verwaltung / Einstellungen) aktiviert werden.
