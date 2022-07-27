@@ -41,6 +41,7 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * Eintragen von Pfand-Ausgleichszahlungen für Hersteller
   * Ändern des Profils von anderen Mitgliedern
   * Löschen von Mitgliedern
+  * Bearbeiten und freischalten von Feedback - siehe [Feedback-Funktion]({{ site.baseurl }}/de/user-feedback.html)
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
 Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht ändern, keinen Pfand eintragen und keine Sofort-Bestellung tätigen.
