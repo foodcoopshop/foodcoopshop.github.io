@@ -19,6 +19,7 @@ Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie b
 * Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten". Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedback" (Auflistung).
 * Um die Feedback-Liste z.B. ins Hauptmenü aufzunehmen, einfach eine neue Seite anlegen, die Stelle im Menü auswählen und ins Feld "Link" "https://www.example.com/feedback" reinschreiben.
 * Und falls mal ein Superadmin für andere Mitglieder Feedback anlegen möchte: Einfach die Mitglied-ID in der Url des Freischalt-Links entsprechend ersetzen. Für Hersteller funktioniert dieser Trick allerdings nicht.
+* Beispiel: [https://demo-de.foodcoopshop.com/feedback](https://demo-de.foodcoopshop.com/feedback)
 
 ## In Planung
 * Evtl. gibts auch mal einen Bild-Upload.
