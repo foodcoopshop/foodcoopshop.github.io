@@ -8,7 +8,6 @@ title: Feedback-Funktion
 Neu in v3.5 (Herbst 2022)
 {: .label .label-green }
 
-
 Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie bei der Initiative einkaufen bzw. die Initiative beliefern. Dieses Feedback wird dann öffentlich angezeigt und soll andere Mitglieder / Hersteller zum Mitmachen animieren.
 
 ## Aktivierung der Funktion
@@ -19,6 +18,7 @@ Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie b
 * Die Feedbacks von Admins und Superadmins sind sofort nach dem Speichern freigeschaltet.
 * Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten". Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedback" (Auflistung).
 * Um die Feedback-Liste z.B. ins Hauptmenü aufzunehmen, einfach eine neue Seite anlegen, die Stelle im Menü auswählen und ins Feld "Link" "https://www.example.com/feedback" reinschreiben.
+* Und falls mal ein Superadmin für andere Mitglieder Feedback anlegen möchte: Einfach die Mitglied-ID in der Url des Freischalt-Links entsprechend ersetzen. Für Hersteller funktioniert dieser Trick allerdings nicht.
 
 ## In Planung
 * Evtl. gibts auch mal einen Bild-Upload.
