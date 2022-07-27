@@ -14,9 +14,10 @@ Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie b
 * Um die Funktion zu nutzen, muss die Einstellung "Mitglieder- und Hersteller-Feedback aktiv?" (Homepage-Verwaltung / Einstellungen) aktiviert werden.
 
 ## Wichtige Infos
-* Feedbacks von Mitgliedern und Herstellern müssen zur Veröffentlichung freigeschaltet erst werden. Die Links dazu finden Superadmins im Admin-Bereich unter "Mitglieder" bzw. "Hersteller". Die Zahl in Klammer ist die Zahl der Feedbacks, die noch nicht freigeschaltet sind.
-* Die Feedbacks von Admins und Superadmins sind sofort nach dem Speichern freigeschaltet.
-* Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten". Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedback" (Auflistung).
+* Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten".
+* Feedbacks von Mitgliedern und Herstellern müssen zur Veröffentlichung erst freigeschaltet werden. Die Links dazu finden Superadmins im Admin-Bereich unter "Mitglieder" bzw. "Hersteller". Die Zahl in Klammer ist die Zahl der Feedbacks, die noch nicht freigeschaltet sind.
+* Die Feedbacks von Admins und Superadmins sind nach dem Speichern automatisch freigeschaltet.
+* Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedback" (Auflistung).
 * Um die Feedback-Liste z.B. ins Hauptmenü aufzunehmen, einfach eine neue Seite anlegen, die Stelle im Menü auswählen und ins Feld "Link" "https://www.example.com/feedback" reinschreiben.
 * Und falls mal ein Superadmin für andere Mitglieder Feedback anlegen möchte: Einfach die Mitglied-ID in der Url des Freischalt-Links entsprechend ersetzen. Für Hersteller funktioniert dieser Trick allerdings nicht.
 * Beispiel: [https://demo-de.foodcoopshop.com/feedback](https://demo-de.foodcoopshop.com/feedback)
