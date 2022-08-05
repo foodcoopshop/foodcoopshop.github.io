@@ -8,6 +8,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2022** |
+| 08 | [Spittal Isst Regional, Spittal an der Drau, AT](https://shop.spittalisstregional.at) | Direct selling | self-hosted |
 | 05 | [Käserei Frech, Vorderstoder, AT](https://www.freches-schaf.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
 | 04 | [dSpeis, Andorf, AT](https://foodcoop.dspeis-andorf.at/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Boundary Exchange, Kootenay Boundary, CA](https://boundaryexchange.com) | Direct selling| self-hosted |
@@ -29,7 +30,6 @@ title: Users
 | 01 | [Kerbal, Kremsmünster, AT](https://www.kerbal.at) | Direct selling | self-hosted |
 | **2020** |
 | 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
-| 10 | [Bauernladen Eibiswald, AT](https://www.bauernladen-eibiswald.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 10 | [Bio Drehscheibe, Lembach, AT](https://www.bio-drehscheibe.at) | Direct selling | self-hosted |
 | 08 | [Fischerei Ecker, Seewalchen, AT](https://shop.fischerei-ecker.at) | Retail | [hofladen-online.at](https://www.hofladen-online.at) |
 | 08 | [Speisekammer Fischbach, DE](https://foodcoop.kultinativ.org) | Direct selling | self-hosted |
