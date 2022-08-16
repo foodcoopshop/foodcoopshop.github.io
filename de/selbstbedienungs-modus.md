@@ -2,11 +2,8 @@
 parent: Deutsch
 title: Selbstbedienungs-Modus
 ---
+
 ## Selbstbedienungs-Modus für Lagerprodukte
-
-Neu in v3.4 (Frühjahr 2022)
-{: .label .label-green }
-
 * Bereits bestehende Barcodes (EAN-13) können nun Produkten und Varianten zugewiesen und zum Scannen verwendet werden.
 * Produkte werden erst nach Suche, Scannen oder Kategorie-Auswahl angezeigt. Außerdem steht im Kategorien-Dropdown jetzt die Produkt-Anzahl.
 * Für Admins und Superadmins ist es jetzt möglich, über den Selbstbedienungs-Modus für andere Mitglieder zu bestellen.

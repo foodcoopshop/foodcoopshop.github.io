@@ -34,16 +34,10 @@ Neue  Einstellung: "Ab welchem Guthaben-Stand soll die Erinnerungsmail versendet
 
 
 ### Unterstützte Banken
-Da die Struktur der exportierten Daten von Bank zu Bank unterschiedlich sind, wird momentan nur eine Bank (Raiffeisenbank) unterstützt. Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
-
-Neu in v3.4 (Frühjahr 2022)
-{: .label .label-green }
-
-Neben der Raiffeisenbank unterstützt der Upload jetzt auch die Volksbank.
-{: .d-inline-block }
+Da die Struktur der exportierten Daten von Bank zu Bank unterschiedlich sind, werden momentan die Raiffeisenbank und die Volksbank unterstützt. Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
 
 Neu in v3.5 (Herbst 2022)
 {: .label .label-green }
 
-Sparkasse und GLS-Bank sind mit dabei!
+Sparkasse und GLS-Bank können auch verwendet werden.
 {: .d-inline-block }

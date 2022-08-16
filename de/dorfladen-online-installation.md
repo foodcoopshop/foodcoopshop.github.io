@@ -69,11 +69,5 @@ FCS_ALLOW_ORDERS_FOR_DELIVERY_RHYTHM_ONE_OR_TWO_WEEKS_ONLY_IN_WEEK_BEFORE_DELIVE
 ```
 SendInvoicesToManufacturers => 0
 SendInvoicesToCustomers => 1
-```
-
-Neu in v3.4 (Frühjahr 2022)
-{: .label .label-green }
-
-```
 SendDeliveryNotes => 1
 ```
