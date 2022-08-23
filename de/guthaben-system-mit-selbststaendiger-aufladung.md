@@ -7,7 +7,7 @@ title: Selbstständige Aufladung
 ## Guthaben-System mit selbstständiger Aufladung
 
 ### Hinweis 03.01.2022
-Das **Guthaben-System mit selbstständiger Aufladung** ist seit v3.4 nicht mehr die Standard-Einstellung und sollte wenn möglich auch nicht mehr verwendet werden. Viel weniger fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html).
+Die Einstellung **Guthaben-System mit selbstständiger Aufladung** ist nicht mehr empfohlen. Viel weniger fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html).
 
 Wer es trotzdem verwenden möchte, so funktioniert's:
 
