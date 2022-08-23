@@ -26,8 +26,8 @@ nav_order: 2
 * execute migrations => see bottom of page
 * clear cache => see bottom of page
 
-### FCS v3.4.1
-* **v3.4.1 IS THE LATEST STABLE VERSION**
+### FCS v3.4.2
+* **v3.4.2 IS THE LATEST STABLE VERSION**
 * Minimal requirement for PHP is now 8.0
 * Rename `app.sendEmailWhenOrderDetailQuantityOrPriceChanged` to `app.sendEmailWhenOrderDetailQuantityChanged` in custom_config.php
 * Frontend caching of product / category data is enabled by default. If you manipulate product data in the database directly, do not forget to clear the cache manually (see bottom of page).
