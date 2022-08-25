@@ -21,6 +21,7 @@ The script automatically changes custom order list send days for certain product
 
 Do not forget to change the days when certain cronjobs run (e.g. EmailOrderReminder). Change that directly in the database table fcs_cronjobs.
 
+
 ### Change the day where the order lists are sent
 
 Open the table fcs_configuration and change the value of the field "FCS_DEFAULT_SEND_ORDER_LISTS_DAY_DELTA" (default: 2) to eg. 1.
@@ -29,3 +30,14 @@ Example: If you want to change the default weekly order cycle from Tuesday midni
 
 * execute `bin/cake ChangeWeeklyPickupDayByOneDay increase` once
 * change FCS_DEFAULT_SEND_ORDER_LISTS_DAY_DELTA to 1
+
+
+### Officially supported delivery cycles
+
+| **Last order day** | **pickup day** | **info** |
+| Tuesday | Friday | **default** |
+| Monday | Tuesday | |
+| Thursday | Friday | |
+| Wednesday | Friday | |
+| Saturday | Thursday | **added in v3.6** |
+
