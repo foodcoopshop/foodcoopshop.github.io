@@ -28,6 +28,12 @@ Für Kunden-Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Ac
 ### Automatischer Rechnungsdruck
 * Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, wenn der Kunde entweder bar bezahlt (Laufkunde) oder den Rechnungsversand deaktiviert hat. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden **und den Rechnungsversand bei diesem Kunden deaktiveren**.
 
+Neu in v3.5 (Herbst 2022)
+{: .label .label-green }
+
+Mit `app.selfServiceModeAutoGenerateInvoice => false` kann die automatische Rechnungserstellung im SB-Modus ausgestellt werden.
+{: .d-inline-block }
+
 * Für das Bar-Bezahlen von Vorbestellungen gilt für den automatischen Rechnungsdruck die gleiche Logik.
 
 * Automatisches Drucken im Hintergrund aktivieren: **Firefox:** about:config / print.always_print_silent: true
