@@ -20,7 +20,7 @@ Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie b
 * Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedback" (Auflistung).
 * Um die Feedback-Liste z.B. ins Hauptmenü aufzunehmen, einfach eine neue Seite anlegen, die Stelle im Menü auswählen und ins Feld "Link" "https://www.example.com/feedback" reinschreiben.
 * Durch Klicken auf das unausgefüllte Herz kann man für ein Mitglied / einen Hersteller ein Feedback erstellen.
-* Beispiele: [https://vb.foodcoopshop.com/feedback](https://vb.foodcoopshop.com/feedback), [https://www.tante-regina.at/feedback](https://www.tante-regina.at/feedback)
+* Beispiel: [https://www.tante-regina.at/feedback](https://www.tante-regina.at/feedback)
 
 ## In Planung
 * Evtl. gibts auch mal einen Bild-Upload.
