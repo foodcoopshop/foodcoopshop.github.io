@@ -11,7 +11,8 @@ nav_order: 2
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
-### Unreleased version
+### FCS v3.5.0
+* **v3.5.0 IS THE LATEST STABLE VERSION**
 * Minimal requirement for PHP is now 8.1
 * Minimal requirement for MySQL is now 8.0
 * add the array indizes 'emailFormat' and 'transport' to your credentials.php:
@@ -27,7 +28,6 @@ nav_order: 2
 * clear cache => see bottom of page
 
 ### FCS v3.4.2
-* **v3.4.2 IS THE LATEST STABLE VERSION**
 * Minimal requirement for PHP is now 8.0
 * Rename `app.sendEmailWhenOrderDetailQuantityOrPriceChanged` to `app.sendEmailWhenOrderDetailQuantityChanged` in custom_config.php
 * Frontend caching of product / category data is enabled by default. If you manipulate product data in the database directly, do not forget to clear the cache manually (see bottom of page).

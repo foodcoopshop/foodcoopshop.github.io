@@ -26,5 +26,5 @@ nav_order: 1
 
 ## Stability / maintenance
 
-* In the latest version [492 automated unit and integration tests with 2.461 assertions]({{site.repo_url}}/actions) keep the software stable.
-[Mario Rothauer](https://github.com/mrothauer) created the project in 2014 and maintains it.
+* In the latest version [517 automated unit and integration tests with 2.699 assertions]({{site.repo_url}}/actions) keep the software stable.
+* [Mario Rothauer](https://github.com/mrothauer) created the project in 2014 and maintains it.
