@@ -6,8 +6,6 @@ nav_order: 10
 
 ## Setting up the dev environment with Docker Compose
 
-You can easily set up a dev environment with docker compose:
-
 ### Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 * Clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
