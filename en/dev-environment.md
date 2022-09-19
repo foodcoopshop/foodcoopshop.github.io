@@ -23,4 +23,5 @@ nav_order: 10
 
 ### Tips for using Docker in Windows
 * Install Ubuntu and switch to WSL2
+* Docker Desktop: Settings / Resources / WSL Integration: Enable integration with additional distros: Enable "Ubuntu"
 * Clone the repo and start docker from Ubuntu (1.000 times faster than if you start it in Windows)
