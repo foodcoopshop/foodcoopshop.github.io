@@ -16,7 +16,7 @@ If your are familiar with docker, you can easily set up a dev environment:
 * TODO run `composer install` and `npm install`
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin
-
+* Be aware that the database data is lost when the docker container is shut down (tmpfs is used).
 
 ### Unit Tests
 * run `docker exec fcs-php php ./vendor/bin/phpunit` all tests should be ok (or skipped)
