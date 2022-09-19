@@ -24,7 +24,9 @@ There is an offer for [paid support and hosting](https://www.foodcoopshop.com/da
 
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
-### 1) Setting up your dev environment
+### 1) [Setting up your dev environment with Docker]{{site.baseurl }}/en/dev-environment)
+
+### 2) Setting up your dev environment- without Docker
 * If you want to set up a dev environment, clone from Github.
 * After that, you need to manually install composer and npm vendors.
 * The main branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
@@ -36,7 +38,7 @@ $ npm --prefix ./webroot install ./webroot
 * So run that commands if you cloned from Github.
 * Don't forget to change app.debug to true in your custom_config.php.
 
-### 2) Installing the latest stable version for your live server
+### 3) Installing the latest stable version for your live server
 * Download the latest stable version at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download) and upload the unpacked files to your server using FTP.
 * Set the document root to /your-folder/foodcoopshop/webroot.
 Set the file access rights so that the Apache user (e.g. www-data) owns all files and folders:
