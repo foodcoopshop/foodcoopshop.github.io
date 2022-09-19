@@ -6,7 +6,7 @@ nav_order: 10
 
 ## Setting up the dev environment with Docker Compose
 
-If your are familiar with docker, you can easily set up a dev environment:
+You can easily set up a dev environment with docker compose:
 
 ### Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
@@ -18,8 +18,9 @@ If your are familiar with docker, you can easily set up a dev environment:
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin
 * Be aware that the database data is lost when the docker container is shut down (tmpfs is used).
 
+
 ### Unit Tests
-* run `docker exec fcs-php php ./vendor/bin/phpunit` all tests should be ok (or skipped)
+* run `docker exec fcs-php php ./vendor/bin/phpunit` all tests should either ok or skipped.
 
 
 ### Tips for using Docker in Windows
