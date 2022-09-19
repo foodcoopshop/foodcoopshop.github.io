@@ -9,7 +9,7 @@ nav_order: 10
 If your are familiar with docker, you can easily set up a dev environment:
 
 ### Installation
-* Install [docker](https://docs.docker.com/engine/install/)
+* Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 * Clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
 * Navigate into the root folder
 * Run `docker compose -f docker-compose-dev.yml up -d`
