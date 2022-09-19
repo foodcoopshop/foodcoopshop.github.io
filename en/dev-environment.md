@@ -1,6 +1,6 @@
 ---
 parent: For developers
-name: Dev environment
+title: Dev environment
 nav_order: 10
 ---
 
