@@ -1,6 +1,6 @@
 ---
 parent: For developers
-nav_order: 1
+nav_order: 20
 ---
 ## Installation guide
 * If you want to contribute to this project, please follow the [contribution guideline]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
