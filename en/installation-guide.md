@@ -24,7 +24,7 @@ There is an offer for [paid support and hosting](https://www.foodcoopshop.com/da
 
 There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
-### 1) [Setting up your dev environment with Docker]({{site.baseurl }}/en/dev-environment)
+### 1) [Setting up your dev environment with Docker]({{site.baseurl }}/en/docker-dev-environment)
 
 ### 2) Setting up your dev environment- without Docker
 * If you want to set up a dev environment, clone from Github.
