@@ -4,7 +4,7 @@ title: Docker Dev Environment
 nav_order: 10
 ---
 
-### Installation
+## Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 * Create a new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
 * [Finish "Configuring FoodCoopShop" Section]({{site.baseurl }}/en/installation-guide.html#configuring-foodcoopshop)
@@ -15,7 +15,7 @@ nav_order: 10
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin (database "foodcoopshop" is preinstalled)
 * Be aware that the database data is lost when the docker container is shut down (tmpfs is used).
 
-### Database setup in custom_config.php
+## Database setup in custom_config.php
 ```
 'default' => [
     'host' => 'database',
@@ -26,11 +26,11 @@ nav_order: 10
 ],
 ```
 
-### Unit Tests
+## Unit Tests
 * `docker exec -w /var/www/html fcs-web php ./vendor/bin/phpunit`
 * On my local machine the current 534 tests finish in around 3 min :-)
 
-### Tips for using Docker in Windows
+## Tips for using Docker in Windows
 * Install Ubuntu and switch to WSL2
 * Docker Desktop: Settings / Resources / WSL Integration: Enable integration with additional distros: Enable "Ubuntu"
 * Clone the repo and start docker from Ubuntu (1.000 times faster than if you start it in Windows)
