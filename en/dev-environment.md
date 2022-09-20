@@ -8,8 +8,7 @@ nav_order: 10
 
 ### Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
-* Clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
-* Navigate into the root folder
+* Create new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
 * https://foodcoopshop.github.io/en/installation-guide.html#configuring-foodcoopshop
 * [Finish "Configuring FoodCoopShop" Section]({{site.baseurl }}/en/installation-guide.html#configuring-foodcoopshop)
 * Start containers with `docker compose -f docker-compose-dev.yml up -d`
