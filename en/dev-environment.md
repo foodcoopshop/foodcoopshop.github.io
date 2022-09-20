@@ -18,6 +18,17 @@ nav_order: 10
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin (database "foodcoopshop" is preinstalled)
 * Be aware that the database data is lost when the docker container is shut down (tmpfs is used).
 
+### Database setup in custom_config.php
+```
+'default' => [
+    'host' => 'database',
+    'username' => 'root',
+    'password' => 'secret',
+    'database' => 'foodcoopshop',
+    'port' => 3310,
+],
+
+```
 
 ### Unit Tests
 * `docker exec -w /var/www/html fcs-web php ./vendor/bin/phpunit`
