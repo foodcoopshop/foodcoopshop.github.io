@@ -4,11 +4,9 @@ title: Docker Dev Environment
 nav_order: 10
 ---
 
-## Setting up the dev environment with Docker Compose
-
 ### Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
-* Create new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
+* Create a new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
 * [Finish "Configuring FoodCoopShop" Section]({{site.baseurl }}/en/installation-guide.html#configuring-foodcoopshop)
 * Start containers with `docker compose -f docker-compose-dev.yml up -d`
 * Composer install: `docker exec -w /var/www/html fcs-web composer install`
