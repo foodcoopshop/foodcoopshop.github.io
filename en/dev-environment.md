@@ -27,7 +27,6 @@ nav_order: 10
     'database' => 'foodcoopshop',
     'port' => 3310,
 ],
-
 ```
 
 ### Unit Tests
