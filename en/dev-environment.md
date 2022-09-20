@@ -31,7 +31,7 @@ nav_order: 10
 
 ### Unit Tests
 * `docker exec -w /var/www/html fcs-web php ./vendor/bin/phpunit`
-* On my local machine the current 534 tests only last around 3 min :-)
+* On my local machine the current 534 tests finish in around 3 min :-)
 
 ### Tips for using Docker in Windows
 * Install Ubuntu and switch to WSL2
