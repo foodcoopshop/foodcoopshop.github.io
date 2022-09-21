@@ -4,8 +4,6 @@ title: Docker Dev Environment
 nav_order: 10
 ---
 
-**I do not recommend to use the provided docker-compose.yml for production environments!**
-
 ## Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 * Create a new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
