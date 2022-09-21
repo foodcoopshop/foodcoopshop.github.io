@@ -21,7 +21,7 @@ nav_order: 10
 ```
 'default' => [
     'host' => 'database',
-    'username' => 'root',
+    'username' => 'user',
     'password' => 'secret',
     'database' => 'foodcoopshop',
     'port' => 3310,
