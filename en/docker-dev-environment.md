@@ -11,7 +11,7 @@ nav_order: 10
 * Create a new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
 * [Finish "Configuring FoodCoopShop" Section]({{site.baseurl }}/en/installation-guide.html#configuring-foodcoopshop)
 * Start containers with `docker compose up -d`
-* Composer install: ` docker compose run --rm composer install`
+* Composer install: `docker compose run --rm composer install`
 * Npm install: `docker compose run -w /var/www/html/webroot --rm npm install` and `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake npm_post_install`
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin (database "foodcoopshop" is preinstalled)
