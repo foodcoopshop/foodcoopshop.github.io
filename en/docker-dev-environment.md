@@ -15,6 +15,7 @@ nav_order: 10
 * Npm install: `docker compose run -w /var/www/html/webroot --rm npm install` and `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake npm_post_install`
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin (database "foodcoopshop" is preinstalled)
+* Run npm-check-updates: `docker compose run --rm --no-deps npm bash -ci 'npm install -g npm-check-updates && ncu --packageFile /var/www/html/webroot/package.json'`
 
 ## Database setup in custom_config.php
 ```
