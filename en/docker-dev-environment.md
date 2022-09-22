@@ -15,6 +15,7 @@ nav_order: 10
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
 * Open [http://localhost:8081](http://localhost:8081) to get to phpmyadmin of database-test
 
+
 ## Database setup in custom_config.php
 ```
     'Datasources' => [
@@ -37,12 +38,16 @@ nav_order: 10
 * Import the database dumps with test data to your local dev database: `docker compose exec -T database-dev mysql --port 3310 foodcoopshop-dev < ~./config/sql/_installation/clean-db-structure.sql` AND `docker compose exec -T database-dev mysql --port 3310 foodcoopshop-dev < ~./tests/config/sql/test-db-data.sql`
 * Run migrations: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake migrations migrate`
 
+
 ## Unit Tests
 * `docker exec -w /var/www/html fcs-php-nginx php ./vendor/bin/phpunit`
 * On my local machine the current 534 tests finish in around 3 min :-) - thanks to tmpfs!
 
-## Check npm dependency updates
+
+## Tools
 * Run npm-check-updates: `docker compose run -w /var/www/html/webroot --rm node ncu'`
+* Update po-Files (translations): `docker exec -w /var/www/html fcs-php-nginx bash ./devtools/update-translations.sh`
+
 
 ## Tips for using Docker in Windows
 * Install Ubuntu and switch to WSL2
