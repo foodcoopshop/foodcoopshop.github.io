@@ -41,7 +41,7 @@ nav_order: 10
 * `docker exec -w /var/www/html fcs-php-nginx php ./vendor/bin/phpunit`
 * On my local machine the current 534 tests finish in around 3 min :-) - thanks to tmpfs!
 
-## Check npm depency updates
+## Check npm dependency updates
 * Run npm-check-updates: `docker compose run -w /var/www/html/webroot --rm node ncu'`
 
 ## Tips for using Docker in Windows
