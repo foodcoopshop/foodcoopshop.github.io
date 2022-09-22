@@ -13,7 +13,7 @@ nav_order: 10
 * Install Npm dependencies: `docker compose run -w /var/www/html/webroot --rm node npm install` and `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake npm_post_install`
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
-* Open [http://localhost:8080](http://localhost:8081) to get to phpmyadmin of database-test
+* Open [http://localhost:8081](http://localhost:8081) to get to phpmyadmin of database-test
 
 ## Database setup in custom_config.php
 ```
