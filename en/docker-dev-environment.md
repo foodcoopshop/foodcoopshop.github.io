@@ -35,7 +35,7 @@ nav_order: 10
         ],
     ],
 ```
-* Import the database dumps with test data to your local dev database: `docker compose exec -T database-dev mysql --port 3310 foodcoopshop-dev < ~./config/sql/_installation/clean-db-structure.sql` AND `docker compose exec -T database-dev mysql --port 3310 foodcoopshop-dev < ~./tests/config/sql/test-db-data.sql`
+* Import the database dumps with test data to your local dev database: `docker compose exec -T database-dev mysql --port 3310 foodcoopshop-dev < ./config/sql/_installation/clean-db-structure.sql` AND `docker compose exec -T database-dev mysql --port 3310 foodcoopshop-dev < ./tests/config/sql/test-db-data.sql`
 * Run migrations: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake migrations migrate`
 
 
