@@ -4,6 +4,8 @@ title: Docker Dev Environment
 nav_order: 10
 ---
 
+**The provided docker should NOT BE USED IN PRODUCTION ENVIRONMENTS!**
+
 ## Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 * Create a new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
