@@ -11,7 +11,6 @@ nav_order: 10
 * When all containers are up and running, run: `bash ./devtools/setup-dev-config.sh`
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
-* Open [http://localhost:8081](http://localhost:8081) to get to phpmyadmin of database-test
 
 ## Login credentials
 * The available demo test data is in German.
@@ -23,6 +22,7 @@ nav_order: 10
 
 ## Unit Tests
 * `docker exec -w /var/www/html fcs-php-nginx php ./vendor/bin/phpunit`
+* Open [http://localhost:8081](http://localhost:8081) to get to phpmyadmin of database-test
 * On my local machine the current 534 tests finish in around 3 min :-) - thanks to tmpfs!
 
 ## Tools
