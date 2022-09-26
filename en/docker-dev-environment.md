@@ -4,7 +4,7 @@ title: Docker Dev Environment
 nav_order: 10
 ---
 
-**The provided docker should NOT BE USED IN PRODUCTION ENVIRONMENTS!**
+**The provided docker configuration should NOT BE USED IN PRODUCTION ENVIRONMENTS!**
 
 ## Installation
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
@@ -13,6 +13,11 @@ nav_order: 10
 * When all containers are up and running, run: `bash ./devtools/setup-dev-config.sh`
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
+
+## Gitpod
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/foodcoopshop/foodcoopshop)
+* Gitpod: When all containers are up and running, open your bash terminal (not: Docker) and run
+* `bash ./devtools/setup-dev-init.sh`
 
 ## Login credentials
 * The available demo test data is in German.
