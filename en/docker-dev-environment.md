@@ -16,7 +16,7 @@ nav_order: 10
 
 ## Installation on Gitpod
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/foodcoopshop/foodcoopshop)
-* Gitpod: When all containers are up and running, open your bash terminal (not: Docker) and run
+* Gitpod: When all containers are up and running, open your Bash-terminal (not in the Docker-terminal) and run
 * `bash ./devtools/init-dev-setup.sh`
 
 ## Login credentials
