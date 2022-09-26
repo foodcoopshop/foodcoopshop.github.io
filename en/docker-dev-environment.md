@@ -9,7 +9,7 @@ nav_order: 10
 ## Installation on your local machine
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
 * Create a new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
-* Start containers with `docker compose up -d`
+* Start containers with `CURRENT_UID=$(id -u):$(id -g) docker compose up -d`
 * When all containers are up and running, run: `bash ./devtools/setup-dev-config.sh`
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
