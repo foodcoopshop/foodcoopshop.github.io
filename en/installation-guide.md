@@ -13,12 +13,10 @@ nav_order: 20
 * Apache webserver - **`mod_rewrite` needs to be enabled!** (Will also work on nginx, see below)
 * PHP => 8.0 (since v3.5 => PHP 8.1)
 * PHP intl extension INTL_ICU_VERSION >= 50.1
-* PHP ZipArchive class
 * MySQL >= 5.7.7 (since v3.5 >= MySQL 8.0)
 * A domain or subdomain
 * Basic understanding of Webservers, MySQL Database and Linux Server administration
 * If you cloned the repository from Github: Node.js, npm >= v7 and Composer v2
-* PHP needs to be able to call mysqldump with exec() for database backups
 
 There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to spend your time on IT stuff.
 
