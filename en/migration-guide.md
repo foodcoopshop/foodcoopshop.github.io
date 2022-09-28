@@ -11,6 +11,12 @@ nav_order: 30
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
+### Unreleased version
+* PHP bzip2 lib is required (for automatic database backups)
+* replace source code => see bottom of page
+* execute migrations => see bottom of page
+* clear cache => see bottom of page
+
 ### FCS v3.5.0
 * **v3.5.0 IS THE LATEST STABLE VERSION**
 * Minimal requirement for PHP is now 8.1
