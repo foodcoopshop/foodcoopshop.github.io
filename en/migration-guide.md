@@ -14,8 +14,9 @@ nav_order: 30
 
 ### Unreleased version
 * PHP bzip2 lib is required (for automatic database backups)
-* Updating to this version can only be done from v3.5.x (migration reset)
+* Updating to this version can only be done from v3.5.x
 * replace source code => see bottom of page
+* run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
 * execute migrations => see bottom of page
 * clear cache => see bottom of page
 
