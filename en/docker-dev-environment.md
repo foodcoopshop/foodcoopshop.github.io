@@ -36,6 +36,7 @@ nav_order: 10
 * Run npm-check-updates: `docker exec -w /var/www/html/webroot fcs-php-nginx ncu`
 * Update po-Files (translations): `docker exec -w /var/www/html fcs-php-nginx bash ./devtools/update-translations.sh`
 * Running migrations: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake migrations migrate`
+* Build assets: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake asset_compress build`
 
 ## Tips for using Docker in Windows
 * Install Ubuntu and switch to WSL2
