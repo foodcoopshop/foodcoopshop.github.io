@@ -22,7 +22,7 @@ nav_order: 10
 ## Login credentials
 * The available demo test data is in German.
 * You can chose between 4 different users to login on [http://localhost:8001/anmelden](http://localhost:8001/anmelden)
-* Superadmin: fcs-demo-superadminadmin@mailinator.com / Password: foodcoopshop
+* Superadmin: fcs-demo-superadmin@mailinator.com / Password: foodcoopshop
 * Admin: fcs-demo-admin@mailinator.com / Password: foodcoopshop
 * Member: fcs-demo-mitglied@mailinator.com / Password: foodcoopshop
 * Manufacturer: fcs-demo-fleisch-hersteller@mailinator.com / Password: foodcoopshop
