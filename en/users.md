@@ -8,6 +8,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2022** |
+| 10 | [Koope Koop, Leipzig, DE](https://shop.koope.de/) | Direct selling | self-hosted |
 | 09 | [Kornblume, Düren, DE](https://www.foodcoop-kornblume.de/) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 09| [Regional Potential, Perlesreut, DE](https://genuss.regional-potential.de/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 08 | [Spittal Isst Regional, Spittal an der Drau, AT](https://shop.spittalisstregional.at) | Direct selling | self-hosted |
