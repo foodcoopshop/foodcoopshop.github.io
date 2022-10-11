@@ -20,7 +20,6 @@ title: Users
 | **2021** |
 | 11 | [Tante Regina, Scharnstein, AT](https://www.tante-regina.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 10 | [Foodcoop Saar, Saarbrücken, DE](https://shop.foodcoop-saar.de) | Direct selling | self-hosted |
-| 09 | [Schöpfkelle, Witzenhausen, DE](https://schoepfkelle.com) | Direct selling | self-hosted |
 | 09 | [Tischlein deck dich!, Michaelnbach, AT](https://tischleindeckdich.jetzt) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
 | 04 | [Freistädter Genusskisterl, AT](https://www.freistaedtergenusskisterl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
