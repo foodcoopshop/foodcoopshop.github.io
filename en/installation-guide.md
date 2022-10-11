@@ -126,10 +126,9 @@ $ chmod -R a+w ./webroot/tmp
 
 ### Import database > v3.5
 * Define your database configuration in custom_config.php
-* run `bash ./devtools/setup-dev/init-database.sh de_DE` (locale: en_US is also supported)
+* run `bash ./devtools/installation/init-database.sh de_DE` (locale: en_US is also supported)
 * Import taxes for Austria: `bash ./bin/cake migrations seed --seed AddTaxesAustriaSeed`
 * **OR** Import taxes for Germany: `bash ./bin/cake migrations seed --seed AddTaxesGermanySeed`
-
 
 ### Import database <= v3.5
 * Define your database configuration in custom_config.php
