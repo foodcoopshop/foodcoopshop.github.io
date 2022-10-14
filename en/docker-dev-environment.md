@@ -4,7 +4,7 @@ title: Docker Dev Environment
 nav_order: 10
 ---
 
-{ .warning }
+{: .warning }
 The provided docker configuration should NOT BE USED IN PRODUCTION ENVIRONMENTS!
 
 ## Installation on your local machine
