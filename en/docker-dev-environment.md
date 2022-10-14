@@ -7,7 +7,7 @@ nav_order: 10
 # Docker dev environment
 
 {: .warning }
-**The provided docker configuration should NOT BE USED IN PRODUCTION ENVIRONMENTS!**
+The provided docker configuration should NOT BE USED IN PRODUCTION ENVIRONMENTS!
 
 ## Installation on your local machine
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
