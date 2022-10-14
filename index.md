@@ -5,7 +5,7 @@ nav_order: 1
 
 ![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/main/webroot/files/images/sliders/demo-slider.jpg)
 
-# Welcome to the FoodCoopShop documentation
+## Welcome to the FoodCoopShop documentation
 
 * [Installation guide]({{ site.baseurl }}/en/installation-guide)
 * [Migration guide]({{ site.baseurl }}/en/migration-guide)
