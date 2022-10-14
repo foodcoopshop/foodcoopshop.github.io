@@ -6,6 +6,9 @@ has_children: true
 
 ## Guthaben-System
 
+{: .note }
+Das Guthaben-System ist ein digitales Kontoblatt, in dem für jedes Mitglied alle Bestellungen, Guthaben-Aufladungen und der Pfand berücksichtigt sind. Zu jedem Zeitpunkt kann eingesehen werden, wie hoch der jeweilige Guthaben-Stand ist und auch, wie er sich zusammensetzt.
+
 ### Zwei verschiedene Einstellungen
 
 * [Guthaben-System mit automatischem Kontoabgleich - empfohlen]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html)
