@@ -10,12 +10,10 @@ callouts:
     title: Warning
     color: red
   important:
-    title: Important
     color: yellow
   new:
     title: New in v3.6 (Summer 2023)
     color: green
   note:
-    title: Note
     color: blue
 callouts_opacity: 0.3
