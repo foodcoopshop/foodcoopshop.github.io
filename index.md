@@ -7,7 +7,6 @@ nav_order: 1
 
 ## Welcome to the software documentation
 
-* [Crowdfunding for new features](https://www.foodcoopshop.com/crowdfunding-weiterentwicklung)
 * [FoodCoopShop on Github]({{site.repo_url}})
 * [Official homepage (German)](https://www.foodcoopshop.com/)
 * [Facebook](https://facebook.com/FoodCoopShop)
