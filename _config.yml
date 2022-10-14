@@ -14,5 +14,5 @@ callouts:
     color: yellow
   new:
     title: New in v3.6 (Summer 2023)
-    color: #719f41
+    color: green
 callouts_opacity: 0.3
