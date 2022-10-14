@@ -11,12 +11,16 @@ nav_order: 30
 > * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 ### Unreleased version
-* **Updating to this version can only be done from v3.5.x**
-* PHP bzip2 lib is required (for automatic database backups)
-* replace source code => see bottom of page
-* run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
-* execute migrations => see bottom of page
-* clear cache => see bottom of page
+
+{: .warning-title }
+> This version is not yet released!
+>
+> * **Updating to this version can only be done from v3.5.x**
+> * PHP bzip2 lib is required (for automatic database backups)
+> * replace source code => see bottom of page
+> * run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
+> * execute migrations => see bottom of page
+> * clear cache => see bottom of page
 
 ### FCS v3.5.0
 
