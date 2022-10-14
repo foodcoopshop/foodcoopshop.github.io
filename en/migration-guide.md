@@ -26,8 +26,8 @@ nav_order: 30
 
 ### FCS v3.5.0
 
-{: .important-title }
-> This is the latest stable version
+{: .important }
+This is the latest stable version
 
 * Minimal requirement for PHP is now 8.1
 * Minimal requirement for MySQL is now 8.0

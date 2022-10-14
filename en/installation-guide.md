@@ -19,13 +19,17 @@ nav_order: 20
 * Basic understanding of Webservers, MySQL Database and Linux Server administration
 * If you cloned the repository from Github: Node.js, npm >= v7 and Composer v2
 
-There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to spend your time on IT stuff.
-
-There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
+{: .note }
+> * There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) (in German) if you don't want to spend your time on IT stuff.
+> * There are demo installations in **[German](https://demo-de.foodcoopshop.com/)** and **[English](https://demo-en.foodcoopshop.com/)**. Feel free to test before installing. [New translations are welcome]({{ site.baseurl }}/en/translating)!
 
 ### 1) [Setting up your dev environment **with Docker**]({{site.baseurl }}/en/docker-dev-environment)
 
 ### 2) Setting up your dev environment **without Docker**
+
+{: .important }
+We strongly recommend using our docker dev environment.
+
 * If you want to set up a dev environment, clone from Github.
 * After that, you need to manually install composer and npm vendors.
 * The main branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
