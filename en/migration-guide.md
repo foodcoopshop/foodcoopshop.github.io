@@ -111,20 +111,24 @@ nav_order: 30
 
 
 ## replace source code
-* rename old installation folder (e.g. foodcoopshop-old)
-* upload source code of new version into new folder with the name of the old version before renaming
-* copy the following files and folders from your old installation directory into the new directory
-    * config/custom_config.php
-    * config/credentials.php
-    * webroot/files
-    * files_private
-    * and any other adapted files (favicons, /css/custom.css, /css/mobile-frontend-custom.css...)
+
+{: info }
+> * rename old installation folder (e.g. foodcoopshop-old)
+> * upload source code of new version into new folder with the name of the old version before renaming
+> * copy the following files and folders from your old installation directory into the new directory
+>     * config/custom_config.php
+>     * config/credentials.php
+>     * webroot/files
+>     * files_private
+>     * and any other adapted files (favicons, /css/custom.css, /css/mobile-frontend-custom.css...)
 
 ## execute migrations
 
-`>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
-
-`<  v3.2: $ bin/cake migrations migrate`
+{: info }
+> * `>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
+> * `<  v3.2: $ bin/cake migrations migrate`
 
 ## clear cache
-* execute `bin/cake cache clear_all`
+
+{: info }
+> `bin/cake cache clear_all`
