@@ -21,7 +21,7 @@ nav_order: 20
 * MySQL >= 8.0
 * If you cloned the repository from Github: Node.js, npm >= v7 and Composer v2
 
-{: .important }
+{: .note }
 > * There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) if you don't want to spend your time on IT stuff.
 > * There are demo installations in [German](https://demo-de.foodcoopshop.com/) and [English](https://demo-en.foodcoopshop.com/). Feel free to test before installing.
 
@@ -92,12 +92,12 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 * Open https://yourdomain.tld/request-new-password, type in your email address and press "Send".
 * With the password that was sent to you by email you are able to login as a Super Admin.
 
-{: warning }
+{: .warning }
 > The Urls in this section depend on your installation language and therefore may be different for you. The urls are constructed from translation-settings which can be found in the "/resources/locale/country_CULTURE/default.po" file under the keys "route_sign_in" and "route_request_new_password". Example for "de_DE":
 > * Sign-in: https://yourdomain.tld/anmelden
 > * Request-new-password: https://yourdomain.tld/neues-passwort-anfordern
 
-## Cronjobs
+## Setting up cronjobs
 Follow the steps of the [cronjob documentation]({{ site.baseurl }}/en/cronjobs).
 
 ## Customizing CSS
