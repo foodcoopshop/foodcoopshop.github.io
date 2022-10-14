@@ -3,7 +3,7 @@ parent: For developers
 nav_order: 30
 ---
 ## Migration guide
-
+{: .mb-2 }
 
 {: .important }
 > * **Always make a database and file backup before updating your installation!**
