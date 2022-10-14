@@ -34,8 +34,8 @@ The cronjobs are configured in the database table **fcs_cronjobs** - there is no
 * **active**: 0 or 1
 
 {: .highlight }
-* Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
-* Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
+Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
+Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
 
 New in v3.6 (Summer 2023)
 {: .label .label-green }
