@@ -5,8 +5,7 @@ nav_order: 40
 ## Cronjobs
 
 {: .important }
->* You need to define two cronjobs in your crontab.
->* [What is a cronjob / crontab?](https://itsfoss.com/cron-job/)
+You need to define two cronjobs in your crontab. [What is a cronjob / crontab?](https://itsfoss.com/cron-job/)
 
 ### 1) Main cronjob
 
@@ -18,20 +17,6 @@ A crontab line could look like this:
 
 {: .new }
 Superadmins can now edit the cronjobs in the admin area (Homepage adminstration / tab "Cronjobs") (https://www.example.com/admin/cronjobs).
-
-### Important infos before v3.6
-
-The cronjobs are configured in the database table **fcs_cronjobs** - there is no backend so far.
-
-* **time_interval**: day, week or month
-* **day_of_month**: needs to be a valid day number (1-28/31 or 0 "for last of month") if time_interval is "month". else: NULL
-* **weekday**: needs to be a valid, capitalized english weekday (eg. Monday, Tuesday) if time_interval is "week". else: NULL
-* **not_before_time**: time (hh:mm:ss) when cronjob is executed earliest (exact time is depending on main cronjob's time interval
-* **active**: 0 or 1
-
-{: .important }
-Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
-Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
 
 ### 2) Queue
 
