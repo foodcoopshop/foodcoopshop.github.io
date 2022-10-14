@@ -37,6 +37,5 @@ The cronjobs are configured in the database table **fcs_cronjobs** - there is no
 Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
 Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
 
-{: new }
+{: .new }
 Superadmins can now edit the cronjobs in the admin area (Homepage adminstration / tab "Cronjobs") (https://www.example.com/admin/cronjobs).
-{: .d-inline-block }
