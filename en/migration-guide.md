@@ -26,7 +26,7 @@ nav_order: 30
 
 ### FCS v3.5.0
 
-{: .note-title }
+{: .important-title }
 > This is the latest stable version
 
 * Minimal requirement for PHP is now 8.1
