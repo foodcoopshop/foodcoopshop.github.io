@@ -3,12 +3,12 @@ parent: Deutsch
 title: Feedback-Funktion
 ---
 
-## Feedback von Mitgliedern und Herstellern
+# Feedback von Mitgliedern und Herstellern
 
-Neu in v3.5 (Herbst 2022)
-{: .label .label-green }
-
-Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie bei der Initiative einkaufen bzw. die Initiative beliefern. Dieses Feedback wird dann öffentlich angezeigt und soll andere Mitglieder / Hersteller zum Mitmachen animieren.
+{: .new-title}
+> Neu in v3.5 (Herbst 2022)
+>
+> Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie bei der Initiative einkaufen bzw. die Initiative beliefern. Dieses Feedback wird dann öffentlich angezeigt und soll andere Mitglieder / Hersteller zum Mitmachen animieren.
 
 ## Aktivierung der Funktion
 * Um die Funktion zu nutzen, muss die Einstellung "Mitglieder- und Hersteller-Feedback aktiv?" (Homepage-Verwaltung / Einstellungen) aktiviert werden.
