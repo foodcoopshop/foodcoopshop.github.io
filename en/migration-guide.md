@@ -4,6 +4,7 @@ nav_order: 30
 ---
 # Migration guide
 
+### Introduction
 {: .important }
 > * **Always make a database and file backup before updating your installation!**
 > * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
