@@ -33,9 +33,8 @@ The cronjobs are configured in the database table **fcs_cronjobs** - there is no
 * **not_before_time**: time (hh:mm:ss) when cronjob is executed earliest (exact time is depending on main cronjob's time interval
 * **active**: 0 or 1
 
-### Important
-
-{: .highlight }
+{: .note-title }
+Important
 * Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
 * Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
 
