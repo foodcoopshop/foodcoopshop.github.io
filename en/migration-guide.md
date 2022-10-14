@@ -19,7 +19,10 @@ nav_order: 30
 * clear cache => see bottom of page
 
 ### FCS v3.5.0
-* **v3.5.0 IS THE LATEST STABLE VERSION**
+
+{: .important }
+> * **v3.5.0 IS THE LATEST STABLE VERSION**
+
 * Minimal requirement for PHP is now 8.1
 * Minimal requirement for MySQL is now 8.0
 * add the array indizes 'emailFormat' and 'transport' to your credentials.php:
