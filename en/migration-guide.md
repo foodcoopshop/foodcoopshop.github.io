@@ -112,7 +112,7 @@ nav_order: 30
 
 ## replace source code
 
-{: info }
+{: .important }
 > * rename old installation folder (e.g. foodcoopshop-old)
 > * upload source code of new version into new folder with the name of the old version before renaming
 > * copy the following files and folders from your old installation directory into the new directory
@@ -124,11 +124,11 @@ nav_order: 30
 
 ## execute migrations
 
-{: info }
+{: .important }
 > * `>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
 > * `<  v3.2: $ bin/cake migrations migrate`
 
 ## clear cache
 
-{: info }
+{: .important }
 > `bin/cake cache clear_all`
