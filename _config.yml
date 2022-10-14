@@ -1,6 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
-color_scheme: dark
 aux_links:
     "FoodCoopShop on GitHub":
       - "https://github.com/foodcoopshop/foodcoopshop"
