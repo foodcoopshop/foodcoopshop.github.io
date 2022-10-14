@@ -16,18 +16,6 @@ A crontab line could look like this:
 
 `*/10 * * * * curl https://www.yourdomain.com/cron`
 
-### 2) Queue
-
-An additional cronjob needs to be set up to handle the [queue](https://github.com/dereuromark/cakephp-queue) (responsible for generating and sending order lists and invoices):
-
-`*/5 * * * * /your-app/bin/cake queue run`
-
-Eventually you need to run cake with bash:
-
-`*/5 * * * * bash /your-app/bin/cake queue run`
-
---------------------------------------------------------
-
 {: .new }
 Superadmins can now edit the cronjobs in the admin area (Homepage adminstration / tab "Cronjobs") (https://www.example.com/admin/cronjobs).
 
@@ -44,3 +32,14 @@ The cronjobs are configured in the database table **fcs_cronjobs** - there is no
 {: .important }
 Changing the default values at own risk. Especially the day_of_month for SendInvoices (11) should not be changed!
 Only one call per day per cronjob is supported (eg. BackupDatabase can't be called twice a day).
+
+### 2) Queue
+
+An additional cronjob needs to be set up to handle the [queue](https://github.com/dereuromark/cakephp-queue) (responsible for generating and sending **any** emails, order lists and invoices).
+
+`*/5 * * * * /your-app/bin/cake queue run`
+
+Eventually you need to run cake with bash:
+
+`*/5 * * * * bash /your-app/bin/cake queue run`
+
