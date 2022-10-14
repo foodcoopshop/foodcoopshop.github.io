@@ -8,8 +8,8 @@ has_children: true
 
 ### Zwei verschiedene Einstellungen
 
-* [Guthaben-System mit automatischem Kontoabgleich]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html)
-* [Guthaben-System mit selbstständiger Aufladung]({{ site.baseurl }}/de/guthaben-system-mit-selbststaendiger-aufladung.html)
+* [Guthaben-System mit automatischem Kontoabgleich - empfohlen]({{ site.baseurl }}/de/guthaben-system-mit-automatischem-kontoabgleich.html)
+* [Guthaben-System mit selbstständiger Aufladung - nicht empfohlen]({{ site.baseurl }}/de/guthaben-system-mit-selbststaendiger-aufladung.html)
 
 ### Superadmin-Funktionen
 
