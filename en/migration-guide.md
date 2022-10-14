@@ -115,7 +115,6 @@ nav_order: 30
     * and any other adapted files (favicons, /css/custom.css, /css/mobile-frontend-custom.css...)
 
 ### execute migrations
-`>= v3.4: $ composer migrate`
 
 `>= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue`
 
