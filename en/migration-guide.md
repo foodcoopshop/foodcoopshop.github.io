@@ -9,7 +9,7 @@ nav_order: 30
 {: .important }
 > * **Always make a database and file backup before updating your installation!**
 > * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
-> * **Updating to v3.6 or later can only be done from v3.5.x**
+> * **Updating to v3.6 (not yet released!) or later can only be done from v3.5.x**
 > * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 ## Unreleased version
