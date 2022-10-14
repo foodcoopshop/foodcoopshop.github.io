@@ -4,7 +4,8 @@ title: Docker Dev Environment
 nav_order: 10
 ---
 
-**The provided docker configuration should NOT BE USED IN PRODUCTION ENVIRONMENTS!**
+{ .warning }
+The provided docker configuration should NOT BE USED IN PRODUCTION ENVIRONMENTS!
 
 ## Installation on your local machine
 * Install [Docker](https://docs.docker.com/engine/install/) and [Docker Compose](https://docs.docker.com/compose/install/)
@@ -39,7 +40,8 @@ nav_order: 10
 * Running migrations: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake migrations migrate`
 * Build assets: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake asset_compress build`
 
-## Tips for using Docker on Windows
-* Install Ubuntu and switch to WSL2
-* Docker Desktop: Settings / Resources / WSL Integration: Enable integration with additional distros: Enable "Ubuntu"
-* Clone the repo and start docker from Ubuntu (1.000 times faster than if you start it in Windows)
+{ .note-title }
+> Tips for using Docker on Windows
+> * Install Ubuntu and switch to WSL2
+A * Docker Desktop: Settings / Resources / WSL Integration: Enable integration with additional distros: Enable "Ubuntu"
+> * Clone the repo and start docker from Ubuntu (1.000 times faster than if you start it in Windows)
