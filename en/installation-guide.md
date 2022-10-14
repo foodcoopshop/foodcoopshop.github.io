@@ -27,7 +27,7 @@ nav_order: 20
 
 ### 2) Setting up your dev environment **without Docker**
 
-{: .important }
+{: .warning }
 We strongly recommend using our docker dev environment.
 
 * If you want to set up a dev environment, clone from Github.
@@ -142,7 +142,6 @@ $ chmod -R a+w ./webroot/tmp
 
 ## Credentials
 * Copy [credentials.default.php]({{site.repo_url}}/blob/main/config/credentials.default.php) to credentials.php and change the configuration
-* Only until v3.1: The valid Super Admin account will be created later
 * The email error logging can be enabled to ease server monitoring
 * **Be aware** that you need to set `'EmailTransport' => [...]` twice, once in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default" and "debug" so the configs must not stay commented!
 * See [https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports](https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports)
@@ -165,14 +164,6 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 
 ## Cronjobs
 To enable all cronjobs, read the [cronjobs documentation]({{ site.baseurl }}/en/cronjobs).
-
-## Unit Tests
-* If you want to contribute source code, all unit tests should pass locally before pushing:
-* Create second database and add test database configuration to database.php. For details read [Cake's testing documentation](https://book.cakephp.org/4.0/en/development/testing.html)
-* Import [this dump]({{site.repo_url}}//blob/main/config/sql/_installation/clean-db-structure.sql) into your test database
-```
-$ vendor/bin/phpunit
-```
 
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
