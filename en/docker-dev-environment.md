@@ -41,9 +41,6 @@ The provided docker configuration should NOT BE USED IN PRODUCTION ENVIRONMENTS!
 * Build assets: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake asset_compress build`
 
 ## Tips for using Docker on Windows
-
-{: .note }
->
-> * Install Ubuntu and switch to WSL2
-> * Docker Desktop: Settings / Resources / WSL Integration: Enable integration with additional distros: Enable "Ubuntu"
-> * Clone the repo and start docker from Ubuntu (1.000 times faster than if you start it in Windows)
+* Install Ubuntu and switch to WSL2
+* Docker Desktop: Settings / Resources / WSL Integration: Enable integration with additional distros: Enable "Ubuntu"
+* Clone the repo and start docker from Ubuntu (1.000 times faster than if you start it in Windows)
