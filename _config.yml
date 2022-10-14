@@ -5,3 +5,14 @@ aux_links:
       - "https://github.com/foodcoopshop/foodcoopshop"
 repo_url: https://github.com/foodcoopshop/foodcoopshop
 title: FoodCoopShop
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: yellow
+  new:
+    title: New in v3.6 (Summer 2023)
+    color: #719f41
+callouts_opacity: 0.3
