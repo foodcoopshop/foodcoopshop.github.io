@@ -29,6 +29,7 @@ nav_order: 30
 {: .important }
 **This is the latest stable version.**
 
+* Release date: 2022-09-12
 * Minimal requirement for PHP is now 8.1
 * Minimal requirement for MySQL is now 8.0
 * add the array indizes 'emailFormat' and 'transport' to your credentials.php:
