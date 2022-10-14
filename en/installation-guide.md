@@ -6,11 +6,9 @@ nav_order: 20
 # Installation guide
 
 {: .important }
-> * If you want to contribute to this project, please follow the [contribution guideline]({{site.repo_url}}/blob/develop/CONTRIBUTING.md).
 > * This installation guide always references to the [latest stable version]({{site.repo_url}}/releases).
 > * If you want to update your installation to another version, read the [migration guide]({{ site.baseurl }}/en/migration-guide).
 > * You can help making this open source project more visible on GitHub by starring ⭐ it.
-> * Thank you for using FoodCoopShop!
 
 ## Requirements
 * Server with **shell access** and **cronjobs**
@@ -103,6 +101,10 @@ Follow the steps of the [cronjob documentation]({{ site.baseurl }}/en/cronjobs).
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
 * To re-build the assets in /cache for production, run `composer build`
+
+{: .important }
+> Good luck and thank you for using FoodCoopShop!
+
 
 ## If you have questions, first check existing github support issues
 * [I#519]({{site.repo_url}}/issues/519), [I#509]({{site.repo_url}}/issues/509), [I#466]({{site.repo_url}}/issues/466)
