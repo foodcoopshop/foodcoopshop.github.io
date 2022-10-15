@@ -5,9 +5,6 @@ title: Pfand
 
 # Pfand
 
-{: .important }
-Das Pfand-System kann deaktiviert werden: `app.isDepositEnabled => false`
-
 ## Pfand-Abwicklung mit Mitglied
 
 Der Pfand wird beim Kauf des Produktes automatisch vom Guthaben des Mitglieds abgezogen, in der Guthaben-Übersicht wird dieser in einer extra Spalte ausgewiesen.
@@ -21,7 +18,8 @@ Pfand-Rückgaben für Mitglieder können auch dann eingegeben werden, auch wenn 
 
 Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
-Für Pfand-Rücknahmen und Ausgleichszahlungen kann auch ein Buchungsdatum angegeben werden.
+{: .important }
+Für Pfand-Rücknahmen und Ausgleichszahlungen kann auch ein Buchungsdatum angegeben werden. Das ist vor allem für nachträgliche Korrekturen praktisch.
 
 * * *
 
@@ -33,8 +31,12 @@ Eine etwaige Differenz der Summen (Hersteller - Spalte Pfand und Mitglieder - Zw
 
 ## Pfand-Übersicht
 
-Im Admin-Bereich unter “Finanzberichte / Pfand-Übersicht” gibt es eine neue, übersichtliche Tabelle, die alle Pfand-relevanten Daten über die einzelnen Jahre gesondert ausweist. Außerdem ist dort eine Grafik vorhanden, die alle manuell eingetragenen Daten (Pfand-Rücknahmen, Pfand-Rückgaben und Ausgleichszahlungen) als Liniendiagramm darstellt. So können Fehleingaben leichter gefunden und anschließend korrigiert werden.
+Im Admin-Bereich unter “Finanzberichte / Pfand-Übersicht” gibt es eine übersichtliche Tabelle, die alle Pfand-relevanten Daten über die einzelnen Jahre gesondert ausweist. Außerdem ist dort eine Grafik vorhanden, die alle manuell eingetragenen Daten (Pfand-Rücknahmen, Pfand-Rückgaben und Ausgleichszahlungen) als Liniendiagramm darstellt. So können Fehleingaben leichter gefunden und anschließend korrigiert werden.
 
 ![]({{ site.baseurl }}/assets/img/de/pfand/pfand-uebersicht.png)
 
 In diesem Beispiel hat die Initiative offene Pfand-Forderungen der Hersteller von **1.654,94 €**. Die Summe der Guthaben aller Mitglieder verfügt über einen Anteil, der für Pfand-Ausgleichszahlungen vorgesehen ist, von **1.085,86 €**. Das heißt es wurde **598,08 €** fehlerhaft eingetragen (entweder zuviele Pfand-Rückgaben oder zuwenige Pfand-Rücknahmen).
+
+{: .important }
+Wem das zu kompliziert ist: Das Pfand-System kann auch komplett deaktiviert werden: `app.isDepositEnabled => false`
+
