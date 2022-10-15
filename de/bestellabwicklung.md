@@ -17,6 +17,8 @@ Bei Sofort-Bestellungen für Lagerprodukte wird der Hersteller nicht benachricht
 {: .important }
 Hersteller-Einstellung: "Sollen die Bestelllisten auch Lagerprodukte enthalten?"
 
+* * *
+
 {: .note }
 Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fas fa-cart-arrow-down ok"></i>
 
@@ -30,14 +32,18 @@ Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller ver
 ## 3) [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
 
 ## 4) Rechnungsversand
-* Die Verrechnung passiert immer am 11. des Monats.
-* **Neu**: Basis der Bestellungen, die verrechnet werden, ist der **Abholtag** (und nicht mehr der Bestelltag). Das Kontrollieren für die Hersteller ist somit einfacher.
+* Die Verrechnung passiert immer 1x im Monat - für alle Bestellungen mit Abholtag im Vormonat.
+
+{: .new }
+> * Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
 
 {: .note }
 Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fas fa-lock not-ok"></i>
 
 
 ## 5) Wöchentliche Lieferrhythmen, Sammelbestellungen und Lagerprodukte
+
+Die wöchentlichen Lieferrhythmen sind das Herzstück der Software. Mit ihnen können die Bestellungen über längere Zeiträume gesammelt werden und die Hersteller bekommen die Bestelllisten automatisch vor dem Liefertag per E-Mail zugeschickt.
 
 Im Admin-Bereich kann bei jedem Produkt aus folgenden Lieferrythmen auswählen:
 
@@ -51,17 +57,19 @@ Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf d
 
 {: .important }
 Der zweiwöchige Lieferrhythmus kann so eingestellt werden, dass die Produkte nur noch in der Woche vor der Lieferung bestellt werden können. In der anderen Woche sind bei aktivierter Einstellung die Produkte beim Bestellen zwar sichtbar, aber nicht bestellbar. Auch bei einem vorgezogenen Bestellschluss, kann nur mehr in der Woche vor der Lieferung bestellt werden (gilt für ein- und zweiwöchig). Alle anderen Lieferrhythmen sind von der neuen Einstellung nicht betroffen.
+Die Einstellung lautet: *Bestellungen beim ein- und zweiwöchigen Lieferhythmus sind nur in der Woche vor der Lieferung möglich.*
 
 ### 5a) Wöchentliche Lieferrhythmen
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-3.png)
 
-Mit den wöchentlichen Lieferrhythmen können die Bestellungen über längere Zeiträume gesammelt werden und die Hersteller bekommen die Bestelllisten wie gewohnt z.B. am Mittwoch (je nach Foodcoop-Konfiguration) vor dem Liefertag per E-Mail zugeschickt. Wer zwischendurch wissen möchte, wie viel bereits bestellt wurde, kann im Admin-Bereich unter "Bestellungen" nachschauen. Dazu einfach den Abholtag entsprechend auswählen.
+**Vorgezogener Bestellschluss**
+Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter *Bstellschluss* kann individuell für jedes Produkt eingestellt werden, bis zu welchem Wochentag es bestellt werden kann. So kann z.B. "Sonntag Mitternacht" oder "Montag Mitternacht" statt "Dienstag Mitternacht" angeben werden. Die Bestelllisten werden automatisch am Tag darauf versendet und wer das Produkt am Dienstag (nach Bestellschluss) bestellen möchte, der kann das ebenfalls tun. Allerdings wird dann als Liefertag "Freitag in einer Woche" ausgewählt. Beim Einkaufen wird der geänderte Bestellschluss automatisch fett angezeigt, damit alles klar und verständlich bleibt.
 
-Unter **Erster Liefertag** kann eingestellt werden, ab wann das Produkt erstmalig bestellbar ist, falls man eine Vorlaufzeit benötigt, bevor der Lieferrhythmus beginnt. Das Produkt ist auch in dieser Vorlaufzeit für den jeweiligen Abholtag bestellbar.
+{: .important }
+Bestellungen können - je nach Lieferrhythmus - teilweise schon einige Wochen vor dem eigentlichen Abholtag getätigt werden. Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte". Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
 
-Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter **Bestellschluss** kann nun individuell für jedes Produkt eingestellt werden, bis zu welchem Wochentag es bestellt werden kann. So kann z.B. "Sonntag Mitternacht" oder "Montag Mitternacht" statt "Dienstag Mitternacht" angeben werden. Die Bestelllisten werden automatisch am Tag darauf versendet und wer das Produkt am Dienstag (nach Bestellschluss) bestellen möchte, der kann das ebenfalls tun. Allerdings wird dann als Liefertag "Freitag in einer Woche" ausgewählt. Beim Einkaufen wird der geänderte Bestellschluss automatisch fett angezeigt, damit alles klar und verständlich bleibt.
-
-Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte" - falls Bestellungen vorliegen, deren Abholtag noch nicht vorbei ist. Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
+{: .new }
+> * Tag und Uhrzeit der Abhol-Erinnerung kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist Montag 9:00 Uhr.
 
 
 ### 5b) Sammelbestellungen
@@ -71,7 +79,7 @@ Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finde
 Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produkt bis zum eingestellten Datum **Bestellbar bis** im Shop angezeigt und danach automatisch ausgeblendet. Der **Liefertag** ist ebenfalls individuell einstellbar.
 
 {: .important }
-**Bestelllisten versenden am** (kann leer gelassen werden) versendet die Bestellliste der Sammelbestellung automatisch.
+**Bestelllisten versenden am** (kann leer gelassen werden) versendet die Bestellliste der Sammelbestellung automatisch am entsprechen Tag. Dieser Tag kann vom Standard-Bestelllisten-Versandtag (meistens Mittwoch) abweichen.
 
 Hier findest du mehr Details zu [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen).
 
