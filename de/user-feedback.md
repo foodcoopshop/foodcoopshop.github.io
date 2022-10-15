@@ -6,7 +6,7 @@ title: Feedback-Funktion
 # Feedback von Mitgliedern und Herstellern
 
 {: .new-title}
-> Die gesamte Funktion ist neu in v3.5 (Herbst 2022)
+> Die gesamte Funktion ist neu seit v3.5 (Herbst 2022)
 
 Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie bei der Initiative einkaufen bzw. die Initiative beliefern. Dieses Feedback wird dann öffentlich angezeigt und soll andere Mitglieder / Hersteller zum Mitmachen animieren.
 
