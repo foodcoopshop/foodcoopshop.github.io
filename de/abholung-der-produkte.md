@@ -4,7 +4,7 @@ parent: Deutsch
 
 # Abholung der Produkte
 
-{: .important }
+{: .note }
 Hier wird detailliert erklärt, was alles an einem Abholtag zu beachten ist.
 
 ## Anlieferung der Produkte
