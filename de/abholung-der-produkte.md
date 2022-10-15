@@ -10,10 +10,9 @@ Hier wird detailliert erklärt, was alles an einem Abholtag zu beachten ist.
 ## Anlieferung der Produkte
 Sollte ein Hersteller seine Bestellliste vergessen haben: Sie sind im Admin-Bereich unter Bestellungen / Bestelllisten zu finden. Die Listen sind entweder nach Produkt oder Mitglied gruppiert.
 
-## Pfand-Rücknahme für Hersteller eintragen
-![]({{ site.baseurl }}/de/pfand.html#pfand-abwicklung-mit-hersteller)
+### [Pfand-Rücknahme für Hersteller eintragen]({{ site.baseurl }}/de/pfand.html#pfand-abwicklung-mit-hersteller)
 
-## Stornieren von Produkten
+### Stornieren von Produkten
 Falls ein Produkt nicht geliefert wird, muss es storniert werden, damit das Mitglied es nicht bezahlen muss und das Produkt auch nicht mit dem Hersteller verrechnet wird. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren. Du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind: Einfach "Bestellungen / Bestelländerungen" anklicken.
 
 Falls mehrere Produkte gleichzeitig storniert werden sollen, kann man links die Häkchen setzen und ganz unten auf "Ausgewählte Produkte stornieren" klicken.
@@ -45,8 +44,7 @@ Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestell
 {: .important }
 Die E-Mail-Benachrichtigung kann global deakiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
 
-### Pfand-Rückgabe für Mitglieder eintragen
-![]({{ site.baseurl }}/de/pfand.html#pfand-abwicklung-mit-mitglied)
+### [Pfand-Rückgabe für Mitglieder eintragen]({{ site.baseurl }}/de/pfand.html#pfand-abwicklung-mit-mitglied)
 
 ### Sofort-Bestellung für Lagerprodukte
 Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung tätigen, **der Abholtag wird dabei automatisch auf "heute" gesetzt**. Die Hersteller werden über Sofort-Bestellungen automatisch informiert (sofern die Produkte nicht als Lagerprodukte deklariert sind).
@@ -57,6 +55,7 @@ Die Liste der Bestellungen wird auf Basis des nächsten Abholtages angezeigt. Di
 ### Produkte auf "abgeholt" setzen
 Der Abholdienst kann angeben, wenn das Mitglied die Produkte abgeholt hat (unter "Bestellungen", Button ganz rechts). Die Zeile wird dann grün angezeigt, ansonsten hat es aber keine Auswirkungen. Es ist nur möglich, **alle Produkte eines Abholtages** auf "abgeholt" zu setzen, nicht einzelne Produkte.
 
+{: .important }
 Falls die Bestellung Produkte enthält, deren Gewicht noch angepasst werden muss, erscheint nach dem Setzen auf "abgeholt" eine enstprechende Fehlermeldung. Der Status wird aber trotzdem auf "abgeholt" gesetzt.
 
 ### Produkte bleiben am Ende des Abholtages übrig - was tun?
