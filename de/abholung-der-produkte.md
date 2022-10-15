@@ -10,6 +10,9 @@ Hier wird detailliert erklärt, was alles an einem Abholtag zu beachten ist.
 ## Anlieferung der Produkte
 Sollte ein Hersteller seine Bestellliste vergessen haben: Sie sind im Admin-Bereich unter Bestellungen / Bestelllisten zu finden. Die Listen sind entweder nach Produkt oder Mitglied gruppiert.
 
+## Pfand-Rücknahme für Hersteller eintragen
+![]({{ site.baseurl }}/de/pfand.html#pfand-abwicklung-mit-hersteller)
+
 ## Stornieren von Produkten
 Falls ein Produkt nicht geliefert wird, muss es storniert werden, damit das Mitglied es nicht bezahlen muss und das Produkt auch nicht mit dem Hersteller verrechnet wird. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren. Du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind: Einfach "Bestellungen / Bestelländerungen" anklicken.
 
@@ -42,8 +45,8 @@ Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestell
 {: .important }
 Die E-Mail-Benachrichtigung kann global deakiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
 
-### Pfand-Rückgabe eintragen
-Das Pfand wird bei der Bestellung automatisch vom Guthaben des Mitglieds abgezogen. Unter "Bestellungen" gibt es einen Button "Pfand-Rückgabe", mit dem der Betrag des Leergutes eingeben werden kann, das das jeweilige Mitglied zurückbringt. Der Betrag wird somit im Guthaben-System wieder gutgeschrieben (und kann bei einer Fehleingabe dort auch wieder gelöscht werden).
+### Pfand-Rückgabe für Mitglieder eintragen
+![]({{ site.baseurl }}/de/pfand.html#pfand-abwicklung-mit-mitglied)
 
 ### Sofort-Bestellung für Lagerprodukte
 Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung tätigen, **der Abholtag wird dabei automatisch auf "heute" gesetzt**. Die Hersteller werden über Sofort-Bestellungen automatisch informiert (sofern die Produkte nicht als Lagerprodukte deklariert sind).
