@@ -23,6 +23,8 @@ nav_order: 20
 > * There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) if you don't want to spend your time on IT stuff.
 > * There are demo installations in [German](https://demo-de.foodcoopshop.com/) and [English](https://demo-en.foodcoopshop.com/). Feel free to test before installing.
 
+* * *
+
 ## 1) [Setting up your dev environment **with Docker**]({{site.baseurl }}/en/docker-dev-environment)
 
 ## 2) Setting up your dev environment **without Docker**
@@ -49,6 +51,8 @@ $ npm --prefix ./webroot install ./webroot
 ```
 bash ./devtools/installation/set-permissions.sh
 ```
+
+* * *
 
 ## Configuring FoodCoopShop
 * Copy [custom_config.default.php]({{site.repo_url}}/blob/main/config/custom_config.default.php) to custom_config.php and change your configuration if you want to
