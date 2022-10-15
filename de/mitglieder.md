@@ -4,7 +4,13 @@ title: Mitglieder
 has_children: true
 ---
 
-[Mitgliedsbeiträge verwalten]({{ site.baseurl }}/de/mitgliedsbeitraege.html)
+# Mitglieder
+
+{: .note }
+Hier werden alle relevanten Infos für die Mitglieder-Verwaltung beschrieben. Viele Funktionen sind bereits in der Software selbst dokumentiert.
+
+{: .note }
+Zur Dokumentation [Mitgliedsbeiträge verwalten]({{ site.baseurl }}/de/mitgliedsbeitraege.html)
 
 ## Registrierung / Aktivierung von Mitgliedern
 
@@ -44,18 +50,18 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * Bearbeiten und freischalten von Feedback - siehe [Feedback-Funktion]({{ site.baseurl }}/de/user-feedback.html)
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
+{: .important }
 Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht ändern, keinen Pfand eintragen und keine Sofort-Bestellung tätigen.
-
-Neu in v3.5 (Herbst 2022)
-{: .label .label-green }
-
-Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht einsehen (der Menüpunkt "Bestellungen" ist ausgeblendet).
-{: .d-inline-block }
-
 Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann haben Admins keinen Zugriff auf die Umsatz-Statistik.
 
-## Eigenes "Mitglied" für Abholdienste - Vorsicht!
-Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!**Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat.**Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
+{: .new-title }
+> Neu in v3.5
+>
+> Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht einsehen (der Menüpunkt "Bestellungen" ist ausgeblendet).
+
+{: .warning-title }
+> Eigenes Mitgliedskonto für Abholdienste - Vorsicht!
+> Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!** Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat.**Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
 
 ## Mitgliedskonto löschen
 Nur **Superadmins** können Mitgliedskonten löschen. Die Funktion findet man, wenn man in der Mitglieder-Liste auf das Bearbeiten-Symbol neben dem Mitgliedsnamen klickt (Profil), ganz unten rechts. Alle personenbezogenen Daten sind dann unwiderruflich gelöscht, außer in den generierten Rechnungen. Die bleiben 7 Jahre lang gespeichert und enthalten Vor- und Nachname der Mitglieder (auch von gelöschten!).
@@ -65,10 +71,14 @@ Falls die automatische Bestellerinnerung systemweit aktiviert ist (fragt euren S
 
 Im Admin-Bereich unter "Mitglieder" sieht man in der Spalte "E-Mail", welche Mitglieder die Erinnerung abonniert haben. Unter "Aktivitäten" sieht man, an welche Mitglieder konkret diese Erinnerungen verschickt wurden (zur besseren Übersicht ggfs. Filter auf "Cronjob: E-Mail Bestellerinnerung" setzen und Datum beachten).
 
-Neu in v3.5 (Herbst 2022)
-{: .label .label-green }
+{: .new }
+> * Der Tag des Bestell-Erinnerungs-Versandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
 
 ## Newsletter-Funktion
+
+{: .new-title}
+> Die gesamte Funktion ist neu seit v3.5 (Herbst 2022)
+
 * In den globalen Einstellungen kann die Newsletter-Funktion aktiviert werden.
 * **Newsletter versenden:** Unter "Admin-Berich / Mitglieder" oben im Filter-Dropdown "Newsletter" "ja" auswählen, dann links oben mit der Checkbox "alle Mitglieder" auswählen. Weiters über den Button rechts unten die E-Mail-Adressen kopieren und diese im E-Mail-Programm deiner Wahl ins **BCC-Feld** einfügen.
 * Am Ende jedes Newsletters muss lt. DSGVO ein Link zum Austragen aus dem Newletter angegeben werden. Dieser Link lautet: https://www.example.com/admin/customers/profile (https://www.example.com mit der eigenen Domain austauschen)!
