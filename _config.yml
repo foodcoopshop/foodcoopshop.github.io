@@ -7,7 +7,6 @@ repo_url: https://github.com/foodcoopshop/foodcoopshop
 title: FoodCoopShop
 callouts:
   warning:
-    title: Warning
     color: red
   important:
     color: yellow
