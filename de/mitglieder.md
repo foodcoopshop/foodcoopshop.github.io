@@ -61,10 +61,10 @@ Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann
 >
 > Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht einsehen (der Menüpunkt "Bestellungen" ist ausgeblendet).
 
-{: .warning-title }
-> Eigenes Mitgliedskonto für Abholdienste - Vorsicht!
->
-> Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!** Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat.**Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
+## Eigenes Mitgliedskonto für Abholdienste - Vorsicht!
+
+{: .warning }
+Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. Doch Vorsicht! Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat. Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen.
 
 ## Mitgliedskonto löschen
 Nur **Superadmins** können Mitgliedskonten löschen. Die Funktion findet man, wenn man in der Mitglieder-Liste auf das Bearbeiten-Symbol neben dem Mitgliedsnamen klickt (Profil), ganz unten rechts. Alle personenbezogenen Daten sind dann unwiderruflich gelöscht, außer in den generierten Rechnungen. Die bleiben 7 Jahre lang gespeichert und enthalten Vor- und Nachname der Mitglieder (auch von gelöschten!).
