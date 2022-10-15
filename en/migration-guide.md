@@ -12,6 +12,8 @@ nav_order: 30
 * **Updating to v3.6 (not yet released!) or later can only be done from v3.5.x**
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
+* * *
+
 ## Unreleased version
 
 {: .warning-title }
