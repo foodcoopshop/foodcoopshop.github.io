@@ -2,11 +2,13 @@
 parent: Deutsch
 title: Sammelbestellungen
 ---
-## Leitfaden für Sammelbestellungen
+
+# Leitfaden für Sammelbestellungen
 
 **Hersteller erstellen / aktivieren**
 
-Achtung: Unter Umständen sind die Produkte nach der Aktivierung sofort bestellbar, wenn sie noch den Lieferrhythmus "wöchentlich" eingestellt haben. Daher am Besten einen Tag verwenden, an dem nicht viel bestellt wird, dann ist's nicht so schlimm falls was fälschlicherweise kurz bestellbar ist.
+{: .important }
+Unter Umständen sind die Produkte nach der Aktivierung sofort bestellbar, wenn sie noch den Lieferrhythmus "wöchentlich" eingestellt haben. Daher am Besten einen Tag verwenden, an dem nicht viel bestellt wird, dann ist's nicht so schlimm falls was fälschlicherweise kurz bestellbar ist.
 
 Bei den Hersteller-Optionen unter "Benachrichtigungen" müssen meistens alle Häkchen entfernt werden.
 
@@ -38,13 +40,15 @@ Soll ein Produkt über die Sofort-Bestellung für jemand anders nachgebucht werd
 
 Sind alle Nachbuchungen fertig, kann man im Admin-Berich unter "Hersteller" oben bei beiden Datums-Feldern den Liefertag eintragen und in der Zeile des gewünschten Herstellers auf "Bestellliste prüfen" - Mitglied oder Produkt klicken. Normalerweise ist die nach Produkt gruppierte Liste für den Hersteller (muss ihm per E-Mail geschickt werden) - die nach Mitglied gruppierte Liste sollte ausgedruckt werden und beim Abholen von den Mitgliedern abgehakt werden.
 
-**Bestellliste automatisch versenden**  
+**Bestellliste automatisch versenden**
 
 Falls keine Nachbuchungen und Sofort-Bestellungen notwendig sind (z.B. eine Sammelbestellung ohne zu erreichende Verpackungseinheiten), kann im Feld "Bestellliste versenden am" auch ein Datum eingestellt werden. Die Software versendet die zwei Bestelllisten (gruppiert nach Produkt und gruppiert nach Mitglied) dann automatisch in der Früh an den Hersteller.
 
 **Rechnung**
 
-**Wichtig:** Sollte der Hersteller die Rechnung selbst stellen, muss diese "An alle Mitglieder des Vereins XXX" gestellt werden.
+{: .important }
+Sollte der Hersteller die Rechnung selbst stellen, muss diese "An alle Mitglieder des Vereins XXX" gestellt werden.
+
 Nach Abschluss der Sammelbestellung müssen eventuelle Lieferkosten noch auf alle Mitglieder aufgeteilt werden (Preise ändern). Die Summe der Preise der Sammelbestellung im System (Filter auf Liefertag + Hersteller) muss exakt gleich sein mit der Summe der Rechnung des Herstellers!
 
 **Artikel werden verspätet geliefert**

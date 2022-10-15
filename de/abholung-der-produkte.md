@@ -23,6 +23,9 @@ Falls mehrere Produkte gleichzeitig storniert werden sollen, kann man links die 
 
 ## Bestelländerungen
 
+{: .important }
+Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verrechnet ist.
+
 ### Bestellte Produkte des Mitglieds anzeigen bzw. kontrollieren
 Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Mehrere Bestellungen werden automatisch zusammengefasst. Beim gegenseitigen Kontrollieren der Produkte musst du dir die bereits überprüften Produkte nicht merken, sondern kannst auf das Hakerl ganz links in der jeweiligen Zeile klicken. Die Zeile wird dann grün.
 
