@@ -4,6 +4,9 @@ title: Gutscheine
 nav_order: 4
 ---
 
+# Gutscheine
+
+{: .note }
 Folgender Ablauf gewährleistet die Rechtslage, dass die USt.-Schuld beim Einlösen des Mehrzweck-Gutscheines entsteht, die Einnahmen aber zum Zeitpunkt des Verkaufs des Gutscheins entstehen.
 
 ## Verkauf von Gutscheinen

@@ -7,16 +7,21 @@ has_toc: true
 
 ![]({{ site.baseurl }}/assets/img/de/spin-offs/dorfladen-online-logo.png)
 
-## Dorfladen Online
-{: .d-inline-block }
+# Dorfladen Online
 
+{: .note }
 Die Software FoodCoopShop kann auch **für den Einzelhandel** verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich. Die notwendigen Änderungen betreffen vor allem die Gesetzestexte (AGB, Nutzungsbedingungen, Datenschutzerklärung), die Rechnungslegung und die Themen Einkaufspreis, Aufschlag bzw. Gewinnauswertung.
 
-Ein Umstieg von Foodcoop (Direktverkaufsplattform) auf Dorfladen (Einzelhandel) ist aktuell nicht vorgesehen. Diese Dokumentation richtet sich daher ausschließlich an Neuinstallationen.
+Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind als Open Source (Lizenz: AGPL-3.0) verfügbar und können hier downgeloadet werden:
+[https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
 
-### Links
+{: .important }
+Wer mit der Installation nicht zurechtkommt, die Software "Hofladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.hofladen-online.at](https://www.hofladen-online.at)
+
+{: .warning }
+Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!
+
+## Links
 
 * [Installation]({{ site.baseurl }}/de/dorfladen-online-installation.html)
-* [Changelog]({{site.repo_url}}/blob/develop/CHANGELOG.md#neue-funktionen-für-den-einzelhandels-modus)
 * [Projekt-Seite](https://dorfladen-online.at)
-* [Blog](https://dorfladen-online.at/aktuelles)

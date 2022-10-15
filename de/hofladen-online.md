@@ -6,16 +6,19 @@ has_toc: true
 
 ![]({{ site.baseurl }}/assets/img/de/spin-offs/hofladen-online-logo.png)
 
-## Hofladen Online
+# Hofladen Online
 
+{: .note }
 Die Software FoodCoopShop kann auch für Direktvermarkter mit Hofläden verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich.
 
-Die dafür notwendigen Code-Änderungen des Spin-Offs "Hofladen Online" sind seit Juni 2020 als Open Source (Lizenz: AGPL-3.0) verfügbar und können hier downgeloadet werden:
+Die dafür notwendigen Code-Änderungen des Spin-Offs "Hofladen Online" sind als Open Source (Lizenz: AGPL-3.0) verfügbar und können hier downgeloadet werden:
 [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
 
+{: .important }
 Wer mit der Installation nicht zurechtkommt, die Software "Hofladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.hofladen-online.at](https://www.hofladen-online.at)
 
-**Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!**
+{: .warning }
+Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!
 
 ### 1) Installation
 

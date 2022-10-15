@@ -4,13 +4,14 @@ title: Registrierkasse Hello Cash
 nav_order: 3
 ---
 
-## Registrierkasse
+# Registrierkasse
 
+{: .note }
 In Österreich benötigt man für die korrekte Abwicklung von Barverkäufen ab einer gewissen Umsatzgrenze eine Registrierkasse. Um dem Betreiber das Arbeiten mit zwei Systemen (Registrierkasse und Dorfladen Online Software)zu ersparen, ist die Registrierkasse über eine Schnittstelle in die Dorfladen Online Software integriert). Der Betreiber spart sich so das Einarbeiten in ein neues System, der Kassiervorgang und das Drucken des Beleges ist **sehr einfach und schnell**.
 
 Es werden *alle Rechnungen** über die cloudbasierte Hello-Cash-Registrierkasse [https://www.hellocash.at](https://www.hellocash.at) erstellt, egal ob der Kunde bar oder über das Guthaben-System bezahlt.
 
-Um die Registrierkassen-Funktion zu nutzen, muss ein Account bei hellocash.at vorhanden sein. Ich empfehle dafür das Medium-Paket um 6,90 € / Monat (Stand: 23.09.2021).
+Um die Registrierkassen-Funktion zu nutzen, muss ein Account bei hellocash.at vorhanden sein. Ich empfehle dafür das Premium-Paket um monatlich 14,90 € (Stand: 15.10.2022).
 
 
 ## Konfiguration Dorfladen Online
@@ -37,7 +38,7 @@ FCS_HELLO_CASH_API_ENABLED => 1
 
 WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werden - nicht in HelloCash direkt (sonst stimmt das Journal nicht).
 
-### Registrierkasse / Einstellungen / Allgemein
+## Registrierkasse / Einstellungen / Allgemein
 
 * **Nummernkreise**
 
@@ -60,16 +61,16 @@ Layout einstellen (Logo, angezeigte Daten...)
 Fußzeile bei Bon und Schlusstext bei PDF: "Vielen Dank für deinen Einkauf! Rechnungsdatum = Lieferdatum"
 
 
-### Registrierkasse / Einstellungen / Signatur
+## Registrierkasse / Einstellungen / Signatur
 
 Registrierkase mit dem Finanzamt verknüpfen
 
 
-### Mitarbeiter
+## Mitarbeiter
 
 Name ändern und ID in custom_config.php unter cashier_id (Aktuell nur ein Mitarbeiter möglich)
 
 
-### Mein Konto / Stammdaten
+## Mein Konto / Stammdaten
 
 Ausfüllen mit den eigenen Daten (UID, Firmenbuch-Nummer, IBAN, Adresse...)

@@ -4,7 +4,7 @@ title: Details
 nav_order: 1
 ---
 
-## Details zu den Abläufen bei Dorfladen Online
+# Details zu den Abläufen bei Dorfladen Online
 
 * Die Kunden-Rechnungen werden automatisch jeden Samstag um 10:00 Uhr (Zeitpunkt änderbar) erstellt und per E-Mail an die Kunden versendet. Das Erstellen einer Rechnung kann aber auch manuell ausgelöst werden (z.B. für Laufkundschaft). Diese manuell generierten Rechnungen können auch als "bar bezahlt" markiert werden.
 
@@ -19,20 +19,18 @@ nav_order: 1
 * Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/dorfladen-online-registrierkasse-hello-cash.html)
 
-Neu in v3.5 (Herbst 2022)
-{: .label .label-green }
-
-Für Kunden-Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Achtung: Nicht möglich bei Verwendung der Hello-Cash-API!
-{: .d-inline-block }
+{: .new-title }
+> Neu in v3.5
+>
+> Für Kunden-Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Achtung: Nicht möglich bei Verwendung der Hello-Cash-API!
 
 ### Automatischer Rechnungsdruck
-* Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, wenn der Kunde entweder bar bezahlt (Laufkunde) oder den Rechnungsversand deaktiviert hat. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden **und den Rechnungsversand bei diesem Kunden deaktiveren**.
+Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, wenn der Kunde entweder bar bezahlt (Laufkunde) oder den Rechnungsversand deaktiviert hat. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden **und den Rechnungsversand bei diesem Kunden deaktiveren**.
 
-Neu in v3.5 (Herbst 2022)
-{: .label .label-green }
-
-Mit `app.selfServiceModeAutoGenerateInvoice => false` kann die automatische Rechnungserstellung im SB-Modus ausgestellt werden.
-{: .d-inline-block }
+{: .new-title }
+> Neu in v3.5
+>
+> Mit `app.selfServiceModeAutoGenerateInvoice => false` kann die automatische Rechnungserstellung im SB-Modus ausgestellt werden.
 
 * Für das Bar-Bezahlen von Vorbestellungen gilt für den automatischen Rechnungsdruck die gleiche Logik.
 
