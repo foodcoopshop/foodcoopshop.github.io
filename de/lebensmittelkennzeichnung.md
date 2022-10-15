@@ -3,8 +3,10 @@ grand_parent: Deutsch
 parent: Produkte
 title: Lebensmittelkennzeichnung
 ---
-## Lebensmittelkennzeichnung / Produktdeklaration
 
+# Lebensmittelkennzeichnung / Produktdeklaration
+
+{: .note }
 Alle Lebensmittel, die über Internet verkauft werden, müssen über eine vollständige Lebensmittelkennzeichnung verfügen. Das gibt der Gesetzgeber so vor.
 
 Zusätzlich zu einer textlichen Erfassung dieser Daten kann **auch ein Bild hochgeladen werden**. Du kannst jetzt z.B. das Etikett abfotografieren und einfach ins Feld **Lange Beschreibung** (Produkt) hochladen. Es ist auch möglich, eine bereits bestehene Bilddatei des Etikettes (z.B. im PNG-Format) zu verwenden.
@@ -17,7 +19,7 @@ Beim Bestellen wird das Bild dann wenn man draufklickt automatisch größer ange
 
 Wenn das Produkt ausreichend deklariert ist, setze bitte das Häkchen bei **Produktdeklaration OK?**. Über dieses Häkchen kann die Foodcoop (und auch der Hersteller) dann nachvollziehen, welche Produkte schon ausreichend deklariert sind und welche nicht.
 
-**Weiterführende Links**
+## Weiterführende Links
 
 * [https://media.arbeiterkammer.at/wien/PDF/Publikationen/Lebensmittelkennzeichnung_2017.pdf](https://media.arbeiterkammer.at/wien/PDF/Publikationen/Lebensmittelkennzeichnung_2017.pdf)
 * [https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004645](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20004645)
