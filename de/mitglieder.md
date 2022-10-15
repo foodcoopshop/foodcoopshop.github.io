@@ -9,8 +9,8 @@ has_children: true
 {: .note }
 Hier werden alle relevanten Infos für die Mitglieder-Verwaltung beschrieben. Viele Funktionen sind bereits in der Software selbst dokumentiert.
 
-{: .note }
-Zur Dokumentation [Mitgliedsbeiträge verwalten]({{ site.baseurl }}/de/mitgliedsbeitraege.html)
+{: .important }
+Zur Anleitung [Mitgliedsbeiträge verwalten]({{ site.baseurl }}/de/mitgliedsbeitraege.html)
 
 ## Registrierung / Aktivierung von Mitgliedern
 
@@ -52,6 +52,8 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
 
 {: .important }
 Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht ändern, keinen Pfand eintragen und keine Sofort-Bestellung tätigen.
+
+{: .important }
 Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann haben Admins keinen Zugriff auf die Umsatz-Statistik.
 
 {: .new-title }
@@ -61,6 +63,7 @@ Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann
 
 {: .warning-title }
 > Eigenes Mitgliedskonto für Abholdienste - Vorsicht!
+>
 > Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. **Doch Vorsicht!** Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat.**Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen!**
 
 ## Mitgliedskonto löschen
@@ -76,7 +79,7 @@ Im Admin-Bereich unter "Mitglieder" sieht man in der Spalte "E-Mail", welche Mit
 
 ## Newsletter-Funktion
 
-{: .new-title}
+{: .new-title }
 > Die gesamte Funktion ist neu seit v3.5 (Herbst 2022)
 
 * In den globalen Einstellungen kann die Newsletter-Funktion aktiviert werden.
