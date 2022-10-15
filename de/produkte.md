@@ -3,29 +3,31 @@ parent: Deutsch
 title: Produkte
 has_children: true
 ---
+
+# Produkte
+
 ## Produkt erstellen
 
-Auf den Menüpunkt "Hersteller" im Admin-Bereich klicken, dann auf den "x Produkte"-Button und dann oben auf "Neues Produkt" klicken. Name und Beschreibung angeben, auf Speichern klicken und danach kann das neu angelegte Produkt weiter bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
+* Auf den Menüpunkt "Hersteller" im Admin-Bereich klicken, dann auf den "x Produkte"-Button und dann oben auf "Neues Produkt" klicken. Name und Beschreibung angeben, auf Speichern klicken und danach kann das neu angelegte Produkt weiter bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
 
 ## Vorsicht: Produkt umbenennen
 
-Beim Bearbeiten vom Produktnamen erscheint ein Hinweis: **Wichtig: Bitte keine Produkte in andere Produkte umbenennen, sondern dafür ein neues Produkt erstellen!**
-
-Den Hinweis kann man ingorieren, sofern das Produkt noch nie bestellt wurde oder nur kleine Änderungen (z. B. Rechtschreibfehler) gemacht werden.
-
-Wenn das Produkt bereits bestellt wurde, würde ein Umbenennen in ein anderes Produkt (z. B. Äpfel in Birnen) das System verwirren und ist deshalb zu vermeiden. Es führt dann z. B. dazu, dass beim Filtern nach Produkt unter "Bestellte Produkte" das alte Produkt nicht mehr aufscheint und unter dem neuen Namen auch Bestellungen des alten Produkts erscheinen (die ID des Produktes bleibt gleich).
+{: .warning }
+> * Beim Bearbeiten vom Produktnamen erscheint ein Hinweis: *Wichtig: Bitte keine Produkte in andere Produkte umbenennen, sondern dafür ein neues Produkt erstellen!*
+> Den Hinweis kann man ingorieren, sofern das Produkt noch nie bestellt wurde oder nur kleine Änderungen (z. B. Rechtschreibfehler) gemacht werden.
+> Wenn das Produkt bereits bestellt wurde, würde ein Umbenennen in ein anderes Produkt (z. B. Äpfel in Birnen) das System verwirren und ist deshalb zu vermeiden. Es führt dann z. B. dazu, dass beim Filtern nach Produkt unter "Bestellte Produkte" das alte Produkt nicht mehr aufscheint und unter dem neuen Namen auch Bestellungen des alten Produkts erscheinen (die ID des Produktes bleibt gleich).
 
 ## Varianten
 
 Wenn ein Produkt mehrere Ausprägungen hat (zb. Käse zu 100g und zu 200g, Apfelsaft in der 1L-Flasche und im 3L-Bag), kommen die Varianten zum Einsatz.
 
-Um eine Variante zu einem Produkt zu erstellen, einfach auf das +-Zeichen neben dem Produktnamen klicken und die entsprechende Variante auswählen. Die Anzeige der Varianten ist **nicht sortierbar** (die zuerst angelegte Variante wird zuerst angezeigt), die Standard-Variante (das ist jene Variante, die vorausgewählt ist) kann aber durch Klick auf den Stern geändert werden.
+Um eine Variante zu einem Produkt zu erstellen, auf das +-Zeichen neben dem Produktnamen klicken und die entsprechende Variante auswählen. Die Anzeige der Varianten ist **nicht sortierbar** (die zuerst angelegte Variante wird zuerst angezeigt), die Standard-Variante (das ist jene Variante, die vorausgewählt ist) kann aber durch Klick auf den Stern geändert werden.
 
-Um eine Variante vorübergehend zu deaktivieren, bei der Anzahl 0 eingeben. Sie wird beim Einkaufen dann gar nicht angezeigt.
+{: .important }
+Um eine Variante vorübergehend zu deaktivieren, bei der Anzahl *0* eingeben. Sie wird beim Einkaufen dann gar nicht angezeigt.
 
-## Bild hochladen
-
-Auf das Bild-Symbol klicken und entweder ein neues Bild hochladen, oder das bestehende Bild ersetzen. Neue Bilder können direkt nach dem Hochladen gedreht werden, nach dem Speichern steht diese praktische Funktion allerdings nicht mehr zur Verfügung. Bilder zu einzelnen Varianten sind nicht möglich, es wird dafür immer das Bild des Haupt-Produktes angezeigt.
+{: .important }
+Nur Admins oder Superadmins können neue Varianten anlegen. Hersteller können das nicht.
 
 ## Beschreibung / Einheit
 
@@ -36,6 +38,10 @@ Falls das Produkt über keine Varianten verfügt, kann man in diesem Formular au
 ## Kategorien zuweisen
 
 Jedes Produkt kann einer oder mehreren Kategorien zugewiesen werden.
+
+{: .important }
+Nur Admins oder Superadmins können neue Kategorien anlegen. Hersteller können das nicht.
+
 
 ## Anzahl
 
