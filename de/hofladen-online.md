@@ -8,7 +8,6 @@ has_toc: true
 
 # Hofladen Online
 
-{: .note }
 Die Software FoodCoopShop kann auch für Direktvermarkter mit Hofläden verwendet werden, denn das Prinzip von Vorbestellung und Abholung der Produkte ist sehr ähnlich.
 
 Die dafür notwendigen Code-Änderungen des Spin-Offs "Hofladen Online" sind als Open Source (Lizenz: AGPL-3.0) verfügbar und können hier downgeloadet werden:
