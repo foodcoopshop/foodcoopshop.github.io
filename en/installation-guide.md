@@ -52,14 +52,17 @@ $ npm --prefix ./webroot install ./webroot
 bash ./devtools/installation/set-permissions.sh
 ```
 
+{: .new }
+If you install a version prior to v3.5, [run the commands in this file]({{site.repo_url}}/blob/develop/devtools/installation/set-permissions.sh).
+
 * * *
 
-## Configuring FoodCoopShop
-* Copy [custom_config.default.php]({{site.repo_url}}/blob/main/config/custom_config.default.php) to custom_config.php and change your configuration if you want to
-* **Important for receiving correct links in emails:** Set `cakeServerName` to your server's data https://yourdomain.tld (e.g. https://www.yourfoodcoop.com). Using https is recommended.
+## Configuration
+* Copy [custom_config.default.php]({{site.repo_url}}/blob/main/config/custom_config.default.php) to custom_config.php and add your configuration overrides.
 * The default configuration is found in [app_config.php]({{site.repo_url}}/blob/main/config/app_config.php).
-* Some configuration is stored in the database and can easily be changed from the admin screen: https://yourdomain.tld/admin/configurations (Super Admin account required)
-* More configuration information in [German]({{ site.baseurl }}/de/einstellungen) and [English]({{ site.baseurl }}/en/settings)
+* Set `app.cakeServerName` to your server, e.g. "https://yourdomain.tld" - NO TRAILING SLASH!
+* Some configuration is stored in the database and can easily be changed from the admin area: https://yourdomain.tld/admin/configurations (Super Admin account required)
+* [More infos]({{ site.baseurl }}/en/settings)
 
 ## Database Setup
 * Create a new database (e.g. foodcoopshop_db)
