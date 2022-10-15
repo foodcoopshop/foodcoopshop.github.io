@@ -3,8 +3,10 @@ parent: Deutsch
 ---
 # Netzwerk-Modul
 
-## Für wen ist das Netzwerk-Modul gedacht?
-* Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Hersteller, die **mehrere Foodcoops** beliefern.
+{: .note }
+Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Hersteller, die **mehrere Foodcoops** beliefern.
+
+## Funktionen / Konfiguration
 * Es ist dadurch möglich, die **verteilten Produktdaten der verschiedene Foodcoops** synchron zu halten. Die Daten werden dafür **nicht** auf einem einzigen Server zentral gespeichert, das ist wichtig für die (technische) Unabhängigkeit der Foodcoops.
 * Jede Foodcoop muss zur Verwendung des Netzwerk-Moduls immer die [aktuellste FoodCoopShop-Version](https://www.foodcoopshop.com/download) installiert haben und ein SSL-Zertifikat (https) verwenden.
 * Die Produktdaten **Bild, Name inkl. Beschreibungen, verfügbare Menge, Preis, Pfand**, **Lieferrhythmus** und **Status** können von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops übertragen werden. Das spart vor allem bei wöchentlichen Sortimentsänderungen viel Zeit.
@@ -16,7 +18,11 @@ parent: Deutsch
 * Das Netzwerk-Modul ist standardmäßig deaktiviert. Die Aktivierung des Netzwerk-Moduls für die Verwendung als Master- und/oder Remote-Foodcoop erfolgt über die Datenbank: In der Tabelle `fcs_configuration` das Feld `value` für `name=FCS_NETWORK_PLUGIN_ENABLED` auf 1 setzen.
 
 ## Technische Ausdrücke
-* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen. **Achtung:** *Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Als Remote-Foodcoop kann sie natürlich schon verwendet werden.*
+* **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen.
+
+{: .warning-title }
+> * Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Als Remote-Foodcoop kann sie aber  schon verwendet werden.
+
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
 ## 1) Remote-Foodcoops erstellen
