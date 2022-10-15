@@ -19,6 +19,7 @@ Das Guthaben-System ist ein digitales Kontoblatt, in dem für jedes Mitglied all
 Superadmins können auch Guthaben-Aufladungen und Rückzahlungen (z.B. wenn das Mitglied aus dem Verein ausscheidet und noch über Guthaben verfügt) für andere Mitglieder tätigen, sowie bereits getätigte Einzahlungen aus fremden Guthaben-Konten löschen. Dazu in der Mitglieder-Liste auf den jeweiligen Kontostand des Mitglieds klicken.
 
 ### Guthaben-Erinnerungs-Mail
+
 Einmal pro Woche wird automatisch eine Erinnerungs-Mail an jene Mitglieder versendet, deren Kontostand das eingestellte Limit unterschreitet. Die Erinnerungs-Mail kann vom Mitglied in seinem Profil auch abbestellt werden.
 
 {: .new }
