@@ -53,7 +53,7 @@ bash ./devtools/installation/set-permissions.sh
 ```
 
 {: .new }
-If you install a version prior to v3.5, [run the commands in this file]({{site.repo_url}}/blob/develop/devtools/installation/set-permissions.sh).
+If you install a version prior to v3.6, [run the commands in this file]({{site.repo_url}}/blob/develop/devtools/installation/set-permissions.sh).
 
 * * *
 
