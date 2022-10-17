@@ -2,7 +2,8 @@
 parent: For developers
 nav_order: 60
 ---
-## Software settings
+
+# Software settings
 
 {: .note }
 Most of the settings are self-explaining and can be made as a superadmin in the admin area.
@@ -11,7 +12,7 @@ To override the file-based settings in the files `config/app_config.php`, `confi
 
 The file `config/app_config.php` must not be changed, as it would be overwritten by the next update.
 
-### Change weekly pickup day
+## Change weekly pickup day
 Please use the script ChangeWeeklyPickupDayByOneDayShell to change the setting FCS\_WEEKLY\_PICKUP\_DAY.
 
 `bin/cake ChangeWeeklyPickupDayByOneDay decrease` => Changed Friday to Thursday
@@ -23,7 +24,7 @@ The script automatically changes custom order list send days for certain product
 Do not forget to change the days when certain cronjobs run (e.g. EmailOrderReminder). Change that directly in the database table fcs_cronjobs.
 
 
-### Change the day where the order lists are sent
+## Change the day where the order lists are sent
 
 Open the table fcs_configuration and change the value of the field "FCS_DEFAULT_SEND_ORDER_LISTS_DAY_DELTA" (default: 2) to eg. 1.
 
@@ -33,7 +34,7 @@ Example: If you want to change the default weekly order cycle from Tuesday midni
 * change FCS_DEFAULT_SEND_ORDER_LISTS_DAY_DELTA to 1
 
 
-### Officially supported delivery cycles
+## Officially supported delivery cycles
 
 | **Last order day** | **pickup day** | **info** |
 | Tuesday | Friday | **default** |

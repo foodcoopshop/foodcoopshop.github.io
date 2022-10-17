@@ -3,7 +3,7 @@ parent: Deutsch
 title: Wichtige Infos zum Gelingen
 ---
 
-## Wichtige Infos zum Gelingen eurer Foodcoop
+# Wichtige Infos zum Gelingen eurer Foodcoop
 
 {: .note }
 Die Software übernimmt zwar sehr viele Aufgaben im Foodcoop-Alltag, dennoch müssen zum nachhaltigen Gelingen eurer Initiative folgende Aufgaben **von Menschen** erledigt werden:

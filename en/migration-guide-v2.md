@@ -1,41 +1,42 @@
 ---
 nav_exclude: true
 ---
-## Migration guide for v2.x
 
-### Introduction
+# Migration guide for v2.x
+
+## Introduction
 
 * **Always make a database and file backup before updating your installation!**
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
 * Updating from v1.x to v2.x can only be done from v1.5. [Migration guide for v1.x]({{ site.baseurl }}/en/migration-guide-v1)
 * Updating from 2.x to 2.y are possible. E.g. from 2.1.x to 2.6.x directly.
 
-### FCS v2.6.x to FCS v2.7.x
+## FCS v2.6.x to FCS v2.7.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 
-### FCS v2.5.x to FCS v2.6.x
+## FCS v2.5.x to FCS v2.6.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * legacy password hashing (introduced in v2.3) method was removed. If you don't update regularly, your users can't login anymore and might need to request a new password. You can now safely remove app.cookieKey.
 
-### FCS v2.4.x to FCS v2.5.x
+## FCS v2.4.x to FCS v2.5.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * PHP >= 7.2
 
-### FCS v2.3.x to FCS v2.4.x
+## FCS v2.3.x to FCS v2.4.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * after the migrations you can remove app.deliveryDayDelta, app.sendOrderListsWeekday and app.registrationNotificationEmails (see documentation info in app_config.php and custom_config.default.php)
 * If you want to use the new single sign on for discourse forums, set `app.discourseSsoEnabled` to `true` and add a `app.discourseSsoSecret`. [Anleitung auf Deutsch]({{ site.baseurl }}/de/sso-fuer-discourse-forum)
 
-### FCS v2.2.x to FCS v2.3.x
+## FCS v2.2.x to FCS v2.3.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * Enable the [new cronjob handling]({{ site.baseurl }}/en/cronjobs)
 
-### FCS v2.1.x to FCS v2.2.x
+## FCS v2.1.x to FCS v2.2.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * If the migrations fail, remove all migrations that have not run yet from table phinxlog and run them again.
@@ -46,12 +47,12 @@ nav_exclude: true
 * add the configuration `app.dateOfFirstSendInvoiceCronjobWithPickupDayUpdate` to your custom_config.php and change the date when your SendInvoices cronjob will first run with this update. Example: you installed v2.2 or later on 3rd April 2019: value is 2019-04-11 (11 is default day of SendInvoices)
 * if you have problems with the update, [please create a new issue]({{site.repo_url}}/issues/new)
 
-### FCS v2.0.x to FCS v2.1.x
+## FCS v2.0.x to FCS v2.1.x
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * if you have problems with the update, [please create a new issue]({{site.repo_url}}/issues/new)
 
-### FCS v1.5.x to FCS v2.0.x
+## FCS v1.5.x to FCS v2.0.x
 * FCS v2.0 uses CakePHP3 which is **mostly incompatible** to CakePHP2
 * **therefore you can only update to v2.0 from v1.5!**, so if you are working on v1.x and you want to update to v2.0, first update to 1.5!
 * you can download v1.5 [here]({{site.repo_url}}/releases/download/v1.5.0/FoodCoopShop-v1.5.0.zip)

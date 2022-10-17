@@ -2,8 +2,10 @@
 nav_order: 5
 title: Users
 ---
-## Users
 
+# Users
+
+{: .note }
 [View map](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Type | Hosted by |

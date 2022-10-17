@@ -4,7 +4,8 @@ nav_order: 3
 has_children: true
 has_toc: true
 ---
-## English
+
+# English
 
 ![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/main/webroot/files/images/sliders/demo-slider.jpg)
 
