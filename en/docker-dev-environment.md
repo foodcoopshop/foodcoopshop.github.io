@@ -23,7 +23,7 @@ nav_order: 10
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/foodcoopshop/foodcoopshop)
 * Gitpod: When all containers are up and running (takes about 1 minute), open your Bash-terminal (not in the Docker-terminal) and run
 * `bash ./devtools/init-dev-setup.sh`
-* In your custom_config.php, change `app.cakeServerName` to your Gitpod-Domain (BE AWARE: NO TRAILING SLASH!).
+* In your custom_config.php, change `App.fullBaseUrl` to your Gitpod-Domain (BE AWARE: NO TRAILING SLASH!).
 
 ## Login credentials
 * The available demo test data is in German.

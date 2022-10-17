@@ -24,6 +24,7 @@ nav_order: 30
 >
 > * **Updating to this version can only be done from v3.5.x**
 > * PHP bzip2 lib is required (for automatic database backups)
+> * Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in App.fullBaseUrl!
 > * replace source code => see bottom of page
 > * run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
 > * execute migrations => see bottom of page

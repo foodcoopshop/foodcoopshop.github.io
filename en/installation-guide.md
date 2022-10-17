@@ -61,6 +61,10 @@ If you install a version prior to v3.5, [run the commands in this file]({{site.r
 * Copy [custom_config.default.php]({{site.repo_url}}/blob/main/config/custom_config.default.php) to custom_config.php and add your configuration overrides.
 * The default configuration is found in [app_config.php]({{site.repo_url}}/blob/main/config/app_config.php).
 * Set `app.cakeServerName` to your server, e.g. "https://yourdomain.tld" - NO TRAILING SLASH!
+
+{: new }
+> * `app.cakeServerName` was changed to `App.fullBaseUrl`
+
 * Some configuration is stored in the database and can easily be changed from the admin area: https://yourdomain.tld/admin/configurations (Super Admin account required)
 * [More infos]({{ site.baseurl }}/en/settings)
 
