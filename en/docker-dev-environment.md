@@ -39,7 +39,7 @@ nav_order: 10
 * On my local machine the current 534 tests finish in around 3 min :-) - thanks to tmpfs!
 
 ## Tools
-* Run composer outdated: `docker exec -w /var/www/html fcs-php-nginx composer outated`
+* Run composer outdated: `docker exec -w /var/www/html fcs-php-nginx composer outdated`
 * Run npm-check-updates: `docker exec -w /var/www/html/webroot fcs-php-nginx ncu`
 * Update po-Files (translations): `docker exec -w /var/www/html fcs-php-nginx bash ./devtools/update-translations.sh`
 * Running migrations: `docker exec -w /var/www/html fcs-php-nginx bash ./bin/cake migrations migrate`
