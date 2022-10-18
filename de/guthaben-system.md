@@ -30,4 +30,4 @@ In den Einstellungen kann ein Bestell-Limit angegeben werden, bis zu welchem bes
 
 Das eingestellte Guthaben-Limit kann nun beim normalen Bestellen nicht mehr unterschritten werden. Bei Sofort-Bestellungen und Preis- bzw. Gewichtsanpassungen ist dies aber weiterhin möglich.
 
-Den Guthaben-Saldo aller Mitglieder sieht man im Admin-Bereich unter "Mitglieder".
+Den Guthaben-Saldo aller Mitglieder sieht man im Admin-Bereich unter "Homepage-Verwaltung / Finanzberichte / Tab Guthaben-Übersicht".
