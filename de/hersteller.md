@@ -71,3 +71,9 @@ Demo-Rechnungen: [Rechnung ohne variablem Mitgliedsbeitrag]({{ site.baseurl }}/a
 
 {: .important }
 Die Grundlage für die Verrechnung ist der Liefer- bzw. Abholtag.
+
+
+### Datenschutz
+
+{: .new }
+> * Personenbezogene Mitglieder-Daten (Vorname, Nachname, E-Mail, usw.) können für Hersteller systemweit anonymisiert werden.
