@@ -21,3 +21,6 @@ Die Software übernimmt zwar sehr viele Aufgaben im Foodcoop-Alltag, dennoch mü
 * Lieferpausen der Foodcoop (z.B. bei Feiertagen) rechtzeitig eintragen, damit keine Bestellungen getätigt werden können, die später wieder storniert werden müssen.
 
 * Zumindest einmal im Jahr alte E-Mails, die als BCC an die Backup-Mail-Adresse versendet wurden, löschen.
+
+{: .new }
+> * Überprüfen, ob nur nur jene Hersteller personenbezogene Mitglieder-Daten (Vorname, Nachname, E-Mail, usw.) einsehen können, die das auch benötigen. Das kann in den Hersteller-Einstellungen geändert werden.
