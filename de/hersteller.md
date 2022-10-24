@@ -20,6 +20,11 @@ Admins und Superadmins können im Admin-Bereich Hersteller neu anlegen: **Herste
 > * In das Feld die E-Mail-Adresse des Herstellers eintragen und auf "Senden" klicken.
 > * Der Hersteller bekommt das Passwort dann an seine Adresse zugeschickt.
 
+{: .important-title }
+> Wie kann ein Hersteller Bestellungen tätigen?
+>
+> Er muss sich mit einer anderen E-Mail-Adresse ein zweites Konto anlegen.
+
 ## Hersteller-Einstellungen
 
 In der Hersteller-Übersicht befindet sich weit rechts ein Symbol mit einem Zahnrad - hier können die folgenden Einstellungen für die Hersteller geändert werden. Die meisten davon können auch vom Hersteller selbst geändert werden.
