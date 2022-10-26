@@ -19,6 +19,9 @@ nav_order: 10
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
 
+{: .important }
+If you add "127.0.0.1 foodcoopshop.test" to your hosts file, you can use http://foodcoopshop.test:port instead of localhost
+
 ## Installation on Gitpod
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/foodcoopshop/foodcoopshop)
 * Gitpod: When all containers are up and running (takes about 1 minute), open your Bash-terminal (not in the Docker-terminal) and run
