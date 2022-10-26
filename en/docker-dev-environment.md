@@ -20,8 +20,7 @@ nav_order: 10
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
 
 {: .important }
-If you add "127.0.0.1 foodcoopshop.test" to your hosts file, you can use http://foodcoopshop.test:8001 instead of localhost:8001.
-Do not forget to change App.fullBaseUrl to http://foodcoopshop.test:8001
+If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http://foodcoopshop.test:8001`. Do not forget to change `App.fullBaseUrl` to `http://foodcoopshop.test:8001`.
 
 ## Installation on Gitpod
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/foodcoopshop/foodcoopshop)
