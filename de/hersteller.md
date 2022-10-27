@@ -20,11 +20,6 @@ Admins und Superadmins können im Admin-Bereich Hersteller neu anlegen: **Herste
 > * In das Feld die E-Mail-Adresse des Herstellers eintragen und auf "Senden" klicken.
 > * Der Hersteller bekommt das Passwort dann an seine Adresse zugeschickt.
 
-{: .important-title }
-> Wie kann ein Hersteller Bestellungen tätigen?
->
-> Er muss sich mit einer anderen E-Mail-Adresse ein zweites Konto anlegen.
-
 ## Hersteller-Einstellungen
 
 In der Hersteller-Übersicht befindet sich weit rechts ein Symbol mit einem Zahnrad - hier können die folgenden Einstellungen für die Hersteller geändert werden. Die meisten davon können auch vom Hersteller selbst geändert werden.
@@ -82,3 +77,15 @@ Die Grundlage für die Verrechnung ist der Liefer- bzw. Abholtag.
 
 {: .new }
 > * Personenbezogene Mitglieder-Daten (Vorname, Nachname, E-Mail, usw.) können für Hersteller systemweit anonymisiert werden.
+
+## FAQ
+
+{: .important-title }
+> Wie kann ein Hersteller Bestellungen tätigen?
+>
+> Er muss sich mit einer anderen E-Mail-Adresse ein zweites Konto anlegen.
+
+{: .important-title }
+> Wie kann man einen Hersteller löschen?
+>
+> Das geht nicht. Man kann Hersteller nur deaktivieren. Dann scheint er aber nirgends mehr auf und er kann sich auch nicht mehr einlogggen.
