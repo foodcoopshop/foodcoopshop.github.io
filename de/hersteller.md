@@ -78,6 +78,8 @@ Die Grundlage für die Verrechnung ist der Liefer- bzw. Abholtag.
 {: .new }
 > * Personenbezogene Mitglieder-Daten (Vorname, Nachname, E-Mail, usw.) können für Hersteller systemweit anonymisiert werden.
 
+* * *
+
 ## FAQ
 
 {: .important-title }
