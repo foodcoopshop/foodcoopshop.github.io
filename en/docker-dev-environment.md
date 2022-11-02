@@ -38,17 +38,17 @@ If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http:/
 
 ## Unit Tests
 
-* `docker exec -w /app fcs-php-nginx php ./vendor/bin/phpunit`
+* `docker exec -w /app fcs.php php ./vendor/bin/phpunit`
 * Open [http://localhost:8081](http://localhost:8081) to get to phpmyadmin of database-test
 * On my local machine the current 534 tests finish in around 3 min :-) - thanks to tmpfs!
 
 ## Tools
 
-* Run composer outdated: `docker exec -w /app fcs-php-nginx composer outdated`
-* Run npm-check-updates: `docker exec -w /app/webroot fcs-php-nginx ncu`
-* Update po-Files (translations): `docker exec -w /app fcs-php-nginx bash ./devtools/update-translations.sh`
-* Running migrations: `docker exec -w /app fcs-php-nginx bash ./bin/cake migrations migrate`
-* Build assets: `docker exec -w /app fcs-php-nginx bash ./bin/cake asset_compress build`
+* Run composer outdated: `docker exec -w /app fcs.php composer outdated`
+* Run npm-check-updates: `docker exec -w /app/webroot fcs.php ncu`
+* Update po-Files (translations): `docker exec -w /app fcs.php bash ./devtools/update-translations.sh`
+* Running migrations: `docker exec -w /app fcs.php bash ./bin/cake migrations migrate`
+* Build assets: `docker exec -w /app fcs.php bash ./bin/cake asset_compress build`
 
 ## Tips for using Docker on Windows
 * Install Ubuntu and switch to WSL2
