@@ -37,13 +37,11 @@ If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http:/
 * Manufacturer: fcs-demo-fleisch-hersteller@mailinator.com / Password: foodcoopshop
 
 ## Unit Tests
-
 * `docker exec -w /app fcs-php-nginx php ./vendor/bin/phpunit`
 * Open [http://localhost:8081](http://localhost:8081) to get to phpmyadmin of database-test
 * On my local machine the current 534 tests finish in around 3 min :-) - thanks to tmpfs!
 
 ## Tools
-
 * Run composer outdated: `docker exec -w /app fcs-php-nginx composer outdated`
 * Run npm-check-updates: `docker exec -w /app/webroot fcs-php-nginx ncu`
 * Update po-Files (translations): `docker exec -w /app fcs-php-nginx bash ./devtools/update-translations.sh`
