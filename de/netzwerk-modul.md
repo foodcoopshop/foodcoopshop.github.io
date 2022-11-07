@@ -8,7 +8,7 @@ Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Her
 
 {: .new-title }
 >
-> Das Netzwerk-Modul stellt eine [API zum Abrufen der Bestellungen](#api-zum-abrufen-von-bestellungen) zur Verfügung. Sie ist für alle Hersteller nutzbar.
+> Das Netzwerk-Modul stellt eine [API zum Abrufen der Bestellungen](#6-api-zum-abrufen-von-bestellungen) zur Verfügung. Sie ist für alle Hersteller nutzbar.
 
 ## Funktionen / Konfiguration
 * Es ist dadurch möglich, die **verteilten Produktdaten der verschiedene Foodcoops** synchron zu halten. Die Daten werden dafür **nicht** auf einem einzigen Server zentral gespeichert, das ist wichtig für die (technische) Unabhängigkeit der Foodcoops.
