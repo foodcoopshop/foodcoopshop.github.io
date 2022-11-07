@@ -7,6 +7,7 @@ parent: Deutsch
 Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Hersteller, die **mehrere Foodcoops** beliefern.
 
 {: .new-title }
+>
 > Das Netzwerk-Modul stellt eine [API zum Abrufen der Bestellungen](#api-zum-abrufen-von-bestellungen) zur Verfügung. Sie ist für alle Hersteller nutzbar.
 
 ## Funktionen / Konfiguration
@@ -70,10 +71,11 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 
 ## 6) API zum Abrufen von Bestellungen
 
+{: .new }
+> Hersteller können über folgenden Endpoint alle Bestellungen für einen bestimmten Abholtag abrufen. Die Authentifizierung erfolgt über BasicAuthentication mit den Login-Daten des Herstellers (E-Mail, Passwort).
+
 {: .important}
 Das Netzwerk-Modul muss aktiviert sein.
-
-Hersteller können über folgenden Endpoint alle Bestellungen für einen bestimmten Abholtag abrufen. Die Authentifizierung erfolgt über BasicAuthentication mit den Login-Daten des Herstellers (E-Mail, Passwort).
 
 **Headers**
 ```
@@ -88,15 +90,27 @@ PARAM pickupDay: Format: dd.mm.yyyy, Pflichtfeld
 ```
 
 **Response**
+
 `app.name`: string / Name der Foodcoop
+
 `app.domain`: string / Domain der Foodcoop
+
 `app.orders.{n}.id`: int / interne Order-Id
+
 `app.orders.{n}.product_id`: int / interne Produkt-Id
+
 `app.orders.{n}.attribute_id`: int / interne Varianten-Id (0 wenn das Produkt keine Varianten verwendet)
+
 `app.orders.{n}.name`: string / Name des Produktes (Produkt ohne Preis nach Gewicht: Einheit ist getrennt mit " : ")
+
 `app.orders.{n}.amount`: int / Wie oft wurde das Produkt bestellt? z.B. 1,
+
 `app.orders.{n}.order_state`: int / 3=ORDER_PLACED / 10=ORDER_LIST_SENT / 11=BILLED_CASHLESS / 12=BILLED_CASH
+
 `app.orders.{n}.created`: date / Wann wurde die Bestellung getätigt?
+
 `app.orders.{n}.unit`: array / Falls das Produkt mit Preis nach Gewicht verrechnet wird ist dieser Index nicht leer.
-`app.orders.{n}.unit.name`: string / Einheit, z.B. "g",
+
+`app.orders.{n}.unit.name`: string / Einheit, z.B. "g"
+
 `app.orders.{n}.unit.mark_as_saved`: boolean / Wurde das Gewicht bereits angepasst?
