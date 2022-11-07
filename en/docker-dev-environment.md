@@ -24,9 +24,8 @@ If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http:/
 
 ## Installation on Gitpod
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/foodcoopshop/foodcoopshop)
-* Gitpod: When all containers are up and running (takes about 1 minute), open your Bash-terminal (not in the Docker-terminal) and run
-* `bash ./devtools/init-dev-setup.sh`
-* In your custom_config.php, change `App.fullBaseUrl` to your custom Gitpod-Domain (`https://8001-foodcoopsho-foodcoopsho...gitpod.io` BE AWARE: NO TRAILING SLASH!).
+* When all containers are up and running (takes between 1 and 2 minutes), open your Bash-terminal (not the Docker-terminal) and run `bash ./devtools/init-dev-setup.sh`
+* In your custom_config.php, change `App.fullBaseUrl` to your custom Gitpod-Domain (starting with `https://8001-foodcoopsho-foodcoopsho...` **Be careful, the domain must not end with a slash!**).
 
 ## Login credentials
 * The available demo test data is in German.
