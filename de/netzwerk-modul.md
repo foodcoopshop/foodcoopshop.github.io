@@ -72,15 +72,19 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 ## 6) API zum Abrufen von Bestellungen
 
 {: .new }
-> Hersteller können über folgenden Endpoint alle Bestellungen für einen bestimmten Abholtag abrufen. Die Authentifizierung erfolgt über BasicAuthentication mit den Login-Daten des Herstellers (E-Mail, Passwort).
+> Hersteller können über folgenden Endpoint alle Bestellungen für einen bestimmten Abholtag abrufen.
 
 {: .important}
 Das Netzwerk-Modul muss aktiviert sein.
 
+**Authentifizierung**
+
+Die Authentifizierung erfolgt über BasicAuthentication mit den Base64-encoded Login-Daten des Herstellers (E-Mail, Passwort).
+
 **Headers**
 ```
 Content-Type:application/json
-Authorization:Basic
+Authorization:Basic + Base64-String
 ```
 
 **Endpoint**
