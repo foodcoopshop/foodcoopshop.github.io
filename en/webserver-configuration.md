@@ -4,12 +4,15 @@ nav_exclude: true
 
 # Webserver configuration
 
+{: .note }
+This page has not been updated for a long time.
+
 * Set the document root to: /your-folder/foodcoopshop/webroot
 
 ## Document Root / Virtual Host
 
 ### Nginx Webserver
-Nginx webserver doesn't have something like mod_rewrite or .htaccess. See https://book.cakephp.org/2/en/installation/url-rewriting.html for details of preparing nginx to run cakephp-apps. The virtualhosts are configured in a similar manner under /etc/nginx/sites-avaliabe/xx symlinked to /etc/nginx/sites-enabled/xx and this would be a basic working virtualhost-sample for nginx with php7-fpm
+Nginx webserver doesn't have something like mod_rewrite or .htaccess. See https://book.cakephp.org/4/en/installation.html#url-rewriting for details of preparing nginx to run cakephp-apps. The virtualhosts are configured in a similar manner under /etc/nginx/sites-avaliabe/xx symlinked to /etc/nginx/sites-enabled/xx and this would be a basic working virtualhost-sample for nginx with php7-fpm
 
 ```
 server {
