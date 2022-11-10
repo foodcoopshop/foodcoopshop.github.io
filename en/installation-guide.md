@@ -101,7 +101,7 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 * Open https://yourdomain.tld/request-new-password, type in your email address and press "Send".
 * With the password that was sent to you by email you are able to login as a Super Admin.
 
-{: .imporant }
+{: .important }
 > The urls in this section depend on the locale of your installation and therefore may be different for you. The urls are constructed from translatio -settings which can be found in the "/resources/locale/country_CULTURE/default.po" file under the keys "route_sign_in" and "route_request_new_password". Example for "de_DE":
 > * Sign-in: https://yourdomain.tld/anmelden
 > * Request-new-password: https://yourdomain.tld/neues-passwort-anfordern
