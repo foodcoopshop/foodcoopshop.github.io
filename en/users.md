@@ -10,6 +10,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2022** |
+| 11 | [Kistlweis, Schärding, AT](https://shop.kistlweis.at/) | Direct selling | self-hosted |
 | 10 | [Meggen-Hof-Kisterl, Meggenhofen, AT](https://www.meggen-hof-kisterl.at/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 10 | [Koope Koop, Leipzig, DE](https://shop.koope.de/) | Direct selling | self-hosted |
 | 09 | [Kornblume, Düren, DE](https://www.foodcoop-kornblume.de/) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
@@ -17,7 +18,6 @@ title: Users
 | 08 | [Spittal Isst Regional, Spittal an der Drau, AT](https://shop.spittalisstregional.at) | Direct selling | self-hosted |
 | 05 | [Käserei Frech, Vorderstoder, AT](https://www.freches-schaf.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
 | 04 | [dSpeis, Andorf, AT](https://foodcoop.dspeis-andorf.at/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
-| 04 | [Boundary Exchange, Kootenay Boundary, CA](https://boundaryexchange.com) | Direct selling| self-hosted |
 | 02 | [Brot & Ruam, Aspach, AT](https://shop.brotundruam.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 01 | [Hoamatkistl, Schildorn, AT](https://www.hoamatkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2021** |
@@ -49,7 +49,6 @@ title: Users
 | 07 | [LaFoCo, Langenlois, AT](https://www.lafoco.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 05 | [Genussfairteiler, Neumarkt i.M., AT](https://www.genussfairteiler.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Taugler Körberl, St. Koloman, AT](https://körberl.taugl.online) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
-| 03 | [Lebensmittelpunkt , Imst, AT](https://shop.lebensmittelpunkt.tirol) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com)|
 | 02 | [Koorb, Seitenstetten, AT](https://koorb.at) | Direct selling | self-hosted |
 | 01 | [Dorfladen Roitham, AT](https://www.dorfladenroitham.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2018** |
