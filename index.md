@@ -10,6 +10,7 @@ nav_order: 1
 * [Installation guide]({{ site.baseurl }}/en/installation-guide)
 * [Migration guide]({{ site.baseurl }}/en/migration-guide)
 * [Changelog of latest stable version (German)]({{{site.repo_url}}/blob/main/CHANGELOG.md)
+* [Signal Support Group](https://signal.group/#CjQKIBEXUVQCyyQu3-7kOgvPIuFDcAN_12WPTAWs4L8kkyGZEhBefC_uCkp2pqHpl8XljqlN)
 
 ## Useful links
 
