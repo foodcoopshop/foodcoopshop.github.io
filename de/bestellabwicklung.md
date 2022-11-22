@@ -93,3 +93,15 @@ Für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus, dieser ist nic
 
 ### Lieferpause für die alle Hersteller
 Eine Lieferpause für alle Hersteller der Foodcoop (z.B. Feiertag) kann bequem im Vorhinein in den Einstellungen angegeben werden. Über die Sofort-Bestellung kann auch während einer Lieferpause bestellt werden.
+
+## 6) Diverses
+
+### 6a) Geschenkekisterl
+
+{: .note }
+Manche Initiativen möchten gerne vorgepackte Geschenkekisterl mit Produkten von unterschiedlichen Herstellern anbieten. Die Software bietet hierzu leider keine extra dafür vorgesehene Funktion. Mit den Kategorien schafft man es zumindest, die Produkte "kisterlsweise" zusammenzufassen.
+
+* Neue Hauptkategie "Geschenkekisterl" anlegen, mit beliebig vielen Unterkategorien (z.B. "Weihnachtskisterl A", "Weihnachtskisterl B.",...), dann die Produkte entsprechend zuweisen.
+* Weiters in dieser Kategorie ein Produkt "Weihnachtskisterl A" (dem Foodcoop-Hersteller zugewiesen) anlegen, das das Mitglied dann mitkaufen muss. Dann weiß man beim Abholen, dass die Produkte in das Geschenkekistler gehören und man kann auch noch für das Kisterl selbst bepreisen (kostet ja auch was).
+* Wenn ein Mitglied jetzt das Kisterl kaufen möchte, muss es einfach alle Produkte dieser Kategorie (inkl. Kisterl) kaufen.
+* Wenn man so vorgeht, muss man keinerlei Anpassungen für die Rechnungen an die Hersteller machen, da jedes Produkt ja einzeln bei den Herstellern gekauft wurde.
