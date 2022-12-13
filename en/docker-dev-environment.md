@@ -43,8 +43,9 @@ If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http:/
 
 ## Tools
 
-* Run composer outdated: `docker exec -w /app fcs.php composer outdated`
+* Run composer: `docker exec -w /app fcs.php composer install|update|outdated`
 * Run npm-check-updates: `docker exec -w /app/webroot fcs.php ncu`
+* Run npm: `docker exec -w /app/webroot fcs.php npm install`
 * Update po-Files (translations): `docker exec -w /app fcs.php bash ./devtools/update-translations.sh`
 * Running migrations: `docker exec -w /app fcs.php bash ./bin/cake migrations migrate`
 * Build assets: `docker exec -w /app fcs.php bash ./bin/cake asset_compress build`
