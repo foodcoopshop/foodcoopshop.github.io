@@ -13,7 +13,7 @@ nav_order: 20
 ## Requirements
 * Server with **shell access** and **cronjobs**
 * [Webserver - Nginx or Apache]({{ site.baseurl }}/en/webserver-configuration.html)
-* PHP => 8.1
+* PHP => 8.2 (prior to v3.6 PHP 8.1)
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP bzip2 lib (for automatic database backups) (prior to v3.6: PHP ZipArchive class)
 * MySQL >= 8.0
