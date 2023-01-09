@@ -65,12 +65,9 @@ Falls die Bestellung Produkte enthält, deren Gewicht noch angepasst werden muss
 Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat (Dropdown oben). Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer es vergessen haben könnte. Unter "Mitglieder" findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
 
 ### Produkt auf anderes Mitglied umbuchen
-Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern werden beide Mitglieder per E-Mail benachrichtigt und die Guthaben-Konten automatisch angepasst.
+Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern können beide Mitglieder per E-Mail benachrichtigt werden (das Hakerl zum Steuern des E-Mail-Versandes gibt es seit v3.6) und die Guthaben-Konten automatisch angepasst.
 
 Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein Vereins-Mitgliedskonto anzulegen und das Produkte darauf hin zu buchen. So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein durch Fehler bei der Abholung zu tragen hatte.
-
-{: .important }
-Die E-Mail-Benachrichtigung kann global deakiviert werden: `app.sendEmailWhenOrderDetailCustomerChanged => false`
 
 ### Erklärungen zu "Bestellungen"
 * Mitglieder mit einem Karotten-Symbol haben erst 25x oder weniger Produkte bestellt.
