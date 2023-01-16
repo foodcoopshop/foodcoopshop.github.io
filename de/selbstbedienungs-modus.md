@@ -24,10 +24,10 @@ Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera
 
 ## 2) Mitgliedskarten
 * **Mitglieder** können in ihrem Profil ein Profilbild hochladen und von dort auch ihre Mitgliedskarte ausdrucken.
-![]({{ site.baseurl }}/assets/img/de/selbstbedienung/profilbild-hochladen.png)
+![]({{ site.baseurl }}/assets/img/de/selbstbedienung/profilbild-hochladen.jpg)
 
 * **Admins und Superadmins** können im Admin-Bereich unter "Mitglieder" für die mittels Checkbox ausgewählten Mitglieder die Mitgliedkarten generieren und drucken.
-![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarten-generieren.png)
+![]({{ site.baseurl }}/assets/img/de/selbstbedienung/mitgliedskarten-generieren.jpg)
 
 **Vorschau Mitgliedskarte**
 
@@ -36,7 +36,7 @@ Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera
 ## 3) Produktkarten
 * Können im Produkt-Admin generiert werden (Produkte anhaken und dann unten auf "Produktkarten generieren" klicken).
 * **Achtung**: Im PDF mit den Produktkarten werden nur "als Lagerprodukte" deklarierte Produkte angezeigt. Auch, wenn sie angehakt wurden!
-![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarten-generieren.png)
+![]({{ site.baseurl }}/assets/img/de/selbstbedienung/produktkarten-generieren.jpg)
 * Für jede Variante wird eine eigene Produktkarte erzeugt, damit man nach dem Scannen die gewünschte Variante nicht extra auswählen muss.
 
 **Vorschau Produktkarte**
@@ -46,8 +46,6 @@ Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera
 
 ## 4) Einkaufen im Selbstbedienungs-Modus
 * In der Navigation oben rechts (bei "Anmelden") befindet sich jetzt ein neuer Menüpunkt "Selbstbedienung"
-![]({{ site.baseurl }}/assets/img/de/selbstbedienung/neuer-button-selbstbedienung.png)
-
 * Anmelden: Scannen des Barcodes auf der Mitgliedskarte oder wie gewohnt per E-Mail / Passwort.
 * Im Selbstbedienungs-Modus werden nur Lagerprodukte angezeigt. Produkte können nach Aktivieren der erweiterten Lagerstandsverwaltung (beim Hersteller) als "Lagerprodukt" deklariert werden.
 * Suche nach Produkt-Id, Name und Scannen der Produktkarten möglich, zusätzlich Filter nach Kategorie.

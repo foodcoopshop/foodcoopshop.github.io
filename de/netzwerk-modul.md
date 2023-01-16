@@ -42,8 +42,6 @@ Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen
 ## 3) Produktdaten synchronisieren
 * Wenn der Hersteller (oder ein Superadmin) in den Hersteller-Einstellungen mindestens eine Remote-Foodcoop ausgewählt hat, befindet sich im Hersteller-Login unter "Meine Produkte" oben rechts ein neuer Button **Produkte synchronisieren**.
 
-![]({{ site.baseurl }}/assets/img/de/netzwerk-modul/produkte-synchronisieren-button-1.png)
-
 * Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf die Remote-Foodcoops übertragen kannst. Dafür müssen allerdings zuvor die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet werden - siehe Punkt 4.
 * Ein Klick auf **Vorschau laden** (erfolgt automatisch, falls du die Zugangsdaten bereits einmal eingegeben hast) zeigt dir, welche Unterschiede bei den Produktdaten deiner Foodcoops bestehen. Rot hinterlegte Felder weisen auf einen Unterschied hin. Wenn du die Checkbox **Nur Produkte mit Abweichungen anzeigen** deaktivierst, kannst du dir auch jene Produkte anzeigen lassen, die bereits auf allen Foodcoops abgeglichen sind.
 * Durch Auswählen der Häkchen kannst du festlegen, welche Produktdaten (horizontale Häkchen) und welche Produkte (vertikale Häkchen) synchronisiert werden sollen. Produkte, die keine Unterschiede aufweisen, können nicht ausgewählt werden.
