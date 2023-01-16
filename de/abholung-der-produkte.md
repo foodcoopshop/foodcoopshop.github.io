@@ -44,6 +44,11 @@ Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück lie
 ### Anpassen des Gewichts
 Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. Nach dem Speichern ist das Feld auch nicht mehr rot hinterlegt.
 
+{: .new }
+> * Neue Taschenrechner-Funktion zum bequemen Addieren.
+> ![]({{ site.baseurl }}/assets/img/de/bestellungen/gewicht-anpassen-mit-taschenrechner.png)
+
+
 {: .important }
 Die E-Mail-Benachrichtigung kann global deakiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
 
