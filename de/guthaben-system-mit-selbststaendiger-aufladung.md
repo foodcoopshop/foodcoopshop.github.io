@@ -15,7 +15,7 @@ Wer es trotzdem verwenden möchte, so funktioniert's:
 
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-1.png)
 
-![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-2.png)
+![]({{ site.baseurl }}/assets/img/de/guthaben-system/guthaben-system-2.jpg)
 
 ## Mitglied: Guthaben eintragen
 * Um Guthaben aufzuladen, zuerst den gewünschten Betrag auf das Bankkonto der Initiative überweisen.
