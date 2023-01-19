@@ -25,6 +25,7 @@ title: Users
 | 10 | [Foodcoop Saar, Saarbrücken, DE](https://shop.foodcoop-saar.de) | Direct selling | self-hosted |
 | 09 | [Tischlein deck dich!, Michaelnbach, AT](https://tischleindeckdich.jetzt) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
+| 05 | [Kulturspäti, Altendorf, DE](https://www.kulturspaeti.de) | Direct selling | self-hosted |
 | 04 | [Freistädter Genusskisterl, AT](https://www.freistaedtergenusskisterl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | Retail | self-hosted |
 | 02 | Initiative in Berlin, DE | Direct selling | self-hosted |
