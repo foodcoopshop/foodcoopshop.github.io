@@ -59,6 +59,9 @@ Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf d
 Der zweiwöchige Lieferrhythmus kann so eingestellt werden, dass die Produkte nur noch in der Woche vor der Lieferung bestellt werden können. In der anderen Woche sind bei aktivierter Einstellung die Produkte beim Bestellen zwar sichtbar, aber nicht bestellbar. Auch bei einem vorgezogenen Bestellschluss, kann nur mehr in der Woche vor der Lieferung bestellt werden (gilt für ein- und zweiwöchig). Alle anderen Lieferrhythmen sind von der neuen Einstellung nicht betroffen.
 Die Einstellung lautet: *Bestellungen beim ein- und zweiwöchigen Lieferhythmus sind nur in der Woche vor der Lieferung möglich.*
 
+{: .important }
+Wer einen zweimonatigen Lieferrhythmus verwenden möchte, kann so vorgehen: Den monatlichen Lieferrhythmus verwenden (z.B. jeden letzten Freitag im Monat) und dann über die Lieferpause den jeweiligen Freitag der ungeraden bzw. geraden Monate auswählen. So kann man zumindest 1 Jahr im Voraus alles automatisiert durchplanen, es kann aber immer nur im Monat vor der Lieferung bestellt werden (ansonsten erscheint "Lieferpause").
+
 ### 5a) Wöchentliche Lieferrhythmen
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-3.png)
 
