@@ -37,5 +37,5 @@ Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, w
 * Automatisches Drucken im Hintergrund aktivieren: **Firefox:** about:config / print.always_print_silent: true
 **Chrome:** [Anleitung](https://help.brightpearl.com/hc/en-us/articles/360028542572-Chrome-settings-for-silent-printing)
 
-{: .new}
+{: .new }
 Der Betreiber wird jetzt mit eine E-Mail benachrichtigt, falls ein Bestell-Kommentar verfasst wurde.
