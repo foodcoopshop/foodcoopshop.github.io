@@ -39,7 +39,7 @@ If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http:/
 
 * `docker exec -w /app fcs.php php ./vendor/bin/phpunit`
 * Open [http://localhost:8081](http://localhost:8081) to get to phpmyadmin of database-test
-* On my local machine the current 534 tests finish in around 3 min :-) - thanks to tmpfs!
+* On my local machine the current 546 tests finish in around 1:40 min, On Github Actions they need around 4:30 min.
 
 ## Tools
 
