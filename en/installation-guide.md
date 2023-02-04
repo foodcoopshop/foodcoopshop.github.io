@@ -114,7 +114,7 @@ Follow the steps of the [cronjob documentation]({{ site.baseurl }}/en/cronjobs).
 * To re-build the assets in /cache for production, run `composer build`
 
 {: .important }
-> * If you downloaded the package with installed vendors from foodcoopshop.com/download, you get a "Missing Plugin DebugKit" exception when you turn app.debug to true. If you cannot install composer on your server, download the package from https://github.com/cakephp/debug_kit and copy it into the plugin folder. [More Details](https://github.com/foodcoopshop/foodcoopshop/issues/931).
+If you downloaded the package with installed vendors from foodcoopshop.com/download, you get a "Missing Plugin DebugKit" exception when you turn app.debug to true. If you can't install composer on your server, download the package from https://github.com/cakephp/debug_kit and copy it into the plugins folder. [More Details](https://github.com/foodcoopshop/foodcoopshop/issues/931).
 
 {: .note }
 Good luck and thank you for using FoodCoopShop!
