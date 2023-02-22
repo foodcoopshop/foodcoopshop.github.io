@@ -22,7 +22,7 @@ nav_order: 30
 {: .warning-title }
 > This version is not yet released!
 >
-> * **Updating to this version can only be done from v3.5.x**
+> * **Updating to this version can only be done from v3.5.0!**
 > * Minimal requirement for PHP is now 8.2
 > * PHP bzip2 lib is required (for automatic database backups)
 > * Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in App.fullBaseUrl!
