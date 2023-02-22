@@ -26,6 +26,7 @@ nav_order: 30
 > * Minimal requirement for PHP is now 8.2
 > * PHP bzip2 lib is required (for automatic database backups)
 > * Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in App.fullBaseUrl!
+> * If you created mailto-links in any editor (eg. pages, footer...), then remove the link and just save the email address. The software now automatically generates a spam protected mailto-link.
 > * replace source code => see bottom of page
 > * run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
 > * execute migrations => see bottom of page
