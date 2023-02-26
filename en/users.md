@@ -9,6 +9,8 @@ title: Users
 [View map](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Type | Hosted by |
+| **2023** |
+| 02 | [Guads vo do, Foodcoop Wildschönau, AT](https://www.guadsvodo.tirol) | Direct selling | self-hosted |
 | **2022** |
 | 11 | [Kistlweis, Schärding, AT](https://shop.kistlweis.at/) | Direct selling | self-hosted |
 | 10 | [Meggen-Hof-Kisterl, Meggenhofen, AT](https://www.meggen-hof-kisterl.at/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
