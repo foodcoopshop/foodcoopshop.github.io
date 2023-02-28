@@ -22,7 +22,7 @@ nav_order: 30
 {: .warning-title }
 > This version is not yet released!
 >
-> * **Updating to this version can only be done from v3.5.0!**
+> * **Updating to this version can only be done from v3.5.x!**
 > * Minimal requirement for PHP is now 8.2
 > * PHP bzip2 lib is required (for automatic database backups)
 > * Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in App.fullBaseUrl!
@@ -32,12 +32,12 @@ nav_order: 30
 > * execute migrations => see bottom of page
 > * clear cache => see bottom of page
 
-## v3.5.0
+## v3.5.1
 
 {: .important }
 **This is the latest stable version.**
 
-* Release date: 2022-09-12
+* Release date: 2023-02-28
 * Minimal requirement for PHP is now 8.1
 * Minimal requirement for MySQL is now 8.0
 * add the array indizes 'emailFormat' and 'transport' to your credentials.php:
