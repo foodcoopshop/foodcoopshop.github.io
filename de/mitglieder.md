@@ -69,6 +69,14 @@ Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzule
 ## Mitgliedskonto löschen
 Nur **Superadmins** können Mitgliedskonten löschen. Die Funktion findet man, wenn man in der Mitglieder-Liste auf das Bearbeiten-Symbol neben dem Mitgliedsnamen klickt (Profil), ganz unten rechts. Alle personenbezogenen Daten sind dann unwiderruflich gelöscht, außer in den generierten Rechnungen. Die bleiben 7 Jahre lang gespeichert und enthalten Vor- und Nachname der Mitglieder (auch von gelöschten!).
 
+## Rechnungen an Mitglieder?
+Es kommt immer wieder mal vor, dass Mitglieder eine Rechnung über ihren Einkauf benötigen. Kurze Antwort: Das ist leider nicht möglich. Der Grund ist folgender: Bei Foodcoops (Direktverkauf) werden alle Produkte 1x monatlich auf einer Sammelrechnung für den Hersteller verrechnet. Diese ist im Namen des Herstellers verfasst, dh. er ist Rechnungssteller. Wenn ein Mitglied eine Rechnung für seinen wöchentlichen Einkauf bekommen würde, müsste es daher mehrere Rechungen (von jedem einzelnen Hersteller eine) erhalten. Diese Produkte müssten dann auch von der Sammelrechnung ausgenommen werden, da sonst ja doppelt verrechnet werden würde. Das alles wäre zwar möglich, aber ganz schön kompliziert in der Umsetzung und auch in der Handhabung.
+
+Oft reicht den Mitgliedern auch die Bestellbestätigung (ist aber rechtlich keine Rechnung!).
+
+Die Dorfladen-Online-Konfiguration löst dieses Problem, da bekommen die Kunden (=Mitglieder) eine wöchentlichhe Rechnung. Es ist dann aber kein Direktverkauf mehr, sondern ein Handel (Rechnungssteller ist der Betreiber der Plattform und nicht der Hersteller). Mehr Infos dazu [findest du hier]({{ site.baseurl }}/de/dorfladen-online.html).
+
+
 ## Automatische Bestell-Erinnerung
 Falls die automatische Bestellerinnerung systemweit aktiviert ist, wird an Mitglieder, die diese Funktion ebenfalls in ihrem Profil aktiviert haben, wöchtentlich eine Bestellerinnerungs-E-Mail verschickt. Um die Mailflut einzudämmen, wird diese E-Mail nicht verschickt, wenn in der aktuellen Woche bereits bestellt wurde.
 
