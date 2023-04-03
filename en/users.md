@@ -46,7 +46,6 @@ title: Users
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | Direct selling | self-hosted |
 | 04 | [Naturhof, Laakirchen, AT](https://shop.naturhof.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
-| 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 03 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | Direct selling | self-hosted |
 | **2019** |
 | 10 | [s'Gartl, Windischgarsten, AT](https://www.s-gartl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
