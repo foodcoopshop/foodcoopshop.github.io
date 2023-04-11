@@ -42,6 +42,9 @@ Jedes Produkt kann einer oder mehreren Kategorien zugewiesen werden.
 {: .important }
 Nur Admins oder Superadmins können neue Kategorien anlegen. Hersteller können das nicht.
 
+## Bio
+
+Eine Kennzeichnung für Bio-Produkte ist sicher sinnvoll. Dafür gibt's zwar keine eigene Funktion, viele Initiativen hängen aber einfach im Feld Produktname ein "BIO" dran. Hinter dem Namen (und nicht davor) ist wichtig, denn wenn bei 400 Produkten zuerst "BIO" steht, ist es ja doch schwieriger auffindbar.
 
 ## Anzahl
 

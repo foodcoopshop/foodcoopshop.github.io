@@ -9,6 +9,8 @@ title: Users
 [View map](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Type | Hosted by |
+| **2023** |
+| 02 | [Guads vo do, Foodcoop Wildschönau, AT](https://www.guadsvodo.tirol) | Direct selling | self-hosted |
 | **2022** |
 | 11 | [Kistlweis, Schärding, AT](https://shop.kistlweis.at/) | Direct selling | self-hosted |
 | 10 | [Meggen-Hof-Kisterl, Meggenhofen, AT](https://www.meggen-hof-kisterl.at/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
@@ -44,7 +46,6 @@ title: Users
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | Direct selling | self-hosted |
 | 04 | [Naturhof, Laakirchen, AT](https://shop.naturhof.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
-| 03 | [Zur Berta, Ottensheim, AT](https://www.zurberta.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 03 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | Direct selling | self-hosted |
 | **2019** |
 | 10 | [s'Gartl, Windischgarsten, AT](https://www.s-gartl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
