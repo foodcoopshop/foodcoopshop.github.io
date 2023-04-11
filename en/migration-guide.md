@@ -12,7 +12,7 @@ nav_order: 30
 
 ## Introduction
 * There is no automatic update tool, updating FoodCoopShop needs to be done manually. But it's not too hard and this migration guide helps you.
-* **Updating to v3.6 (not yet released!) or later can only be done from v3.5.x**
+* **Updating to v3.6 or later can only be done from v3.5.x**
 * Updating from v2.x to v3.x can only be done from v2.7.x [Migration guide for v2.x]({{ site.baseurl }}/en/migration-guide-v2)
 
 * * *
@@ -27,7 +27,7 @@ nav_order: 30
 * Minimal requirement for PHP is now 8.2
 * PHP bzip2 lib is required (for automatic database backups)
 * Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in App.fullBaseUrl!
-* If you created mailto-links in any editor (eg. pages, footer...), then remove the link and just save the email address. The software now automatically generates a spam protected mailto-link.
+* If you created mailto-links in any editor (eg. pages, footer...), then remove the link and just save the plain email address. The software now automatically generates a spam protected mailto-link.
 * replace source code => see bottom of page
 * run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
 * execute migrations => see bottom of page
