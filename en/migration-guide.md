@@ -17,7 +17,7 @@ nav_order: 30
 
 * * *
 
-## 3.6.0
+## v3.6.0
 
 {: .important }
 **This is the latest stable version.**
