@@ -19,18 +19,12 @@ nav_order: 1
 * Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
 * [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)]({{ site.baseurl }}/de/dorfladen-online-registrierkasse-hello-cash.html)
 
-{: .new-title }
-> Neu in v3.5
->
-> Für Kunden-Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Achtung: Nicht möglich bei Verwendung der Hello-Cash-API!
+* Für Kunden-Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Achtung: Nicht möglich bei Verwendung der Hello-Cash-API!
 
 ### Automatischer Rechnungsdruck
 Im Selbstbedienungs-Modus wird die Rechnung automatisch erstellt und gedruckt, wenn der Kunde entweder bar bezahlt (Laufkunde) oder den Rechnungsversand deaktiviert hat. Für Laufkundschaft am Besten einen Kunden mit der neuen User-Gruppe "SB-Kunde" verwenden **und den Rechnungsversand bei diesem Kunden deaktiveren**.
 
-{: .new-title }
-> Neu in v3.5
->
-> Mit `app.selfServiceModeAutoGenerateInvoice => false` kann die automatische Rechnungserstellung im SB-Modus ausgestellt werden.
+Mit `app.selfServiceModeAutoGenerateInvoice => false` kann die automatische Rechnungserstellung im SB-Modus ausgestellt werden.
 
 * Für das Bar-Bezahlen von Vorbestellungen gilt für den automatischen Rechnungsdruck die gleiche Logik.
 

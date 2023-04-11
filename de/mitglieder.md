@@ -79,9 +79,6 @@ Im Admin-Bereich unter "Mitglieder" sieht man, welche Mitglieder die Erinnerung 
 
 ## Newsletter-Funktion
 
-{: .new-title }
-> Die gesamte Funktion ist neu seit v3.5 (Herbst 2022)
-
 * In den globalen Einstellungen kann die Newsletter-Funktion aktiviert werden.
 * **Newsletter versenden:** Unter "Admin-Berich / Mitglieder" oben im Filter-Dropdown "Newsletter" "ja" auswählen, dann links oben mit der Checkbox "alle Mitglieder" auswählen. Weiters über den Button rechts unten die E-Mail-Adressen kopieren und diese im E-Mail-Programm deiner Wahl ins **BCC-Feld** einfügen.
 * Am Ende jedes Newsletters muss lt. DSGVO ein Link zum Austragen aus dem Newletter angegeben werden. Dieser Link lautet: https://www.example.com/admin/customers/profile (https://www.example.com mit der eigenen Domain austauschen)!

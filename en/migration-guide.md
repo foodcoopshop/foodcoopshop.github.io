@@ -17,24 +17,21 @@ nav_order: 30
 
 * * *
 
-## Unreleased version
-
-{: .warning-title }
-> This version is not yet released!
->
-> * **Updating to this version can only be done from v3.5.x**
-> * Minimal requirement for PHP is now 8.2
-> * PHP bzip2 lib is required (for automatic database backups)
-> * Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in App.fullBaseUrl!
-> * replace source code => see bottom of page
-> * run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
-> * execute migrations => see bottom of page
-> * clear cache => see bottom of page
-
-## v3.5.0
+## v3.6.0
 
 {: .important }
 **This is the latest stable version.**
+
+* **Updating to this version can only be done from v3.5.x**
+* Minimal requirement for PHP is now 8.2
+* PHP bzip2 lib is required (if you want to use the automatic database backups)
+* Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in App.fullBaseUrl!
+* replace source code => see bottom of page
+* run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
+* execute migrations => see bottom of page
+* clear cache => see bottom of page
+
+## v3.5.0
 
 * Release date: 2022-09-12
 * Minimal requirement for PHP is now 8.1

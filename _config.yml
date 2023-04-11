@@ -11,7 +11,7 @@ callouts:
   important:
     color: yellow
   new:
-    title: New in v3.6 (Summer 2023)
+    title: New in v3.6 (April 2023)
     color: green
   note:
     color: blue
