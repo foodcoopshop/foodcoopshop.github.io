@@ -24,7 +24,7 @@ nav_order: 30
 
 * Release date: 2023-04-12
 * **Updating to this version can only be done from v3.5.x!**
-* Minimal requirement for PHP is now 8.2
+* Minimal requirement for PHP is 8.1 (PHP 8.2 is recommended)
 * PHP bzip2 lib is required (for automatic database backups). You can find out, if bzip2 is installed, if you can find "bzip2" [within your phpinfo output](https://www.internetwerk.de/support/webhosting/php-info-datei-erstellen-und-konfiguration-anzeigen). If not, it needs to be installed.
 * Replace `app.cakeServerName` with `App.fullBaseUrl`. Notice the uppercase A in **A**pp.fullBaseUrl:
 ```
