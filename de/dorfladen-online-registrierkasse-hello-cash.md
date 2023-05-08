@@ -48,7 +48,7 @@ WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werd
 
 * **Zahlungsarten**
 
-Neue Zahlungsart anlegen: "Guthaben-System": Text: **Der Betrag wurde von deinem Guthaben abgezogen.**.
+Neue Zahlungsart anlegen: "Guthaben-System": Text: **Der Betrag wurde von deinem Guthaben abgezogen.**
 
 * **Bon**
 
