@@ -1,5 +1,5 @@
 ---
-parent: For developers
+parent: For developers / self hosting
 title: Docker Dev Environment
 nav_order: 10
 ---

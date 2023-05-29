@@ -1,5 +1,5 @@
 ---
-parent: For developers
+parent: For developers / self hosting
 nav_order: 40
 ---
 
