@@ -50,7 +50,7 @@ Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestell
 
 
 {: .important }
-Die E-Mail-Benachrichtigung kann global deakiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
+Die E-Mail-Benachrichtigung kann global deaktiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
 
 ### [Pfand-Rückgabe für Mitglieder eintragen]({{ site.baseurl }}/de/pfand.html#pfand-abwicklung-mit-mitglied)
 
