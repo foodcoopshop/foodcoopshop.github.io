@@ -37,7 +37,7 @@ nav_order: 30
 ```
 * If you created mailto-links in any editor (eg. pages, footer...), then remove the link and just save the plain email address. The software now automatically generates a spam protected mailto-link.
 * replace source code => see bottom of page
-* If you use PHP 8.1 (not recommended!), you have to manually replace "8.2" to "8.1" twice in your composer.json before executing your migrations: [first](https://github.com/foodcoopshop/foodcoopshop/blob/d3d10e33a2f6e26854b8ced4389dae13d7197b63/composer.json#L14), [second](https://github.com/foodcoopshop/foodcoopshop/blob/d3d10e33a2f6e26854b8ced4389dae13d7197b63/composer.json#L22)
+* If you use PHP 8.1 (not recommended!), you have to manually replace "8.2" with "8.1" twice in your composer.json before executing your migrations: [first](https://github.com/foodcoopshop/foodcoopshop/blob/d3d10e33a2f6e26854b8ced4389dae13d7197b63/composer.json#L14), [second](https://github.com/foodcoopshop/foodcoopshop/blob/d3d10e33a2f6e26854b8ced4389dae13d7197b63/composer.json#L22)
 * run `bin/cake migrations migrate --source Migrations/prepare-for-update-from-v3.5`
 * execute migrations => see bottom of page
 * clear cache => see bottom of page
