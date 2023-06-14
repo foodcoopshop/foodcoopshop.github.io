@@ -55,11 +55,7 @@ Wenn die Einstellung `app.isCustomerAllowedToModifyOwnOrders` auf `false` gesetz
 
 {: .important }
 Wenn die Einstellung `app.showStatisticsForAdmins` auf `false` gesetzt ist, dann haben Admins keinen Zugriff auf die Umsatz-Statistik.
-
-{: .new-title }
-> Neu in v3.5
->
-> Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht einsehen (der Menüpunkt "Bestellungen" ist ausgeblendet).
+Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt ist, dann können Mitglieder eigene Bestellungen nicht einsehen (der Menüpunkt "Bestellungen" ist ausgeblendet).
 
 ## Eigenes Mitgliedskonto für Abholdienste - Vorsicht!
 
