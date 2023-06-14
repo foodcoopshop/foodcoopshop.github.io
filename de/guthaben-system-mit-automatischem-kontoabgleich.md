@@ -34,10 +34,5 @@ Neue  Einstellung: "Ab welchem Guthaben-Stand soll die Erinnerungsmail versendet
 
 
 ## Unterstützte Banken
-Da die Struktur der exportierten Daten von Bank zu Bank unterschiedlich sind, werden momentan die Raiffeisenbank und die Volksbank unterstützt. Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
-
-{: .new-title}
-> Neu in v3.5 (Herbst 2022)
->
-> Sparkasse und GLS-Bank können auch verwendet werden.
-> `app.bankNameForCreditSystem` dementsprechend setzen ('Raiffeisen' OR 'Volksbank' OR 'Sparkasse' OR 'GlsBank')
+Die Konfigurations-Variable `app.bankNameForCreditSystem` kann auf folgende unterstützte Banken gesetzt werden: ('Raiffeisen' OR 'Volksbank' OR 'Sparkasse' OR 'GlsBank')
+Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
