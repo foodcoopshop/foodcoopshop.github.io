@@ -40,3 +40,4 @@ Da die Struktur der exportierten Daten von Bank zu Bank unterschiedlich sind, we
 > Neu in v3.5 (Herbst 2022)
 >
 > Sparkasse und GLS-Bank können auch verwendet werden.
+> `app.bankNameForCreditSystem` dementsprechend setzen ('Raiffeisen' OR 'Volksbank' OR 'Sparkasse' OR 'GlsBank')
