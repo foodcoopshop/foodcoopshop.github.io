@@ -10,9 +10,18 @@ Um sich beim Forum der Foodcoops Österreich [https://forum.foodcoops.at](https:
 
 Um die Installation eurer Software und somit eure Foodcoop dafür freizuschalten, sind folgende Schritte notwendig:
 
-## Konfiguration der Software
+## Aktivierung
 
-In der Datei custom_config.php die Konfigurations-Variable `app.discourseSsoEnabled` auf `true` setzen. Dann die Homepage eurer Installation aufrufen und dadurch einen Wert für `app.discourseSsoSecret` generieren, diesen in die Datei custom_config.php eintragen und speichern.
+In der Datei custom_config.php die Konfigurations-Variable `app.discourseSsoEnabled` auf `true` setzen. 
+
+## Konfiguration im Zuge der FoodCoopShop-Installation
+
+Die Homepage (Startseite) eurer Installation aufrufen, es wird dann ein Wert für `app.discourseSsoSecret` angezeigt. Diesen in die Datei custom_config.php eintragen und speichern.
+
+## Konfiguration im laufenden Betrieb
+
+Einen zufälligen Wert generieren, am besten über ein externes Tool wie z.B. [https://pinetools.com/random-string-generator](https://pinetools.com/random-string-generator). Hier bei "Length of each string
+" 20 reinschreiben und unten auf **Generate** klicken. Dann rechts eine Zeile herauskopieren, in die Datei custom_config.php eintragen und speichern.
 
 ## Der IG Foodcoops Bescheid sagen
 
