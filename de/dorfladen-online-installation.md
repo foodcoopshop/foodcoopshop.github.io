@@ -4,7 +4,7 @@ title: Installation
 nav_order: 2
 ---
 
-## 1) Installation
+## 1. Installation
 
 Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind als Open Source (Lizenz: AGPL-3.0) verfügbar und können hier downgeloadet werden:
 [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
@@ -12,12 +12,12 @@ Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind al
 {: .warning }
 Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!
 
-## 2) Angebot
+## 2. Angebot
 
 {: .important }
 Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://dorfladen-online.at](https://dorfladen-online.at)
 
-## 3) Konfiguration
+## 3. Konfiguration
 
 Um die Software als Händler verwenden zu können, sind folgende spezielle Einstellungen notwendig:
 

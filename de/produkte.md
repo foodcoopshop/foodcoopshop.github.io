@@ -48,11 +48,11 @@ Eine Kennzeichnung für Bio-Produkte ist sicher sinnvoll. Dafür gibt's zwar kei
 
 ## Anzahl
 
-1) Neue Produkte sind standardmäßig auf **immer verfügbar** <i class="fas fa-infinity ok"></i> gestellt, d. h. die verfügbare Anzahl wird beim Bestellen **nicht vermindert**.
+1. Neue Produkte sind standardmäßig auf **immer verfügbar** <i class="fas fa-infinity ok"></i> gestellt, d. h. die verfügbare Anzahl wird beim Bestellen **nicht vermindert**.
 
 Wenn das Produkt nur in einer begrenzten Stückzahl verfügbar ist, kann man diese Funktion aber deaktivieren und die verfügbare Anzahl selbst bestimen. Sie verringert sich bei jeder Bestellung und bei 0 ist das Produkt automatisch nicht mehr bestellbar. Sinnvoll, wenn man z. B. ein Lager im Betrieb hat und jede Woche liefert.
 
-2) Standard-Anzahl pro Lieferrhythmus: Nach jedem Bestelllisten-Versand wird die verfügbare Anzahl automatisch wieder auf diesen Wert gesetzt. Sinnvoll z. B. für Salat (jede Woche 20 Stück).
+2. Standard-Anzahl pro Lieferrhythmus: Nach jedem Bestelllisten-Versand wird die verfügbare Anzahl automatisch wieder auf diesen Wert gesetzt. Sinnvoll z. B. für Salat (jede Woche 20 Stück).
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/produkt-anzahl-aendern-modal.png)
 
@@ -105,11 +105,11 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 
 ## Erweiterte Lagerstandsverwaltung
 
-* 1) Hersteller mit Lagerprodukten können in ihren Einstellungen die **erweiterte Lagerstandsverwaltung** aktivieren.
+* 1. Hersteller mit Lagerprodukten können in ihren Einstellungen die **erweiterte Lagerstandsverwaltung** aktivieren.
 
-* 2) Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt**. Jedes Produkt muss manuell als Lagerprodukt aktiviert werden, dann erscheinen unter **Anzahl** zusätzliche Einstellungsmöglichkeiten.
+* 2. Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt**. Jedes Produkt muss manuell als Lagerprodukt aktiviert werden, dann erscheinen unter **Anzahl** zusätzliche Einstellungsmöglichkeiten.
 
-* 3) Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand der Hersteller und die Ansprechperson eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
+* 3. Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand der Hersteller und die Ansprechperson eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/erweiterte-lagerstandverwaltung-1.jpg)
 

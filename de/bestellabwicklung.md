@@ -5,10 +5,10 @@ title: Bestellabwicklung
 
 # Bestellabwicklung
 
-## 1a) Bestellungen für Produkte, die geliefert werden
+## 1a. Bestellungen für Produkte, die geliefert werden
 Beim Bestellen steht bei jedem Produkt der jeweilige nächste Abholtag in der Produktbeschreibung. Da innerhalb *einer* Bestellung Produkte *mit verschiedenen Abholtagen* bestellt werden können, werden die Produkte im Warenkorb übersichtlich nach Abholtagen gruppiert dargestellt.
 
-## 1b) Lagerprodukte bestellen mit der Sofort-Bestellung
+## 1b. Lagerprodukte bestellen mit der Sofort-Bestellung
 Werden Lagerprodukte mit der wöchentlichen Bestellung mitbestellt, erscheinen sie wie gewohnt am Abholtag (meistens Freitag) in der Liste mit den Bestellungen. Sollte man außerhalb des wöchentlichen Abholtages im Lager ein Produkt mitnehmen, so muss dafür eine **Sofort-Bestellung** getätigt werden. Dabei wird der Abholtag immer auf den aktuellen Tag gesetzt und das Lagerprodukt scheint so nicht auf der Liste der wöchentlich bestellten Produkt auf.
 
 {: .important }
@@ -23,15 +23,15 @@ Hersteller-Einstellung: "Sollen die Bestelllisten auch Lagerprodukte enthalten?"
 Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fas fa-cart-arrow-down ok"></i>
 
 
-## 2) Bestelllistenversand
+## 2. Bestelllistenversand
 * Basis der Bestellungen, die in den Listen erscheinen, ist der Abholtag.
 
 {: .note }
 Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="far fa-envelope ok"></i>
 
-## 3) [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
+## 3. [Abholung der Produkte]({{ site.baseurl }}/de/abholung-der-produkte)
 
-## 4) Rechnungsversand
+## 4. Rechnungsversand
 * Die Verrechnung passiert immer 1x im Monat - für alle Bestellungen mit Abholtag im Vormonat.
 
 {: .new }
@@ -41,7 +41,7 @@ Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller ver
 Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fas fa-lock not-ok"></i>
 
 
-## 5) Wöchentliche Lieferrhythmen, Sammelbestellungen und Lagerprodukte
+## 5. Wöchentliche Lieferrhythmen, Sammelbestellungen und Lagerprodukte
 
 Die wöchentlichen Lieferrhythmen sind das Herzstück der Software. Mit ihnen können die Bestellungen über längere Zeiträume gesammelt werden und die Hersteller bekommen die Bestelllisten automatisch vor dem Liefertag per E-Mail zugeschickt.
 
@@ -62,7 +62,7 @@ Die Einstellung lautet: *Bestellungen beim ein- und zweiwöchigen Lieferhythmus 
 {: .important }
 Wer einen zweimonatigen Lieferrhythmus verwenden möchte, kann so vorgehen: Den monatlichen Lieferrhythmus verwenden (z.B. jeden letzten Freitag im Monat) und dann über die Lieferpause den jeweiligen Freitag der ungeraden bzw. geraden Monate auswählen. So kann man zumindest 1 Jahr im Voraus alles automatisiert durchplanen, es kann aber immer nur im Monat vor der Lieferung bestellt werden (ansonsten erscheint "Lieferpause").
 
-### 5a) Wöchentliche Lieferrhythmen
+### 5a. Wöchentliche Lieferrhythmen
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-3.png)
 
 **Vorgezogener Bestellschluss**
@@ -76,7 +76,7 @@ Bestellungen können - je nach Lieferrhythmus - teilweise schon einige Wochen vo
 > * Tag und Uhrzeit der Abhol-Erinnerung kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist Montag 9:00 Uhr.
 
 
-### 5b) Sammelbestellungen
+### 5b. Sammelbestellungen
 
 ![]({{ site.baseurl }}/assets/img/de/produkte/lieferrhythmen-sammelbestellung.png)
 
@@ -89,7 +89,7 @@ Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produk
 Hier findest du mehr Details zu [Sammelbestellungen]({{ site.baseurl }}/de/sammelbestellungen).
 
 
-### 5c) Lagerprodukte
+### 5c. Lagerprodukte
 
 Für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus, dieser ist nicht änderbar.
 
@@ -97,9 +97,9 @@ Für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus, dieser ist nic
 ### Lieferpause für die alle Hersteller
 Eine Lieferpause für alle Hersteller der Foodcoop (z.B. Feiertag) kann bequem im Vorhinein in den Einstellungen angegeben werden. Über die Sofort-Bestellung kann auch während einer Lieferpause bestellt werden.
 
-## 6) Diverses
+## 6. Diverses
 
-### 6a) Geschenkekisterl
+### 6a. Geschenkekisterl
 
 {: .note }
 Manche Initiativen möchten gerne vorgepackte Geschenkekisterl mit Produkten von unterschiedlichen Herstellern anbieten. Die Software bietet hierzu leider keine extra dafür vorgesehene Funktion. Mit den Kategorien schafft man es zumindest, die Produkte "kisterlsweise" zusammenzufassen.

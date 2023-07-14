@@ -19,11 +19,11 @@ Wer mit der Installation nicht zurechtkommt, die Software "Hofladen Online" aber
 {: .warning }
 Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz]({{site.repo_url}}/blob/develop/LICENSE) schließt jegliche Haftung aus!
 
-### 1) Installation
+### 1. Installation
 
 Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guide).
 
-### 2) Zusätzliche Einstellungen für custom_config.php
+### 2. Zusätzliche Einstellungen für custom_config.php
 
 ```
 'isCustomerAllowedToModifyOwnOrders' => false,
@@ -43,7 +43,7 @@ Siehe [FoodCooopShop installation guide]({{ site.baseurl }}/en/installation-guid
 'isDepositPaymentCashless' => false,
 ```
 
-### 3) Zusätzliche Änderungen in der Tabelle fcs_configuration
+### 3. Zusätzliche Änderungen in der Tabelle fcs_configuration
 
 * Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
 

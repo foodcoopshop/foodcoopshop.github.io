@@ -28,17 +28,17 @@ Das Netzwerk-Modul stellt auch eine [API zum Abrufen der Bestellungen](#6-api-zu
 
 * **Remote-Foodcoop**: Foodcoop, auf der die Daten der Master-Foodcoop übertragen werden. Das können auch mehrere sein.
 
-## 1) Remote-Foodcoops erstellen
+## 1. Remote-Foodcoops erstellen
 In den Einstellungen können Superadmins Remote-Foodcoops erstellen und bearbeiten.
 
 ![]({{ site.baseurl }}/assets/img/de/netzwerk-modul/superadmin-remote-foodcoops-erstellen-1.png)
 
-## 2) Remote-Foodcoops für Hersteller auswählen
+## 2. Remote-Foodcoops für Hersteller auswählen
 Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen dann diese in Punkt 1) erstellten Remote-Foodcoops auswählen. Mit ihnen kann er dann seine Produktdaten synchronisieren.
 
 ![]({{ site.baseurl }}/assets/img/de/netzwerk-modul/hersteller-remote-foodcoops-auswaehlen-1.png)
 
-## 3) Produktdaten synchronisieren
+## 3. Produktdaten synchronisieren
 * Wenn der Hersteller (oder ein Superadmin) in den Hersteller-Einstellungen mindestens eine Remote-Foodcoop ausgewählt hat, befindet sich im Hersteller-Login unter "Meine Produkte" oben rechts ein neuer Button **Produkte synchronisieren**.
 
 * Ein Klick darauf bringt dich zur Übersicht, von der aus du deine Produktdaten auf die Remote-Foodcoops übertragen kannst. Dafür müssen allerdings zuvor die Produkte und Varianten der Remote-Foodcoops mit den Produkten der Master-Foodcoop zugeordnet werden - siehe Punkt 4.
@@ -48,7 +48,7 @@ Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen
 
 ![]({{ site.baseurl }}/assets/img/de/netzwerk-modul/produktdaten-synchronisieren-vorschau-1.png)
 
-## 4) Produkte zuordnen
+## 4. Produkte zuordnen
 * Trage in den Login-Formularen oben deine Zugangsdaten für die entsprechenden Foodcoops ein und klicke auf **Produkte laden**.
 * Die Produkte der Remote-Foodcoops werden jetzt in den **orange** umrahmten Tabellen angezeigt. Du kannst sie durch "Drag and Drop" auf die Produkte der **grün** umrahmten Tabelle ganz links ziehen, um die Produkte zuzuordnen.
 * Das Netzwerk-Modul legt keine Produkte neu an, es können nur bereits bestehende Produkte verknüpft werden - siehe auch 5). Gegebenfalls musst du dich bei den anderen Foodcoops einloggen und fehlende Produkte neu anlegen, dann erneut auf "Produkte laden" klicken und dann zuordnen.
@@ -58,7 +58,7 @@ Der Hersteller selbst (oder ein Superadmin) kann in den Hersteller-Einstellungen
 
 ![]({{ site.baseurl }}/assets/img/de/netzwerk-modul/produkte-zuordnen-1.png)
 
-## 5) Produkte für neue Foodcoop übertragen
+## 5. Produkte für neue Foodcoop übertragen
 Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene Produkte zu übertragen, mit folgender Vorgehensweise kann man aber seine Produkte viel schneller anlegen:
 
 * Auf der Remote-Foodcoop so viele leere Produkte anlegen, wie man benötigt
@@ -66,7 +66,7 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 * Dann auf die Master-Foodcoop wechseln und die leeren Produkte zuordnen.
 * Produktdaten synchronisieren - der Hersteller muss danach auf Remote-Foodcoop nur noch Bild, Kategorien, "als neu anzeigen" und Steuersatz anpassen.
 
-## 6) API zum Abrufen von Bestellungen
+## 6. API zum Abrufen von Bestellungen
 
 {: .new }
 > Hersteller können über folgenden Endpoint alle Bestellungen für einen bestimmten Abholtag abrufen.

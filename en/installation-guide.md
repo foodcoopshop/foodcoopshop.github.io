@@ -25,9 +25,9 @@ nav_order: 20
 
 * * *
 
-## 1) [Setting up your dev environment **with Docker**]({{site.baseurl }}/en/docker-dev-environment)
+## 1. [Setting up your dev environment **with Docker**]({{site.baseurl }}/en/docker-dev-environment)
 
-## 2) Setting up your dev environment **without Docker**
+## 2. Setting up your dev environment **without Docker**
 
 {: .important }
 We strongly recommend using our docker dev environment.
@@ -43,7 +43,7 @@ $ npm --prefix ./webroot install ./webroot
 * So run that commands if you cloned from Github.
 * Don't forget to change app.debug to true in your custom_config.php.
 
-## 3) Installing the latest stable version for your live server
+## Installing the latest stable version for your live server
 * Download the latest stable version at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download) and upload the unpacked files to your server using FTP.
 * [Webserver configuration]({{ site.baseurl }}/en/webserver-configuration.html)
 
