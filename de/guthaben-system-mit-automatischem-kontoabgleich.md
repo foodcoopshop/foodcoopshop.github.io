@@ -12,9 +12,9 @@ title: Automatischer Kontoabgleich
 ![]({{ site.baseurl }}/assets/img/de/guthaben-system/persoenlicher-ueberweisungscode.jpg)
 
 ## Ablauf für Superadmins
-* 1. Ein Superadmin importiert die vom ELBA exportierte CSV-Datei regelmäßig in den FoodCoopShop (Admin-Bereich / Homepage-Verwaltung / Finanzberichte).
-* 2. Datensätze, die keinem Mitglied zugeordnet werden können (z.B. ungültiger oder nicht vorhandener Überweisungscode), müssen vor dem Speichern vom Superadmin manuell dem richtigen Mitglied zugewiesen werden.
-* 3. Alle ausgewählten Überweisungen werden nach dem Speichern  ins Guthaben-System des jeweiligen Mitglieds übertragen und automatisch als "ok" gekennzeichnet. Die Mitglieder werden automatisch per E-Mail informiert, sobald ihre Überweisung ins Guthaben-System übernommen wurde.
+* 1 Ein Superadmin importiert die vom ELBA exportierte CSV-Datei regelmäßig in den FoodCoopShop (Admin-Bereich / Homepage-Verwaltung / Finanzberichte).
+* 2 Datensätze, die keinem Mitglied zugeordnet werden können (z.B. ungültiger oder nicht vorhandener Überweisungscode), müssen vor dem Speichern vom Superadmin manuell dem richtigen Mitglied zugewiesen werden.
+* 3 Alle ausgewählten Überweisungen werden nach dem Speichern  ins Guthaben-System des jeweiligen Mitglieds übertragen und automatisch als "ok" gekennzeichnet. Die Mitglieder werden automatisch per E-Mail informiert, sobald ihre Überweisung ins Guthaben-System übernommen wurde.
 
 {: .important }
 Superadmins können nach wie vor über Klick auf das Guthaben unter "Admin-Bereich" - "Mitglieder" Zahlungen manuell für alle Mitglieder eintragen.

@@ -87,9 +87,9 @@ Diese Funktion muss zuerst in den Einstellungen aktiviert werden.
 
 Um den Kontakt zwischen Konsumenten und Produzenten zu verbessern, gibt es die Feedback-Funktion.
 
-1) Feedback lesen: Zum Produkt wurde bereits Feedback verfasst. Bewegt man die Maus über das Icon (oder klickt darauf, wenn man ein Smartphone verwendet), kann das Feedback gelesen werden.
+1. Feedback lesen: Zum Produkt wurde bereits Feedback verfasst. Bewegt man die Maus über das Icon (oder klickt darauf, wenn man ein Smartphone verwendet), kann das Feedback gelesen werden.
 
-2) Feedback schreiben: Nach Klick auf das Symbol öffnet sich ein Fenster, in dem das Feedback eingegeben werden kann. Es kann auch ein Bild hochgeladen werden (3). Nach dem Speichern erhält der Hersteller automatisch eine E-Mail mit dem Feedback.
+2. Feedback schreiben: Nach Klick auf das Symbol öffnet sich ein Fenster, in dem das Feedback eingegeben werden kann. Es kann auch ein Bild hochgeladen werden (3). Nach dem Speichern erhält der Hersteller automatisch eine E-Mail mit dem Feedback.
 
 Die Feedback-Funktion kann in den Einstellungen (Admin-Bereich / Einstellungen) deaktiviert werden.
 
