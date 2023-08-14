@@ -10,6 +10,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2023** |
+| 06 | [Foodcoop urfair, Linz, AT](https://www.foodcoop-urfair.at) | Direct selling | self-hosted |
 | 02 | [Guads vo do, Foodcoop Wildschönau, AT](https://www.guadsvodo.tirol) | Direct selling | self-hosted |
 | **2022** |
 | 11 | [Kistlweis, Schärding, AT](https://shop.kistlweis.at/) | Direct selling | self-hosted |
