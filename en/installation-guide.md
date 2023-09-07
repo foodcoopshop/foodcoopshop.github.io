@@ -17,7 +17,7 @@ nav_order: 20
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP bzip2 lib (for automatic database backups) (prior to v3.6: PHP ZipArchive class)
 * MySQL >= 8.0
-* If you cloned the repository from Github: Node.js, npm >= v7 and Composer v2
+* If you cloned the repository from Github: Node.js, npm >= v9 and Composer v2
 
 {: .note }
 > * There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) if you don't want to spend your time on IT stuff.
