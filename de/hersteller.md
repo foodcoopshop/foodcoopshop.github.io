@@ -72,6 +72,8 @@ Demo-Rechnungen: [Rechnung ohne variablem Mitgliedsbeitrag]({{ site.baseurl }}/a
 {: .important }
 Die Grundlage für die Verrechnung ist der Liefer- bzw. Abholtag.
 
+{: .important }
+Vergangene Rechnungen können von Admins bzw. Superadmins im Admin-Bereich unter "Aktiviäten" heruntergeladen werden. Den Aktivitäten-Filter oben auf "Cronjob: Rechnungen verschickt" stellen und ggfs. den Datumsbereich anpassen. Auf den Pfeil rechts klicken um die Rechnung herunterzuladen.
 
 ### Datenschutz
 
