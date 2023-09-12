@@ -82,15 +82,18 @@ If you install a version prior to v3.6, [run the commands in this file]({{site.r
 > * Import taxes for Austria: `bash ./bin/cake migrations seed --seed AddTaxesAustriaSeed`
 > * **OR** Import taxes for Germany: `bash ./bin/cake migrations seed --seed AddTaxesGermanySeed`
 
-
 ## Credentials
 * Copy [credentials.default.php]({{site.repo_url}}/blob/main/config/credentials.default.php) to credentials.php and change the configuration
 * The email error logging can be enabled to ease server monitoring
 * **Be aware** that you need to set `'EmailTransport' => [...]` twice, once in `credentials.php` and once in `custom_config.php`. There must be an EmailTransport config-block for the keys "default" and "debug" so the configs must not stay commented!
 * See [https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports](https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports)
 
+## Setting up cronjobs
+Follow the steps of the [cronjob documentation]({{ site.baseurl }}/en/cronjobs).
+
 ## Testing your email configuration
 * Once you created a Super Admin account (instructions further down), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
+* As all emails are sent via the queue, be sure that you set it up correctly. See [cronjob documentation]({{ site.baseurl }}/en/cronjobs).
 
 ## Setup security keys
 Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security salt ```Security.salt```. Set it in custom_config.php
@@ -105,9 +108,6 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 > The urls in this section depend on the locale of your installation and therefore may be different for you. The urls are constructed from translatio -settings which can be found in the "/resources/locale/country_CULTURE/default.po" file under the keys "route_sign_in" and "route_request_new_password". Example for "de_DE":
 > * Sign-in: https://yourdomain.tld/anmelden
 > * Request-new-password: https://yourdomain.tld/neues-passwort-anfordern
-
-## Setting up cronjobs
-Follow the steps of the [cronjob documentation]({{ site.baseurl }}/en/cronjobs).
 
 ## Customizing CSS
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
