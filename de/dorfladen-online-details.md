@@ -31,5 +31,6 @@ Mit `app.selfServiceModeAutoGenerateInvoice => false` kann die automatische Rech
 * Automatisches Drucken im Hintergrund aktivieren: **Firefox:** about:config / print.always_print_silent: true
 **Chrome:** [Anleitung](https://help.brightpearl.com/hc/en-us/articles/360028542572-Chrome-settings-for-silent-printing)
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 Der Betreiber wird jetzt mit eine E-Mail benachrichtigt, falls ein Bestell-Kommentar verfasst wurde.

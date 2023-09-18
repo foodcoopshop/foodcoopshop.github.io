@@ -80,7 +80,8 @@ Falls die automatische Bestellerinnerung systemweit aktiviert ist, wird an Mitgl
 
 Im Admin-Bereich unter "Mitglieder" sieht man, welche Mitglieder die Erinnerung abonniert haben. Unter "Aktivitäten" sieht man, an welche Mitglieder konkret diese Erinnerungen verschickt wurden (zur besseren Übersicht ggfs. Filter auf "Cronjob: E-Mail Bestellerinnerung" setzen und Datum beachten).
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > * Der Tag des Bestellerinnerungs-Versandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
 
 ## Newsletter-Funktion

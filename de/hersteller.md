@@ -60,7 +60,8 @@ Diese Einstellung kann vom Hersteller selbst nicht geändert werden.
 
 Die Software FoodCoopShop verschickt automatisch 1x im Monat die im Namen der Hersteller generierten Rechnungen (außer, der Hersteller hat dies in seinen Einstellungen deaktiviert). Auf den Rechnungen ist vermerkt, dass die jeweilige Foodcoop nur Vermittler ist und nicht Verkäufer ("vermittelt für").
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > * Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
 
 Diese Rechnungen beinhalten eine Übersicht **aller gelieferten Produkte des Vormonats** und eine **Detailauflistung der Einzelbestellungen**. So wird lückenlos dokumentiert, welches Mitglied wann welches Produkt bestellt hat. Für die betreibende Foodcoop ist das eine Dokumentation ihrer Vermittlungstätigkeit, die Hersteller können die Rechnung in ihre Buchhaltung geben, alle notwendigen Formvorschriften sind berücksichtigt (USt., fortlaufende Rechnungsnummer, Rechnungsdatum usw.).
@@ -77,7 +78,8 @@ Vergangene Rechnungen können von Admins bzw. Superadmins im Admin-Bereich unter
 
 ### Datenschutz
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > * Personenbezogene Mitglieder-Daten (Vorname, Nachname, E-Mail, usw.) können für Hersteller systemweit anonymisiert werden.
 
 * * *

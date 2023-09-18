@@ -22,7 +22,8 @@ Superadmins können auch Guthaben-Aufladungen und Rückzahlungen (z.B. wenn das 
 
 Einmal pro Woche wird automatisch eine Erinnerungs-Mail an jene Mitglieder versendet, deren Kontostand das eingestellte Limit unterschreitet. Die Erinnerungs-Mail kann vom Mitglied in seinem Profil auch abbestellt werden.
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > * Tag und Uhrzeit der Guthaben-Erinnerung kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist Fraitag 22:30 Uhr.
 
 ## Bestellen sperren ab bestimmtem Guthaben-Stand

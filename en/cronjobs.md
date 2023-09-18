@@ -16,7 +16,8 @@ A crontab line could look like this:
 
 `*/10 * * * * curl https://www.yourdomain.com/cron`
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 Superadmins can now edit the cronjobs in the admin area (Homepage adminstration / tab "Cronjobs") (https://www.example.com/admin/cronjobs).
 
 ## 2. Queue

@@ -34,7 +34,8 @@ Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller ver
 ## 4. Rechnungsversand
 * Die Verrechnung passiert immer 1x im Monat - für alle Bestellungen mit Abholtag im Vormonat.
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > * Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
 
 {: .note }

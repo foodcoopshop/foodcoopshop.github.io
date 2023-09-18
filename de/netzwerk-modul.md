@@ -6,7 +6,8 @@ parent: Deutsch
 {: .note }
 Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Hersteller, die **mehrere Foodcoops** beliefern.
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 Das Netzwerk-Modul stellt auch eine [API zum Abrufen der Bestellungen](#6-api-zum-abrufen-von-bestellungen) zur Verfügung. Sie ist für alle Hersteller nutzbar.
 
 ## Funktionen / Konfiguration
@@ -68,7 +69,8 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 
 ## 6. API zum Abrufen von Bestellungen
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > Hersteller können über folgenden Endpoint alle Bestellungen für einen bestimmten Abholtag abrufen.
 
 {: .important}

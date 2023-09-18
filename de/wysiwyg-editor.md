@@ -11,7 +11,7 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 * Produktbeschreibung bearbeiten
 
 {: .new }
-> *Jodit wird als neuer Editor verwendet.
+> **Jodit** wird als neuer Editor verwendet.
 
 ## Wie kann ich Dateien (z.B. ein PDF) hochladen und verlinken?
 1. Auf den Upload-Button (drittes Icon von rechts) klicken.

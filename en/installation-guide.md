@@ -52,7 +52,8 @@ $ npm --prefix ./webroot install ./webroot
 bash ./devtools/installation/set-permissions.sh
 ```
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 If you install a version prior to v3.6, [run the commands in this file]({{site.repo_url}}/blob/develop/devtools/installation/set-permissions.sh).
 
 * * *
@@ -62,7 +63,8 @@ If you install a version prior to v3.6, [run the commands in this file]({{site.r
 * The default configuration is found in [app_config.php]({{site.repo_url}}/blob/main/config/app_config.php).
 * Set `app.cakeServerName` to your server, e.g. "https://yourdomain.tld" - NO TRAILING SLASH!
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > * `app.cakeServerName` was changed to `App.fullBaseUrl`
 
 * Some configuration is stored in the database and can easily be changed from the admin area: https://yourdomain.tld/admin/configurations (Super Admin account required)
@@ -77,7 +79,8 @@ If you install a version prior to v3.6, [run the commands in this file]({{site.r
 > * At first, **import the [initial database structure]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-structure.sql)**
 > * Then **import initial database data in [German]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-data-en_US.sql)**. You can't easily change the language after the installation.
 
-{: .new }
+{: .new-title }
+> New in v3.6 (April 2023)
 > * run `bash ./devtools/installation/init-database.sh de_DE` (locale "en_US" is also supported)
 > * Import taxes for Austria: `bash ./bin/cake migrations seed --seed AddTaxesAustriaSeed`
 > * **OR** Import taxes for Germany: `bash ./bin/cake migrations seed --seed AddTaxesGermanySeed`
