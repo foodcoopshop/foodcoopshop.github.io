@@ -11,7 +11,7 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 * Produktbeschreibung bearbeiten
 
 {: .new }
-> **Jodit** wird als neuer Editor verwendet.
+> **[Jodit](https://https://xdsoft.net/jodit)** wird als neuer Editor verwendet.
 
 ## Wie kann ich Dateien (z.B. ein PDF) hochladen und verlinken?
 1. Auf den Upload-Button (drittes Icon von rechts) klicken.
@@ -44,7 +44,7 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 2. Im Feld "Class name" **btn btn-success** (grüner Button) oder **btn btn-outline-light** (weißer Button mit grauem Rand) eintragen.
 
 ## Layout zerschossen? Formatierung entfernen
-Wenn ihr z. B. aus einem Word-Dokument oder einer anderen Webseite Text kopiert und in den Editor einfügt, stimmt die Formatierung oft nicht. Die Schrift ist z. B. eine andere oder der Text ist zerschossen. Einfach den gesamten Text markieren und auf die zweite Schaltfläche von links "Formatierung entfernen" klicken.
+Wenn ihr z. B. aus einem Word-Dokument oder einer anderen Webseite Text kopiert und in den Editor einfügt, stimmt die Formatierung oft nicht. Die Schrift ist z. B. eine andere oder der Text ist zerschossen. Einfach den gesamten Text markieren und auf den Radiergummi klicken.
 
 ## Videos einbinden
 Den Embed-Code (Einbettungscode) von z. B. Youtube bitte im Quellcode (zweiter Button von rechts) einfügen.
