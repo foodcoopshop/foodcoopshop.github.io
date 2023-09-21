@@ -10,6 +10,7 @@ title: Users
 
 | Start | Name / City / Country | Type | Hosted by |
 | **2023** |
+| 09 | [Foodcoop Subona, Suben, AT](https://subona.hopto.org) | Direct selling | self-hosted |
 | 06 | [Foodcoop urfair, Linz, AT](https://www.foodcoop-urfair.at) | Direct selling | self-hosted |
 | 02 | [Guads vo do, Foodcoop Wildschönau, AT](https://www.guadsvodo.tirol) | Direct selling | self-hosted |
 | **2022** |
