@@ -26,6 +26,7 @@ FCS_HELLO_CASH_API_ENABLED => 1
 
 ```
 'helloCashAtCredentials' => [
+    'token' => 'your-private-access-token', // can be generated in Registrierkasse / Einstellungen / Allgemein / helloCash API
     'username' => 'your-hello-cash-email@example.com',
     'password' => 'your-hello-cash-password',
     'cashier_id' => 'Deine Kassier-Id',
