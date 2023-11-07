@@ -75,6 +75,7 @@ Es ist mit dem Netzwerk-Modul zwar (noch) nicht möglich, noch nicht vorhandene 
 
 {: .new-title }
 > New in v3.6 (April 2023)
+>
 > Hersteller können über folgenden Endpoint alle Bestellungen für einen bestimmten Abholtag abrufen.
 
 {: .important}

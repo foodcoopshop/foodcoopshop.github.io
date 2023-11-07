@@ -33,4 +33,5 @@ Mit `app.selfServiceModeAutoGenerateInvoice => false` kann die automatische Rech
 
 {: .new-title }
 > New in v3.6 (April 2023)
+>
 > Der Betreiber wird jetzt mit eine E-Mail benachrichtigt, falls ein Bestell-Kommentar verfasst wurde.

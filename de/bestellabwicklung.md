@@ -36,7 +36,8 @@ Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller ver
 
 {: .new-title }
 > New in v3.6 (April 2023)
-> * Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
+>
+> Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
 
 {: .note }
 Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fas fa-lock not-ok"></i>

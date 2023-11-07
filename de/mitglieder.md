@@ -82,7 +82,8 @@ Im Admin-Bereich unter "Mitglieder" sieht man, welche Mitglieder die Erinnerung 
 
 {: .new-title }
 > New in v3.6 (April 2023)
-> * Der Tag des Bestellerinnerungs-Versandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
+>
+> Der Tag des Bestellerinnerungs-Versandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
 
 ## Newsletter-Funktion
 

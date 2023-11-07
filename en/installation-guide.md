@@ -54,6 +54,7 @@ bash ./devtools/installation/set-permissions.sh
 
 {: .new-title }
 > New in v3.6 (April 2023)
+>
 > If you install a version prior to v3.6, [run the commands in this file]({{site.repo_url}}/blob/develop/devtools/installation/set-permissions.sh).
 
 * * *
@@ -65,7 +66,8 @@ bash ./devtools/installation/set-permissions.sh
 
 {: .new-title }
 > New in v3.6 (April 2023)
-> * `app.cakeServerName` was changed to `App.fullBaseUrl`
+>
+> `app.cakeServerName` was changed to `App.fullBaseUrl`
 
 * Some configuration is stored in the database and can easily be changed from the admin area: https://yourdomain.tld/admin/configurations (Super Admin account required)
 * [More infos]({{ site.baseurl }}/en/settings)

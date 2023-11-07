@@ -24,7 +24,8 @@ Einmal pro Woche wird automatisch eine Erinnerungs-Mail an jene Mitglieder verse
 
 {: .new-title }
 > New in v3.6 (April 2023)
-> * Tag und Uhrzeit der Guthaben-Erinnerung kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist Fraitag 22:30 Uhr.
+>
+> Tag und Uhrzeit der Guthaben-Erinnerung kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist Fraitag 22:30 Uhr.
 
 ## Bestellen sperren ab bestimmtem Guthaben-Stand
 In den Einstellungen kann ein Bestell-Limit angegeben werden, bis zu welchem bestellt werden kann (z.B. -100,00 €).
