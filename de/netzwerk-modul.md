@@ -11,6 +11,7 @@ Die Versionen 3.2.0 bis 3.6.0 enthalten [eine Sicherheitslücke](https://github.
 
 {: .new-title }
 > New in v3.6 (April 2023)
+> 
 > Das Netzwerk-Modul stellt auch eine [API zum Abrufen der Bestellungen](#6-api-zum-abrufen-von-bestellungen) zur Verfügung. Sie ist für alle Hersteller nutzbar.
 
 ## Funktionen / Konfiguration
