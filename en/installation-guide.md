@@ -54,7 +54,7 @@ bash ./devtools/installation/set-permissions.sh
 
 {: .new-title }
 > New in v3.6 (April 2023)
-If you install a version prior to v3.6, [run the commands in this file]({{site.repo_url}}/blob/develop/devtools/installation/set-permissions.sh).
+> If you install a version prior to v3.6, [run the commands in this file]({{site.repo_url}}/blob/develop/devtools/installation/set-permissions.sh).
 
 * * *
 

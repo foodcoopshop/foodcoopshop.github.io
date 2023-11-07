@@ -13,4 +13,4 @@ Diese Software-Dokumentation erklärt die Funktionen **der aktuellsten Version v
 
 {: .new-title }
 > New in v3.6 (April 2023)
-Neue Funktionen sind als solche gesondert gekennzeichnet.
+> Neue Funktionen sind als solche gesondert gekennzeichnet.
