@@ -63,7 +63,6 @@ title: Users
 | **2017** |
 | 11 | [sINNkistl, Reichersberg, AT](https://www.sinnkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 09 | [Riadarei, Ried im Innkreis, AT](https://www.riadarei.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
-| 09 | [Stadtkern, Steyregg, AT](http://www.stadtkern.at) | Direct selling | self-hosted |
 | 08 | [bauern.laden.ein, Alberndorf, AT](https://www.bauernladenein.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com)  |
 | 06 | [Foodcoop Vöcklabruck, AT](https://vb.[foodcoopshop.com](https://www.foodcoopshop.com)) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 05 | [Foodcoop Gmunden, AT](http://www.foodcoop-gmunden.at) | Direct selling | self-hosted  |
