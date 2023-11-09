@@ -3,7 +3,7 @@ parent: For developers / self hosting
 nav_order: 50
 ---
 
-# Translaton guide
+# Translation guide
 
 If you want to make FoodCoopShop available in a new language, register on Github and [create a new issue]({{site.repo_url}}/issues/new). We will then prepare everything (e.g. create empty translation files) and you can start with the translation.
 
