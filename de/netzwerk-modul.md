@@ -36,6 +36,8 @@ Die Versionen 3.2.0 bis 3.6.0 enthalten [eine Sicherheitslücke](https://github.
 ## 1. Remote-Foodcoops erstellen
 In den Einstellungen können Superadmins Remote-Foodcoops erstellen und bearbeiten.
 
+Seit dem Sicherheits-Update (v3.6.1) müssen auch alle Master-Foodcoops, von denen aus die Daten synchronisiert werden, als Remote-Foodcoops angelegt werden.
+
 ![]({{ site.baseurl }}/assets/img/de/netzwerk-modul/superadmin-remote-foodcoops-erstellen-1.png)
 
 ## 2. Remote-Foodcoops für Hersteller auswählen
