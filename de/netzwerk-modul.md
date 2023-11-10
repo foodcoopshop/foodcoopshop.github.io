@@ -7,7 +7,7 @@ parent: Deutsch
 Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Hersteller, die **mehrere Foodcoops** beliefern.
 
 {: .warning }
-Die Versionen 3.2.0 bis 3.6.0 enthalten [eine Sicherheitslücke](https://github.com/foodcoopshop/foodcoopshop/security/advisories/GHSA-jhww-fx2j-3rf7) im Netzwerk-Modul. Bitte updaten!
+Die Versionen 3.2.0 bis 3.6.0 enthalten [eine Sicherheitslücke](https://github.com/foodcoopshop/foodcoopshop/security/advisories/GHSA-jhww-fx2j-3rf7) im Netzwerk-Modul. Bitte updaten! Jede Remote-Foodcoop muss auch die Master-Foodcoops als Remote-Foodcoop anlegen.
 
 {: .new-title }
 > New in v3.6 (April 2023)
