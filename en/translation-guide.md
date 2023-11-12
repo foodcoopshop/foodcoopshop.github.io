@@ -19,5 +19,5 @@ If you want to make FoodCoopShop available in a new language, register on Github
 ## 3. Translate legal texts in template files
 * [English files]({{site.repo_url}}/tree/develop/templates/element/legal/en_US)
 
-## 4. Translate InitDataSeed
-* [Configuration sql file]({{site.repo_url}}/tree/develop/config/Seeds/locale/en_US/InitDataSeed.php)
+## 4. Translate database
+* [InitDataSeed.php]({{site.repo_url}}/tree/develop/config/Seeds/locale/en_US/InitDataSeed.php)
