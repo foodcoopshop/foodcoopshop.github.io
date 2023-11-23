@@ -2,6 +2,7 @@
 grand_parent: Deutsch
 parent: Produkte
 title: Lebensmittelkennzeichnung
+nav_order: 20
 ---
 
 # Lebensmittelkennzeichnung / Produktdeklaration
