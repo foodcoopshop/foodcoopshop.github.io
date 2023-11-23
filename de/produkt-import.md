@@ -26,7 +26,7 @@ Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte i
 
 ## Sofern der Produkt-Import von den Herstellern / Admins gut angenommen wird, werden noch evtl. folgende Funktionen ergänzt:
 
-* **Kategorie**: Kategorie des Produktes
+* **Kategorie**: Kategorien des Produktes (z.B. "Obst", "Gemüse", ...)
 * **Varianten**: Varianten des Produktes
 * **Bearbeiten**: Bestehende Produkte bearbeiten
 * **Preis nach Gewicht**: Preis nach Gewicht des Produktes (z.B. 10,00 / kg)
