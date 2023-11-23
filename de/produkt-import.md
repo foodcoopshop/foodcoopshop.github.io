@@ -16,7 +16,7 @@ Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte i
 * **Beschreibung**: Beschreibung des Produktes
 * **Kurze Beschreibung**: Kurzbeschreibung des Produktes
 * **Einheit**: Einheit des Produktes (z.B. 1 kg, 4 Stk., 0,5 l, ...)
-* **Produktdeklaration**: "ja" oder "nein" (leer bedeutet "nein")
+* **Produktdeklaration**: 1 (ok) oder 0 (nicht ok), leer bedeutet "nicht ok"
 * **Lagerort**: Falls die Einstellung aktiviert ist: Lagerort des Produktes (z.B. "Kühlschrank", "Tiefkühler", ...)
 * **Status** (Pflichtfeld): 1 (aktiviert) oder 0 (deaktiviert)
 * **Bruttopreis** (Pflichtfeld): Bruttopreis des Produktes (Eingabe "Preis nach Gewicht" ist über den Import vorerst nicht möglich)
