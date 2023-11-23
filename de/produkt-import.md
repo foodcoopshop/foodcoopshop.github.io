@@ -8,7 +8,7 @@ nav_order: 10
 # Produkt-Import
 
 {: .new }
-Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte importieren". Damit können Produkte aus einer CSV-Datei importiert und damit neu angelegt werden.
+Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte importieren". Mit dieser Funktion können mehrere Produkte auf einmal aus einer CSV-Datei (eine Vorlage steht zum Download bereit) erstellt werden.
 
 ## Welche Werte kann ich in die Spalten eintragen?
 
