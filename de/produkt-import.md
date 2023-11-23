@@ -32,3 +32,5 @@ Sofern der Produkt-Import von den Herstellern / Admins gut angenommen wird, werd
 * **Varianten**: Varianten des Produktes
 * **Bearbeiten**: Bestehende Produkte bearbeiten (falls zB überall der Prefix Bio aus dem Namen entfernt werden möchte)
 * **Preis nach Gewicht**: Preis nach Gewicht des Produktes (z.B. 10,00 / kg)
+
+Vorschläge und Ideen können [hier gepostet werden](https://github.com/foodcoopshop/foodcoopshop/issues/973).
