@@ -24,7 +24,9 @@ Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte i
 * **Pfand**: Pfand des Produktes (z.B. 0,50), leer bedeutet "kein Pfand"
 * **Anzahl**: Verfügbare Anzahl des Produktes (z.B. 10), leer bedeutet "immer verfügbar"
 
-## Sofern der Produkt-Import von den Herstellern / Admins gut angenommen wird, werden noch evtl. folgende Funktionen ergänzt:
+## Ideen für später
+
+Sofern der Produkt-Import von den Herstellern / Admins gut angenommen wird, werden noch evtl. folgende Funktionen ergänzt:
 
 * **Kategorie**: Kategorien des Produktes (z.B. "Obst", "Gemüse", ...)
 * **Varianten**: Varianten des Produktes
