@@ -10,6 +10,9 @@ has_children: true
 
 * Auf den Menüpunkt "Hersteller" im Admin-Bereich klicken, dann auf den "x Produkte"-Button und dann oben auf "Neues Produkt" klicken. Name und Beschreibung angeben, auf Speichern klicken und danach kann das neu angelegte Produkt weiter bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
 
+{: .new }
+[Neuer Produkt-Import mittels CSV-Upload]({{ site.baseurl }}/de/produkt-import.html)
+
 ## Vorsicht: Produkt umbenennen
 
 {: .warning }
