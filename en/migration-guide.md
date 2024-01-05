@@ -17,6 +17,10 @@ nav_order: 30
 
 * * *
 
+## unrealeased
+
+* Add the configuration `Salt.cookieKey` to your custom_config.php. It should be a random string with at least 32 characters.
+
 ## v3.6.2
 
 {: .important }
