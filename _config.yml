@@ -11,7 +11,7 @@ callouts:
   important:
     color: yellow
   new:
-    title: New in v3.7 (Spring 2024)
+    title: New in v4.0 (Spring 2024)
     color: green
   note:
     color: blue
