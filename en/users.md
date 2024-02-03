@@ -32,7 +32,7 @@ title: Users
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
 | 05 | [Kulturspäti, Altenburg, DE](https://www.kulturspaeti.de) | Direct selling | self-hosted |
 | 05 | [Kellerwirtschaft, Darmstadt, DE](https://shop.foodcoop-darmstadt.de) | Direct selling | self-hosted |
-| 04 | [Freistädter Genusskisterl, AT](https://www.freistaedtergenusskisterl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
+com) |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | Retail | self-hosted |
 | 02 | Initiative in Berlin, DE | Direct selling | self-hosted |
 | 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
