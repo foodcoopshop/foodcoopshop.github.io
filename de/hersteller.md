@@ -77,6 +77,10 @@ Die Grundlage für die Verrechnung ist der Liefer- bzw. Abholtag.
 {: .important }
 Vergangene Rechnungen können von Admins bzw. Superadmins im Admin-Bereich unter "Aktiviäten" heruntergeladen werden. Den Aktivitäten-Filter oben auf "Cronjob: Rechnungen verschickt" stellen und ggfs. den Datumsbereich anpassen. Auf den Pfeil rechts klicken um die Rechnung herunterzuladen.
 
+{: .important }
+**Rundungsdifferenzen:** Die Software rundet die Bruttopreise immer pro bestellter Einheit (auf zwei Kommastellen) und summiert danach die Bruttopreise, um die Gesamtsumme zu berechnen. Das kann zu minimalen Rundungsdifferenzen mit der internen Abrechnung der Hersteller führen, weil diese meistens alle Nettopreise aufsummieren, dann die USt. aufschlagen und danach die Brutosumme auf zwei Kommastellen runden. **Da aber die Rechnungen an die Hersteller 1:1 mit dem Guthaben-System der Mitglieder übereinstimmen muss, kann für die Rechnungslegung der FCS-Rechnungen nur die erste Methode verwendet werden und man muss mit den minimalen Differenzen leben.**
+
+
 ### Datenschutz
 
 {: .new-title }
