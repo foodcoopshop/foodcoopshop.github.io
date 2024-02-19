@@ -76,16 +76,10 @@ bash ./devtools/installation/set-permissions.sh
 * Create a new database (e.g. foodcoopshop_db)
 * Define your database configuration in custom_config.php
 
-{: .new-title }
-> New in v3.6 (April 2023)
+{: .important-title }
 > * run `bash ./devtools/installation/init-database.sh de_DE` (locale "en_US" is also supported)
 > * Import taxes for Austria: `bash ./bin/cake migrations seed --seed AddTaxesAustriaSeed`
 > * **OR** Import taxes for Germany: `bash ./bin/cake migrations seed --seed AddTaxesGermanySeed`
-
-{: .important-title }
-> <= v3.5
-> * At first, **import the [initial database structure]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-structure.sql)**
-> * Then **import initial database data in [German]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-data-de_DE.sql) or [English]({{site.repo_url}}/blob/main/config/sql/_installation/clean-db-data-en_US.sql)**. You can't easily change the language after the installation.
 
 ## Credentials
 * Copy [credentials.default.php]({{site.repo_url}}/blob/main/config/credentials.default.php) to credentials.php and change the configuration
