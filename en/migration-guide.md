@@ -20,6 +20,7 @@ nav_order: 30
 ## unrealeased
 
 * Add the configuration `Salt.cookieKey` to your custom_config.php. It should be a random string with at least 32 characters.
+* Uploading images is now handled by Imagick and not by GD any more. Be sure that Imagick is installed on your server.
 
 ## v3.6.2
 
