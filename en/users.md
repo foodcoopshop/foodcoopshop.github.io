@@ -9,6 +9,8 @@ title: Users
 [View map](https://umap.openstreetmap.fr/de/map/verbreitung-foodcoopshop_211165)
 
 | Start | Name / City / Country | Type | Hosted by |
+| **2024** |
+| 03 | [Foodcoop Forchtensten / Wulkakistl, AT](https://shop.wulkakistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2023** |
 | 09 | [Weltladen Gallneukirchen, AT](https://shop.weltladen-gallneukirchen.at) | Direct selling | self-hosted |
 | 09 | [Foodcoop Subona, Suben, AT](https://subona.hopto.org) | Direct selling | self-hosted |
