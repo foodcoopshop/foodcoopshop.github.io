@@ -27,8 +27,6 @@ FCS_HELLO_CASH_API_ENABLED => 1
 ```
 'helloCashAtCredentials' => [
     'token' => 'your-private-access-token', // can be generated in Registrierkasse / Einstellungen / Allgemein / helloCash API
-    'username' => 'your-hello-cash-email@example.com',
-    'password' => 'your-hello-cash-password',
     'cashier_id' => 'Deine Kassier-Id',
     'payment_type_cash' => 'Bar',
     'payment_type_cashless' => 'Guthaben-System',
@@ -49,17 +47,20 @@ WICHTIG: Rechnungen dürfen ausschließlich über Dorfladen Online erstellt werd
 
 * **Zahlungsarten**
 
-Neue Zahlungsart anlegen: "Guthaben-System": Text: **Der Betrag wurde von deinem Guthaben abgezogen.**
+Neue Zahlungsart anlegen: "Guthaben-System" (muss exakt so geschrieben werden)
 
-* **Bon**
+* **Bon (Beleg)**
 
-Layout einstellen (Logo in S/W, Breite, angezeigte Daten...)
+Achtung: Anfang März 2024 hat HelloCash die Schnittstelle umgestellt. Seitdem wird nicht mehr das, das hier hochgeladen werden kann, benutzt, sondern es muss eine eigene Datei in die Software eingebunden werden:
+
+* Logo für Beleg: `webroot/files/images/logo-receipt.png`
+* `app.additionalTextForReceipt` = 'Firmenbuch: 123456';`
 
 * **PDF**
 
 Layout einstellen (Logo, angezeigte Daten...)
 
-Fußzeile bei Bon und Schlusstext bei PDF: "Vielen Dank für deinen Einkauf! Rechnungsdatum = Lieferdatum"
+Schlusstext bei PDF: "Vielen Dank für deinen Einkauf! Rechnungsdatum = Lieferdatum"
 
 
 ## Registrierkasse / Einstellungen / Signatur
