@@ -36,5 +36,12 @@ Die Funktion kann in den Einstellungen aktiviert werden: "Admin-Bereich" / "Home
 Einstellung "Ab welchem Guthaben-Stand soll die Erinnerungsmail versendet werden?" Bei Verwendung des automatischen Kontoabgleiches ist **50** ist ein sinnvoller Wert.
 
 ## Unterstützte Banken
-Die Konfigurations-Variable `app.bankNameForCreditSystem` kann auf folgende unterstützte Banken gesetzt werden: ('Raiffeisen' OR 'Volksbank' OR 'Sparkasse' OR 'GlsBank')
+Die Konfigurations-Variable `app.bankNameForCreditSystem` kann auf folgende unterstützte Banken gesetzt werden:
+
+* `Raiffeisen`
+* `Volksbank`
+* `Sparkasse`
+* `GlsBank`
+* `BankBurgenland`
+
 Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
