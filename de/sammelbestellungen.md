@@ -35,6 +35,10 @@ Das Feld "Liefertag" auf das gewüschte Datum ändern und dann unter "Bestellung
 
 Falls nach Ablauf des Bestellschlusses Änderungen notwendig sind, so kann das unter "Bestellungen" - Filter nach Abholtag und Hersteller - gruppiert nach... erledigt werden (wie beim Abholen der Produkte)
 
+{: .new }
+> * Beim Ändern des Preises im Produkt-Admin gibt es eine neue Option: "Preise von noch nicht verrechneten Bestellungen mit anpassen?" Wenn diese Option aktiviert ist, werden die Preise der Bestellungen, die noch nicht verrechnet wurden, automatisch angepasst. Auch der Grundpreis wird hierbei geändert.
+
+
 ## Nachbuchen für anderes Mitglied über die Sofort-Bestellung
 
 Soll ein Produkt über die Sofort-Bestellung für jemand anders nachgebucht werden, muss es zuerst wieder bestellbar gemacht werden. Dazu das Feld "Bestellbar bis" ändern und nach der Sofort-Bestellung wieder zurückändern. Das sollte möglichst an einem Tag passieren, an dem erfahrungsgemäß wenig bestellt wird. Nach der Sofort-Bestellung muss noch der Abholtag (wie unter Punkt 3) beschrieben geändert werden, so dass alle Produkte der Sammelbestellung den gleichen Abholtag haben. Der Liefertag, an dem Sofort-Bestellungen zu finden sind, ist immer der aktuelle Tag (im Feld "Abholtag" eintragen, dann sieht man die Produkte).
