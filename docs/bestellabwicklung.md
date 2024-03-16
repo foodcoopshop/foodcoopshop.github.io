@@ -17,14 +17,14 @@ Hersteller-Einstellung: "Sollen die Bestelllisten auch Lagerprodukte enthalten?"
 * * *
 
 :::info
-Bestellstatus nach Bestellung: **Bestellung getätigt** <i class="fas fa-cart-arrow-down ok"></i>
+Bestellstatus nach Bestellung: **Bestellung getätigt** ![](/img/icons/cart-arrow-down.png)
 :::
 
 ## 2. Bestelllistenversand
 * Basis der Bestellungen, die in den Listen erscheinen, ist der Abholtag.
 
 :::info
-Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** <i class="far fa-envelope ok"></i>
+Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** ![](/img/icons/envelope.png)
 :::
 
 ## 3. [Abholung der Produkte](/abholung-der-produkte)
@@ -37,7 +37,7 @@ Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / 
 :::
 
 :::info
-Bestellstatus nach Versenden der Rechnungen: **verrechnet** <i class="fas fa-lock not-ok"></i>
+Bestellstatus nach Versenden der Rechnungen: **verrechnet** ![](/img/icons/lock.png)
 :::
 
 ## 5. Wöchentliche Lieferrhythmen, Sammelbestellungen und Lagerprodukte
