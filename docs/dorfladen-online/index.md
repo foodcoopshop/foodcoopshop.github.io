@@ -38,7 +38,7 @@ Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](htt
 * Auch das Stornieren von Rechnungen ist rechtlich korrekt umgesetzt, es wird dafür eine Storno-Rechnung mit den Negativ-Beträgen der Original-Rechnung erstellt.
 
 * Erfassung des Einkaufspreises als Daten-Grundlage zur Gewinnermittlung.
-* [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)](/dorfladen-online-registrierkasse)
+* [Schnittstelle zu Registrierkasse HelloCash (hellocash.at)](/dorfladen-online/registrierkasse)
 
 * Für Kunden-Rechnungen kann nun ein Prefix (max. 6 Zeichen) angegeben werden. Achtung: Nicht möglich bei Verwendung der Hello-Cash-API!
 
