@@ -27,7 +27,7 @@ Bestellstatus nach Bestellung: **Bestellung getätigt** ![](/img/icons/cart-arro
 Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** ![](/img/icons/envelope.png)
 :::
 
-## 3. [Abholung der Produkte](/abholung-der-produkte)
+## 3. [Abholung der Produkte](/der-abholtag)
 
 ## 4. Rechnungsversand
 * Die Verrechnung passiert immer 1x im Monat - für alle Bestellungen mit Abholtag im Vormonat.
