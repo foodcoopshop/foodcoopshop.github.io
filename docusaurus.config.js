@@ -69,7 +69,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} foodcoopshop.com. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://www.foodcoopshop.com" target="_blank">foodcoopshop.com</a>. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
