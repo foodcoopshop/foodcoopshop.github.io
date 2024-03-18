@@ -24,7 +24,7 @@ Um die Software als Händler verwenden zu können, sind folgende spezielle Einst
 
 ### Zusätzliche Einstellungen für custom_config.php
 
-```
+```php
 'isCustomerAllowedToModifyOwnOrders' => false,
 
 'outputStringReplacements' => array_merge(
@@ -42,7 +42,7 @@ Um die Software als Händler verwenden zu können, sind folgende spezielle Einst
 
 * Für folgende Datensätze den Wert im Feld "type" auf "hidden" setzen
 
-```
+```php
 FCS_ACCOUNTING_EMAIL
 FCS_USE_VARIABLE_MEMBER_FEE
 FCS_DEFAULT_VARIABLE_MEMBER_FEE_PERCENTAGE
@@ -52,7 +52,7 @@ FCS_APP_ADDITIONAL_DATA
 
 * Einstellungen ändern (Feld "value")
 
-```
+```php
 FCS_SEND_INVOICES_TO_CUSTOMERS => 1
 FCS_DEPOSIT_TAX_RATE => '20,00'
 FCS_INVOICE_HEADER_TEXT => 'Vorname Nachname<br />Adresse<br />UID-Nr.'
@@ -66,7 +66,7 @@ FCS_ALLOW_ORDERS_FOR_DELIVERY_RHYTHM_ONE_OR_TWO_WEEKS_ONLY_IN_WEEK_BEFORE_DELIVE
 
 
 ### Einstellungen in der Tabelle fcs_cronjobs
-```
+```php
 SendInvoicesToManufacturers => 0
 SendInvoicesToCustomers => 1
 SendDeliveryNotes => 1

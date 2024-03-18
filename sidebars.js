@@ -25,6 +25,15 @@ const sidebars = {
       items: [
         'dorfladen-online/index',
         'dorfladen-online/installation',
+        'dorfladen-online/registrierkasse',
+        'dorfladen-online/gutscheine',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Hofladen Online',
+      items: [
+        'hofladen-online/index',
       ],
     },
   ],
