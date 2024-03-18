@@ -1,6 +1,6 @@
 # Registrierkasse
 
-::info
+:::info
 In Österreich benötigt man für die korrekte Abwicklung von Barverkäufen ab einer gewissen Umsatzgrenze eine Registrierkasse. Um dem Betreiber das Arbeiten mit zwei Systemen (Registrierkasse und Dorfladen Online Software)zu ersparen, ist die Registrierkasse über eine Schnittstelle in die Dorfladen Online Software integriert). Der Betreiber spart sich so das Einarbeiten in ein neues System, der Kassiervorgang und das Drucken des Beleges ist **sehr einfach und schnell**.
 :::
 
