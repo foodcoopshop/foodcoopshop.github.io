@@ -46,7 +46,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/mrothauer/foodcoopshop.github.io/edit/main/',
+            'https://github.com/foodcoopshop/foodcoopshop.github.io/edit/main/',
         },
       }),
     ],
