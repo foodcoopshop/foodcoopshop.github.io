@@ -77,6 +77,30 @@ const config = {
         additionalLanguages: ['php'],
       },
     }),
+
+    plugins: [
+      [
+        '@docusaurus/plugin-client-redirects',
+        {
+          fromExtensions: ['html'],
+          redirects: [
+
+            { from: '/de/bestellabwicklung', to: '/bestellabwicklung'},
+            { from: '/de/abholung-der-produkte', to: '/abholung-der-produkte'},
+            { from: '/de/pfand', to: '/pfand'},
+            { from: '/de/sammelbestellungen', to: '/sammelbestellungen'},
+
+            { from: '/de/dorfladen-online', to: '/dorfladen-online'},
+            { from: '/de/dorfladen-online-installation', to: '/dorfladen-online/installation'},
+            { from: '/de/dorfladen-online-gutscheine', to: '/dorfladen-online/gutscheine'},
+            { from: '/de/dorfladen-online-registrierkasse-hello-cash', to: '/dorfladen-online/registrierkasse'},
+
+            { from: '/de/hofladen-online', to: '/hofladen-online'},
+
+          ],
+        },
+      ],
+    ],
 };
 
 export default config;
