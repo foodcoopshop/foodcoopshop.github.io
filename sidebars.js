@@ -19,6 +19,20 @@ const sidebars = {
     'bestellabwicklung',
     'pfand',
     'sammelbestellungen',
+
+    {
+      type: 'category',
+      label: 'Development / Self hosting',
+      items: [
+        'installation-guide',
+        'migration-guide',
+        'webserver-configuration',
+        'cronjobs',
+        'settings',
+        'docker-dev-environment',
+      ],
+    },
+
     {
       type: 'category',
       label: 'Dorfladen Online',
@@ -29,6 +43,7 @@ const sidebars = {
         'dorfladen-online/gutscheine',
       ],
     },
+
     {
       type: 'category',
       label: 'Hofladen Online',
@@ -37,7 +52,7 @@ const sidebars = {
       ],
     },
   ],
-  
+
 };
 
 export default sidebars;

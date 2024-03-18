@@ -21,7 +21,7 @@ Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](htt
 
 ### 1. Installation
 
-Siehe [FoodCooopShop installation guide](/en/installation-guide).
+Siehe [FoodCooopShop installation guide](/installation-guide).
 
 ### 2. Zusätzliche Einstellungen für custom_config.php
 

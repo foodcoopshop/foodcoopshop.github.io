@@ -90,6 +90,13 @@ const config = {
             { from: '/de/pfand', to: '/pfand'},
             { from: '/de/sammelbestellungen', to: '/sammelbestellungen'},
 
+            { from: '/en/installation-guide', to: '/installation-guide'},
+            { from: '/en/migration-guide', to: '/migration-guide'},
+            { from: '/en/webserver-configuration', to: '/webserver-configuration'},
+            { from: '/en/cronjobs', to: '/cronjobs'},
+            { from: '/en/settings', to: '/settings'},
+            { from: '/en/docker-dev-environment', to: '/docker-dev-environment'},
+
             { from: '/de/dorfladen-online', to: '/dorfladen-online'},
             { from: '/de/dorfladen-online-installation', to: '/dorfladen-online/installation'},
             { from: '/de/dorfladen-online-gutscheine', to: '/dorfladen-online/gutscheine'},
