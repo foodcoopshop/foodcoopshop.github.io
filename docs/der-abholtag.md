@@ -1,4 +1,4 @@
-# Abholung der Produkte
+# Der Abholtag
 
 :::info
 Hier wird detailliert erklärt, was alles an einem Abholtag zu beachten ist.

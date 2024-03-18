@@ -85,23 +85,23 @@ const config = {
           redirects: [
 
             { from: ['/de/bestellabwicklung', '/de/bestellabwicklung.html'], to: '/bestellabwicklung'},
-            { from: ['/de/abholung-der-produkte', '/de/abholung-der-produkte.html'],  to: '/abholung-der-produkte'},
+            { from: ['/de/abholung-der-produkte', '/de/abholung-der-produkte.html'],  to: '/der-abholtag'},
             { from: ['/de/pfand', '/de/pfand.html'], to: '/pfand'},
             { from: ['/de/sammelbestellungen', '/de/sammelbestellungen.html'], to: '/sammelbestellungen'},
 
-            { from: '/en/installation-guide', to: '/installation-guide'},
-            { from: '/en/migration-guide', to: '/migration-guide'},
-            { from: '/en/webserver-configuration', to: '/webserver-configuration'},
-            { from: '/en/cronjobs', to: '/cronjobs'},
-            { from: '/en/settings', to: '/settings'},
-            { from: '/en/docker-dev-environment', to: '/docker-dev-environment'},
+            { from: ['/en/installation-guide', '/en/installation-guide.html'], to: '/installation-guide'},
+            { from: ['/en/migration-guide', '/en/migration-guide.html'], to: '/migration-guide'},
+            { from: ['/en/webserver-configuration', '/en/webserver-configuration.html'], to: '/webserver-configuration'},
+            { from: ['/en/cronjobs', '/en/cronjobs.html'], to: '/cronjobs'},
+            { from: ['/en/settings', '/en/settings.html'], to: '/settings'},
+            { from: ['/en/docker-dev-environment', '/en/docker-dev-environment.html'], to: '/docker-dev-environment'},
 
-            { from: '/de/dorfladen-online', to: '/dorfladen-online/'},
-            { from: '/de/dorfladen-online-installation', to: '/dorfladen-online/installation'},
-            { from: '/de/dorfladen-online-gutscheine', to: '/dorfladen-online/gutscheine'},
-            { from: '/de/dorfladen-online-registrierkasse-hello-cash', to: '/dorfladen-online/registrierkasse'},
+            { from: ['/de/dorfladen-online', '/de/dorfladen-online.html'], to: '/dorfladen-online'},
+            { from: ['/de/dorfladen-online-installation', '/de/dorfladen-online-installation.html'], to: '/dorfladen-online/installation'},
+            { from: ['/de/dorfladen-online-gutscheine', '/de/dorfladen-online-gutscheine.html'], to: '/dorfladen-online/gutscheine'},
+            { from: ['/de/dorfladen-online-registrierkasse-hello-cash', '/de/dorfladen-online-registrierkasse-hello-cash.html'], to: '/dorfladen-online/registrierkasse'},
 
-            { from: '/de/hofladen-online', to: '/hofladen-online/'},
+            { from: ['/de/hofladen-online', '/de/hofladen-online.html'], to: '/hofladen-online'},
 
           ],
         },

@@ -15,7 +15,7 @@
 const sidebars = {
 
   mySidebar: [
-    'abholung-der-produkte',
+    'der-abholtag',
     'bestellabwicklung',
     'pfand',
     'sammelbestellungen',
@@ -26,7 +26,6 @@ const sidebars = {
       items: [
         'installation-guide',
         'migration-guide',
-        'webserver-configuration',
         'cronjobs',
         'settings',
         'docker-dev-environment',
