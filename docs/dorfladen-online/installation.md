@@ -9,7 +9,7 @@ Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind al
 [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download)
 
 :::warning
-Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](/blob/develop/LICENSE) schließt jegliche Haftung aus!
+Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](https://github.com/foodcoopshop/foodcoopshop/blob/develop/LICENSE) schließt jegliche Haftung aus!
 :::
 
 ## 2. Angebot

@@ -17,7 +17,7 @@ Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" abe
 :::
 
 :::warning
-Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](/blob/develop/LICENSE) schließt jegliche Haftung aus!
+Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](https://github.com/foodcoopshop/foodcoopshop/blob/develop/LICENSE) schließt jegliche Haftung aus!
 :::
 
 ## Links
