@@ -82,13 +82,12 @@ const config = {
       [
         '@docusaurus/plugin-client-redirects',
         {
-          fromExtensions: ['html'],
           redirects: [
 
-            { from: '/de/bestellabwicklung', to: '/bestellabwicklung'},
-            { from: '/de/abholung-der-produkte', to: '/abholung-der-produkte'},
-            { from: '/de/pfand', to: '/pfand'},
-            { from: '/de/sammelbestellungen', to: '/sammelbestellungen'},
+            { from: ['/de/bestellabwicklung', '/de/bestellabwicklung.html'], to: '/bestellabwicklung'},
+            { from: ['/de/abholung-der-produkte', '/de/abholung-der-produkte.html'],  to: '/abholung-der-produkte'},
+            { from: ['/de/pfand', '/de/pfand.html'], to: '/pfand'},
+            { from: ['/de/sammelbestellungen', '/de/sammelbestellungen.html'], to: '/sammelbestellungen'},
 
             { from: '/en/installation-guide', to: '/installation-guide'},
             { from: '/en/migration-guide', to: '/migration-guide'},
