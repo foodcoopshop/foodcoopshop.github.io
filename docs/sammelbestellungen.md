@@ -1,3 +1,7 @@
+---
+sidebar_label: Sammelbestellungen
+---
+
 # Leitfaden für Sammelbestellungen
 
 :::info
