@@ -50,7 +50,7 @@ $ npm --prefix ./webroot install ./webroot
 bash ./devtools/installation/set-permissions.sh
 ```
 
-:::new[v3.6]
+:::tip[v3.6]
 If you install a version prior to v3.6, [run the commands in this file](https://github.com/foodcoopshop/foodcoopshop/blob/develop/devtools/installation/set-permissions.sh).
 :::
 
@@ -61,7 +61,7 @@ If you install a version prior to v3.6, [run the commands in this file](https://
 * The default configuration is found in [app_config.php](https://github.com/foodcoopshop/foodcoopshop/blob/main/config/app_config.php).
 * Set `app.cakeServerName` to your server, e.g. "https://yourdomain.tld" - NO TRAILING SLASH!
 
-:::new[v3.6]
+:::tip[v3.6]
 `app.cakeServerName` was changed to `App.fullBaseUrl`
 :::
 
