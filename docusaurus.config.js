@@ -97,12 +97,12 @@ const config = {
             { from: '/en/settings', to: '/settings'},
             { from: '/en/docker-dev-environment', to: '/docker-dev-environment'},
 
-            { from: '/de/dorfladen-online', to: '/dorfladen-online'},
+            { from: '/de/dorfladen-online', to: '/dorfladen-online/'},
             { from: '/de/dorfladen-online-installation', to: '/dorfladen-online/installation'},
             { from: '/de/dorfladen-online-gutscheine', to: '/dorfladen-online/gutscheine'},
             { from: '/de/dorfladen-online-registrierkasse-hello-cash', to: '/dorfladen-online/registrierkasse'},
 
-            { from: '/de/hofladen-online', to: '/hofladen-online'},
+            { from: '/de/hofladen-online', to: '/hofladen-online/'},
 
           ],
         },
