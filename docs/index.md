@@ -1,6 +1,7 @@
 ---
 id: 1
 title: Home
+sidebar_label: Home
 ---
 
 # Welcome
