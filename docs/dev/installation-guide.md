@@ -2,13 +2,13 @@
 
 :::info
 * This installation guide always references to the [latest stable version](https://github.com/foodcoopshop/foodcoopshop/releases).
-* If you want to update your installation to another version, read the [migration guide](/migration-guide).
+* If you want to update your installation to another version, read the [migration guide](/dev/migration-guide).
 * You can help making this open source project more visible on GitHub by starring ⭐ it.
 :::
 
 ## Requirements
 * Server with **shell access** and **cronjobs**
-* [Webserver - Nginx or Apache](/webserver-configuration)
+* [Webserver - Nginx or Apache](/dev/webserver-configuration)
 * PHP => 8.2 (prior to v3.6 PHP 8.1)
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP bzip2 lib (for automatic database backups) (prior to v3.6: PHP ZipArchive class)
@@ -22,7 +22,7 @@
 
 * * *
 
-## 1. [Setting up your dev environment **with Docker**](/docker-dev-environment)
+## 1. [Setting up your dev environment **with Docker**](/dev/docker-dev-environment)
 
 ## 2. Setting up your dev environment **without Docker**
 
@@ -43,7 +43,7 @@ $ npm --prefix ./webroot install ./webroot
 
 ## Installing the latest stable version for your live server
 * Download the latest stable version at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download) and upload the unpacked files to your server using FTP.
-* [Webserver configuration](/webserver-configuration)
+* [Webserver configuration](/dev/webserver-configuration)
 
 ## Setting permissions
 ```
@@ -51,7 +51,7 @@ bash ./devtools/installation/set-permissions.sh
 ```
 
 :::tip[v3.6]
-If you install a version prior to v3.6, [run the commands in this file](https://github.com/foodcoopshop/foodcoopshop/blob/develop/devtools/installation/set-permissions.sh).
+If you install a version prior to v3.6, [run the commands in this file](https://github.com/foodcoopshop/foodcoopshop/blob/main/devtools/installation/set-permissions.sh).
 :::
 
 * * *
@@ -85,11 +85,11 @@ If you install a version prior to v3.6, [run the commands in this file](https://
 * See [https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports](https://book.cakephp.org/4/en/core-libraries/email.html#configuring-transports)
 
 ## Setting up cronjobs
-Follow the steps of the [cronjob documentation](/cronjobs).
+Follow the steps of the [cronjob documentation](/dev/cronjobs).
 
 ## Testing your email configuration
 * Once you created a Super Admin account (instructions further down), You can test your email configuration by accessing https://yourdomain.tld/admin/configurations/sendTestEmail in your browser.
-* As all emails are sent via the queue, be sure that you set it up correctly. See [cronjob documentation](/cronjobs).
+* As all emails are sent via the queue, be sure that you set it up correctly. See [cronjob documentation](/dev/cronjobs).
 
 ## Setup security keys
 Open your domain https://yourdomain.tld in a browser and follow the steps shown to create secure values for the security salt ```Security.salt```. Set it in custom_config.php

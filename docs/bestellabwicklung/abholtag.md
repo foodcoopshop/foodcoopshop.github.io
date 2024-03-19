@@ -1,4 +1,4 @@
-# Der Abholtag
+# Abholtag
 
 :::info
 Hier wird detailliert erklärt, was alles an einem Abholtag zu beachten ist.

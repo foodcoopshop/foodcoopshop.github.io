@@ -15,11 +15,36 @@
 const sidebars = {
 
   mySidebar: [
-    'der-abholtag',
-    'bestellabwicklung',
-    'pfand',
-    'sammelbestellungen',
-    'users',
+
+    {
+      type: 'category',
+      label: 'Bestellabwicklung',
+      items: [
+        'bestellabwicklung/index',
+        'bestellabwicklung/abholtag',
+        'bestellabwicklung/sammelbestellungen',
+        ],
+    },
+
+    {
+      type: 'category',
+      label: 'Produkte',
+      items: [
+        'produkte/index',
+        'produkte/pfand',
+        'produkte/produkt-import',
+        'produkte/lebensmittelkennzeichnung',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Mitglieder',
+      items: [
+        'mitglieder/index',
+        'mitglieder/mitgliedsbeitraege',
+      ],
+    },
 
     {
       type: 'category',
@@ -31,15 +56,31 @@ const sidebars = {
       ],
     },
 
+    'selbstbedienungs-modus',
+    'netzwerk-modul',
+
+    {
+      type: 'category',
+      label: 'Diverses',
+      items: [
+        'diverses/user-feedback',
+        'diverses/sso-fuer-discourse-forum',
+        'diverses/troubleshooting',
+        'diverses/wichtige-infos-zum-gelingen',
+        'diverses/wysiwyg-editor',
+      ],
+    },
+
     {
       type: 'category',
       label: 'Development / Self hosting',
       items: [
-        'installation-guide',
-        'migration-guide',
-        'cronjobs',
-        'settings',
-        'docker-dev-environment',
+        'dev/installation-guide',
+        'dev/migration-guide',
+        'dev/cronjobs',
+        'dev/configuration',
+        'dev/docker-dev-environment',
+        'dev/translation-guide',
       ],
     },
 
@@ -61,6 +102,9 @@ const sidebars = {
         'hofladen-online/index',
       ],
     },
+
+    'rechtliches',
+
   ],
 
 };

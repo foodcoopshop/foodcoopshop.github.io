@@ -1,3 +1,7 @@
+---
+sidebar_label: Details
+---
+
 # Bestellabwicklung
 
 ## 1a. Bestellungen für Produkte, die geliefert werden
@@ -75,7 +79,7 @@ Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter *Best
 Bestellungen können - je nach Lieferrhythmus - teilweise schon einige Wochen vor dem eigentlichen Abholtag getätigt werden. Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte". Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
 :::
 
-:::tip[New in v4.0 (Spring 2024)]
+:::tip[Neu in v4.0 (Frühling 2024)]
 * Tag und Uhrzeit der Abhol-Erinnerung kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist Montag 9:00 Uhr.
 :::
 

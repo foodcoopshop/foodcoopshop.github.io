@@ -85,21 +85,33 @@ const config = {
         {
           redirects: [
 
-            { from: ['/de/bestellabwicklung', '/de/bestellabwicklung.html'], to: '/bestellabwicklung'},
-            { from: ['/de/abholung-der-produkte', '/de/abholung-der-produkte.html'],  to: '/der-abholtag'},
-            { from: ['/de/pfand', '/de/pfand.html'], to: '/pfand'},
-            { from: ['/de/sammelbestellungen', '/de/sammelbestellungen.html'], to: '/sammelbestellungen'},
+            { from: ['/de/bestellabwicklung', '/de/bestellabwicklung.html'], to: '/bestellabwicklung/'},
+            { from: ['/de/abholung-der-produkte', '/de/abholung-der-produkte.html'],  to: '/bestellabwicklungabholtag'},
+            { from: ['/de/sammelbestellungen', '/de/sammelbestellungen.html'], to: '/bestellabwicklung/sammelbestellungen'},
+
+            { from: ['/de/produkte', '/de/produkte.html'], to: '/produkte/'},
+            { from: ['/de/pfand', '/de/pfand.html'], to: '/produkte/pfand'},
+            { from: ['/de/produkt-import', '/de/produkt-import.html'], to: '/produkte/produkt-import'},
+            { from: ['/de/lebensmittelkennzeichnung', '/de/lebensmittelkennzeichnung.html'], to: '/produkte/lebensmittelkennzeichnung'},
 
             { from: ['/de/guthaben-system.html', '/de/guthaben-system'], to: '/guthaben/'},
             { from: ['/de/guthaben-system-mit-automatischem-kontoabgleich.html', '/de/guthaben-system-mit-automatischem-kontoabgleich'], to: '/guthaben/automatischer-kontoabgleich'},
             { from: ['/de/guthaben-system-mit-selbststaendiger-aufladung.html', '/de/guthaben-system-mit-selbststaendiger-aufladung'], to: '/guthaben/selbststaendige-aufladung'},
 
-            { from: ['/en/installation-guide', '/en/installation-guide.html'], to: '/installation-guide'},
-            { from: ['/en/migration-guide', '/en/migration-guide.html'], to: '/migration-guide'},
-            { from: ['/en/webserver-configuration', '/en/webserver-configuration.html'], to: '/webserver-configuration'},
-            { from: ['/en/cronjobs', '/en/cronjobs.html'], to: '/cronjobs'},
-            { from: ['/en/settings', '/en/settings.html'], to: '/settings'},
-            { from: ['/en/docker-dev-environment', '/en/docker-dev-environment.html'], to: '/docker-dev-environment'},
+            { from: ['/de/troubleshooting', '/de/troubleshooting.html'], to: '/diverses/troubleshooting'},
+            { from: ['/de/sso-fuer-discourse-forum', '/de/sso-fuer-discourse-forum.html'], to: '/diverses/sso-fuer-discourse-forum'},
+            { from: ['/de/user-feedback', '/de/user-feedback.html'], to: '/diverses/user-feedback'},
+            { from: ['/de/wichtige-infos-zum-gelingen', '/de/wichtige-infos-zum-gelingen.html'], to: '/diverses/wichtige-infos-zum-gelingen'},
+            { from: ['/de/wysiwyg-editor', '/de/wysiwyg-editor.html'], to: '/diverses/wysiwyg-editor'},
+
+            { from: ['/en/installation-guide', '/en/installation-guide.html'], to: '/dev/installation-guide'},
+            { from: ['/en/migration-guide', '/en/migration-guide.html'], to: '/dev/migration-guide'},
+            { from: ['/en/migration-guide-v2', '/en/migration-guide-v2.html'], to: '/dev/migration-guide-v2'},
+            { from: ['/en/webserver-configuration', '/en/webserver-configuration.html'], to: '/dev/webserver-configuration'},
+            { from: ['/en/cronjobs', '/en/cronjobs.html'], to: '/dev/cronjobs'},
+            { from: ['/en/settings', '/en/settings.html'], to: '/dev/configuration'},
+            { from: ['/en/docker-dev-environment', '/en/docker-dev-environment.html'], to: '/dev/docker-dev-environment'},
+
             { from: ['/en/users', '/en/users.html'], to: '/users'},
 
             { from: ['/de/dorfladen-online', '/de/dorfladen-online.html'], to: '/dorfladen-online'},
