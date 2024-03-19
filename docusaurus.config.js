@@ -45,6 +45,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
+          showLastUpdateTime: true,
           editUrl:
             'https://github.com/foodcoopshop/foodcoopshop.github.io/edit/main/',
         },
