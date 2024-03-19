@@ -62,7 +62,7 @@ const config = {
         title: 'Home',
         items: [
           {
-            href: 'https://github.com/foodcoopshop/foodcoopshop.github.io',
+            href: 'https://github.com/foodcoopshop/foodcoopshop',
             label: 'GitHub',
             position: 'right',
           },
