@@ -19,6 +19,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Bestellabwicklung',
+      collapsed: false,
       items: [
         'bestellabwicklung/index',
         'bestellabwicklung/abholtag',
