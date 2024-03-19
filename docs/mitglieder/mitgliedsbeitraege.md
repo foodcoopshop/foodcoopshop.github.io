@@ -1,8 +1,6 @@
 # Mitgliedsbeiträge
 
-:::tip
 Mitgliedsbeiträge sind für viele Foodcoops die einzige Einnahmequelle. Die Verwaltung bzw. Kontrolle der Mitgliedsbeiträge kann jedoch recht schnell sehr zeitaufwändig werden. Dieser Leitfaden beschreibt, wie das vorhandene Guthaben-System auch für Mitgliedsbeiträge verwendet werden kann. Kontoeingänge müssen so nicht gesondert kontrolliert werden, sondern laufen - wie alle anderen Produkte auch - über die Bestellfunktion des FoodCoopShops. Es kann auch leicht ermittelt werden, wer den Mitgliedsbeitrag bereits bezahlt hat und wer nicht.**
-:::
 
 ## Leitfaden
 

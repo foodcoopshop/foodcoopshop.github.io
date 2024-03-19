@@ -98,6 +98,11 @@ const config = {
             { from: ['/de/guthaben-system-mit-automatischem-kontoabgleich.html', '/de/guthaben-system-mit-automatischem-kontoabgleich'], to: '/guthaben/automatischer-kontoabgleich'},
             { from: ['/de/guthaben-system-mit-selbststaendiger-aufladung.html', '/de/guthaben-system-mit-selbststaendiger-aufladung'], to: '/guthaben/selbststaendige-aufladung'},
 
+            { from: ['/de/selbstbedienungs-modus.html', '/de/selbstbedienungs-modus'], to: '/selbstbedienungs-modus'},
+            { from: ['/de/netzwerk-modul.html', '/de/netzwerk-modul'], to: '/netzwerk-modul'},
+            { from: ['/de/hersteller.html', '/de/hersteller'], to: '/hersteller'},
+            { from: ['/de/rechtliches.html', '/de/rechtliches'], to: '/rechtliches'},
+
             { from: ['/de/troubleshooting', '/de/troubleshooting.html'], to: '/diverses/troubleshooting'},
             { from: ['/de/sso-fuer-discourse-forum', '/de/sso-fuer-discourse-forum.html'], to: '/diverses/sso-fuer-discourse-forum'},
             { from: ['/de/user-feedback', '/de/user-feedback.html'], to: '/diverses/user-feedback'},

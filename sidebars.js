@@ -26,6 +26,8 @@ const sidebars = {
         ],
     },
 
+    'hersteller',
+
     {
       type: 'category',
       label: 'Produkte',
