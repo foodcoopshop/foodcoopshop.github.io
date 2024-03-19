@@ -38,7 +38,7 @@ Diese Einstellung kann vom Hersteller selbst nicht eingesehen bzw. geändert wer
 
 **Voreingestellter Steuersatz für neue Produkte**
 
-Falls z. B. ein Hersteller nicht umsatzsteuerpflichtig ist, kann sein voreingestellter Steuersatz auf 0% geändert werden. Alle neu angelegten Produkte haben dann automatisch 0% eingestellt. Das verringert das Fehlerpotenzial und Arbeit für den Hersteller.
+Falls z. B. ein Hersteller gar nicht umsatzsteuerpflichtig ist, kann sein voreingestellter Steuersatz auf 0% geändert werden. Alle neu angelegten Produkte haben dann automatisch 0% eingestellt. Das verringert das Fehlerpotenzial und Arbeit für den Hersteller.
 
 **Ansprechperson**
 
