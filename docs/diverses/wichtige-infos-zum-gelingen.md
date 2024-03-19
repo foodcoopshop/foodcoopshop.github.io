@@ -14,7 +14,7 @@ Die Software übernimmt zwar sehr viele Aufgaben im Foodcoop-Alltag, dennoch mü
 
 * Ebenfalls im Modul "Finanzberichte": Zumindest einmal jährlich einen Blick auf den Reiter "Pfand-Übersicht" werfen. Hier seht ihr unter anderem, wie viel Geld von den gesamten Mitglieder-Guthaben für Pfand vorgesehen ist und wie hoch alle offenen Pfand-Forderungen sind. (Für Superadmins, unter Finanzberichte und dann rechts oben auf "Pfand-Saldo" klicken.)
 
-* Pfand: Pfand-Rückgaben für Mitglieder und Pfand-Rücknahme für Hersteller eintragen (und evtl. Ausgleichszahlungen tätigen und eintragen). Siehe [Pfand](/bestellabwicklung/pfand).
+* Pfand: Pfand-Rückgaben für Mitglieder und Pfand-Rücknahme für Hersteller eintragen (und evtl. Ausgleichszahlungen tätigen und eintragen). Siehe [Pfand](/produkte/pfand).
 
 * Wer (immer noch) mit dem Guthaben-System mit selbstständiger Aufladung arbeitet: Damit Fehler beim Aufladen des Guthabens frühzeit erkannt werden, sollten die ins System eingetragenen Aufladungen regelmäßig mit dem Kontostand verglichen werden. Dazu hilft das Modul "Finanzberichte" (für Superadmins). Ziel sollte es sein, dass am Jahresende alle Zahlungen mit einem grünen Häkchen versehen sind. Empfehlung: Umstellung auf das [Guthaben-System mit automatischem Kontoabgleich](/guthaben/automatischer-kontoabgleich).
 

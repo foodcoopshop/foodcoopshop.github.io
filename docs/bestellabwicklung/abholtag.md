@@ -7,7 +7,7 @@ Hier wird detailliert erklärt, was alles an einem Abholtag zu beachten ist.
 ## Anlieferung der Produkte
 Sollte ein Hersteller seine Bestellliste vergessen haben: Sie sind im Admin-Bereich unter Bestellungen / Bestelllisten zu finden. Die Listen sind entweder nach Produkt oder Mitglied gruppiert.
 
-### [Pfand-Rücknahme für Hersteller eintragen](/bestellabwicklung/pfand#pfand-abwicklung-mit-hersteller)
+### [Pfand-Rücknahme für Hersteller eintragen](/produkte/pfand#pfand-abwicklung-mit-hersteller)
 
 ### Stornieren von Produkten
 Falls ein Produkt nicht geliefert wird, muss es storniert werden, damit das Mitglied es nicht bezahlen muss und das Produkt auch nicht mit dem Hersteller verrechnet wird. Unter "Bestellungen / Bestellte Produkte" findest du ganz rechts in der Zeile das Symbol für das Stornieren. Du musst auch einen Grund für die Stornierung angeben. Falls man mal nachschauen muss, welche Produkte storniert worden sind: Einfach "Bestellungen / Bestelländerungen" anklicken.
@@ -56,7 +56,7 @@ Neue Taschenrechner-Funktion zum bequemen Addieren.
 Die E-Mail-Benachrichtigung kann global deaktiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
 :::
 
-### [Pfand-Rückgabe für Mitglieder eintragen](/bestellabwicklung/pfand#pfand-abwicklung-mit-mitglied)
+### [Pfand-Rückgabe für Mitglieder eintragen](/produkte/pfand#pfand-abwicklung-mit-mitglied)
 
 ### Sofort-Bestellung für Lagerprodukte
 Unter "Bestellungen" (rechts oben) befindet sich der Button "Sofort-Bestellung für heute". Man kann damit im Namen ein anderen Mitglieds eine Bestellung tätigen, **der Abholtag wird dabei automatisch auf "heute" gesetzt**. Die Hersteller werden über Sofort-Bestellungen automatisch informiert (sofern die Produkte nicht als Lagerprodukte deklariert sind).
