@@ -60,6 +60,7 @@ const sidebars = {
 
     'selbstbedienungs-modus',
     'netzwerk-modul',
+    'users',
 
     {
       type: 'category',

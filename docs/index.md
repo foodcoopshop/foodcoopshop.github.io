@@ -24,6 +24,4 @@ Diese Software-Dokumentation erklärt die Funktionen **der aktuellsten Version v
 
 ## Maintainer
 
-:::note
 The project was created in 2014 and is maintained by [Mario Rothauer](https://github.com/mrothauer).
-:::

@@ -34,9 +34,9 @@ We strongly recommend using our docker dev environment.
 * After that, you need to manually install composer and npm vendors.
 * The main branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
 * The only difference is, that the zip file already includes the vendors which were already installed by the following commands):
-```
-$ composer install
-$ npm --prefix ./webroot install ./webroot
+```bash
+composer install
+npm --prefix ./webroot install ./webroot
 ```
 * So run that commands if you cloned from Github.
 * Don't forget to change app.debug to true in your custom_config.php.
@@ -46,7 +46,7 @@ $ npm --prefix ./webroot install ./webroot
 * [Webserver configuration](/dev/webserver-configuration)
 
 ## Setting permissions
-```
+```bash
 bash ./devtools/installation/set-permissions.sh
 ```
 
@@ -93,7 +93,7 @@ Open your domain https://yourdomain.tld in a browser and follow the steps shown 
 * Open https://yourdomain.tld/request-new-password, type in your email address and press "Send".
 * With the password that was sent to you by email you are able to login as a Super Admin.
 
-:::important
+:::info
 The urls in this section depend on the locale of your installation and therefore may be different for you. The urls are constructed from translatio -settings which can be found in the "/resources/locale/country_CULTURE/default.po" file under the keys "route_sign_in" and "route_request_new_password". Example for "de_DE":
 * Sign-in: https://yourdomain.tld/anmelden
 * Request-new-password: https://yourdomain.tld/neues-passwort-anfordern
@@ -103,7 +103,7 @@ The urls in this section depend on the locale of your installation and therefore
 * Change app.debug to `true` in your custom_config.php so that the assets (css and js) are loaded from the actual files in /css and /js (and not from /cache).
 * To re-build the assets in /cache for production, run `composer build`
 
-:::important
+:::info
 If you downloaded the package with installed vendors from foodcoopshop.com/download, you get a "Missing Plugin DebugKit" exception when you turn app.debug to true. If you can't install composer on your server, download the package from https://github.com/cakephp/debug_kit and copy it into the plugins folder. [More Details](https://github.com/foodcoopshop/foodcoopshop/issues/931).
 :::
 
