@@ -31,7 +31,7 @@ Bestellstatus nach Bestellung: **Bestellung getätigt** ![](/img/icons/cart-arro
 Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller versendet** ![](/img/icons/envelope.png)
 :::
 
-## 3. [Abholung der Produkte](/der-abholtag)
+## 3. [Abholung der Produkte](/bestellabwicklung/abholtag)
 
 ## 4. Rechnungsversand
 * Die Verrechnung passiert immer 1x im Monat - für alle Bestellungen mit Abholtag im Vormonat.
@@ -94,7 +94,7 @@ Bei der Auswahl eines einmaligen, **individuellen Lieferdatums** wird das Produk
 :::
 
 :::info
-Hier findest du mehr Details zu [Sammelbestellungen](/sammelbestellungen).
+Hier findest du mehr Details zu [Sammelbestellungen](/bestellabwicklung/sammelbestellungen).
 :::
 
 ### 5c. Lagerprodukte

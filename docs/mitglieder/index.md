@@ -47,7 +47,7 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
   * Eintragen von Pfand-Ausgleichszahlungen für Hersteller
   * Ändern des Profils von anderen Mitgliedern
   * Löschen von Mitgliedern
-  * Bearbeiten und freischalten von Feedback - siehe [Feedback-Funktion](/user-feedback)
+  * Bearbeiten und freischalten von Feedback - siehe [Feedback-Funktion](/diverses/user-feedback)
 * **Hersteller** sind keine Mitglieder und sind somit keine der oben erwähnten Gruppen zugehörig.
 
 :::info

@@ -7,7 +7,7 @@ displayed_sidebar: mySidebar
 
 ![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/main/webroot/files/images/sliders/demo-slider.jpg)
 
-Diese Software-Dokumentation erklärt die Funktionen **der aktuellsten Version vom FoodCoopShop**. Solltest du eine ältere Version verwenden, kann es also sein, dass du in dieser Dokumentation nicht alles findest oder z.B. Screenshots anders aussehen als bei dir. Lösung: ein [Update](/migration-guide) :-)
+Diese Software-Dokumentation erklärt die Funktionen **der aktuellsten Version vom FoodCoopShop**. Solltest du eine ältere Version verwenden, kann es also sein, dass du in dieser Dokumentation nicht alles findest oder z.B. Screenshots anders aussehen als bei dir. Lösung: ein [Update](/dev/migration-guide) :-)
 
 * [Installation guide](/dev/installation-guide)
 * [Migration guide](/dev/migration-guide)

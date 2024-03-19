@@ -22,7 +22,7 @@ Im Feld "Kurze Beschreibung" sind evtl. noch alte Infos über Liefertag, Bestell
 
 ## Einstellen von Bestellschluss, Bestelllisten-Versand und Lieferdatum
 
-Siehe [Bestellabwicklung (Punkt 5b)](bestellabwicklung)
+Siehe [Bestellabwicklung (Punkt 5b)](/bestellabwicklung/)
 
 ## Verlängern der Bestelldauer
 

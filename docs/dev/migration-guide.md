@@ -84,7 +84,7 @@
 ## v3.3.0
 * The old member fee system was removed. If you used it, remove `app.memberFeeEnabled` from custom_config.php. [How to use the new member fee system](https://foodcoopshop.github.io/de/mitgliedsbeitraege.html).
 * The minimal requirement for npm is now v7 (if you install vendors by yourself)
-* Change the cronjob to run the worker. See [cronjobs](https://foodcoopshop.github.io/en/cronjobs.html) (bottom of page)
+* Change the cronjob to run the worker. See [cronjobs](/dev/cronjobs) (bottom of page)
 * replace source code => see bottom of page
 * execute migrations => see bottom of page
 * clear cache  => see bottom of page
