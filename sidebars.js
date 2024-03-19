@@ -19,6 +19,7 @@ const sidebars = {
     'bestellabwicklung',
     'pfand',
     'sammelbestellungen',
+    'users',
 
     {
       type: 'category',

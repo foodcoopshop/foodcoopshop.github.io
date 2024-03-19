@@ -100,6 +100,7 @@ const config = {
             { from: ['/en/cronjobs', '/en/cronjobs.html'], to: '/cronjobs'},
             { from: ['/en/settings', '/en/settings.html'], to: '/settings'},
             { from: ['/en/docker-dev-environment', '/en/docker-dev-environment.html'], to: '/docker-dev-environment'},
+            { from: ['/en/users', '/en/users.html'], to: '/users'},
 
             { from: ['/de/dorfladen-online', '/de/dorfladen-online.html'], to: '/dorfladen-online'},
             { from: ['/de/dorfladen-online-installation', '/de/dorfladen-online-installation.html'], to: '/dorfladen-online/installation'},
