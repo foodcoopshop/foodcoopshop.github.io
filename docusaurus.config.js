@@ -94,6 +94,9 @@ const config = {
             { from: ['/de/produkt-import', '/de/produkt-import.html'], to: '/produkte/produkt-import'},
             { from: ['/de/lebensmittelkennzeichnung', '/de/lebensmittelkennzeichnung.html'], to: '/produkte/lebensmittelkennzeichnung'},
 
+            { from: ['/de/mitglieder.html', '/de/mitglieder'], to: '/mitglieder/'},
+            { from: ['/de/mitgliedsbeitraege.html', '/de/mitgliedsbeitraege'], to: '/mitglieder/mitgliedsbeitraege'},
+
             { from: ['/de/guthaben-system.html', '/de/guthaben-system'], to: '/guthaben/'},
             { from: ['/de/guthaben-system-mit-automatischem-kontoabgleich.html', '/de/guthaben-system-mit-automatischem-kontoabgleich'], to: '/guthaben/automatischer-kontoabgleich'},
             { from: ['/de/guthaben-system-mit-selbststaendiger-aufladung.html', '/de/guthaben-system-mit-selbststaendiger-aufladung'], to: '/guthaben/selbststaendige-aufladung'},
