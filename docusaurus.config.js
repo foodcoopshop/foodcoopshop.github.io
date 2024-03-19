@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mrothauer.github.io',
+  url: 'https://foodcoopshop.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/foodcoopshop.github.io/',
+  baseUrl: '//',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'mrothauer', // Usually your GitHub org/user name.
+  organizationName: 'foodcoopshop', // Usually your GitHub org/user name.
   projectName: 'foodcoopshop.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
