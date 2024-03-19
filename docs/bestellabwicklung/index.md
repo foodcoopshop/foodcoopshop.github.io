@@ -27,13 +27,10 @@ Bestellstatus nach Versenden der Bestelllisten: **Bestellliste an Hersteller ver
 
 ## 4. Rechnungsversand
 * Die Verrechnung passiert immer 1x im Monat - für alle Bestellungen mit Abholtag im Vormonat.
-
-:::tip[New in v3.6 (April 2023)]
-Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 11.
-:::
+* Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist der 5.
 
 :::info
-Bestellstatus nach Versenden der Rechnungen: **verrechnet** ![](/img/icons/lock.png)
+* Bestellstatus nach Versenden der Rechnungen: **verrechnet** ![](/img/icons/lock.png)
 :::
 
 ## 5. Wöchentliche Lieferrhythmen, Sammelbestellungen und Lagerprodukte
@@ -47,18 +44,22 @@ Im Admin-Bereich kann bei jedem Produkt aus folgenden Lieferrythmen auswählen:
 * jeden 1. / 2. / 3. / 4. / letzten Freitag im Monat
 * Sammelbestellung
 
-:::warning[Achtung]
+:::info
 Mehrere Produkte können mit dem Häkchen ganz links markiert werden, dann auf den Button "Lieferrhythmus für ausgewählte Produkte bearbeiten" klicken.
 :::
 
-:::warning[Achtung]
+<details>
+<summary>Mehr Infos zum zwei**wöchigen** Lieferrhythmus</summary>
+
 Der zweiwöchige Lieferrhythmus kann so eingestellt werden, dass die Produkte nur noch in der Woche vor der Lieferung bestellt werden können. In der anderen Woche sind bei aktivierter Einstellung die Produkte beim Bestellen zwar sichtbar, aber nicht bestellbar. Auch bei einem vorgezogenen Bestellschluss, kann nur mehr in der Woche vor der Lieferung bestellt werden (gilt für ein- und zweiwöchig). Alle anderen Lieferrhythmen sind von der neuen Einstellung nicht betroffen.
 Die Einstellung lautet: *Bestellungen beim ein- und zweiwöchigen Lieferhythmus sind nur in der Woche vor der Lieferung möglich.*
-:::
+</details>
 
-:::warning[Achtung]
+<details>
+<summary>Mehr Infos für einen zwei**monatigen** Lieferrhythmus</summary>
+
 Wer einen zweimonatigen Lieferrhythmus verwenden möchte, kann so vorgehen: Den monatlichen Lieferrhythmus verwenden (z.B. jeden letzten Freitag im Monat) und dann über die Lieferpause den jeweiligen Freitag der ungeraden bzw. geraden Monate auswählen. So kann man zumindest 1 Jahr im Voraus alles automatisiert durchplanen, es kann aber immer nur im Monat vor der Lieferung bestellt werden (ansonsten erscheint "Lieferpause").
-:::
+</details>
 
 ### 5a. Wöchentliche Lieferrhythmen
 ![](/assets/img/de/produkte/lieferrhythmen-3.png)
@@ -67,11 +68,8 @@ Wer einen zweimonatigen Lieferrhythmus verwenden möchte, kann so vorgehen: Den 
 
 Manche Produkte benötigen eine längere Herstellung / Vorbereitung. Unter *Bestellschluss* kann individuell für jedes Produkt eingestellt werden, bis zu welchem Wochentag es bestellt werden kann. So kann z.B. "Sonntag Mitternacht" oder "Montag Mitternacht" statt "Dienstag Mitternacht" angeben werden. Die Bestelllisten werden automatisch am Tag darauf versendet und wer das Produkt am Dienstag (nach Bestellschluss) bestellen möchte, der kann das ebenfalls tun. Allerdings wird dann als Liefertag "Freitag in einer Woche" ausgewählt. Beim Einkaufen wird der geänderte Bestellschluss automatisch fett angezeigt, damit alles klar und verständlich bleibt.
 
-:::warning[Achtung]
-Bestellungen können - je nach Lieferrhythmus - teilweise schon einige Wochen vor dem eigentlichen Abholtag getätigt werden. Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte". Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
-:::
-
-:::tip[Neu in v4.0 (Frühling 2024)]
+:::info
+* Bestellungen können - je nach Lieferrhythmus - teilweise schon einige Wochen vor dem eigentlichen Abholtag getätigt werden. Damit die Mitglieder nicht vergessen, wann welche Produkte abzuholen sind, finden sie unterhalb des Warenkorbs rechts einen Hinweis "Bereits bestellte Produkte". Zusätzlich wird jeden Montag eine Erinnerung an jene Mitglieder verschickt, die bereits Produkte vorbestellt haben (für Produkte, deren Abholtag und Bestelltag mindestens 7 Tage auseinander liegen).
 * Tag und Uhrzeit der Abhol-Erinnerung kann unter Einstellungen / Homepage-Verwaltung / Cronjobs (Tab oben) geändert werden. Der Standard-Wert ist Montag 9:00 Uhr.
 :::
 
