@@ -15,7 +15,7 @@ Die dafür notwendigen Code-Änderungen des Spin-Offs "Dorfladen Online" sind al
 Wer mit der Installation nicht zurechtkommt, die Software "Dorfladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://dorfladen-online.at](https://dorfladen-online.at)
 :::
 
-:::warning
+:::warning[Achtung]
 Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](https://github.com/foodcoopshop/foodcoopshop/blob/develop/LICENSE) schließt jegliche Haftung aus!
 :::
 

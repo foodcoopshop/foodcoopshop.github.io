@@ -4,7 +4,7 @@ sidebar_label: Selbstständige Aufladung
 
 # Guthaben-System mit selbstständiger Aufladung
 
-:::warning
+:::warning[Achtung]
 03.01.2022
 Die Einstellung **Guthaben-System mit selbstständiger Aufladung** ist nicht mehr empfohlen. Viel weniger fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich](/guthaben/automatischer-kontoabgleich).
 :::

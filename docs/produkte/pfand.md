@@ -6,7 +6,7 @@ Der Pfand wird beim Kauf des Produktes automatisch vom Guthaben des Mitglieds ab
 
 Wenn ein **Mitglied Leergebinde zurückbringt,** muss unter "Bestellungen" in der Zeile des Mitgliedes auf den Button "Pfand-Rückgabe" der Wert des Leergebindes in € eingetragen werden. Dieser Betrag scheint dann in der Guthaben-Übersicht des Mitglieds auf und erhöht das Guthaben. Bei einer Fehleingabe kann der Eintrag kann dort auch wieder gelöscht werden.
 
-:::warning
+:::warning[Achtung]
 Pfand-Rückgaben für Mitglieder können auch dann eingegeben werden, auch wenn das Mitglied in der aktuellen Woche nicht bestellt hat. Der Button "Pfand-Rückgabe" wird immer angezeigt, das Mitglied kann dann aus einer Dropdown-Liste ausgewählt werden.
 :::
 
@@ -15,7 +15,7 @@ Pfand-Rückgaben für Mitglieder können auch dann eingegeben werden, auch wenn 
 Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. **Achtung**: Um den Menüpunkt zu sehen, muss beim Hersteller bereits eine Bestellung mit Pfand getätigt worden sein.
 Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
-:::warning
+:::warning[Achtung]
 Für Pfand-Rücknahmen und Ausgleichszahlungen kann auch ein Buchungsdatum angegeben werden. Das ist vor allem für nachträgliche Korrekturen praktisch.
 :::
 
@@ -35,6 +35,6 @@ Im Admin-Bereich unter “Finanzberichte / Pfand-Übersicht” gibt es eine übe
 
 In diesem Beispiel hat die Initiative offene Pfand-Forderungen der Hersteller von **1.654,94 €**. Die Summe der Guthaben aller Mitglieder verfügt über einen Anteil, der für Pfand-Ausgleichszahlungen vorgesehen ist, von **1.085,86 €**. Das heißt es wurde **598,08 €** fehlerhaft eingetragen (entweder zuviele Pfand-Rückgaben oder zuwenige Pfand-Rücknahmen).
 
-:::warning
+:::warning[Achtung]
 Wem das zu kompliziert ist: Das Pfand-System kann auch komplett deaktiviert werden: `app.isDepositEnabled => false`
 :::

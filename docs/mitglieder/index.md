@@ -4,14 +4,6 @@ sidebar_label: Details
 
 # Mitglieder
 
-:::note
-Hier werden alle relevanten Infos für die Mitglieder-Verwaltung beschrieben. Viele Funktionen sind bereits in der Software selbst dokumentiert.
-:::
-
-:::info
-Zur Anleitung [Mitgliedsbeiträge verwalten](/mitglieder/mitgliedsbeitraege)
-:::
-
 ## Registrierung / Aktivierung von Mitgliedern
 
 Zum Anlegen eines Mitgliedskontos auf den Punkt "Anmelden" klicken, unter "Mitgliedskonto erstellen" die E-Mail-Adresse eintragen und den Anweisungen folgen.
@@ -58,7 +50,7 @@ Wenn die Einstellung `app.isCustomerAllowedToViewOwnOrders` auf `false` gesetzt 
 
 ## Eigenes Mitgliedskonto für Abholdienste - Vorsicht!
 
-:::warning
+:::warning[Achtung]
 Immer wieder kommen Foodcoops auf die Idee, einen Login mit Admin-Rechten anzulegen, der dann von vielen verschiedenen Leuten beim Abholdienst verwendet werden kann. Doch Vorsicht! Damit hebelt ihr nämlich die praktische Aktivitäten-Funktion aus, es kann im Nachhinein nicht mehr (oder nur sehr schwer) nachvollzogen werden, wer wann was gemacht hat. Bitte daher auch für den Abholdienst immer die persönlichen Logins, die auch zum Bestellen verwendet werden, nutzen.
 :::
 

@@ -15,7 +15,7 @@ Die dafür notwendigen Code-Änderungen des Spin-Offs "Hofladen Online" sind als
 Wer mit der Installation nicht zurechtkommt, die Software "Hofladen Online" aber gerne verwenden möchte, findet hier mein Angebot für Installation und Hosting: [https://www.hofladen-online.at](https://www.hofladen-online.at)
 :::
 
-:::warning
+:::warning[Achtung]
 Die Verwendung der Software erfolgt auf eigene Gefahr! Die [AGPL-3.0-Lizenz](https://github.com/foodcoopshop/foodcoopshop/blob/develop/LICENSE) schließt jegliche Haftung aus!
 :::
 

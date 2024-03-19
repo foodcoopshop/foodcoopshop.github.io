@@ -6,19 +6,7 @@ sidebar_label: Details
 
 ## Produkt erstellen
 
-* Auf den Menüpunkt "Hersteller" im Admin-Bereich klicken, dann auf den "x Produkte"-Button und dann oben auf "Neues Produkt" klicken. Name und Beschreibung angeben, auf Speichern klicken und danach kann das neu angelegte Produkt weiter bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
-
-:::tip
-[Neuer Produkt-Import mittels CSV-Upload](/produkte/produkt-import)
-:::
-
-## Vorsicht: Produkt umbenennen
-
-:::warning
-Beim Bearbeiten vom Produktnamen erscheint ein Hinweis: *Wichtig: Bitte keine Produkte in andere Produkte umbenennen, sondern dafür ein neues Produkt erstellen!*
-Den Hinweis kann man ingorieren, sofern das Produkt noch nie bestellt wurde oder nur kleine Änderungen (z. B. Rechtschreibfehler) gemacht werden.
-Wenn das Produkt bereits bestellt wurde, würde ein Umbenennen in ein anderes Produkt (z. B. Äpfel in Birnen) das System verwirren und ist deshalb zu vermeiden. Es führt dann z. B. dazu, dass beim Filtern nach Produkt unter "Bestellte Produkte" das alte Produkt nicht mehr aufscheint und unter dem neuen Namen auch Bestellungen des alten Produktes erscheinen (die ID des Produktes bleibt gleich).
-:::
+Auf den Menüpunkt "Hersteller" im Admin-Bereich klicken, dann auf den "x Produkte"-Button und dann oben auf "Neues Produkt" klicken. Name und Beschreibung angeben, auf Speichern klicken und danach kann das neu angelegte Produkt weiter bearbeitet werden (Steuersatz, Preis, Menge, Bezeichnung, Pfand, Kategorien, Lieferrhythmus usw...)
 
 ## Varianten
 
@@ -27,11 +15,8 @@ Wenn ein Produkt mehrere Ausprägungen hat (zb. Käse zu 100g und zu 200g, Apfel
 Um eine Variante zu einem Produkt zu erstellen, auf das +-Zeichen neben dem Produktnamen klicken und die entsprechende Variante auswählen. Die Anzeige der Varianten ist **nicht sortierbar** (die zuerst angelegte Variante wird zuerst angezeigt), die Standard-Variante (das ist jene Variante, die vorausgewählt ist) kann aber durch Klick auf den Stern geändert werden.
 
 :::info
-Um eine Variante vorübergehend zu deaktivieren, bei der Anzahl *0* eingeben. Sie wird beim Einkaufen dann gar nicht angezeigt.
-:::
-
-:::info
-Nur Admins oder Superadmins können neue Varianten anlegen. Hersteller können das nicht.
+* Um eine Variante vorübergehend zu deaktivieren, bei der Anzahl *0* eingeben. Sie wird beim Einkaufen dann gar nicht angezeigt.
+* Nur Admins oder Superadmins können neue Varianten anlegen. Hersteller können das nicht.
 :::
 
 ## Beschreibung / Einheit

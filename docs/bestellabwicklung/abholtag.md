@@ -1,9 +1,5 @@
 # Abholtag
 
-:::info
-Hier wird detailliert erklärt, was alles an einem Abholtag zu beachten ist.
-:::
-
 ## Anlieferung der Produkte
 Sollte ein Hersteller seine Bestellliste vergessen haben: Sie sind im Admin-Bereich unter Bestellungen / Bestelllisten zu finden. Die Listen sind entweder nach Produkt oder Mitglied gruppiert.
 
@@ -20,21 +16,21 @@ Falls mehrere Produkte gleichzeitig storniert werden sollen, kann man links die 
 
 ## Bestelländerungen
 
-:::warning
+:::info
 Das Ändern von Bestellungen ist nur möglich, solange die Bestellung nicht verrechnet ist.
 :::
 
 ### Bestellte Produkte des Mitglieds anzeigen bzw. kontrollieren
 Um die bestellten Produkte des Mitglieds anzuzeigen, klicke unter "Bestellungen" auf den Button "Bestellte Produkte" (rechts neben dem Namen des Mitglieds). Es werden automatisch alle Produkte aller Bestellungen des Mitglieds des ausgewählten Abholtags angezeigt. Mehrere Bestellungen werden automatisch zusammengefasst. Beim gegenseitigen Kontrollieren der Produkte musst du dir die bereits überprüften Produkte nicht merken, sondern kannst auf das Hakerl ganz links in der jeweiligen Zeile klicken. Die Zeile wird dann grün.
 
-:::warning
+:::info
 Die Markierung der Zeile bleibt auch bestehen, wenn die Seite neu geladen wird (z.B. nach Gewichtsänderung oder Stornierung). Allerdings nur im gleichen Browser und nach spätestens 24 Stunden sind die Markierungen automatisch wieder gelöscht.
 :::
 
 ### Anpassen des Preises
 Manchmal kommt es vor, dass der Preis eines bereits bestellten Produktes geändert werden muss (z.B. wenn die Qualität nicht passt). Dafür auf das Bearbeiten-Symbol neben dem Preis klicken.
 
-:::warning
+:::info
 Achtung: für **Gewichtsanpassungen** (die ebenfalls den Preis ändern) sollte die Funktion "Preis nach Gewicht" verwendet werden!
 :::
 
@@ -45,14 +41,12 @@ Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück lie
 Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. Nach dem Speichern ist das Feld auch nicht mehr rot hinterlegt.
 
 :::tip
-New in v3.6 (April 2023)
-
-Neue Taschenrechner-Funktion zum bequemen Addieren.
+Taschenrechner-Funktion zum bequemen Addieren.
 
 ![](/assets/img/de/bestellungen/gewicht-anpassen-mit-taschenrechner.png)
 :::
 
-:::warning
+:::info
 Die E-Mail-Benachrichtigung kann global deaktiviert werden: `app.sendEmailWhenOrderDetailQuantityChanged => false`
 :::
 
@@ -67,7 +61,7 @@ Die Liste der Bestellungen wird auf Basis des nächsten Abholtages angezeigt. Di
 ### Produkte auf "abgeholt" setzen
 Der Abholdienst kann angeben, wenn das Mitglied die Produkte abgeholt hat (unter "Bestellungen", Button ganz rechts). Die Zeile wird dann grün angezeigt, ansonsten hat es aber keine Auswirkungen. Es ist nur möglich, **alle Produkte eines Abholtages** auf "abgeholt" zu setzen, nicht einzelne Produkte.
 
-:::warning
+:::info
 Falls die Bestellung Produkte enthält, deren Gewicht noch angepasst werden muss, erscheint nach dem Setzen auf "abgeholt" eine enstprechende Fehlermeldung. Der Status wird aber trotzdem auf "abgeholt" gesetzt.
 :::
 
@@ -87,7 +81,7 @@ Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein V
 
 ## Feedback zu Produkt abgeben
 
-:::warning
+:::info
 Diese Funktion muss zuerst in den Einstellungen aktiviert werden.
 :::
 

@@ -10,7 +10,7 @@ Unter "Sammelbestellung" werden hier Bestellungen verstanden, die über einen fr
 
 ## Hersteller erstellen / konfigurieren
 
-:::warning
+:::warning[Achtung]
 Unter Umständen sind die Produkte nach der Aktivierung sofort bestellbar, wenn sie noch den Lieferrhythmus "wöchentlich" eingestellt haben. Daher am Besten beim Anlegen der Produkte einen Tag verwenden, an dem nicht viel bestellt wird.
 :::
 
@@ -54,7 +54,7 @@ Falls keine Nachbuchungen und Sofort-Bestellungen notwendig sind (z.B. eine Samm
 
 ## Rechnung
 
-:::warning
+:::warning[Achtung]
 Sollte der Hersteller die Rechnung selbst stellen, muss diese "An alle Mitglieder des Vereins XXX" gestellt werden.
 :::
 

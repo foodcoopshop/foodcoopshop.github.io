@@ -24,7 +24,7 @@ Das Netzwerk-Modul stellt auch eine [API zum Abrufen der Bestellungen](#6-api-zu
 ## Technische Ausdrücke
 * **Master-Foodcoop**: Foodcoop, auf der die Produkt-Zuordnungen stattfinden. Jede Foodcoop kann als Master-Foodcoop verwendet werden. Empfehlenswert ist es, immer die gleiche Foodcoop als Master-Foodcoop zu verwenden, da sonst die Produkt-Zuordnungen mehrfach gepflegt werden müssen.
 
-:::warning
+:::warning[Achtung]
 Wenn eine Foodcoop den variablen Mitgliedsbeitrag verwendet (x % Aufschlag), so kann diese Foodcoop nicht als Master-Foodcoop verwendet werden! Als Remote-Foodcoop kann sie aber  schon verwendet werden.
 :::
 
