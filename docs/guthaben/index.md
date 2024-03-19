@@ -11,7 +11,7 @@ Das Guthaben-System ist ein digitales Kontoblatt, in dem für jedes Mitglied all
 ## Es gibt zwei verschiedene Einstellungen
 
 * [Guthaben-System mit automatischem Kontoabgleich - **empfohlen**](/guthaben/automatischer-kontoabgleich)
-* [Guthaben-System mit selbstständiger Aufladung - **nicht empfohlen**](/guthaben/selbststaendigee-aufladung)
+* [Guthaben-System mit selbstständiger Aufladung - **nicht empfohlen**](/guthaben/selbststaendige-aufladung)
 
 ## Superadmin-Funktionen
 
