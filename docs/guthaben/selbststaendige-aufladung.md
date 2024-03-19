@@ -6,14 +6,14 @@ sidebar_label: Selbstständige Aufladung
 
 :::warning
 03.01.2022
-Die Einstellung **Guthaben-System mit selbstständiger Aufladung** ist nicht mehr empfohlen. Viel weniger fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich](/guthaben-system/automatischer-kontoabgleich).
+Die Einstellung **Guthaben-System mit selbstständiger Aufladung** ist nicht mehr empfohlen. Viel weniger fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich](/guthaben/automatischer-kontoabgleich).
 :::
 
 Wer es trotzdem verwenden möchte, so funktioniert's:
 
-![](/assets/img/de/guthaben-system/guthaben-system-1.png)
+![](/assets/img/de/guthaben/guthaben-system-1.png)
 
-![](/assets/img/de/guthaben-system/guthaben-system-2.jpg)
+![](/assets/img/de/guthaben/guthaben-system-2.jpg)
 
 ## Mitglied: Guthaben eintragen
 * Um Guthaben aufzuladen, zuerst den gewünschten Betrag auf das Bankkonto der Initiative überweisen.

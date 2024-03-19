@@ -7,7 +7,7 @@ sidebar_label: Automatischer Kontoabgleich
 ## Ablauf für Mitglieder
 * Das Mitglied gibt beim Überweisen von Guthaben beim Verwendungszweck den **persönlichen Überweisungscode** (1) an. Diesen befindet sich im Guthaben-System (ganz oben), bleibt immer gleich und kann einfach mit einem Button in die Zwischenablage kopiert werden (2).
 
-![](/assets/img/de/guthaben-system/persoenlicher-ueberweisungscode.jpg)
+![](/assets/img/de/guthaben/persoenlicher-ueberweisungscode.jpg)
 
 ## Ablauf für Superadmins
 * Ein Superadmin importiert die vom ELBA exportierte CSV-Datei regelmäßig in den FoodCoopShop (Admin-Bereich / Homepage-Verwaltung / Finanzberichte).
@@ -18,7 +18,7 @@ sidebar_label: Automatischer Kontoabgleich
 Superadmins können nach wie vor über Klick auf das Guthaben unter "Admin-Bereich" - "Mitglieder" Zahlungen manuell für alle Mitglieder eintragen.
 :::
 
-![](/assets/img/de/guthaben-system/csv-import-ueberweisungen.png)
+![](/assets/img/de/guthaben/csv-import-ueberweisungen.png)
 
 ## Vorteile
 * Mitglieder müssen ihre Guthaben-Aufladungen nur noch überweisen und das Guthaben nicht mehr zusätzlich eintragen.

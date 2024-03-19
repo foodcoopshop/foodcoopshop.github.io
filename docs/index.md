@@ -1,10 +1,9 @@
 ---
-id: 1
 sidebar_label: Home
 displayed_sidebar: mySidebar
 ---
 
-## Willkommen bei der FoodCoopShop Dokumentation
+# FoodCoopShop Doku
 
 ![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/main/webroot/files/images/sliders/demo-slider.jpg)
 
