@@ -61,7 +61,6 @@ const sidebars = {
 
     'selbstbedienungs-modus',
     'netzwerk-modul',
-    'users',
 
     {
       type: 'category',
@@ -74,6 +73,13 @@ const sidebars = {
         'diverses/wysiwyg-editor',
       ],
     },
+
+    {
+      type: 'html',
+      value: '<span style="border-top: 1px dotted var(--ifm-color-gray-500); display: block; margin: 0.5rem 0 0.25rem 1rem;" />',
+    },
+
+    'users',
 
     {
       type: 'category',
