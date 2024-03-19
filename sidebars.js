@@ -22,6 +22,16 @@ const sidebars = {
 
     {
       type: 'category',
+      label: 'Guthaben-System',
+      items: [
+        'guthaben/index',
+        'guthaben/automatischer-kontoabgleich',
+        'guthaben/selbststaendige-aufladung',
+      ],
+    },
+
+    {
+      type: 'category',
       label: 'Development / Self hosting',
       items: [
         'installation-guide',

@@ -90,6 +90,10 @@ const config = {
             { from: ['/de/pfand', '/de/pfand.html'], to: '/pfand'},
             { from: ['/de/sammelbestellungen', '/de/sammelbestellungen.html'], to: '/sammelbestellungen'},
 
+            { from: ['/de/guthaben-system.html', '/de/guthaben-system'], to: '/guthaben-system/'},
+            { from: ['/de/guthaben-system-mit-automatischem-kontoabgleich.html', '/de/guthaben-system-mit-automatischem-kontoabgleich'], to: '/guthaben-system-mit-automatischem-kontoabgleich'},
+            { from: ['/de/guthaben-system-mit-selbststaendiger-aufladung.html', '/de/guthaben-system-mit-selbststaendiger-aufladung'], to: '/guthaben-system-mit-selbststaendiger-aufladung'},
+
             { from: ['/en/installation-guide', '/en/installation-guide.html'], to: '/installation-guide'},
             { from: ['/en/migration-guide', '/en/migration-guide.html'], to: '/migration-guide'},
             { from: ['/en/webserver-configuration', '/en/webserver-configuration.html'], to: '/webserver-configuration'},
