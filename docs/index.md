@@ -3,7 +3,7 @@ sidebar_label: Home
 displayed_sidebar: mySidebar
 ---
 
-# FoodCoopShop Doku
+# FoodCoopShop Online-Doku
 
 ![](https://raw.githubusercontent.com/foodcoopshop/foodcoopshop/main/webroot/files/images/sliders/demo-slider.jpg)
 
