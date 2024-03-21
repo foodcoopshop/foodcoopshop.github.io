@@ -66,8 +66,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/logo.png',
+      image: 'img/social-card.png',
       navbar: {
+        logo: {
+          src: '/img/favicon-transparent.png',
+        },
         title: 'Home',
         items: [
           {
