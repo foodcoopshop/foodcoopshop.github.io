@@ -69,7 +69,7 @@ Demo-Rechnungen: [Rechnung ohne variablem Mitgliedsbeitrag](/assets/pdf/de/01.06
 
 ### Datenschutz
 
-Personenbezogene Mitglieder-Daten (Vorname, Nachname, E-Mail, usw.) können für Hersteller systemweit anonymisiert werden.
+Personenbezogene Mitglieder-Daten (Vorname, Nachname und E-Mail) sind standardmäßig für Hersteller systemweit anonymisiert. Falls die Hersteller diese Daten zur Auftragserfüllung (z.B. Beschriften von Verpackungen, personenbezogene Gewichtsanpassungen) benötigen, kann das in ihren Hersteller-Einstellungen geändert werden.
 
 * * *
 
