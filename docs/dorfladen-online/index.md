@@ -1,5 +1,6 @@
 ---
 sidebar_label: Details
+title: Dorfladen Online
 ---
 
 ![](/assets/img/de/spin-offs/dorfladen-online-logo.png)

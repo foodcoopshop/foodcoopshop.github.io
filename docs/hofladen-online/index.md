@@ -1,5 +1,6 @@
 ---
 sidebar_label: Details
+title: Hofladen Online
 ---
 
 ![](/assets/img/de/spin-offs/hofladen-online-logo.png)

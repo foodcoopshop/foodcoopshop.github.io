@@ -74,12 +74,12 @@ const sidebars = {
       ],
     },
 
+    'rechtliches',
+
     {
       type: 'html',
       value: '<span style="border-top: 1px dotted var(--ifm-color-gray-500); display: block; margin: 0.5rem 0 0.25rem 1rem;" />',
     },
-
-    'users',
 
     {
       type: 'category',
@@ -113,7 +113,7 @@ const sidebars = {
       ],
     },
 
-    'rechtliches',
+    'users',
 
   ],
 
