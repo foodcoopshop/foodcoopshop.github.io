@@ -76,21 +76,3 @@ Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein V
 ### Erklärungen zu "Bestellungen"
 * Mitglieder mit einem Karotten-Symbol haben erst 25x oder weniger Produkte bestellt.
 * Das ein rotes Rufzeichen am Anfang der Zeile zeigt an, ob das Mitglied einen Kommentar zur einem Abholtag verfasst hat. Dieser kann auch geändert werden. Wenn das Symbol ausgegraut ist, kann ein neuer Kommentar erstellt werden.
-
-* * *
-
-## Feedback zu Produkt abgeben
-
-:::info
-Diese Funktion muss zuerst in den Einstellungen aktiviert werden.
-:::
-
-Um den Kontakt zwischen Konsumenten und Produzenten zu verbessern, gibt es die Feedback-Funktion.
-
-1. Feedback lesen: Zum Produkt wurde bereits Feedback verfasst. Bewegt man die Maus über das Icon (oder klickt darauf, wenn man ein Smartphone verwendet), kann das Feedback gelesen werden.
-
-2. Feedback schreiben: Nach Klick auf das Symbol öffnet sich ein Fenster, in dem das Feedback eingegeben werden kann. Es kann auch ein Bild hochgeladen werden (3). Nach dem Speichern erhält der Hersteller automatisch eine E-Mail mit dem Feedback.
-
-Die Feedback-Funktion kann in den Einstellungen (Admin-Bereich / Einstellungen) deaktiviert werden.
-
-![](/assets/img/de/bestellungen/produkt-feedback.png)

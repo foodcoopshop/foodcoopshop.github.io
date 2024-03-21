@@ -1,16 +1,19 @@
 ---
 parent: Deutsch
-title: Feedback-Funktion
 ---
 
-# Feedback von Mitgliedern und Herstellern
+# Feedback-Funktionen
+
+## 1. Feedback von Mitgliedern und Herstellern
 
 Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie bei der Initiative einkaufen bzw. die Initiative beliefern. Dieses Feedback wird dann öffentlich angezeigt und soll andere Mitglieder / Hersteller zum Mitmachen animieren.
 
-## Aktivierung der Funktion
-* Um die Funktion zu nutzen, muss die Einstellung "Mitglieder- und Hersteller-Feedback aktiv?" (Homepage-Verwaltung / Einstellungen) aktiviert werden.
+:::info
+Diese Funktion muss zuerst in den Einstellungen unter "Mitglieder- und Hersteller-Feedback aktiv?" aktiviert werden.
+:::
 
-## Wichtige Infos
+
+### Wichtige Infos
 * Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten".
 * Feedbacks von Mitgliedern und Herstellern müssen zur Veröffentlichung erst freigeschaltet werden. Die Links dazu finden Superadmins im Admin-Bereich unter "Mitglieder" bzw. "Hersteller". Die Zahl in Klammer ist die Zahl der Feedbacks, die noch nicht freigeschaltet sind.
 * Die Feedbacks von Admins und Superadmins sind nach dem Speichern automatisch freigeschaltet.
@@ -19,5 +22,19 @@ Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie b
 * Durch Klicken auf das unausgefüllte Herz kann man für ein Mitglied / einen Hersteller ein Feedback erstellen.
 * Beispiel: [https://www.tante-regina.at/feedback](https://www.tante-regina.at/feedback)
 
-## In Planung
-* Evtl. gibts auch mal einen Bild-Upload.
+
+## 2. Feedback zu Produkt abgeben
+
+:::info
+Diese Funktion muss zuerst in den Einstellungen aktiviert werden.
+:::
+
+Um den Kontakt zwischen Konsumenten und Produzenten zu verbessern, gibt es die Feedback-Funktion.
+
+1. Feedback lesen: Zum Produkt wurde bereits Feedback verfasst. Bewegt man die Maus über das Icon (oder klickt darauf, wenn man ein Smartphone verwendet), kann das Feedback gelesen werden.
+
+2. Feedback schreiben: Nach Klick auf das Symbol öffnet sich ein Fenster, in dem das Feedback eingegeben werden kann. Es kann auch ein Bild hochgeladen werden (3). Nach dem Speichern erhält der Hersteller automatisch eine E-Mail mit dem Feedback.
+
+Die Feedback-Funktion kann in den Einstellungen (Admin-Bereich / Einstellungen) deaktiviert werden.
+
+![](/assets/img/de/bestellungen/produkt-feedback.png)

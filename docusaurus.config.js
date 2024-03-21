@@ -129,7 +129,7 @@ const config = {
 
             { from: ['/de/troubleshooting', '/de/troubleshooting.html'], to: '/diverses/troubleshooting'},
             { from: ['/de/sso-fuer-discourse-forum', '/de/sso-fuer-discourse-forum.html'], to: '/diverses/sso-fuer-discourse-forum'},
-            { from: ['/de/user-feedback', '/de/user-feedback.html'], to: '/diverses/user-feedback'},
+            { from: ['/de/user-feedback', '/de/user-feedback.html'], to: '/diverses/feedback'},
             { from: ['/de/wichtige-infos-zum-gelingen', '/de/wichtige-infos-zum-gelingen.html'], to: '/diverses/wichtige-infos-zum-gelingen'},
             { from: ['/de/wysiwyg-editor', '/de/wysiwyg-editor.html'], to: '/diverses/wysiwyg-editor'},
 
