@@ -18,8 +18,7 @@
 
 ## v3.6.2
 
-:::tip
-**This is the latest stable version.**
+:::tip[This is the latest stable version.]
 :::
 
 * Release date: 2023-11-27
@@ -128,7 +127,7 @@
 
 ## replace source code
 
-:::tip
+:::info
 * rename old installation folder (e.g. foodcoopshop-old)
 * upload source code of new version into new folder with the name of the old version before renaming
 * copy the following files and folders from your old installation directory into the new directory
@@ -141,7 +140,7 @@ config/custom_config.php
 
 ## execute migrations
 
-:::tip
+:::info
 ```
 >= v3.2: $ bin/cake migrations migrate && bin/cake migrations migrate -p Queue
 <  v3.2: $ bin/cake migrations migrate
@@ -150,7 +149,7 @@ config/custom_config.php
 
 ## clear cache
 
-:::tip
+:::info
 ```
 bin/cake cache clear_all
 ```
