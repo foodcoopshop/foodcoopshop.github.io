@@ -1,15 +1,15 @@
 # Configuration
 
-:::tip
-Most of the settings are self-explaining and can be made as a superadmin in the admin area.
+:::info
+Most of the settings are self-explaining and can be made in the admin area as a superadmin.
 :::
 
-To override the file-based settings in the files `config/app_config.php`, `config/custom_config.php` or `config/credentials.php`, please modify the files `config/custom_config.php` or `config/credentials.php`.
+To override the file-based settings in the files `config/app_config.php`, `config/custom_config.php` or `config/credentials.php`, modify the files `config/custom_config.php` or `config/credentials.php`.
 
 The file `config/app_config.php` must not be changed, as it would be overwritten by the next update.
 
 ## Change weekly pickup day
-Please use the script ChangeWeeklyPickupDayByOneDayShell to change the setting FCS\_WEEKLY\_PICKUP\_DAY.
+Use the script *ChangeWeeklyPickupDayByOneDayCommand* to change the setting `FCS_WEEKLY_PICKUP_DAY`.
 
 `bin/cake ChangeWeeklyPickupDayByOneDay decrease` => Changed Friday to Thursday
 
@@ -34,9 +34,9 @@ Example: If you want to change the default weekly order cycle from Tuesday midni
 
 | **Last order day** | **pickup day** | **info** |
 | --- | --- | --- |
-| Tuesday | Friday | **default** |
-| Monday | Tuesday | |
-| Thursday | Friday | |
-| Wednesday | Friday | |
-| Saturday | Thursday | **added in v3.6** |
+| Tuesday | Friday | default, usage: approx. 90% |
+| Wednesday | Friday | usage: approx. 5% |
+| Thursday | Friday | rarely used |
+| Monday | Tuesday | rarely used |
+| Saturday | Thursday | rarely used |
 

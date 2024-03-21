@@ -14,7 +14,7 @@ A crontab line could look like this:
 */10 * * * * curl https://www.yourdomain.com/cron
 ```
 
-:::tip
+:::info
 Superadmins can now the cronjobs in the admin area (Homepage adminstration / tab "Cronjobs") (https://www.example.com/admin/cronjobs).
 :::
 
