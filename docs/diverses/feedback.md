@@ -12,7 +12,6 @@ Mitglieder und Hersteller können in einem eigenen Formular angeben, warum sie b
 Diese Funktion muss zuerst in den Einstellungen unter "Mitglieder- und Hersteller-Feedback aktiv?" aktiviert werden.
 :::
 
-
 ### Wichtige Infos
 * Der Link zum Feedback-Formular befindet sich im Admin-Bereich unter "Meine Daten".
 * Feedbacks von Mitgliedern und Herstellern müssen zur Veröffentlichung erst freigeschaltet werden. Die Links dazu finden Superadmins im Admin-Bereich unter "Mitglieder" bzw. "Hersteller". Die Zahl in Klammer ist die Zahl der Feedbacks, die noch nicht freigeschaltet sind.
@@ -20,21 +19,17 @@ Diese Funktion muss zuerst in den Einstellungen unter "Mitglieder- und Herstelle
 * Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedback" (Auflistung).
 * Um die Feedback-Liste z.B. ins Hauptmenü aufzunehmen, einfach eine neue Seite anlegen, die Stelle im Menü auswählen und ins Feld "Link" "https://www.example.com/feedback" reinschreiben.
 * Durch Klicken auf das unausgefüllte Herz kann man für ein Mitglied / einen Hersteller ein Feedback erstellen.
-* Beispiel: [https://www.tante-regina.at/feedback](https://www.tante-regina.at/feedback)
+* Beispiele: [https://www.tante-regina.at/feedback](https://www.tante-regina.at/feedback) / [https://www.hoamatkistl.at/feedback](https://www.hoamatkistl.at/feedback)
 
 
 ## 2. Feedback zu Produkt abgeben
 
 :::info
-Diese Funktion muss zuerst in den Einstellungen aktiviert werden.
+Diese Funktion muss zuerst in den Einstellungen unter "Feedback-Funktion für Produkte aktiviert?" aktiviert werden.
 :::
 
-Um den Kontakt zwischen Konsumenten und Produzenten zu verbessern, gibt es die Feedback-Funktion.
-
-1. Feedback lesen: Zum Produkt wurde bereits Feedback verfasst. Bewegt man die Maus über das Icon (oder klickt darauf, wenn man ein Smartphone verwendet), kann das Feedback gelesen werden.
-
-2. Feedback schreiben: Nach Klick auf das Symbol öffnet sich ein Fenster, in dem das Feedback eingegeben werden kann. Es kann auch ein Bild hochgeladen werden (3). Nach dem Speichern erhält der Hersteller automatisch eine E-Mail mit dem Feedback.
-
-Die Feedback-Funktion kann in den Einstellungen (Admin-Bereich / Einstellungen) deaktiviert werden.
+* Diese Funktion soll den Kontakt zwischen Konsumenten und Produzenten verbessern.
+* **Feedback lesen:** Zum Produkt wurde bereits Feedback verfasst. Bewegt man die Maus über das Icon (oder klickt darauf, wenn man ein Smartphone verwendet), kann das Feedback gelesen werden.
+* **Feedback schreiben:** Nach Klick auf das Symbol öffnet sich ein Fenster, in dem das Feedback eingegeben werden kann. Es kann auch ein Bild hochgeladen werden (3). Nach dem Speichern erhält der Hersteller automatisch eine E-Mail mit dem Feedback.
 
 ![](/assets/img/de/bestellungen/produkt-feedback.png)
