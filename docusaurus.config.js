@@ -106,6 +106,8 @@ const config = {
         {
           redirects: [
 
+            { from: ['/de', '/en'], to: '/'},
+
             { from: ['/de/bestellabwicklung', '/de/bestellabwicklung.html'], to: '/bestellabwicklung/'},
             { from: ['/de/abholung-der-produkte', '/de/abholung-der-produkte.html'],  to: '/bestellabwicklung/abholtag'},
             { from: ['/de/sammelbestellungen', '/de/sammelbestellungen.html'], to: '/bestellabwicklung/sammelbestellungen'},
