@@ -16,6 +16,7 @@
 :::tip[This is the latest stable version.]
 :::
 
+* Release date: 2024-03-29
 * Add the configuration `Salt.cookieKey` to your custom_config.php. It should be a random string with at least 32 characters.
 * Uploading images is now handled by Imagick and not by GD any more. Be sure that Imagick is installed on your server.
 * execute migrations => see bottom of page
