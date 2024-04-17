@@ -109,7 +109,7 @@ PARAM pickupDay: Format: dd.mm.yyyy, Pflichtfeld
 
 `app.orders.{n}.amount`: int / Wie oft wurde das Produkt bestellt? z.B. 1,
 
-`app.orders.{n}.order_state`: int / 3=ORDER_PLACED / 10=ORDER_LIST_SENT / 11=BILLED_CASHLESS / 12=BILLED_CASH
+`app.orders.{n}.order_state`: int / 3=OPEN / 10=ORDER_LIST_SENT / 11=BILLED_CASHLESS / 12=BILLED_CASH
 
 `app.orders.{n}.created`: date / Wann wurde die Bestellung getätigt?
 
