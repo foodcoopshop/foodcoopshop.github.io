@@ -9,7 +9,6 @@
 | 03 | [Bajan Shop, Barbados](https://www.bajan.shop) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 03 | [Foodcoop Forchtensten / Wulkakistl, AT](https://shop.wulkakistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2023** |
-| 09 | [Weltladen Gallneukirchen, AT](https://shop.weltladen-gallneukirchen.at) | Direct selling | self-hosted |
 | 09 | [Foodcoop Subona, Suben, AT](https://subona.hopto.org) | Direct selling | self-hosted |
 | 06 | [Foodcoop urfair, Linz, AT](https://www.foodcoop-urfair.at) | Direct selling | self-hosted |
 | 02 | [Guads vo do, Foodcoop Wildschönau, AT](https://www.guadsvodo.tirol) | Direct selling | self-hosted |
@@ -31,7 +30,6 @@
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
 | 05 | [Kulturspäti, Altenburg, DE](https://www.kulturspaeti.de) | Direct selling | self-hosted |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | Retail | self-hosted |
-| 02 | Initiative in Berlin, DE | Direct selling | self-hosted |
 | 02 | [Echt.Guat., Seewalchen, AT](https://www.echt-guat.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 01 | [Klaa Karott, Frankfurt a. M., DE](https://shop.klaakarott.de) | Direct selling | self-hosted |
