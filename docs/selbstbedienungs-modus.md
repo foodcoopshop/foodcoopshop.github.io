@@ -5,13 +5,20 @@ sidebar_label: Selbstbedienungs-Modus
 # Selbstbedienungs-Modus für Lagerprodukte
 
 :::tip
-Der Selbstbedienungs-Modus vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben den bewährten Funktionen zur Vorbestellung von Frischwaren bietet der FoodCoopShop auch dafür eine praktische Funktion.
+Der Selbstbedienungs-Modus vereinfacht den **Kauf von Lagerprodukten vor Ort**. Neben der Vorbestellung von Frischwaren bietet die Software auch dafür eine praktische Funktion.
 :::
 
-## Beschreibung
+## Barcode-Scanner / Scannen mit dem Smartphone
 
-Mit der Verwendung eines **Barcode-Scanners** (FCS verwendet den Barcode-Standard "Code39") kann der Selbstbedienungs-Modus sehr effizent verwendet werden, folgender Ablauf ist dafür vorgesehen:
-Der Scanner (am besten kabellos) wird mit dem Computer verbunden, auf dem dann im Browser der Selbstbedienungs-Modus aufgerufen wird. Der Scanner dient dabei als Eingabegerät (wie Maus oder Tastatur). Zum Anmelden scannt das Mitglied seine Mitgliedskarte (ohne Benutzername / Passwort), zum Einkaufen können die gewünschten Produkte einfach mit dem Scanner **in die Einkaufstasche** gelegt werden. *Das Verwenden eines Scanners ist optional. Der Selbstbedienungs-Modus funktioniert auch ohne Scanner.*
+Mit der Verwendung eines **Barcode-Scanners** (FCS verwendet den Barcode-Standard *Code39*) kann der Selbstbedienungs-Modus sehr effizent verwendet werden, folgender Ablauf ist dafür vorgesehen:
+
+Der Scanner (am besten kabellos) wird mit dem Computer verbunden, auf dem dann im Browser der Selbstbedienungs-Modus aufgerufen wird. Der Scanner dient dabei als Eingabegerät (wie Maus oder Tastatur). Zum Anmelden scannt das Mitglied seine Mitgliedskarte (ohne Benutzername / Passwort), zum Einkaufen können die gewünschten Produkte einfach mit dem Scanner **in die Einkaufstasche** gelegt werden.
+
+:::tip[Neu in v4.1 (Frühling 2025)]
+Es werden jetzt auch Barcodes mit Gewichtsangabe unterstützt. Das Produkt wird automatisch mit dem gescannten Gewicht in den Warenkorb gelegt.
+:::
+
+**Das Verwenden eines Scanners ist optional. Der Selbstbedienungs-Modus funktioniert auch ohne Scanner.**
 
 Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera die Barcodes scannen, ohne sich dazu eine App installieren zu müssen. Dazu muss im Profil das Häkchen bei "Ich möchte die Kamera meines Smartphones zum Scannen der Barcodes benutzen." angehakt werden und beim Scannen dann der Kamera-Zugriff freigegeben werden.
 
