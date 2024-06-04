@@ -64,10 +64,9 @@ Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera
 
 ## 5. Weitere Funktionen / Updates
 * Bei 3 Minuten Inaktivität wird man automatisch ausgeloggt.
-* Sofort-Bestellungen sollten mit aktiviertem Selbstbedienungs-Modus nicht mehr notwendig sein. Sie sind deswegen nur mehr für Superadmins möglich, der Button dazu wird im Admin-Bereich unter den Bestellungen angezeigt.
-* Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [Demo-Seite](https://demo-de.foodcoopshop.com) und können gerne zum Testen mit einem Scanner verwendet werden.
-* Bereits bestehende Barcodes (EAN-13) können nun Produkten und Varianten zugewiesen und zum Scannen verwendet werden.
-* Für Admins und Superadmins ist es möglich, über den Selbstbedienungs-Modus für andere Mitglieder zu bestellen. Diese Funktion heißt "Lagerprodukte bestellen".
+* Die auf dieser Seite abgebildete Mitgliedskarte und Produktkarte funktionieren auf der [Demo-Seite](https://demo-de.foodcoopshop.com) und können zum Testen mit einem Scanner verwendet werden.
+* Auch bereits bestehende Barcodes (EAN-13) können Produkten und Varianten zugewiesen und zum Scannen verwendet werden.
+* Für Admins und Superadmins ist es möglich, über den Selbstbedienungs-Modus für andere Mitglieder zu bestellen ("Lagerprodukte bestellen").
 
 ## 6. Finanzierung
 * Die für Foodcoops relevanten Funktionen des "Selbstbedienungs-Modus" wurden zu einem großen Teil von einem privaten Unterstützer finanziert.
