@@ -34,7 +34,7 @@ Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera
 ![](/assets/img/de/selbstbedienung/profilbild-hochladen.jpg)
 
 * **Admins und Superadmins** können im Admin-Bereich unter "Mitglieder" für die mittels Checkbox ausgewählten Mitglieder die Mitgliedkarten generieren und drucken.
-![](/assets/img/de/selbstbedienung/mitgliedskarten-generieren.jpg)
+![](/assets/img/de/selbstbedienung/mitgliedskarten-generieren.png)
 
 **Vorschau Mitgliedskarte**
 
@@ -43,7 +43,7 @@ Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera
 ## 3. Produktkarten
 * Können im Produkt-Admin generiert werden (Produkte anhaken und dann unten auf "Produktkarten generieren" klicken).
 * **Achtung**: Im PDF mit den Produktkarten werden nur "als Lagerprodukte" deklarierte Produkte angezeigt. Auch, wenn sie angehakt wurden!
-![](/assets/img/de/selbstbedienung/produktkarten-generieren.jpg)
+![](/assets/img/de/selbstbedienung/produktkarten-generieren-1.png)
 * Für jede Variante wird eine eigene Produktkarte erzeugt, damit man nach dem Scannen die gewünschte Variante nicht extra auswählen muss.
 
 **Vorschau Produktkarte**
@@ -69,9 +69,5 @@ Beim Einkaufen mit dem Smartphone kann man auch direkt mit der Smartphone-Kamera
 * Bereits bestehende Barcodes (EAN-13) können nun Produkten und Varianten zugewiesen und zum Scannen verwendet werden.
 * Für Admins und Superadmins ist es möglich, über den Selbstbedienungs-Modus für andere Mitglieder zu bestellen. Diese Funktion heißt "Lagerprodukte bestellen".
 
-
-## 6. Offene Punkte
-* Es funktioniert noch nicht, dass der Lagerstand von z.B. 10 kg Mehl sich genau um die herausgewogenen Menge reduziert: [Issue "Verfügbare Menge nach tatsächlich entnommenen Gewicht"](https://github.com/foodcoopshop/foodcoopshop/issues/336)
-
-## 7. Finanzierung
+## 6. Finanzierung
 * Die für Foodcoops relevanten Funktionen des "Selbstbedienungs-Modus" wurden zu einem großen Teil von einem privaten Unterstützer finanziert.
