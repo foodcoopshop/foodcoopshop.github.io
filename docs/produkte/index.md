@@ -103,7 +103,9 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 * Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand der Hersteller und die Ansprechperson eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
 
 :::tip[Neu in v4.1 (Frühling 2025)]
-Bei Lagerprodukten mit Preis nach Gewicht wird der Lagerstand jetzt über das Gewicht berechnet und nicht mehr über die Anzahl. Es ist jetzt also möglich, z.B. 25 kg Äpfel auf Lager zu haben und der Lagerstand passt sich auf Basis der Bestellungen automatisch an.
+Bei Lagerprodukten mit Preis nach Gewicht kann der Lagerstand jetzt auch über das Gewicht berechnet werden, und nicht mehr ausschließlich über die Anzahl. Das ist vor allem für Lagerprodukte gedacht, die bei jeder Entnahme abgewogen werden (z.B. Nudeln, Reis, Äpfel usw.).
+
+Um die Funktion für ein Produkt zu aktivieren, muss beim Preis nach Gewicht die Option **Lagerstand über Gewicht berechnen** angehakt werden. Die Option wird nur angezeigt, wenn das Produkt ein Lagerprodukt ist.
 :::
 
 ![](/assets/img/de/produkte/erweiterte-lagerstandverwaltung-1.jpg)
