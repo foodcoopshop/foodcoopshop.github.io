@@ -105,7 +105,7 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 :::tip[Neu in v4.1 (Frühling 2025)]
 Bei Lagerprodukten mit Preis nach Gewicht kann der Lagerstand jetzt auch über das Gewicht berechnet werden, und nicht mehr ausschließlich über die Anzahl. Das ist vor allem für Lagerprodukte gedacht, die bei jeder Entnahme aus einem Großgebinde abgewogen werden (z.B. Nudeln, Reis, Äpfel usw.).
 
-Um die Funktion für ein Produkt zu aktivieren, muss beim Preis nach Gewicht die Option **Lagerstand über Gewicht berechnen** angehakt werden. Die Option wird nur angezeigt, wenn das Produkt ein Lagerprodukt ist.
+Um die Funktion für ein Produkt zu aktivieren, muss beim Preis nach Gewicht die Option **Lagerstand über das Gewicht berechnen** angehakt werden. Die Option wird nur angezeigt, wenn das Produkt ein Lagerprodukt ist.
 
 Lagerprodukte, die auch abgewogen werden, bei denen aber die Anzahl und nicht das Gewicht die relevante Größe beim Lagerstand ist, sind z.B. Krauthäupel, Fleischpakete, eingeschweißter Tofu usw. Hier also das Häkchen nicht setzen.
 :::
