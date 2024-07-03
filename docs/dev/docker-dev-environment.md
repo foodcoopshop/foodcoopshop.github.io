@@ -9,6 +9,7 @@ The provided docker configuration should not be used in production environments!
 * Create a new folder and clone [the repository](https://github.com/foodcoopshop/foodcoopshop.git)
 * Start containers with `CURRENT_UID=$(id -u):$(id -g) docker compose up -d`
 * When all containers are up and running, run: `bash ./devtools/init-dev-setup.sh`
+* To pouplate the database with demo data, first change `Datasources` `default` to `test` in your custom_config.php, then run: `docker exec -w /app fcs.php bash ./bin/cake migrations seed --source Seeds/tests --seed InitTestDataSeed`, then change `Datasources` `test` back to `default` in your custom_config.php
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
 * Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
 
