@@ -20,7 +20,7 @@ Diese Software-Dokumentation erklärt die Funktionen **der aktuellsten Version v
 * [Official homepage (German)](https://www.foodcoopshop.com/)
 * [Facebook](https://facebook.com/FoodCoopShop)
 * [Users](/users)
-* Demo versions in [German](https://demo-de.foodcoopshop.com) and [English](https://demo-en.foodcoopshop.com)
+* Demo versions in [German](https://demo-de.foodcoopshop.com), [English](https://demo-en.foodcoopshop.com) and [Russian](https://demo-ru.foodcoopshop.com)
 
 ## Maintainer
 

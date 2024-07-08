@@ -17,7 +17,7 @@
 
 :::info
 * There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) if you don't want to spend your time on IT stuff.
-* There are demo installations in [German](https://demo-de.foodcoopshop.com/) and [English](https://demo-en.foodcoopshop.com/). Feel free to test before installing.
+* There are demo installations in [German](https://demo-de.foodcoopshop.com/), [English](https://demo-en.foodcoopshop.com/) and [Russian](https://demo-ru.foodcoopshop.com). Feel free to test before installing.
 :::
 
 * * *
@@ -66,7 +66,7 @@ bash ./devtools/installation/set-permissions.sh
 * Define your database configuration in custom_config.php
 
 :::important
-* run `bash ./devtools/installation/init-database.sh de_DE` (locale "en_US" is also supported)
+* run `bash ./devtools/installation/init-database.sh de_DE` (locales "en_US" and "ru_RU" are also supported)
 * Import taxes for Austria: `bash ./bin/cake migrations seed --seed AddTaxesAustriaSeed`
 * **OR** Import taxes for Germany: `bash ./bin/cake migrations seed --seed AddTaxesGermanySeed`
 :::
