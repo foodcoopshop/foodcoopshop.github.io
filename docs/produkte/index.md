@@ -66,6 +66,7 @@ Es können z. B. folgende Preise angeben werden: "2,00 € / 100 g", "15,50 € 
 * Das Mitglied sieht bereits beim Bestellen den ungefähren Preis. Es ist ersichtlich, dass sich der Preis aufgrund einer eventuellen Gewichtsänderung noch ändern kann.
 * Auf den Rechnungen für die Hersteller wird die tatsächlich gelieferte Menge angeführt, auf der Übersichtsseite auch aufsummiert.
 * Die Funktion berücksichtigt auch, wenn man mehrere Einheiten eines Produktes bestellt.
+* Seit v4.1: "Lagerstand über Gewicht berechnen"
 
 **Bei Varianten bitte aufpassen!**
 
