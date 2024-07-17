@@ -33,14 +33,14 @@ If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http:/
 ## Unit Tests
 
 * `docker exec -w /app fcs.php php ./vendor/bin/phpunit`
-* On Github Actions / Gitpod the test need around 2 to 3 min to finish.
+* On Github Actions / Gitpod the tests need around 2 to 3 min to finish.
 
 ## Tools
 
-* Run composer: `docker exec -w /app fcs.php composer install|update|outdated`
-* Run npm-check-updates: `docker exec -w /app/webroot fcs.php ncu`
-* Run npm: `docker exec -w /app/webroot fcs.php npm install`
-* Running migrations: `docker exec -w /app fcs.php bash ./bin/cake migrations migrate`
+* Use composer: `docker exec -w /app fcs.php composer install|update|outdated`
+* Use npm-check-updates: `docker exec -w /app/webroot fcs.php ncu`
+* Use npm: `docker exec -w /app/webroot fcs.php npm install`
+* Execute migrations: `docker exec -w /app fcs.php bash ./bin/cake migrations migrate`
 * Build assets: `docker exec -w /app fcs.php bash ./bin/cake asset_compress build`
 
 ## Tips for using Docker on Windows
