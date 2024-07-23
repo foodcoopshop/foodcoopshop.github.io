@@ -34,8 +34,8 @@ Manchmal kommt es vor, dass der Preis eines bereits bestellten Produktes geände
 Achtung: für **Gewichtsanpassungen** (die ebenfalls den Preis ändern) sollte die Funktion "Preis nach Gewicht" verwendet werden!
 :::
 
-### Anpassen der Anzahl
-Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück liefern kann, soll man die bestellte Anzahl ändern. Dies geschieht über das Bearbeiten-Symbol neben der Anzahl unter "Bestellungen / Bestellte Produkte".
+### Anpassen der Menge
+Falls man z. B. 2 Stück Kohlrabi bestellt, der Hersteller aber nur 1 Stück liefern kann, soll man die bestellte Menge ändern. Dies geschieht über das Bearbeiten-Symbol neben der Menge unter "Bestellungen / Bestellte Produkte".
 
 ### Anpassen des Gewichts
 Falls das Produkt mit "Preis nach Gewicht" abgerechnet wird, kann unter "Bestellte Produkte" das Gewicht im Nachhinein angepasst werden. Der Preis wird dadurch automatisch angepasst. Nach dem Speichern ist das Feld auch nicht mehr rot hinterlegt.
@@ -69,7 +69,7 @@ Falls die Bestellung Produkte enthält, deren Gewicht noch angepasst werden muss
 Es kann vorkommen, dass am Ende des Abholtages Produkte übrigbleiben. Du kannst nach diesem Produkt filtern und so herausfinden, wer aller dieses Produkt bestellt hat (Dropdown oben). Wenn du Glück hast, sind es nur ein paar Leute und du kannst dich erinnern, wer es vergessen haben könnte. Unter "Mitglieder" findest du die Telefonnummern der Mitglieder falls du jemanden anrufen musst.
 
 ### Produkt auf anderes Mitglied umbuchen
-Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Anzahl und das neue Mitglied auswählen. Beim Speichern können beide Mitglieder per E-Mail benachrichtigt werden und die Guthaben-Konten automatisch angepasst.
+Auf das Bearbeiten-Symbol neben dem Mitgliedsnamen in der Bestellliste klicken, die Menge und das neue Mitglied auswählen. Beim Speichern können beide Mitglieder per E-Mail benachrichtigt werden und die Guthaben-Konten automatisch angepasst.
 
 Falls das Mitglied nicht mehr ausfindig gemacht werden kann, empfehle ich, ein Vereins-Mitgliedskonto anzulegen und das Produkte darauf hin zu buchen. So zahlt der Verein, der Bauer bekommt sein Geld und das Mitglied, das das Produkt nicht bekommt, muss nichts zahlen. Außerdem ist am Ende des Jahres ersichtlich (Summe am Mitgliedskonto), wie viel der Verein durch Fehler bei der Abholung zu tragen hatte.
 

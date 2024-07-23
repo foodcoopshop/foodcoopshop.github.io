@@ -15,7 +15,7 @@ Wenn ein Produkt mehrere Ausprägungen hat (zb. Käse zu 100g und zu 200g, Apfel
 Um eine Variante zu einem Produkt zu erstellen, auf das +-Zeichen neben dem Produktnamen klicken und die entsprechende Variante auswählen. Die Anzeige der Varianten ist **nicht sortierbar** (die zuerst angelegte Variante wird zuerst angezeigt), die Standard-Variante (das ist jene Variante, die vorausgewählt ist) kann aber durch Klick auf den Stern geändert werden.
 
 :::info
-* Um eine Variante vorübergehend zu deaktivieren, bei der Anzahl *0* eingeben. Sie wird beim Einkaufen dann gar nicht angezeigt.
+* Um eine Variante vorübergehend zu deaktivieren, bei der Menge *0* eingeben. Sie wird beim Einkaufen dann gar nicht angezeigt.
 * Nur Admins oder Superadmins können neue Varianten anlegen. Hersteller können das nicht.
 :::
 
@@ -37,13 +37,13 @@ Nur Admins oder Superadmins können neue Kategorien anlegen. Hersteller können 
 
 Eine Kennzeichnung für Bio-Produkte ist sicher sinnvoll. Dafür gibt's zwar keine eigene Funktion, viele Initiativen hängen aber einfach im Feld Produktname ein "BIO" dran. Hinter dem Namen (und nicht davor) ist wichtig, denn wenn bei 400 Produkten zuerst "BIO" steht, ist es ja doch schwieriger auffindbar.
 
-## Anzahl
+## Menge
 
-1. Neue Produkte sind standardmäßig auf **immer verfügbar** ![](/img/icons/infinity.png) gestellt, d. h. die verfügbare Anzahl wird beim Bestellen **nicht vermindert**.
+1. Neue Produkte sind standardmäßig auf **immer verfügbar** ![](/img/icons/infinity.png) gestellt, d. h. die verfügbare Menge wird beim Bestellen **nicht vermindert**.
 
-Wenn das Produkt nur in einer begrenzten Stückzahl verfügbar ist, kann man diese Funktion aber deaktivieren und die verfügbare Anzahl selbst bestimen. Sie verringert sich bei jeder Bestellung und bei 0 ist das Produkt automatisch nicht mehr bestellbar. Sinnvoll, wenn man z. B. ein Lager im Betrieb hat und jede Woche liefert.
+Wenn das Produkt nur in einer begrenzten Stückzahl verfügbar ist, kann man diese Funktion aber deaktivieren und die verfügbare Menge selbst bestimen. Sie verringert sich bei jeder Bestellung und bei 0 ist das Produkt automatisch nicht mehr bestellbar. Sinnvoll, wenn man z. B. ein Lager im Betrieb hat und jede Woche liefert.
 
-2. Standard-Anzahl pro Lieferrhythmus: Nach jedem Bestelllisten-Versand wird die verfügbare Anzahl automatisch wieder auf diesen Wert gesetzt. Sinnvoll z. B. für Salat (jede Woche 20 Stück).
+2. Standard-Menge pro Lieferrhythmus: Nach jedem Bestelllisten-Versand wird die verfügbare Menge automatisch wieder auf diesen Wert gesetzt. Sinnvoll z. B. für Salat (jede Woche 20 Stück).
 
 ![](/assets/img/de/produkte/produkt-anzahl-aendern-modal.png)
 
@@ -99,16 +99,16 @@ Soll das Produkt auf der Bestell-Seite sichtbar sein, oder nicht?
 
 * Hersteller mit Lagerprodukten können in ihren Einstellungen die **erweiterte Lagerstandsverwaltung** aktivieren.
 
-* Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt**. Jedes Produkt muss manuell als Lagerprodukt aktiviert werden, dann erscheinen unter **Anzahl** zusätzliche Einstellungsmöglichkeiten.
+* Unter **Produkte** im Admin-Bereich gibt es nun eine neue Spalte **Lagerprodukt**. Jedes Produkt muss manuell als Lagerprodukt aktiviert werden, dann erscheinen unter **Menge** zusätzliche Einstellungsmöglichkeiten.
 
 * Mit Hilfe dieser Werte kann eingestellt werden, ab welchem Lagerstand der Hersteller und die Ansprechperson eine Benachrichtigungs-E-Mail bekommt bzw. ob der Lagerstand auch negativ sein darf (sofern man das Lager schnell auffüllen kann).
 
 :::tip[Neu in v4.1 (Frühling 2025)]
-Bei Lagerprodukten mit Preis nach Gewicht kann der Lagerstand jetzt auch über das Gewicht berechnet werden, und nicht mehr ausschließlich über die Anzahl. Das ist vor allem für Lagerprodukte gedacht, die bei jeder Entnahme aus einem Großgebinde abgewogen werden (z.B. Nudeln, Reis, Äpfel usw.).
+Bei Lagerprodukten mit Preis nach Gewicht kann der Lagerstand jetzt auch über das Gewicht berechnet werden, und nicht mehr ausschließlich über die Menge. Das ist vor allem für Lagerprodukte gedacht, die bei jeder Entnahme aus einem Großgebinde abgewogen werden (z.B. Nudeln, Reis, Äpfel usw.).
 
 Um die Funktion für ein Produkt zu aktivieren, muss beim Preis nach Gewicht die Option **Lagerstand über das Gewicht berechnen** angehakt werden. Die Option wird ausgegraut angezeigt, wenn das Produkt kein Lagerprodukt ist.
 
-Lagerprodukte, die auch abgewogen werden, bei denen aber die Anzahl und nicht das Gewicht die relevante Größe beim Lagerstand ist, sind z.B. Krauthäupel, Fleischpakete, eingeschweißter Tofu usw. Hier also das Häkchen nicht setzen.
+Lagerprodukte, die auch abgewogen werden, bei denen aber die Menge und nicht das Gewicht die relevante Größe beim Lagerstand ist, sind z.B. Krauthäupel, Fleischpakete, eingeschweißter Tofu usw. Hier also das Häkchen nicht setzen.
 :::
 
 ![](/assets/img/de/produkte/erweiterte-lagerstandverwaltung-1.jpg)

@@ -13,7 +13,7 @@ Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte i
 * **Bruttopreis** (Pflichtfeld): Bruttopreis des Produktes (Eingabe "Preis nach Gewicht" ist über den Import vorerst nicht möglich)
 * **Steuersatz** (Pflichtfeld): Steuersatz des Produktes (z.B. 0, 10, 13, 20)
 * **Pfand**: Pfand des Produktes (z.B. 0,50), leer bedeutet "kein Pfand"
-* **Anzahl** (Pflichtfeld): Verfügbare Anzahl des Produktes (z.B. 10), 0 bedeutet "immer verfügbar"
+* **Menge** (Pflichtfeld): Verfügbare Menge des Produktes (z.B. 10), 0 bedeutet "immer verfügbar"
 * **Status** (Pflichtfeld): 1 (aktiviert) oder 0 (deaktiviert)
 * **Produktdeklaration**: 1 (ok) oder 0 (nicht ok), leer bedeutet "nicht ok"
 * **Lagerort**: Falls die Einstellung aktiviert ist: Lagerort des Produktes (z.B. "Kühlschrank", "Tiefkühler", ...)

@@ -32,7 +32,7 @@ Das Feld "Bestellbar bis" auf das gewünschte Datum ändern.
 
 Das Feld "Liefertag" auf das gewüschte Datum ändern und dann unter "Bestellungen" nach dem alten Liefertag (=Abholtag) und dem Hersteller filtern, alle bestellten Produkte anhaken und unten auf **Abholtag ändern** klicken. Den neuen Liefertag hier eintragen und eine kurze Beschreibung dazu (alle Mitglieder werden per E-Mail benachrichtigt).
 
-## Ändern der Bestellungen: Stornierung, Anzahl vermindern
+## Ändern der Bestellungen: Stornierung, Menge vermindern
 
 Falls nach Ablauf des Bestellschlusses Änderungen notwendig sind, so kann das unter "Bestellungen" - Filter nach Abholtag und Hersteller - gruppiert nach... erledigt werden (wie beim Abholen der Produkte)
 
