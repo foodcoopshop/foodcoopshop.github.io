@@ -11,6 +11,13 @@
 
 * * *
 
+### unreleased
+* Release date: unreleased
+* Rename your cache configuration key in custom_config.php from `_cake_core_` to `_cake_translations_`
+* [replace source code](#replace-source-code)
+* [execute migrations](#execute-migrations)
+* [clear cache](#clear-cache)
+
 ## v4.0.0
 
 :::tip[This is the latest stable version.]
