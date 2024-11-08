@@ -42,6 +42,7 @@ Die Konfigurations-Variable `app.bankNameForCreditSystem` kann auf folgende unte
 * `Volksbank`
 * `Sparkasse`
 * `GlsBank`
-* `BankBurgenland`
+* `BankBurgenland` (gleiches Format wie Volksbank)
+* `TriodosBank` (gleiches Format wie GlsBank) (seit v4.1)
 
 Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
