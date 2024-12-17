@@ -26,7 +26,6 @@
 | **2021** |
 | 11 | [Tante Regina, Scharnstein, AT](https://www.tante-regina.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 10 | [Foodcoop Saar, Saarbrücken, DE](https://shop.foodcoop-saar.de) | Direct selling | self-hosted |
-| 09 | [Tischlein deck dich!, Michaelnbach, AT](https://tischleindeckdich.jetzt) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
 | 05 | [Kulturspäti, Altenburg, DE](https://www.kulturspaeti.de) | Direct selling | self-hosted |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | Retail | self-hosted |
