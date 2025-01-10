@@ -11,6 +11,7 @@
 * [Webserver - Nginx or Apache](/dev/webserver-configuration)
 * PHP => 8.2 (prior to v3.6 PHP 8.1)
 * PHP intl extension INTL_ICU_VERSION >= 50.1
+* PHP Imagick extension
 * PHP bzip2 lib (for automatic database backups) (prior to v3.6: PHP ZipArchive class)
 * MySQL >= 8.0
 * If you cloned the repository from Github: Node.js, npm >= v9 and Composer v2
