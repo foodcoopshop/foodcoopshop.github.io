@@ -25,7 +25,7 @@
 
 * Release date: 2024-03-29
 * Add the configuration `Salt.cookieKey` to your custom_config.php. It should be a random string with at least 32 characters.
-* Uploading images is now handled by Imagick and not by GD any more. Be sure that Imagick is installed on your server.
+* Uploading images is now handled by Imagick, be sure that Imagick is installed on your server. Do not remove GD, as it is still needed for barcode generation.
 * [replace source code](#replace-source-code)
 * [execute migrations](#execute-migrations) / *Some users reported troubles with the migration of the `Queue` plugin. The migration did not report any errors, but in fact the table queued_jobs was not changed. If you encounter this problem, you can manually change the table structure by importing [the migrated SQL-dump of the table](/assets/sql/queued_jobs_migrated.sql). ALL DATA IN THIS TABLE WILL BE LOST!*
 * [clear cache](#clear-cache)
