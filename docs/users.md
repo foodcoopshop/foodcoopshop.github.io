@@ -5,6 +5,8 @@
 
 | Start | Name / City / Country | Type | Hosted by |
 |------|-----------------------|------|------------|
+| **2025** |
+| 01 | [Schoichner Kistl, Schalchen, AT](https://www.schoichner-kistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2024** |
 | 03 | [Bajan Shop, Barbados](https://www.bajan.shop) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 03 | [Foodcoop Forchtensten / Wulkakistl, AT](https://shop.wulkakistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
