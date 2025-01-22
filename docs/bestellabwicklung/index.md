@@ -40,7 +40,7 @@ Die wöchentlichen Lieferrhythmen sind das Herzstück der Software. Mit ihnen k�
 Im Admin-Bereich kann bei jedem Produkt aus folgenden Lieferrythmen auswählen:
 
 * wöchentlich
-* jede 2. / 4. Woche
+* jede 2. / 3. / 4. Woche (jede 3. Woche ist neu seit v4.1)
 * jeden 1. / 2. / 3. / 4. / letzten Freitag im Monat
 * Sammelbestellung
 
