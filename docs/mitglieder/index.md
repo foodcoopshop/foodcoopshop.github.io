@@ -26,6 +26,7 @@ Die dem Mitglied zugewiesene Gruppe kann unter dem Menüpunkt "Mitglieder" geän
 ## Gruppen
 * **Mitglied**
   * nur eigene Bestellungen und Daten können eingesehen bzw. geändert werden
+  * Pfand kann eingetragen werden
 * **Admin**
   * darf alles, was ein Mitglied darf und zusätzlich:
   * auch Bestellungen von anderen Mitgliedern einsehen und ändern
