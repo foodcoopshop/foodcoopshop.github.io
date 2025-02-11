@@ -1,9 +1,9 @@
 # Produkt-Import
 
 :::tip
-Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte importieren". Mit dieser Funktion können mehrere Produkte auf einmal aus einer CSV-Datei (eine Vorlage steht zum Download bereit) erstellt werden.
-Achte darauf, dass als Separator ein Beistrich (Komma) und kein Semikolon (Strichpunkt) verwendet wird.
-Weiters dürfen keine Leerzeilen vorhanden sein.
+* Im Produkt-Admin befindet sich unter "Aktionen" ein neuer Menüpunkt "Produkte importieren". Mit dieser Funktion können mehrere Produkte auf einmal aus einer CSV-Datei (eine Vorlage steht zum Download bereit) erstellt werden.
+* Achte darauf, dass als Separator ein Beistrich (Komma) und kein Semikolon (Strichpunkt) verwendet wird.
+* Weiters dürfen keine Leerzeilen vorhanden sein.
 :::
 
 ## Welche Werte kann ich in die Spalten eintragen?
