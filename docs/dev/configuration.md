@@ -17,7 +17,7 @@ Use the script *ChangeWeeklyPickupDayByOneDayCommand* to change the setting `FCS
 
 The script automatically changes custom order list send days for certain products.
 
-Do not forget to change the days when certain cronjobs run (e.g. EmailOrderReminder). Change that directly in the database table fcs_cronjobs.
+Do not forget to change the days when certain cronjobs run (e.g. EmailOrderReminder). Change that directly in the cronjob settings (https://www.yourdomain.com/admin/cronjobs).
 
 
 ## Change the day where the order lists are sent
