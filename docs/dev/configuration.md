@@ -36,6 +36,7 @@ Example: If you want to change the default weekly order cycle from Tuesday midni
 | --- | --- | --- |
 | Tuesday | Friday | default, usage: approx. 90% |
 | Wednesday | Friday | usage: approx. 5% |
+| Monday | Thursday | rarely used |
 | Thursday | Friday | rarely used |
 | Monday | Tuesday | rarely used |
 | Saturday | Thursday | rarely used |
