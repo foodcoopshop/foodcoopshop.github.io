@@ -36,9 +36,7 @@ Das Feld "Liefertag" auf das gewüschte Datum ändern und dann unter "Bestellung
 
 Falls nach Ablauf des Bestellschlusses Änderungen notwendig sind, so kann das unter "Bestellungen" - Filter nach Abholtag und Hersteller - gruppiert nach... erledigt werden (wie beim Abholen der Produkte)
 
-:::tip[Neu in v4.0 (Frühling 2024)]
 Beim Ändern des Preises im Produkt-Admin gibt es eine neue Option: "Preise von noch nicht verrechneten Bestellungen mit anpassen?" Wenn diese Option aktiviert ist, werden die Preise der Bestellungen, die noch nicht verrechnet wurden, automatisch angepasst. Auch der Grundpreis wird hierbei geändert.
-:::
 
 ## Nachbuchen für anderes Mitglied über die Sofort-Bestellung
 
