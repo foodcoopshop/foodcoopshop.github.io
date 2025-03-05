@@ -8,7 +8,6 @@
 | **2025** |
 | 01 | [Schoichner Kistl, Schalchen, AT](https://www.schoichner-kistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2024** |
-| 03 | [Bajan Shop, Barbados](https://www.bajan.shop) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 03 | [Foodcoop Forchtensten / Wulkakistl, AT](https://shop.wulkakistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2023** |
 | 09 | [Foodcoop Subona, Suben, AT](https://subona.hopto.org) | Direct selling | self-hosted |
@@ -44,7 +43,6 @@
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | Direct selling | self-hosted |
 | 04 | [Naturhof, Laakirchen, AT](https://shop.naturhof.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
-| 03 | [Alles Natur, Klagenfurt, AT](https://order.alles-natur.at) | Direct selling | self-hosted |
 | **2019** |
 | 10 | [s'Gartl, Windischgarsten, AT](https://www.s-gartl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 07 | [LaFoCo, Langenlois, AT](https://www.lafoco.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
