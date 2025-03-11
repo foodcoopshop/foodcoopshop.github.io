@@ -6,8 +6,12 @@ Der Pfand wird beim Kauf des Produktes automatisch vom Guthaben des Mitglieds ab
 
 Wenn ein **Mitglied Leergebinde zurückbringt,** muss unter "Bestellungen" in der Zeile des Mitgliedes auf den Button "Pfand-Rückgabe" der Wert des Leergebindes in € eingetragen werden. Dieser Betrag scheint dann in der Guthaben-Übersicht des Mitglieds auf und erhöht das Guthaben. Bei einer Fehleingabe kann der Eintrag dort auch wieder gelöscht werden.
 
-:::warning[Achtung]
 Pfand-Rückgaben für Mitglieder können auch dann eingegeben werden, auch wenn das Mitglied in der aktuellen Woche nicht bestellt hat. Der Button "Pfand-Rückgabe" wird immer angezeigt, das Mitglied kann dann aus einer Dropdown-Liste ausgewählt werden.
+
+:::tip[Neu in v4.2 (Frühling 2026)]
+Wenn beim Eintragen der Pfand-Rückgabe folgende Prüfungen nicht bestanden werden, wird eine Warnung angezeigt. Der Betrag muss dann ein zweites Mal bestätigt werden, damit er gespeichert wird.
+* Limit von 20 € pro Eintragung
+* Das Mitglied hätte nach der Eintragung mehr Pfand zurückgeben als es gekauft hat.
 :::
 
 ## Pfand-Abwicklung mit Hersteller
@@ -15,8 +19,12 @@ Pfand-Rückgaben für Mitglieder können auch dann eingegeben werden, auch wenn 
 Wenn ein **Hersteller sein Leergebinde zurücknimmt**, kann er selbst unter dem Menüpunkt **Pfandkonto** den Wert des Leergebindes in € eintragen. **Achtung**: Um den Menüpunkt zu sehen, muss beim Hersteller bereits eine Bestellung mit Pfand getätigt worden sein.
 Es wird dann mit dem gelieferten Pfand gegengerechnet und übersichtlich dargestellt. Auch Admins können diese Leergebinde-Rücknahmen für den Hersteller eintragen. Der Link zum Pfandkonto des jeweiligen Herstellers befindet sich auf der Hersteller-Liste in der Spalte **Pfand**.
 
-:::warning[Achtung]
 Für Pfand-Rücknahmen und Ausgleichszahlungen kann auch ein Buchungsdatum angegeben werden. Das ist vor allem für nachträgliche Korrekturen praktisch.
+
+:::tip[Neu in v4.2 (Frühling 2026)]
+Wenn beim Eintragen der Pfand-Name folgende Prüfungen nicht bestanden werden, wird eine Warnung angezeigt. Der Betrag muss dann ein zweites Mal bestätigt werden, damit er gespeichert wird.
+* Limit von 100 € pro Eintragung
+* Der Hersteller hätte nach der Eintragung mehr Pfand zurückgenommen als er verkauft hat.
 :::
 
 * * *

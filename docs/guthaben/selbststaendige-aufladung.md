@@ -5,7 +5,6 @@ sidebar_label: Selbstständige Aufladung
 # Guthaben-System mit selbstständiger Aufladung
 
 :::warning[Achtung]
-03.01.2022
 Die Einstellung **Guthaben-System mit selbstständiger Aufladung** ist nicht mehr empfohlen. Viel weniger fehleranfällig und leichter in der praktischen Verwendung ist das [Guthaben-System mit automatischem Kontoabgleich](/guthaben/automatischer-kontoabgleich).
 :::
 
@@ -21,6 +20,11 @@ Wer es trotzdem verwenden möchte, so funktioniert's:
 * Gib als Buchungstext "Guthaben-Aufladung", deinen Namen, und auch das Datum der Guthaben-Aufladung an (dann ist das Kontrollieren leichter).
 * Klicke in deinem Guthaben-System auf "Eingezahltes Guthaben eintragen" und gib den Betrag, den du gerade überwiesen hast, in das System ein.
 * Preis- oder Gewichts-Änderungen von bestellten Produkten und Stornierungen werden dir automatisch gutgeschrieben bzw. abgezogen. Du wirdst darüber gesondert per E-Mail informiert.
+
+:::tip[Neu in v4.2 (Frühling 2026)]
+Wenn beim Eintragen der Guthaben folgende Prüfung nicht bestanden wird, wird eine Warnung angezeigt. Der Betrag muss dann ein zweites Mal bestätigt werden, damit er gespeichert wird.
+* Limit von 500 € pro Eintragung (dieses Limit gilt auch für Rückzahlungen)
+:::
 
 ## Superadmin: Controlling, Rückzahlungen und Einstellungen
 Superadmins finden zudem unter "Finanzberichte" eine Möglichkeit, Buchungen auf dem Bankkonto mit den eingezahlten Beträgen zu vergleichen. So können eventuelle Fehlbuchungen korrigiert werden. Das korrigieren muss das jeweilige Mitglied selbst vornehmen, da Admins bzw. Superadmins auf das Guthaben-System der Mitglieder (noch) keinen Zugriff haben.
