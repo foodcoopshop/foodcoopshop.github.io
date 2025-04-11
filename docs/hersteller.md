@@ -46,6 +46,11 @@ Ist einem Hersteller eine Ansprechperson zugeordnet, hat dieser Zugriff auf Name
 
 Diese Einstellung kann vom Hersteller selbst nicht geändert werden.
 
+**Mindestbestellwert**
+
+:::tip[Neu in v4.2 (Frühling 2026)]
+Es kann ein Mindestbestellwert angegeben werden. Wenn dieser Wert nicht erreicht wird, werden die Produkte automatisch storniert und keine Bestellliste versendet.
+:::
 
 ### Rechnungen
 
