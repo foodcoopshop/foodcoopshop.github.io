@@ -56,7 +56,7 @@ bash ./devtools/installation/set-permissions.sh
 ## Configuration
 * Copy [custom_config.default.php](https://github.com/foodcoopshop/foodcoopshop/blob/main/config/custom_config.default.php) to custom_config.php and add your configuration overrides.
 * The default configuration is found in [app_config.php](https://github.com/foodcoopshop/foodcoopshop/blob/main/config/app_config.php).
-* Set `app.cakeServerName` to your server, e.g. "https://yourdomain.tld" - NO TRAILING SLASH!
+* Set `App.fullBaseUrl` to your server, e.g. "https://yourdomain.tld" - NO TRAILING SLASH!
 
 
 * Some configuration is stored in the database and can easily be changed from the admin area: https://yourdomain.tld/admin/configurations (Super Admin account required)
