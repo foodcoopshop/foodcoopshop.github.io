@@ -11,7 +11,7 @@
 
 * * *
 
-### v4.1.1
+## v4.1.1
 
 :::tip[This is the latest stable version.]
 :::
