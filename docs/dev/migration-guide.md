@@ -11,12 +11,12 @@
 
 * * *
 
-### v4.1.0
+### v4.1.1
 
 :::tip[This is the latest stable version.]
 :::
 
-* Release date: 2025-02-27
+* Release date: 2025-05-18
 * Rename your cache configuration key in custom_config.php from `_cake_core_` to `_cake_translations_`
 * [replace source code](#replace-source-code)
 * [execute migrations](#execute-migrations)
