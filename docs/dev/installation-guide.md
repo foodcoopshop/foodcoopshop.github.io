@@ -9,12 +9,11 @@
 ## Requirements
 * Server with **shell access** and **cronjobs**
 * [Webserver - Nginx or Apache](/dev/webserver-configuration)
-* PHP => 8.2 (prior to v3.6 PHP 8.1)
+* PHP => 8.2
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP Imagick and GD extension
 * PHP bzip2 lib (for automatic database backups) (prior to v3.6: PHP ZipArchive class)
 * MySQL >= 8.0
-* If you cloned the repository from Github: Node.js, npm >= v9 and Composer v2
 
 :::info
 * There is an offer for [paid support and hosting](https://www.foodcoopshop.com/das-angebot/) if you don't want to spend your time on IT stuff.
@@ -23,24 +22,8 @@
 
 * * *
 
-## 1. [Setting up your dev environment **with Docker**](/dev/docker-dev-environment)
+## [Setting up your dev environment with Docker](/dev/docker-dev-environment)
 
-## 2. Setting up your dev environment **without Docker**
-
-:::info
-We strongly recommend using our docker dev environment.
-:::
-
-* If you want to set up a dev environment, clone from Github.
-* After that, you need to manually install composer and npm vendors.
-* The main branch always equals the latest stable version provided on [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download).
-* The only difference is, that the zip file already includes the vendors which were already installed by the following commands):
-```bash
-composer install
-npm --prefix ./webroot install ./webroot
-```
-* So run that commands if you cloned from Github.
-* Don't forget to change app.debug to true in your custom_config.php.
 
 ## Installing the latest stable version for your live server
 * Download the latest stable version at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download) and upload the unpacked files to your server using FTP.
