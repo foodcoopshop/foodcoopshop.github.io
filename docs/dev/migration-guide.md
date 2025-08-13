@@ -11,6 +11,10 @@
 
 * * *
 
+## upcoming
+* Minimal requirement for PHP is 8.4
+
+
 ## v4.1.1
 
 :::tip[This is the latest stable version.]
