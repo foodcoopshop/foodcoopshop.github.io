@@ -118,3 +118,7 @@ sollten sich das [Netzwerk-Modul](/netzwerk-modul) mal anschauen!
 
 ## Produkt löschen
 In der Produkt-Verwaltung die gewünschten Produkte anhaken und dann unten rechts auf "Ausgewählte Produkte löschen" klicken.
+
+## Produkt kopieren
+In der Produkt-Verwaltung die gewünschten Prodkte anhaken und dann oben rechts unter Aktionen auf "Kopieren" klicken. 
+Produkte mit Varianten können noch nicht Kopiert werden.
