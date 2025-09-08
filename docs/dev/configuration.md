@@ -39,5 +39,6 @@ Example: If you want to change the default weekly order cycle from Tuesday midni
 | Monday | Thursday | rarely used |
 | Thursday | Friday | rarely used |
 | Monday | Tuesday | rarely used |
+| Saturday | Wednesday | rarely used |
 | Saturday | Thursday | rarely used |
 
