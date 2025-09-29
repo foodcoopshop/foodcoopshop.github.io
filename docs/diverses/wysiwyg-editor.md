@@ -18,14 +18,14 @@ Der WYSIWYG-Editor dient zum Erstellen und Formatieren von Text und Bildern, er 
 
 ## Wie kann ich eine Datei erneut verlinken?
 1. Auf den Upload-Button (drittes Icon von rechts) klicken.
-2. Auf die gewünschte - bereits hochgeladene - Datei doppelklicken.
+2. Auf die gewünschte - bereits hochgeladene - Datei doppelklicken (mit der linken Maustaste).
 3. Die Url ist dann wieder in der Zwischenablage.
 
 ## Wie kann ich Bilder hochladen und im Editor anzeigen?
 1. Den Cursor im Editor dahin stellen, wo später das Bild auftauchen soll.
 2. Auf den Upload-Button (drittes Icon von rechts) klicken.
 3. Im neuen Fenster links oben auf das Disketten-Symbol klicken und auf "Dateien zum Upload auswählen" klicken.
-4. Auf die neue hochgeladene Datei doppelklicken, das Bild wird dann im Editor angezeigt.
+4. Auf die neue hochgeladene Datei doppelklicken (mit der linken Maustaste), das Bild wird dann im Editor angezeigt.
 5. Die Bilder werden automatisch auf maximal 717px verkleinert, sie müssen vorher also nicht verkleinert werden.
 
 ## Wie öffne ich einen Link in einem neuen Fenster?
