@@ -56,15 +56,24 @@ Now use your favourite editor to edit the new config file 020-foodcoopshop.conf 
 * In the first line, set `<VirtualHost *:80>` to your domain (e.g. `<VirtualHost www.yourfoodcoop.com:80>`)
 * Set `ServerAdmin` to a local mail account (e.g. root@localhost)
 * Set `DocumentRoot` to /path/to/webroot (e.g. /var/www/foodcoopshop/webroot)
-* Add a `<Directory>` section to allow public access and make .htaccess work:
-```
-    <Directory /var/www/foodcoopshop/webroot>
-        Options FollowSymLinks MultiViews
-        AllowOverride All
-        Order allow,deny
-        allow from all
-    </Directory>
-```
+* Add a `<Directory>` section to allow public access and make .htaccess work
+    - Syntax for apache 2.2:
+    ```
+        <Directory /var/www/foodcoopshop/webroot>
+            Options FollowSymLinks MultiViews
+            AllowOverride All
+            Order allow,deny
+            allow from all
+        </Directory>
+    ```
+    - Syntax for apache 2.4:
+    ```
+        <Directory /var/www/foodcoopshop/webroot>
+            Options FollowSymLinks MultiViews
+            AllowOverride All
+            Require all granted
+        </Directory>
+    ```
 
 Set the file access rights so that the Apache user (e.g. www-data) owns all files and folders:
 ```bash
