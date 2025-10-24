@@ -75,6 +75,10 @@ Demo-Rechnungen: [Rechnung ohne variablem Mitgliedsbeitrag](/assets/pdf/de/01.06
 * **Rundungsdifferenzen:** Die Software rundet die Bruttopreise immer pro bestellter Einheit (auf zwei Kommastellen) und summiert danach die Bruttopreise, um die Gesamtsumme zu berechnen. Das kann zu minimalen Rundungsdifferenzen mit der internen Abrechnung der Hersteller führen, weil diese meistens alle Nettopreise aufsummieren, dann die USt. aufschlagen und danach die Brutosumme auf zwei Kommastellen runden. **Da aber die Rechnungen an die Hersteller 1:1 mit dem Guthaben-System der Mitglieder übereinstimmen muss, kann für die Rechnungslegung der FCS-Rechnungen nur die erste Methode verwendet werden und man muss mit den minimalen Differenzen leben.**
 :::
 
+:::tip[Neu in v4.2 (Frühling 2026)]
+Sonderabrechnung am Ende des Jahres: Falls die Foodcoop am Ende des Jahres eine außertourliche Sonderabrechnung machen möchte (z.B. keine Bestellungen des aktuellen Jahres im Folgejahr abgerechnet werden), so kann man das über die Einstellung `app.extraBillingDayForManufacturers` machen. Als Wert z.B. `12-20` für 20. Dezember eintragen.
+:::
+
 ### Datenschutz
 
 Personenbezogene Mitglieder-Daten (Vorname, Nachname und E-Mail) sind standardmäßig für Hersteller systemweit anonymisiert. Falls die Hersteller diese Daten zur Auftragserfüllung (z.B. Beschriften von Verpackungen, personenbezogene Gewichtsanpassungen) benötigen, kann das in ihren Hersteller-Einstellungen geändert werden.
