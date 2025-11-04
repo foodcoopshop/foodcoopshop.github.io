@@ -12,7 +12,7 @@
 * PHP => 8.2
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP Imagick and GD extension
-* PHP mbstring, tcpdf and curl
+* PHP mbstring and curl
 * PHP bzip2 lib (for automatic database backups) (prior to v3.6: PHP ZipArchive class)
 * MySQL >= 8.0
 
