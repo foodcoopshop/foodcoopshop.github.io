@@ -25,6 +25,8 @@
 
 ## [Setting up your dev environment with Docker](/dev/docker-dev-environment)
 
+## Using Docker for your production setup
+When you want to use Docker for your production instance take a look at the [prod ready setup](https://github.com/foodcoopshop/foodcoopshop-docker) and follow its manual. This also relieves you from a few of the following steps.
 
 ## Installing the latest stable version for your live server
 * Download the latest stable version at [https://www.foodcoopshop.com/download](https://www.foodcoopshop.com/download) and upload the unpacked files to your server using FTP.
