@@ -54,8 +54,8 @@ bash ./devtools/installation/set-permissions.sh
 
 :::important
 * run `bash ./devtools/installation/init-database.sh de_DE` (locales "en_US" and "ru_RU" are also supported)
-* Import taxes for Austria: `bash ./bin/cake migrations seed --seed AddTaxesAustriaSeed`
-* **OR** Import taxes for Germany: `bash ./bin/cake migrations seed --seed AddTaxesGermanySeed`
+* Import taxes for Austria: `bash ./bin/cake seeds run AddTaxesAustriaSeed`
+* **OR** Import taxes for Germany: `bash ./bin/cake seeds run AddTaxesGermanySeed`
 :::
 
 ## Credentials
