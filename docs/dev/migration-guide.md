@@ -12,7 +12,7 @@
 * * *
 
 ## upcoming
-* Minimal requirement for PHP is 8.4
+* Minimal requirement for PHP is 8.4.1
 
 
 ## v4.1.1
