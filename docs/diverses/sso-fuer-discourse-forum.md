@@ -24,4 +24,4 @@ Einen zufälligen Wert generieren, am besten über ein externes Tool wie z.B. [h
 
 ## 3. Der IG Foodcoops Bescheid sagen
 
-Mit der IG Foodcoops Kontakt aufnehmen (Patrick) und ihnen `app.discourseSsoSecret` zukommen lassen. Patrick wird hierfür noch ein eigenes Formular bauen.
+Mit der IG Foodcoops Kontakt aufnehmen (E-Mail an info@foodcoops.at) und ihnen `app.discourseSsoSecret` zukommen lassen. Es war mal geplant,  hierfür noch ein eigenes Formular bauen.
