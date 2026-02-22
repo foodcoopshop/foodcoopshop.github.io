@@ -40,9 +40,10 @@ Die Konfigurations-Variable `app.bankNameForCreditSystem` kann auf folgende unte
 
 * `Raiffeisen`
 * `Volksbank`
-* `Sparkasse`
+* `Sparkasse` (Österreichische Sparkasse)
 * `GlsBank`
 * `BankBurgenland` (gleiches Format wie Volksbank)
 * `TriodosBank` (gleiches Format wie GlsBank) (seit v4.1)
+* `SparkasseDe` (Deutsche Sparkasse, seit v4.2)
 
 Falls ihr eine andere Bank verwenden wollt, nehmt bitte mit mir Kontakt auf.
