@@ -13,7 +13,18 @@
 
 ## upcoming
 * Minimal requirement for PHP is 8.4.1
-
+* Release date: 2026-03-xx
+* To migrate the migrations plugin to the new version, add the following line to your custom_config.php:
+```php
+'Migrations' => [
+    'legacyTables' => true,
+],
+```
+* Then execute the command `bash ./bin/cake migrations upgrade && bash ./bin/cake migrations upgrade --drop-tables`
+* Then remove the configuration `Migrations.legacyTables` from your custom_config.php
+* [replace source code](#replace-source-code)
+* [execute migrations](#execute-migrations)
+* [clear cache](#clear-cache)
 
 ## v4.1.1
 
