@@ -9,7 +9,7 @@
 ## Requirements
 * Server with **shell access** and **cronjobs**
 * [Webserver - Nginx or Apache](/dev/webserver-configuration)
-* PHP => 8.2
+* PHP >= 8.4.1
 * PHP intl extension INTL_ICU_VERSION >= 50.1
 * PHP Imagick and GD extension
 * PHP mbstring and curl
