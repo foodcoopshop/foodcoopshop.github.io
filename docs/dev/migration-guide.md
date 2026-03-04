@@ -16,7 +16,7 @@
 :::tip[This is the latest stable version.]
 :::
 
-* Release date: 2026-03-xx
+* Release date: 2026-03-04
 * Minimal requirement for PHP is 8.4.1
 * To migrate the migrations plugin to the new version, add the following line to your custom_config.php:
 ```php
