@@ -11,7 +11,11 @@
 
 * * *
 
-## upcoming
+## 4.2.0
+
+:::tip[This is the latest stable version.]
+:::
+
 * Release date: 2026-03-xx
 * Minimal requirement for PHP is 8.4.1
 * To migrate the migrations plugin to the new version, add the following line to your custom_config.php:
@@ -27,9 +31,6 @@
 * [clear cache](#clear-cache)
 
 ## v4.1.1
-
-:::tip[This is the latest stable version.]
-:::
 
 * Release date: 2025-05-18
 * Rename your cache configuration key in custom_config.php from `_cake_core_` to `_cake_translations_`
