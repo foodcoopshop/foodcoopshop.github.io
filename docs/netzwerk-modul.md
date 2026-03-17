@@ -2,14 +2,6 @@
 
 Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Hersteller, die **mehrere Foodcoops** beliefern.
 
-:::danger[Achtung]
-Die Versionen 3.2.0 bis 3.6.0 enthalten [eine Sicherheitslücke](https://github.com/foodcoopshop/foodcoopshop/security/advisories/GHSA-jhww-fx2j-3rf7) im Netzwerk-Modul. Bitte updaten! Jede Remote-Foodcoop muss auch die Master-Foodcoops als Remote-Foodcoop anlegen.
-:::
-
-:::tip
-Das Netzwerk-Modul stellt auch eine [API zum Abrufen der Bestellungen](#6-api-zum-abrufen-von-bestellungen) zur Verfügung. Sie ist für alle Hersteller nutzbar.
-:::
-
 ## Funktionen / Konfiguration
 * Es ist dadurch möglich, die **verteilten Produktdaten der verschiedene Foodcoops** synchron zu halten. Die Daten werden dafür **nicht** auf einem einzigen Server zentral gespeichert, das ist wichtig für die (technische) Unabhängigkeit der Foodcoops.
 * Jede Foodcoop muss zur Verwendung des Netzwerk-Moduls immer die [aktuellste FoodCoopShop-Version](https://www.foodcoopshop.com/download) installiert haben und ein SSL-Zertifikat (https) verwenden.
