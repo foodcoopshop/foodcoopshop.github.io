@@ -36,7 +36,6 @@
 | 10 | [Körberl 4722 Bodenständig, Peuerbach, AT](https://koerberl.4722boden-staendig.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 10 | [Bio Drehscheibe, Lembach, AT](https://www.bio-drehscheibe.at) | Direct selling | self-hosted |
 | 08 | [Fischerei Ecker, Seewalchen, AT](https://shop.fischerei-ecker.at) | Retail | [hofladen-online.at](https://www.hofladen-online.at) |
-| 06 | [Aistkistl, Wartberg ob der Aist, AT](https://www.aistkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 06 | [GuAT, Taiskirchen, AT](https://www.guat-taiskirchen.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 04 | [Unverpackt Foodcoop, Karlsruhe, DE](https://shop.unverpackt-foodcoop.de) | Direct selling | self-hosted |
 | 04 | [Naturhof, Laakirchen, AT](https://shop.naturhof.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
@@ -49,7 +48,6 @@
 | 01 | [Dorfladen Roitham, AT](https://www.dorfladenroitham.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2018** |
 | 10 | [Krekoodel, Krems, AT](https://www.krekoodel.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
-| 02 | [Haller Regio Kistl, Bad Hall, AT](https://www.haller-regio-kistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2017** |
 | 11 | [sINNkistl, Reichersberg, AT](https://www.sinnkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 09 | [Riadarei, Ried im Innkreis, AT](https://www.riadarei.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
