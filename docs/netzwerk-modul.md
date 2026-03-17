@@ -4,7 +4,7 @@ Das Netzwerk-Modul bietet eine vereinfachte Verwaltung der Produktdaten für Her
 
 ## Funktionen / Konfiguration
 * Es ist dadurch möglich, die **verteilten Produktdaten der verschiedene Foodcoops** synchron zu halten. Die Daten werden dafür **nicht** auf einem einzigen Server zentral gespeichert, das ist wichtig für die (technische) Unabhängigkeit der Foodcoops.
-* Jede Foodcoop muss zur Verwendung des Netzwerk-Moduls immer die [aktuellste FoodCoopShop-Version](https://www.foodcoopshop.com/download) installiert haben und ein SSL-Zertifikat (https) verwenden.
+* Jede beteiligte Foodcoop muss zur Verwendung des Netzwerk-Moduls immer die [aktuellste FoodCoopShop-Version](https://www.foodcoopshop.com/download) installiert haben und ein SSL-Zertifikat (https) verwenden.
 * Die Produktdaten **Bild, Name inkl. Beschreibungen, verfügbare Menge, Preis, Pfand**, **Lieferrhythmus** und **Status** können von einer sogenannten Master-Foodcoop auf beliebig viele Remote-Foodcoops übertragen werden. Das spart vor allem bei wöchentlichen Sortimentsänderungen viel Zeit.
 * Dafür notwendig: **einmalige** Zuordnung von bereits bestehenden Produkten und Varianten zwischen Master-Foodcoop und Remote-Foodcoop(s)
 * Hersteller, die ihre Produkte bereits bei einer Foodcoop eingepflegt haben und **eine neue Foodcoop beliefern**, können ihre Produkte mit dem Netzwerk-Modul schneller neu anlegen. Details dazu unter [Punkt 5](#5-produkte-für-neue-foodcoop-übertragen).
