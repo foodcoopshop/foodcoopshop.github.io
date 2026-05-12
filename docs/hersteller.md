@@ -62,7 +62,7 @@ Der Tag des Rechnungsversandes kann unter Einstellungen / Homepage-Verwaltung / 
 
 Diese Rechnungen beinhalten eine Übersicht **aller gelieferten Produkte des Vormonats** und eine **Detailauflistung der Einzelbestellungen**. So wird lückenlos dokumentiert, welches Mitglied wann welches Produkt bestellt hat. Für die betreibende Foodcoop ist das eine Dokumentation ihrer Vermittlungstätigkeit, die Hersteller können die Rechnung in ihre Buchhaltung geben, alle notwendigen Formvorschriften sind berücksichtigt (USt., fortlaufende Rechnungsnummer, Rechnungsdatum usw.).
 
-:::tip[Neu in v4.1 (Frühling 2025)]
+:::tip
 Hersteller finden ihre Rechnungen jetzt auch im Hersteller-Bereich.
 
 Sollte die Foodcoop einen variablen Mitgliedsbeitrag verrechnen, so ist dieser auf der Rechnung extra ausgewiesen und wird automatisch abgezogen.

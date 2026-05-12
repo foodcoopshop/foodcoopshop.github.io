@@ -14,7 +14,7 @@ Mit der Verwendung eines **Barcode-Scanners** (FCS verwendet den Barcode-Standar
 
 Der Scanner (am besten kabellos) wird mit dem Computer verbunden, auf dem dann im Browser der Selbstbedienungs-Modus aufgerufen wird. Der Scanner dient dabei als Eingabegerät (wie Maus oder Tastatur). Zum Anmelden scannt das Mitglied seine Mitgliedskarte (ohne Benutzername / Passwort), zum Einkaufen können die gewünschten Produkte einfach mit dem Scanner **in die Einkaufstasche** gelegt werden.
 
-:::tip[Neu in v4.1 (Frühling 2025)]
+:::tip
 Es werden jetzt auch Barcodes mit Gewichtsangabe unterstützt. Das Produkt wird automatisch mit dem gescannten Gewicht in den Warenkorb gelegt.
 :::
 
