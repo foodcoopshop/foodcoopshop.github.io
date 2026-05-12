@@ -37,6 +37,7 @@ const sidebars = {
         'produkte/pfand',
         'produkte/produkt-import',
         'produkte/lebensmittelkennzeichnung',
+        'produkte/umsatzsteuer',
       ],
     },
 
