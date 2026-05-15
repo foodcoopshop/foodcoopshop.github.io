@@ -113,6 +113,13 @@ Lagerprodukte, die auch abgewogen werden, bei denen aber die Menge und nicht das
 
 ![](/assets/img/de/produkte/erweiterte-lagerstandverwaltung-1.jpg)
 
+## Lagerprodukte (Lagerwert, Lagerstand)
+:::tip[Neu in v4.3 (Frühling 2027)]
+Unter "Hersteller - Lagerprodukte" werden die aktuellen Lagerwerte aller Lagerprodukte angezeigt. Es kann nach Hersteller gefiltert werden, um die Lagerwerte der einzelnen Hersteller zu sehen. Exportiert werden können die Lagerwerte hier (noch) nicht, sondern unter "Produkte - Aktionen - Lagerprodukte exportieren".
+Hier kann man auch die Lagerstände filtern, um z.B. alle Produkte mit Lagerstand <= 0 zu sehen. Das ist vor allem für Hersteller mit vielen Lagerprodukten hilfreich, um schnell zu sehen, welche Produkte nachbestellt werden müssen.
+:::
+
+
 ## Hersteller, die mehrere Foodcoops beliefern
 sollten sich das [Netzwerk-Modul](/netzwerk-modul) mal anschauen!
 

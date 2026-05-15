@@ -22,11 +22,6 @@ Die Software übernimmt zwar sehr viele Aufgaben im Foodcoop-Alltag, dennoch mü
 
 * Lieferpausen der Foodcoop (z.B. bei Feiertagen) rechtzeitig eintragen, damit keine Bestellungen getätigt werden können, die später wieder storniert werden müssen.
 
-## Inventur der Lagerprodukte (Lagerwert)
-:::tip[Neu in v4.3 (Frühling 2027)]
-Unter "Homepage-Verwaltung - Finanzberichte - Lagerwert" werden die aktuellen Lagerwerte aller Lagerprodukte angezeigt. Es kann nach Hersteller gefiltert werden, um die Lagerwerte der einzelnen Hersteller zu sehen. Exportiert werden können die Lagerwerte nicht hier, sondern unter "Produkte - Aktionen - Lagerprodukte exportieren".
-:::
-
 ## Datenschutz
 
 * Zumindest einmal im Jahr alte E-Mails, die als BCC an die Backup-Mail-Adresse versendet wurden, löschen.
