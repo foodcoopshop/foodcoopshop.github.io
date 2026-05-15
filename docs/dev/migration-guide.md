@@ -11,6 +11,13 @@
 
 * * *
 
+## unreleased
+
+* Custom CSS is now stored in the database setting `FCS_CUSTOM_CSS`. If your installation has a customized `webroot/css/custom.css` or `webroot/css/mobile-frontend-custom.css`, run `bin/cake ImportCustomCss` after executing the migrations. The command imports the CSS into the new setting and deletes the old files.
+* [replace source code](#replace-source-code)
+* [execute migrations](#execute-migrations)
+* [clear cache](#clear-cache)
+
 ## 4.2.0
 
 :::tip[This is the latest stable version.]
@@ -162,7 +169,7 @@ config/custom_config.php
     * config/credentials.php
     * webroot/files
     * files_private
-    * and any other adapted files (favicons, /css/custom.css, /css/mobile-frontend-custom.css...)
+    * and any other adapted files (favicons, /css/mobile-frontend-custom.css...)
 :::
 
 ## execute migrations
