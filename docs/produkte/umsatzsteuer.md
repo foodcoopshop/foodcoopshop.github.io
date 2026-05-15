@@ -16,6 +16,6 @@ Vorgehen bei der Umstellung auf den neuen Umsatzsteuersatz im FoodCoopShop:
 4) Die Umstellung muss innerhalb dieses Zeitraums manuell erfolgen, ich kann da leider keine Automatisierung anbieten.
 
 :::tip
-* Die Zuweisung der Produkte zum neuen Umsatzsteuersatz kann auch von den Herstellern selbst gemacht werden, wenn sie die entsprechenden Produkte bearbeiten. Der Umsatzsteueursatz muss vorher natürlich erstellt worden sein.
+* Die Zuweisung der Produkte zum neuen Umsatzsteuersatz kann auch von den Herstellern selbst gemacht werden, wenn sie die entsprechenden Produkte bearbeiten. Der Umsatzsteuersatz muss vorher natürlich erstellt worden sein.
 * Die Software arbeitet schon seit Anfang an so, dass sich der Verkaufspreis (Brutto-Preis) durch die Umstellung des Umsatzsteuersatzes **nicht** ändert. Wenn man die Entlastung an den Konsumenten weitergeben möchte, muss man nach der Umstellung des Steuersatzes die Verkaufspreise der betroffenen Produkte anpassen. Den gewünschten Verkaufspreis muss man sich aber selber ausrechnen.
 :::
