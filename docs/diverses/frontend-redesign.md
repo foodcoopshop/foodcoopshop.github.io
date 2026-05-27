@@ -1,5 +1,8 @@
 # Frontend Redesign
 
+:::tip[Neu in v4.3 (Frühling 2027)]
+::
+
 ## 1. Das neue Layout nutzt die gesamte Breite des Bildschirms
 
 ## 2. Header-Bilder ersetzen Slider-Bilder
