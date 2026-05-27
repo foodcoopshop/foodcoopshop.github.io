@@ -1,7 +1,3 @@
----
-parent: Deutsch
----
-
 # Feedback-Funktionen
 
 ## 1. Feedback von Mitgliedern und Herstellern

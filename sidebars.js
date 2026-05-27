@@ -67,6 +67,7 @@ const sidebars = {
       type: 'category',
       label: 'Diverses',
       items: [
+        'diverses/frontend-redesign',
         'diverses/feedback',
         'diverses/sso-fuer-discourse-forum',
         'diverses/troubleshooting',
