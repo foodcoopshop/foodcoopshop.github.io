@@ -1,8 +1,8 @@
 # Frontend Redesign
 
 :::tip[Neu in v4.3 (Frühling 2027)]
-Umsetung eines neuen, modernen Layouts.
-::
+Umsetzung eines neuen, modernen Layouts.
+:::
 
 ## 1. Vorteile
 * Das neue Layout nutzt die gesamte Breite des Bildschirms.
