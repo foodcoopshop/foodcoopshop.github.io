@@ -1,6 +1,7 @@
 # Frontend Redesign
 
 :::tip[Neu in v4.3 (Frühling 2027)]
+Umsetung eines neuen, modernen Layouts.
 ::
 
 ## 1. Vorteile
