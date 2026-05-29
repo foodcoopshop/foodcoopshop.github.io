@@ -4,14 +4,13 @@
 Umsetzung eines neuen, modernen Layouts.
 :::
 
-## 1. Vorteile
-* Das neue Layout nutzt die gesamte Breite des Bildschirms.
+### Ziele
+Ziel des neuen Layouts ist es, die Startseite für potenzielle neue Mitglieder attraktiver zu gestalten. Viele Initiativen haben dafür bisher eigene Wordpress-Seiten verwendet, das ist jetzt nicht mehr notwendig. Die Startseite kann jetzt moderner und ansprechender gestaltet werden.
 
-## 2. Header-Bilder ersetzen Slider-Bilder
-Die Umstellung von Slider-Bildern auf größere Header-Bilder bringt den Vorteil, dass für uneingeloggte User jetzt auch Text und Buttons integriert werden können. Da die bestehenden Slider-Bilder zu klein waren (908px Breite), habe ich für die Umstellung das erste Slider-Bild mit eine [KI-Tool](https://upscayl.org) auf die notwendige Breite hochskaliert. Wer ein anderes Bild verwenden möchte, kann das unter "Homepage-Verwaltung / Seiten / Startseite" tun.
+### Änderungen am Layout
+* Das Layout verwendet jetzt die volle Breite des Bildschirms, um mehr Platz für Bilder und Inhalte zu bieten. Der Warenkorb wandert - in die obere rechte Ecke.
 
-## 3. Blöcke auf der Startseite für uneingeloggte User
+### Startseite anpassen
+* Die Startseite kann jetzt unter _Homepage-Verwaltung / Seiten / Startseite_ angepasst werden. Es kann ein großes Header-Bild hochgeladen werden, das die volle Breite des Bildschirms einnimmt. Darunter können beliebig viele Blöcke mit einem Bild, Text und Action-Buttons erstellt werden.
 
-## 4. Neuer Admin-Bereich für die Startseite
-"Homepage-Verwaltung / Seiten / Startseite"
 
