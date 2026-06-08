@@ -17,5 +17,3 @@ Umsetzung eines neuen, modernen Layouts.
 ### Startseite anpassen
 * Die Startseite kann jetzt unter _Homepage-Verwaltung / Seiten / Startseite_ angepasst und stark individualisiert werden. Es kann ein großes Header-Bild hochgeladen werden, das die volle Breite des Bildschirms einnimmt. Darunter können beliebig viele Blöcke mit einem Bild, einer Überschrift, Text und Buttons erstellt werden.
 
-### Seiten mit Header-Bild
-* Auch alle anderen Seiten (auch Unterseiten) können jetzt mit einem Header-Bild ausgestattet werden, das die volle Breite des Bildschirms einnimmt. Das ist z.B. für die Seite "Über uns" oder "Kontakt" interessant.
