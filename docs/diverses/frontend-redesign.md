@@ -17,5 +17,8 @@
 * Die Startseite kann jetzt unter _Homepage-Verwaltung / Seiten / Startseite_ angepasst und stark individualisiert werden. Es kann ein großes Header-Bild hochgeladen werden, das die volle Breite des Bildschirms einnimmt. Darunter können beliebig viele Blöcke mit einem Bild, einer Überschrift, Text und Buttons erstellt werden.
 
 ### Beispiel für die Startseite mit dem neuen Layout
+
+Die Beispiel-Texte und Beispiel-Bilder dürfen frei verwendet werden. Sie können aber auch individuell angepasst werden.
+
 ![](/assets/img/de/frontend-redesign/frontend-redesign.webp)
 
