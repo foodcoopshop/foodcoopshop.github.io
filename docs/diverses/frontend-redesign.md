@@ -18,7 +18,7 @@
 
 ### Beispiel für die Startseite mit dem neuen Layout
 
-Die Beispiel-Texte und Beispiel-Bilder dürfen frei verwendet werden. Sie können aber auch individuell angepasst werden.
+Die Beispiel-Texte und Beispiel-Bilder sind auf [https://demo-de.foodcoopshop.com/](https://demo-de.foodcoopshop.com/) verfügbar und dürfen frei verwendet werden. Die Texte können aber auch nach Belieben angepasst werden.
 
 ![](/assets/img/de/frontend-redesign/frontend-redesign.webp)
 
