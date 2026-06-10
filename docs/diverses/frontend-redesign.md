@@ -1,7 +1,6 @@
 # Frontend Redesign
 
 :::tip[Neu in v4.3 (Herbst 2026)]
-Umsetzung eines neuen, modernen Layouts.
 :::
 
 ### Warum ein neues Layout?
