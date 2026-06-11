@@ -12,6 +12,7 @@
 ### Änderungen am Layout
 * Das Layout verwendet jetzt die volle Breite des Bildschirms, um mehr Platz für Bilder und Inhalte zu bieten. Der Warenkorb wandert in die obere rechte Ecke.
 * Es werden größere Schriftgrößen verwendet.
+* Die Box rechts unterhalb vom Warenkorb wird nun erst angezeigt, wenn man oben in der Navigation auf den Warenkorb klickt. Wichtige Inhalte der Box können jetzt mit dem neuen Layout direkt auf der Startseite platziert werden.
 
 ### Startseite anpassen
 * Die Startseite kann jetzt unter _Homepage-Verwaltung / Seiten / Startseite_ angepasst und stark individualisiert werden. Es kann ein großes Header-Bild hochgeladen werden, das die volle Breite des Bildschirms einnimmt. Darunter können beliebig viele Blöcke mit einem Bild, einer Überschrift, Text und Buttons erstellt werden.
