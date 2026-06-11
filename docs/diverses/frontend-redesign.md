@@ -16,10 +16,9 @@
 * Die Slideshow auf der Startseite wurde entfernt. Stattdessen können jetzt beliebig viele Blöcke mit einem Bild, einer Überschrift, Text und Buttons erstellt werden. Die vorhandenen Slideshow-Bilder sind weiterhin im Admin-Bereich downloadbar.
 
 ### Startseite anpassen
-* Die Startseite kann jetzt unter _Homepage-Verwaltung / Seiten / Startseite_ angepasst und stark individualisiert werden. Es kann ein großes Header-Bild hochgeladen werden, das die volle Breite des Bildschirms einnimmt. Darunter können beliebig viele Blöcke mit einem Bild, einer Überschrift, Text und Buttons erstellt werden.
+* Die Startseite kann jetzt unter _Homepage-Verwaltung / Seiten / Startseite_ angepasst und stark individualisiert werden. Es kann ein großes Header-Bild hochgeladen werden, das die volle Breite des Bildschirms einnimmt. Darunter können beliebig viele Blöcke mit einem Bild, einer Überschrift, Text und Buttons erstellt werden. Diese Blöcke sind nur für uneingeloggte User sichtbar.
 
 ### Beispiel für die Startseite mit dem neuen Layout
-
 Die Beispiel-Texte und Beispiel-Bilder sind auf [https://demo-de.foodcoopshop.com/](https://demo-de.foodcoopshop.com/) verfügbar und dürfen frei verwendet werden. Die Texte können aber auch nach Belieben angepasst werden.
 
 ![](/assets/img/de/frontend-redesign/frontend-redesign.webp)
