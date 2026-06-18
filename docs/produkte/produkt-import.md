@@ -19,6 +19,7 @@
 * **Status** (Pflichtfeld): 1 (aktiviert) oder 0 (deaktiviert)
 * **Produktdeklaration**: 1 (ok) oder 0 (nicht ok), leer bedeutet "nicht ok"
 * **Lagerort**: Falls die Einstellung aktiviert ist: Lagerort des Produktes (z.B. "Kühlschrank", "Tiefkühler", ...)
+* **Bestellnummer**: Interne Bestellnummer des Herstellers für das Produkt. Wird für den Abgleich beim [Preise-Update](preise-update.md) verwendet.
 
 ## Ideen für später
 
