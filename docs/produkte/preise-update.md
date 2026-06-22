@@ -22,6 +22,13 @@ Für jedes Produkt im Sortiment des Herstellers wird anhand der **Bestellnummer*
 
 Nach dem Abgleich wird für **alle Produkte** des Herstellers automatisch der konfigurierte Preisaufschlag auf den Einkaufspreis gerechnet und der Verkaufspreis aktualisiert.
 
+## Ablauf
+
+1. **Aufschlag** in Prozent eingeben.
+2. **CSV-Datei auswählen** – die Vorschau wird sofort angezeigt (kein separater Upload-Button nötig).
+3. **Vorschau prüfen**: Für jede der drei Kategorien werden Anzahl und Produktnamen aufgelistet. Enthält die CSV ungültige Daten, werden die Fehler (mit Zeilennummer) angezeigt und der Button "Änderungen übernehmen" ist ausgeblendet.
+4. **Änderungen übernehmen** oder **Abbrechen**.
+
 ## Eingabefelder
 
 * **Aufschlag (%)**: Prozentualer Aufschlag auf den Einkaufspreis zur Berechnung des Verkaufspreises (z.B. 10 für 10 %)
