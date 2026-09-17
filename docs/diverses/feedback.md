@@ -15,7 +15,7 @@ Diese Funktion muss zuerst in den Einstellungen unter "Mitglieder- und Herstelle
 * Ich empfehle das Anlegen eines Sliders / eines Blog-Artikels / einer Seite, damit auf die Feedback-Funktion hingewiesen wird. Verlinkt werden kann auf "/admin/feedbacks/myFeedback" (Formular) bzw. auf "/feedback" (Auflistung).
 * Um die Feedback-Liste z.B. ins Hauptmenü aufzunehmen, einfach eine neue Seite anlegen, die Stelle im Menü auswählen und ins Feld "Link" "https://www.example.com/feedback" reinschreiben.
 * Durch Klicken auf das unausgefüllte Herz kann man für ein Mitglied / einen Hersteller ein Feedback erstellen.
-* Beispiele: [https://www.tante-regina.at/feedback](https://www.tante-regina.at/feedback) / [https://www.hoamatkistl.at/feedback](https://www.hoamatkistl.at/feedback)
+* Beispiele: [https://www.fairteiler-scharnstein.at/feedback](https://www.fairteiler-scharnstein.at/feedback) / [https://www.hoamatkistl.at/feedback](https://www.hoamatkistl.at/feedback)
 
 
 ## 2. Feedback zu Produkt abgeben

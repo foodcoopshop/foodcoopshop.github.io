@@ -25,7 +25,6 @@
 | 02 | [Brot & Ruam, Aspach, AT](https://shop.brotundruam.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 01 | [Hoamatkistl, Schildorn, AT](https://www.hoamatkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2021** |
-| 11 | [Tante Regina, Scharnstein, AT](https://www.tante-regina.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
 | 03 | [LieblingsSpeis, Rohrbach-Berg, AT](https://shop.lieblingsspeis.at) | Retail | self-hosted |
 | 02 | [Pabneukistl, Pabneukirchen, AT](https://www.pabneukistl.at) | Retail | [dorfladen-online.at](https://dorfladen-online.at) |
