@@ -22,7 +22,7 @@
 | 09| [Regional Potential, Perlesreut, DE](https://genuss.regional-potential.at/) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 08 | [Spittal Isst Regional, Spittal an der Drau, AT](https://shop.spittalisstregional.at) | Direct selling | self-hosted |
 | 05 | [Käserei Frech, Vorderstoder, AT](https://www.freches-schaf.at) | Direct selling | [hofladen-online.at](https://www.hofladen-online.at) |
-| 02 | [Brot & Ruam, Aspach, AT](https://shop.brotundruam.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
+| 02 | [Brot & Ruam, Aspach, AT](https://www.brotundruam.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | 01 | [Hoamatkistl, Schildorn, AT](https://www.hoamatkistl.at) | Direct selling | [foodcoopshop.com](https://www.foodcoopshop.com) |
 | **2021** |
 | 08 | [Speis Schleedorf, AT](https://speis.schleedorf.at) | Direct selling | self-hosted |
