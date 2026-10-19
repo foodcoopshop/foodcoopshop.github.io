@@ -88,7 +88,7 @@ Sofern die Einstellung aktiviert ist, können die Mitglieder bei der Registrieru
 
 ## Aktive / Passive Mitglieder
 :::tip[Neu in v4.3 (Herbst 2026)]
-Es kann jetzt zwischhen aktiven und passiven Mitgliedern unterschieden werden. Wenn die entsprechende Einstellung aktiviert ist, müssen die Mitglieder bei der Registrierung angeben, ob sie aktive oder passive Mitglieder sein möchten. Im Admin-Bereich kann dann danach gefiltert werden, ansonsten hat diese Unterscheidung keine Auswirkung.
+Es kann jetzt zwischhen aktiven und passiven Mitgliedern unterschieden werden. Wenn die entsprechende Einstellung aktiviert ist, müssen die Mitglieder bei der Registrierung angeben, ob sie aktive oder passive Mitglieder sein möchten. Im Admin-Bereich kann nach der Mitgliedsart gefiltert werden, ansonsten hat diese Unterscheidung keine Auswirkung.
 
 
 
