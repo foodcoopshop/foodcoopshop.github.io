@@ -81,3 +81,15 @@ Tag und Uhrzeit des Bestellerinnerungs-Versandes können unter Einstellungen / H
 * **Newsletter versenden:** Unter "Admin-Berich / Mitglieder" oben im Filter-Dropdown "Newsletter" "ja" auswählen, dann links oben mit der Checkbox "alle Mitglieder" auswählen. Weiters über den Button rechts unten die E-Mail-Adressen kopieren und diese im E-Mail-Programm deiner Wahl ins **BCC-Feld** einfügen.
 * Am Ende jedes Newsletters muss lt. DSGVO ein Link zum Austragen aus dem Newletter angegeben werden. Dieser Link lautet: https://www.example.com/admin/customers/profile (https://www.example.com mit der eigenen Domain austauschen)!
 * Alle automatisierten E-Mails an Mitglieder enthalten bei aktivierter Newsletter-Funktion einen Hinweis, wie man den Newsletter abonnieren kann. Der Hinweis erscheint aber nur, wenn das Mitglied den Newsletter nicht schon abonniert hat.
+
+## Infokanäle
+:::tip[Neu in v4.3 (Herbst 2026)]
+Sofern die Einstellung aktiviert ist, können die Mitglieder bei der Registrierung angeben, über welchen Infokanal (SMS, WhatsApp, Signal) sie informiert werden möchten. Im Admin-Bereich kann dann danach gefiltert werden, ansonsten hat diese Einstellung keine Auswirkung.
+
+## Aktive / Passive Mitglieder
+:::tip[Neu in v4.3 (Herbst 2026)]
+Es kann jetzt zwischhen aktiven und passiven Mitgliedern unterschieden werden. Wenn die entsprechende Einstellung aktiviert ist, müssen die Mitglieder bei der Registrierung angeben, ob sie aktive oder passive Mitglieder sein möchten. Im Admin-Bereich kann dann danach gefiltert werden, ansonsten hat diese Unterscheidung keine Auswirkung.
+
+
+
+
