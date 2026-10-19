@@ -13,6 +13,12 @@
 
 ## unreleased
 
+* [replace source code](#replace-source-code)
+* [execute migrations](#execute-migrations)
+* [clear cache](#clear-cache)
+
+## 4.3.0
+
 * Minimal version requirement for PHP is now v8.5
 * Custom CSS is now stored in the database setting `FCS_CUSTOM_CSS`. If your installation has a customized `webroot/css/custom.css` or `webroot/css/mobile-frontend-custom.css`, run `bin/cake ImportCustomCss` after executing the migrations. The command imports the CSS into the new setting and deletes the old files.
 * Please read the [infos for the frontend redesign](https://foodcoopshop.github.io/diverses/frontend-redesign) (in German)
