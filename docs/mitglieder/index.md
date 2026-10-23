@@ -83,13 +83,14 @@ Tag und Uhrzeit des Bestellerinnerungs-Versandes können unter Einstellungen / H
 * Alle automatisierten E-Mails an Mitglieder enthalten bei aktivierter Newsletter-Funktion einen Hinweis, wie man den Newsletter abonnieren kann. Der Hinweis erscheint aber nur, wenn das Mitglied den Newsletter nicht schon abonniert hat.
 
 ## Infokanäle
-:::tip[Neu in v4.3 (Herbst 2026)]
+:::tip[Neu in v4.4 (Herbst 2027)]
 Sofern die Einstellung aktiviert ist, können die Mitglieder bei der Registrierung angeben, über welchen Infokanal (SMS, WhatsApp, Signal) sie informiert werden möchten. Im Admin-Bereich kann dann danach gefiltert werden, ansonsten hat diese Einstellung keine Auswirkung.
+:::
 
 ## Aktive / Passive Mitglieder
-:::tip[Neu in v4.3 (Herbst 2026)]
+:::tip[Neu in v4.4 (Herbst 2027)]
 Es kann jetzt zwischhen aktiven und passiven Mitgliedern unterschieden werden. Wenn die entsprechende Einstellung aktiviert ist, müssen die Mitglieder bei der Registrierung angeben, ob sie aktive oder passive Mitglieder sein möchten. Im Admin-Bereich kann nach der Mitgliedsart gefiltert werden, ansonsten hat diese Unterscheidung keine Auswirkung.
-
+:::
 
 
 
