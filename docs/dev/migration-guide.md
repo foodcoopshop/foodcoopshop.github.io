@@ -12,12 +12,13 @@
 * * *
 
 ## unreleased
-
 * [replace source code](#replace-source-code)
 * [execute migrations](#execute-migrations)
 * [clear cache](#clear-cache)
 
 ## 4.3.0
+:::tip[This is the latest stable version.]
+:::
 
 * Minimal version requirement for PHP is now v8.5
 * Custom CSS is now stored in the database setting `FCS_CUSTOM_CSS`. If your installation has a customized `webroot/css/custom.css` or `webroot/css/mobile-frontend-custom.css`, run `bin/cake ImportCustomCss` after executing the migrations. The command imports the CSS into the new setting and deletes the old files.
@@ -27,10 +28,6 @@
 * [clear cache](#clear-cache)
 
 ## 4.2.0
-
-:::tip[This is the latest stable version.]
-:::
-
 * Release date: 2026-03-04
 * Minimal version requirement for PHP is now v8.4.1
 * [replace source code](#replace-source-code)
@@ -46,7 +43,6 @@
 * [clear cache](#clear-cache)
 
 ## v4.1.1
-
 * Release date: 2025-05-18
 * Rename your cache configuration key in custom_config.php from `_cake_core_` to `_cake_translations_`
 * [replace source code](#replace-source-code)
@@ -62,7 +58,6 @@
 * [clear cache](#clear-cache)
 
 ## v3.6.2
-
 * Release date: 2023-11-27
 * **Updating to this version can only be done from v3.5.x!**
 * Minimal requirement for PHP is 8.1 (PHP 8.2 is recommended)
@@ -85,7 +80,6 @@
 * [clear cache](#clear-cache)
 
 ## v3.5.1
-
 * Release date: 2023-02-28
 * Minimal requirement for PHP is now 8.1
 * Minimal requirement for MySQL is now 8.0
