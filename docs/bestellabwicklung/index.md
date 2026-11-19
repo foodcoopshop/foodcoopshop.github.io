@@ -96,7 +96,7 @@ Für Lagerprodukte gilt immer der "wöchentliche" Lieferrhythmus, dieser ist nic
 Eine Lieferpause für alle Hersteller der Foodcoop (z.B. Feiertag) kann bequem im Vorhinein in den Einstellungen angegeben werden. Über die Sofort-Bestellung kann auch während einer Lieferpause bestellt werden.
 
 ### Abholtag-Ausnahmen (z.B. für Feiertage)
-:::tip[Neu in v4.4 (Frühling 2027)]
+:::tip[Neu in v4.4 (Herbst 2027)]
 Fällt ein Abholtag z.B. auf Weihnachten oder Neujahr, kann er in den Einstellungen unter "Abholtag-Ausnahmen" auf einen früheren Tag verschoben werden. Alle anderen Abholtage bleiben unverändert.
 
 * **Neuer Abholtag:** 1 oder 2 Tage vor dem regulären Abholtag.

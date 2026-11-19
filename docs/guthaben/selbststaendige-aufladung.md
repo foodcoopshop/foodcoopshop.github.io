@@ -21,7 +21,7 @@ Wer es trotzdem verwenden möchte, so funktioniert's:
 * Klicke in deinem Guthaben-System auf "Eingezahltes Guthaben eintragen" und gib den Betrag, den du gerade überwiesen hast, in das System ein.
 * Preis- oder Gewichts-Änderungen von bestellten Produkten und Stornierungen werden dir automatisch gutgeschrieben bzw. abgezogen. Du wirdst darüber gesondert per E-Mail informiert.
 
-:::tip[Neu in v4.2 (Frühling 2026)]
+:::tip
 Wenn beim Eintragen der Guthaben folgende Prüfung nicht bestanden wird, wird eine Warnung angezeigt. Der Betrag muss dann ein zweites Mal bestätigt werden, damit er gespeichert wird.
 * Limit von 500 € pro Eintragung (dieses Limit gilt auch für Rückzahlungen)
 :::
