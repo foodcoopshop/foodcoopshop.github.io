@@ -11,7 +11,8 @@ The provided docker configuration should not be used in production environments!
 * When all containers are up and running, run: `bash ./devtools/init-dev-setup.sh`
 * To pouplate the database with demo data, first change `Datasources` `default` to `test` and `test` to `default` in your custom_config.php, then run: `docker exec -w /app fcs.php bash ./bin/cake seeds run InitTestDataSeed --source Seeds/tests`, then change `Datasources` `test` back to `default` and `default` back to `test` in your custom_config.php
 * Open [http://localhost:8001](http://localhost:8001) to get to the homepage
-* Open [http://localhost:8080](http://localhost:8080) to get to phpmyadmin of database-dev
+* Open [http://localhost:8090](http://localhost:8090) to get to phpmyadmin of database-dev
+* Open [http://localhost:8091](http://localhost:8091) to get to phpmyadmin of database-test
 
 :::info
 If you add `127.0.0.1 foodcoopshop.test` to your hosts file, you can use `http://foodcoopshop.test:8001`. Do not forget to change `App.fullBaseUrl` to `http://foodcoopshop.test:8001`.
